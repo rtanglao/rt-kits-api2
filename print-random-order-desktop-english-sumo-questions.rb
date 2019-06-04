@@ -18,7 +18,7 @@ end
 
 FILENAME = ARGV[0]
 
-CSV.foreach(FILENAME, :headers => true) do |row|
-	  puts row['id'] 
+CSV.foreach(FILENAME, :headers => true) do |row
+  puts row['id'] 
 end
 
