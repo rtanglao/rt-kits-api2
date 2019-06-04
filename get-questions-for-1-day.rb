@@ -78,21 +78,21 @@ while !end_program
     logger.debug "next url:" + url
   end
   url_params = nil
-  questions["results"].each do|question|
-    updated = question["updated"]
-    logger.debug "created:" + question["created"]
-    created = Time.parse(question["created"])
+  questions["results"].each do|q|
+    updated = q["updated"]
+    logger.debug "created:" + q["created"]
+    created = Time.parse(q["created"])
     logger.debug "QUESTION created w/error:" + created.to_i.to_s
-    question["created"] = created.to_i + issue_3686_offset
-    logger.debug "Question created w/error fixed:" + question["created"].to_s
+    q["created"] = created.to_i + issue_3686_offset
+    logger.debug "Question created w/error fixed:" + q["created"].to_s
     if !updated.nil?
       logger.debug "updated:" + updated
-      updated = Time.parse(question["updated"])
+      updated = Time.parse(q["updated"])
       logger.debug "QUESTION updated w/error:" + updated.to_i.to_s
-      question["updated"] = updated.to_i + issue_3686_offset
-      logger.debug "Question updated w/error fixed:" + question["updated"].to_s
+      q["updated"] = updated.to_i + issue_3686_offset
+      logger.debug "Question updated w/error fixed:" + q["updated"].to_s
     end
-    id = question["id"]
+    id = q["id"]
     logger.debug "QUESTION id:" + id.to_s
     question_number += 1
     logger.debug "QUESTION number:" + question_number.to_s
@@ -102,7 +102,7 @@ while !end_program
     csv.push(
       id, q["created"].to_s, q["updated"].to_s, q["title"], q["content"], 
       tag_str, q["product"], q["topic"], q["locale"])
-    if question["created"] < MIN_DATE || url.nil?
+    if q["created"] < MIN_DATE || url.nil?
       end_program = true
       break
     end
