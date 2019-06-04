@@ -47,7 +47,7 @@ created_str = ARGV[0] + "-" + ARGV[1] + "-" + ARGV[2]
 created_time = DateTime.new(ARGV[0].to_i, ARGV[1].to_i, ARGV[2].to_i)
 created_time_minus_1day = created_time - 1
 greater_than = created_time_minus_1day.strftime("%Y-%-m-%-e")
-MIN_DATE = greater_than.to_time
+MIN_DATE = greater_than.to_time.to_i
 created_time_plus_1day = created_time + 1
 less_than = created_time_plus_1day.strftime("%Y-%-m-%-e")
 
@@ -96,16 +96,5 @@ while !end_program
     logger.debug "QUESTION id:" + id.to_s
     question_number += 1
     logger.debug "QUESTION number:" + question_number.to_s
-    result_array = questionsColl.find({ 'id' => id }).update_one(question, :upsert => true ).to_a
-    nModified = 0
-    result_array.each do |item|
-      nModified = item["nModified"] if item.include?("nModified") 
-      break
-    end
-    if nModified == 0
-      logger.debug "INSERTED^^"
-    else
-      logger.debug "UPDATED^^^^^^"
-    end
   end 
 end
