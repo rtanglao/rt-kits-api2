@@ -47,8 +47,8 @@ url_params = {
   :format => "json",
   :product => "firefox", 
   #:created => created_str,
-  :created_gt => '2018-5-28',
-  :created_lt => '2018-5-30',
+  :created__gt => '2018-5-28',
+  :created__lt => '2018-5-30',
   :ordering => "+created",
 } 
 
