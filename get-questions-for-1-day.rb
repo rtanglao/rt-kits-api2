@@ -61,13 +61,13 @@ while !end_program
   questions  = getKitsuneResponse(url, url_params, logger)
   logger.debug questions.ai
   questions2 = questions["results"].to_a
-  created_1st = Time.parse(questions2[0]).to_i
+  created_1st = Time.parse(questions2[0]["created"]).to_i
   logger.debug created_1st.to_s
   exit
   url = questions["next"]
   logger.debug "next url:" + url
   url_params = nil
-  questions.["results"].each do|question|
+  questions["results"].each do|question|
     updated = question["updated"]
     logger.debug "updated:" + updated
     if !updated.nil?
