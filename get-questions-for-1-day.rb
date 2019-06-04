@@ -104,8 +104,10 @@ while !end_program
     if created >= MIN_TIME && created <= MAX_TIME
       logger.debug "NOT skipping"
       csv.push(
+        {
         id, created.to_s, q["updated"].to_s, q["title"], q["content"], 
-        tag_str, q["product"], q["topic"], q["locale"])
+        tag_str, q["product"], q["topic"], q["locale"]
+          })
     else
       logger.debug "SKIPPING"
     end
