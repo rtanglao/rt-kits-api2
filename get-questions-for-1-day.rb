@@ -8,7 +8,6 @@ require 'time'
 require 'date'
 require 'csv'
 require 'logger'
-require 'pp'
 
 logger = Logger.new(STDERR)
 logger.level = Logger::DEBUG
