@@ -118,4 +118,4 @@ end
 headers = ['id', 'created', 'updated', 'title', 'content', 'tags', 'product', 'topic', 'locale']
 FILENAME = sprintf("4.4d-%2.2d-%2.2d-firefox-desktop-all-locales.csv", ARGV[0].to_i, ARGV[1].to_i, 
   ARGV[2].to_i)
-File.write(FILENAME, csv.map(&:to_csv).join)
+File.write(FILENAME, csv.map(&:generate_line).join)
