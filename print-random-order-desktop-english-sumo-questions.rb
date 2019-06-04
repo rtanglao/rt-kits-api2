@@ -18,8 +18,11 @@ end
 
 FILENAME = ARGV[0]
 
+id_array = []
 CSV.foreach(FILENAME, :headers => true) do |row|
   next if row['locale'] != "en-US" || row['product'] != 'firefox'
-  puts row['id'] 
+  id_array.push row['id'] 
 end
-
+randomized_array = id_array.shuffle
+logger.debug randomized_array
+puts randomized_array
