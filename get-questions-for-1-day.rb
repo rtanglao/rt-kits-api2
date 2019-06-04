@@ -65,30 +65,28 @@ url_params = {
 url = "https://support.mozilla.org/api/2/question/"
 end_program = false
 question_number = 0
+issue_3686_offset = 7 * 3600 # 7 hours off
   
 while !end_program
   sleep(1.0) # sleep 1 second between API calls
   questions  = getKitsuneResponse(url, url_params, logger)
-  #logger.debug questions.ai
-  questions2 = questions["results"].to_a
-  created_1st = Time.parse(questions2[0]["created"]).to_i
-  logger.debug created_1st.to_s
-  exit
   url = questions["next"]
   logger.debug "next url:" + url
   url_params = nil
   questions["results"].each do|question|
     updated = question["updated"]
+    created = Time.parse(question["created"])
+    logger.debug "QUESTION created w/error:" + created.to_i.to_s
+    question["created"] = created.to_i + issue_3686_offset
+    logger.debug "Question created w/error fixed:" + question["created"]
     logger.debug "updated:" + updated
     if !updated.nil?
       updated = Time.parse(question["updated"])
-      logger.debug "QUESTION updated:" + updated.to_i.to_s
-      question["updated"] = updated
+      logger.debug "QUESTION updated w/error:" + updated.to_i.to_s
+      question["updated"] = updated.to_i + issue_3686_offset
+      logger.debug "Question updated w/error fixed:" + question["updated"]
     end
-    logger.debug "created:" + question["created"]
-    created = Time.parse(question["created"])
-    logger.debug "QUESTION created:" + created.to_i.to_s
-    question["created"] = created
+    exit
     if created < MIN_DATE
       end_program = true
       break
