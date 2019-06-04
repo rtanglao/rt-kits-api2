@@ -1,0 +1,186 @@
+id,created,updated,title,content,tags,product,topic,locale
+1260855,1559515355,1559613531,Camera grants turned of following installation of Firefox 67,"<p>I regularly use a video chatting site. Through Firefox 66, my Logitech USB web cam worked fine at that site.
+</p><p>However, following installation of Firefox 67, each time I attempt to use my cam at that site, I receive a message that says, ""Error: Camera Grants Off"".
+</p><p>I already have checked the Privacy and Security Settings in Firefox 67 and confirmed that site has camera access enabled. Nevertheless, my cam won't work at that site anymore.
+</p><p>Incidentally, my cam works fine at that site when I use either Edge or Opera browsers. But for other reasons, I still would prefer using Firefox at that site.
+</p><p>Has anyone any ideas as to how I can correct this behavior?
+</p>",firefox-670;privacy-and-security_1;desktop;windows-10;,firefox,privacy-and-security,en-US
+1260853,1559515158,1559518010,How do I enable links provided in an e-mail,"<p>I try to click on a link in an e-mail to unsubscribe and nothing happens.  It used to work but no longer does.  I clicked on a link and it gave some options.  I apparently chose the wrong one because ever since this happens I click on a link to unsubscribe and nothing happens.  How do I get back to where the link works?
+</p>",firefox-670;customize;desktop;windows-10;,firefox,customize,en-US
+1260849,1559511807,1559513129,I use firefox for a MacBook. When I open a link in an email it brings me to the wrong place,"<p>I am working with a company that uses links in all their email communication. When I click on any link from that company, it does not take me to where the  sender intended. It keeps me in their system, but it  NEVER opens where it is supposed to.
+I'm sure it's coded correctly on their end, but once it hits my inbox the coding changes.
+</p>",firefox-660;other;desktop;mac-os;,firefox,other,en-US
+1260848,1559511519,1559513210,How do I get You Tube to start once I click on a link?,"<p>I used to be able to click on a You Tube link and it would start playing.  Now it won't.  What's going on?  You Tube says it's Firefox.
+</p>",firefox-670;websites;desktop;windows-81;,firefox,websites,en-US
+1260847,1559511414,1559518359,"Hi, I wanted to create a firefox account with my gmail account email address but can't because it is being used by someone else. Help?","<p>I have had some security issues lately with my home wifi network which started about 2 years ago. Tonight, I wanted to create a Firefox account and  it stated that this account was in use already. Although, I never set up a Firefox account before; I was a bit dumbfounded. So, I requested the password reset and the message stated that the ""Primary account"" needs to do this. So, what can I do to unlink my email address from this other account which I did not set up.
+</p>",firefox-670;privacy-and-security_1;desktop;windows-10;,firefox,privacy-and-security,en-US
+1260839,1559507993,1559520456,autoopen when click to mouse3,"<p>Hello guys!
+when I click the mouse wheel on a bookmark, it immediately moves to the active window, how to make it open not in the active window, but next to the tab? (example chrome)
+</p>",firefox-670;tabs;desktop;windows-81;,firefox,tabs,en-US
+1260837,1559506592,1559506592,when I click on menu there's no option for options.,"<p>Trying to create an account recovery key
+</p>",sync;desktop;,firefox,sync,en-US
+1260836,1559505203,1559534311,"VBulletin sites will not load. ""Temporary error, please retry.""","<p>I cannot get any VBulletin forum sites to load.
+I have cleared everything for history/cache/cookies/data
+I have started Firefox in safe mode and it would not work.
+I have tried changing IPV6 in the settings.
+I have manually disabled all themes and plug-ins.
+I am using Mozilla 67.0
+</p><p>I switched back to Firefox from Chrome (because they pretty much gave the finger to adblockers) yesterday and transferred saved passwords and bookmarks. The forums loaded last night on Firefox. 
+</p><p>Any suggestions?
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1260835,1559505190,1559505190,Windows Narrator has stopped reading text I hover over,"<p>I am a recently blind Firefox user and rely on Windows 10's built-in narrator function for computer use. I use the feature that allows me to interact with the screen using the mouse, and for a short time when I had Narrator's Scan Mode active, it would read aloud anything I hovered over with the mouse, whether it was a link or plain text. Now, it has completely stopped doing this. I haven't changed any settings either with Narrator or Firefox and I have restarted both programs along with my PC multiple times. This feature works with other applications (at least those that are designed with accessibility taken into account) so it does seem to be an issue with Firefox or the relationship between the two.
+</p><p>Please assist if possible. I can hop around a page with the tab key, but only to elements that can take focus, such as links and form fields. Text and elements on webpages that aren't set up for tab navigation are completely unavailable to me unlike they were about three days ago.
+</p>",firefox-670;other;desktop;windows-10;,firefox,other,en-US
+1260834,1559505010,1559534430,Firefox is default browser for Outlook Mail. Gmail no longer works.,"<p>Worked fine until last week.  suddenly, trying to force me to enter Gmail through Chrome.  Has anyone found the bypass for setting up gmail in MSOutlook?  Even entering the password, won't get past that stupid log in screen.  
+Yes, cleared cache.  
+Yes, put <a href=""https://mail.google.com"" rel=""nofollow"">https://mail.google.com</a> on the whitelist for firefox.  
+</p><p>Can't find any help on gmail support, of course... trying to force Chrome.
+</p>",firefox-660;other;desktop;windows-10;,firefox,other,en-US
+1260832,1559503286,1559579958,have a new computer and now firefox does not wait long enough to logon to some websites needing a password,"<p>one site replies
+</p>
+<dl><dd>-(
+</dd></dl>
+<p>Something went wrong
+Repeating redirects detected.
+</p><p>Firefox works fine on another computer, and Edge works fine on this new computer.
+</p>",firefox-670;websites;desktop;windows-10;,firefox,websites,en-US
+1260828,1559501114,1559550895,I would like to access FF modes such as Pocket but I don't trust Google and don't want to place requests thru Google Play,"<p>Google has proven over the years to be undependable and intrusive.  Why would I confide my passwords or other personal info to it by selecting Firefox/Mozilla programs via GooglePlay?   They handed over several million searches to Bush's Dept of Justice and they continue tracking people after they've signed off their Google account. 
+</p><p>This is a public policy/political issue, not merely a request for a technical fix.  I have a PC so Apple is not a mode that I can pursue.
+</p>",firefox-670;desktop;windows-10;,firefox,other,en-US
+1260826,1559500042,1559576440,"As of today, I can't open a PDF in Adobe.  It is saved to downloads, but it won't open anywhere.","<p>I've tried to open PDFs from a couple of different places/sites, but I can't from Firefox.  I logged into Chrome, and I could download them quite easily.  This just started today, June 2, 2019.  I haven't changed any settings, and everything is up to date.  My settings are to open in Adobe Acrobat.
+Thanks!
+</p>",firefox-670;other;desktop;windows-10;,firefox,other,en-US
+1260824,1559499585,1559520719,I can't update Firefox with Microsoft Word installed,"<p>I've tried quite a few times to download the latest version of Firefox. It will download and install but as soon as I close the window and later open it it asks to install the latest version and none of my passwords are saved (which they always have been with previous updates). I suspect it has something to do with Microsoft Word which I recently installed.
+</p>",other;firefox-630;desktop;windows-10;,firefox,other,en-US
+1260823,1559499160,1559535388,I submitted feedback through Firefox with personal information,"<p>I went to submit feedback regarding a bug (I know, dumb) via Menu&gt;Help&gt;Submit Feedback, I typed my feedback and didn't realize until AFTER I clicked submit that there was a disclaimer that this feedback would be public and therefore I shouldn't include personal information.  Well, I included an email address.  How can I get in touch with someone at Mozilla about deleting this feedback as it contains personal information? Thanks.
+</p>",firefox-670;other;desktop;mac-os;escalate;,firefox,other,en-US
+1260822,1559498831,1559520948,Autocomplete not working for specific websites,"<p>Some websites will autocomplete with the input of one or two characters.  However, some websites that I visit often will not autocomplete in the search bar despite my having those options optimized in the Settings.
+</p><p>I have tried multiple things:
+</p><p>I have Verified Integrity of the Places Database and get a good response that is:
+</p><p>&gt; Task: checkIntegrity
++ The places.sqlite database is sane
++ The favicons.sqlite database is sane
+</p><p>So the database is working.  I have also booted in Safe Mode with add-ons disabled and get the same issue.  
+</p><p>I have also deleted the places.sqlite and places.sqlite-wal files from the Profiles folder, re-visited the websites, and this has still not solved the issue.  At this point I've exhausted the fixes suggested in other threads in the community forum.  Feedback appreciated.
+</p>",firefox-670;other;desktop;mac-os;,firefox,other,en-US
+1260820,1559496875,1559496875,Why is my browsing data time incorrect?,"<p>I clear my data after browsing. I cleared it last night before coming online this morning.  Today my manage data box indicated I had been at some sites within a few minutes. One, Paypal, I had not been to today. I contacted them and there were no logins from any other device nor activity other than my purchase yesterday.  I did visit that site when it said I had been there about 12 minutes before I went to clear data. There were other sites with data time way off (or I had not been to recently indicating) I was there within minutes.
+I have my settings set to not accept third party cookies, I did not click on any popups.
+Are the settings still working? Why are the times off? Thank you.
+</p>",firefox-670;other;desktop;windows-7;,firefox,other,en-US
+1260819,1559494053,1559499944,UserChrome script no longer working,"<p>Have been using a script (.uc.js) in my profile/chrome folder to enable new-tab homepages via local files. After updating firefox ( 68.0b6, but I believe it appeared on b5) this functionality is gone. Instead it simply loads about:blank, seemingly showing that the script is not running at all.
+</p><p>Edit: upon further searching this seems to be to a change in Firefox 68 as a whole. Is there absolutely any way to regain this functionality?
+</p>",firefox-680;beta;customize;desktop;windows-81;,firefox,customize,en-US
+1260818,1559492741,1559493524,Before update firefox opened three webpages on startup.  Now it does not.,"<p>Firefox 67.0 (20190516215225) installed.  Prior to this update when I started Firefox it would open three windows ( Hotmail, Facebook and Politico).  After update to this version I seem unable to get three pages to open at start.
+</p>",firefox-670;other;desktop;windows-10;,firefox,other,en-US
+1260817,1559491239,1559625001,The privacy policy web page of OurStickys addon is not loading. Is it safe to install and use OurStickys addon?,"<p>Hello,
+I want to use OurStickys addon : <a href=""https://addons.mozilla.org/en-US/firefox/addon/ourstickys/"" rel=""nofollow"">https://addons.mozilla.org/en-US/firefox/addon/ourstickys/</a>
+but I am not sure whether it is safe to do so.
+</p><p>The privacy policy web page is not loading: <a href=""http://ourstickys.com/privacy.html"" rel=""nofollow"">http://ourstickys.com/privacy.html</a>
+</p><p>Although, the privacy details in ""About this extension"" states that: ""Privacy is very important to us. We do not store any sensitive information and we make sure that the information is not accessible by anyone. No third party web application, nowhere to register, nobody to trust your data with. NO DATA in any form will be shared with anyone.""
+</p><p>I have read the Mozilla Add-on Policies which states that:
+""You must disclose how the add-on collects, uses, stores and shares user data in the privacy policy field on AMO""
+Link: <a href=""https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/AMO/Policy/Reviews#Data_Disclosure_Collection_and_Management"" rel=""nofollow"">https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/AMO/Policy/Reviews#Data_Disclosure_Collection_and_Management</a>
+</p><p>So, is it safe to install and use OurStickys addon?
+</p>",firefox-600;customize;desktop;linux;,firefox,customize,en-US
+1260816,1559490214,1559615823,No puedo eliminar Bing de los buscadores por defecto,"<p>Buenas tardes:
+</p><p>Mi firefox se acaba de actualizar y me ha cambiado el buscador por defecto a Bing, en vez de google, lo cual es muy molesto y pasa cada vez que actualizo. Normalmente lo borro para que no se vuelva a cambiar pero esta opción ha desparecido (al menos a primera vista) en esta nueva actualiación. ¿Cómo lo puedo eliminar?
+</p><p>Gracias de antemano.
+</p><p>Un saludo,
+</p><p>Sonia Rivero.
+</p>",firefox-670;other;desktop;windows-10;,firefox,other,es
+1260813,1559482483,1559496907,Opening links from other applications opens them in new private windows,"<p>Previously, when I clicked on links I got from pidgin, they used to open in my current non private firefox window as a new tab.
+Then, when I upgraded automatically to Version 67.0 on May 21, 2019, suddenly all the links I click on in pidgin open in a new private window without log in information, cookies, etc. Firefox used to say I needed to create an account to move my bookmarks and stuff, which I ignored.
+</p><p>My question is, how do I get pidgin links to open in my current non private firefox window like it used to before Version 67.0? It seems opening any links outside of firefox is causing new private windows to open instead of using the existing window like it used to.
+</p>",firefox-670;privacy-and-security_1;desktop;windows-10;,firefox,privacy-and-security,en-US
+1260812,1559480303,1559509479,firefox browser does not open  normally,"<p>when I click on firefox shortcut tab my browser does not open normally, it opens half page and I have to click the upper right box to open it to normal
+</p>",firefox-600;other;desktop;windows-7;,firefox,other,en-US
+1260811,1559480077,1559521195,"Ask to save logins and passwords for websites,  check mark keeps dissappearing","<p>the check mark on ---Ask to save logins and passwords for websites, 
+keeps dissappearing. so the function does not work.  this just started happening
+</p>",firefox-670;privacy-and-security_1;desktop;windows-81;,firefox,privacy-and-security,en-US
+1260809,1559478851,1559574950,Phosphate InLine not displaying on Firefox Browser,"<p>Hi there
+</p><p>Thank you so much for looking at my question.
+</p><p>We've noticed that Phosphate Inline is not displaying properly on Firefox, when it is on other major browsers.
+</p><p>The font creater says that the font is supported by Firefox 3.5 browser onwards.
+</p><p>I've attached screen grab on firefox and another major browser.
+</p><p>Are you able to assist please?
+</p><p>Thanks
+</p><p>Jon
+</p>",other;desktop;,firefox,other,en-US
+1260808,1559478698,1559483614,In windows 7 my taskbar hiding only when i am using mozila Firefox.,"<p>In windows 7 my taskbar hiding only when i am using mozila Firefox. How can i solve this, how can i show taskbar in windows 7 when using firefox browser?
+</p>",firefox-670;other;desktop;windows-7;,firefox,other,en-US
+1260807,1559478133,1559494114,How can I change Firefox to open on my home page: The New tab is a terrible design.,"<p>The ""new tab"" home opening is useless for me. I simple want to set my old homepage as the opening page URL. But his also has been disabled. So all of the Add-Ons are disabled from the opening new tab.
+</p><p>Please provide a direct edit of firefox to provide this simple fix.
+</p>",firefox-670;customize;desktop;windows-10;,firefox,customize,en-US
+1260806,1559477794,1559495504,the custom urls in Homepage does not work when launching Firefox,"<p>Hi !
+</p><p>Since the upgrade to Firefox 67, I have a problem with the homepage. 
+I have a specific url as a homepage and when I launch Firefox, I sometimes have the homepage displayed and sometimes a blank page - it's random -. 
+I did:
+refresh firefox, 
+delete firefox or .mozilla folder - /home/...../.mozilla/firefox - and restart 
+or remove/purge firefox with the command line and reinstall it, 
+</p><p>It does not help. 
+I can launch Firefox and the homepage is displayed and 1min. later, I close it and relaunch and I have a blank page. 
+I can say that most of the time (let's say 80%) if my internet connection is bad, the homepage will not be displayed, 
+but.... 
+if I click on the firefox home page button (even with a bad internet connection), the homepage will be displayed. 
+but it also happens with a good internet connection. 
+Any idea ?
+Thanks.
+</p>",firefox-670;customize;desktop;,firefox,customize,en-US
+1260803,1559471868,1559491711,Reopen closed tab is greyed out and he hotkey doesn't work either.,"<p>Nowhere on the internet do people seem to have this problem. When I search I only get websites that explain how to reopen it.
+</p><p>The option is greyed out and the hotkey doesn't work. Updates don't work either. Have had this problem for very long and I have no clue why.
+</p><p>Suggestions?
+</p>",firefox-670;tabs;desktop;windows-10;,firefox,tabs,en-US
+1260802,1559466028,1559508151,"When I reopen Firefox after many tabs were open, it opens only the first few -- and ""restore previous session"" isn't on the menu.","<p>I am used to having 30+ tabs open in Firefox.  When I close and then reopen Firefox, they're all there.  
+</p><p>Until yesterday.  Now only a half-dozen or so appear.  I THINK they're the first half-dozen from my previous session.
+</p><p>Also, I can't find a way to restore the previous session.  That option is not in my Menu.  My History has lots of previously used tabs, but I can't find the ones I want ... especially the ones I haven't actually used for some time.  
+</p><p>I recently bought a new PC which forced me to ""upgrade"" from Windows 7 to Windows 10.  I don't think that's the problem, though.  Firefox installed fine and worked fine on the new computer until I powered down a couple of days ago -- then powered back up and restarted Firefox....
+</p><p>I'm not aware of having upgraded to a new Firefox, unless that happened automatically.
+</p><p>I saw a Q&amp;A from Martha that seemed relevant.  But she uses a Mac, and I'm on a PC.  Also, I didn't understand and couldn't begin to follow the recommendations she was given.  I'm a 75-year-old IT ignoramus.  I really need very simple step-by-step instructions ... or somebody to take over my computer and solve the problem for me ... or I guess I could wait till one of my grandchildren knows how to help....
+</p><p>In a nutshell, I have two problems:
+1. Firefox is no longer restoring all my tabs when I reopen it.
+2. I can't find ""Restore previous session"" to restore my tabs manually.
+</p><p>Thanks!
+</p><p>--Peter
+</p>",firefox-670;tabs;desktop;windows-10;,firefox,tabs,en-US
+1260801,1559461546,1559654840,outlook does not recognize firefox as default browser,"<p>My Outlook opens all links perfectly in Firefox. However, sometimes Outlook cannot display a message properly and prompts me to download pictures and then, to ""view it in a browser"". Here I get the error message ""application not found"". Microsoft Support has been unable to find a solution and blames it on Firefox. I am using Office 365 on a Win 8.1 and 10 platform. The error message is the same for both. Any suggestions?
+</p>",firefox-670;other;desktop;windows-81;,firefox,other,en-US
+1260800,1559460729,1559464289,Open Link In New Tab Immediatly Closes Said Tab,"<p>Whenever I right click on a link and select ""Open Link in A New Tab"", the link opens in a new tab in the background, but then immediately closes as soon as (or for all I know just before) it finishes loading said tab.  I then must go into my history and open the last closed tab to see that tab.
+</p>",firefox-670;tabs;desktop;mac-os;,firefox,tabs,en-US
+1260799,1559459522,1559659997,"Is there a simple way to block a website from ever loading without downloading special addons like Blocksite, just type in the website name and it can not load?","<p>I have a couple of websites that keep popping up from time to time unexpectedly. There must be a way to simply add websites names e.g. <a href=""http://www.ihatetheseguys.net"" rel=""nofollow"">www.ihatetheseguys.net</a>  to someplace on my Firefox browser, something like a BANNED LIST. And once added that website can never open on my browser again. 
+</p><p>This seems like it should be a very simple to thing to do.... it would be like the exceptions list we can access in options where we add websites to a list and they are allowed to open, but this would be the opposite. 
+</p><p>I have searched around and it seems there are some add-ons/apps/programs I can download and run on my computer, one called BLOCKSITE. But I dont want to download anything. This seems like it should be a very simple to thing to do on the option page. Simply add a BANNED LIST where we can type in websites and when they try to nope they get noped away to oblivion.
+</p>",firefox-670;websites;desktop;windows-7;,firefox,websites,en-US
+1260798,1559453458,1559572862,Close Firefox Error Message,"<p>Hi
+</p><p>When I boot up my computer lately like last few days I notice I get the below error telling me to close Firefox and yet being this is a full boot from a shut down state firefox should not be telling me to shut down firefox as it is already running. This happens all the time lately when I boot up the system and only one instance of Firefox is running when I click to open it.
+</p><p>Any ideas why I am getting this the last few days when i start up from a shut down state?
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1260797,1559449079,1559471797,Firefox wont open,"<p>I cannot install or open firefox because I get a message saying the profile is missing so I try to create a new profile and it says an unexpected error occurred.
+</p><p>I reinstalled it a few times but no luck.
+I flushed my cache
+Tried developer edition
+</p><p>This application does not seem to work at all.
+</p>",desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1260796,1559445623,1559449731,"How to import all my settings, plugins, bookmarks including container settings to a new profile?","<p>Hi,
+After updating my machine to latest Ubuntu LTS, I am experiencing strange behavior from Firefox. Even before and after the upgrade, I am using the same version ( 67 ). 
+Firefox is asking me to create a new profile to continue browsing. (<a href=""https://i.imgur.com/rL6tdDA.png"" rel=""nofollow"">https://i.imgur.com/rL6tdDA.png</a>) I have Firefox sync enabled. even after completing the sync, I am unable to retrieve and use all my extension settings including containers. I tried copy-pasting files from old to new profile as described in <a href=""http://kb.mozillazine.org/Transferring_data_to_a_new_profile_-_Firefox"" rel=""nofollow"">http://kb.mozillazine.org/Transferring_data_to_a_new_profile_-_Firefox</a> . 
+How to resolve this issue? Thanks in advance.
+</p>",firefox-670;other;desktop;linux;,firefox,other,en-US
+1260795,1559443475,1559448337,Firefox freeze completely on some websites,"<p>Hello
+Since about 3 years can be more, some websites make Firefox completely freezer !!!! Especially the site cdiscount france ! Whenever i go to their site, i look at one or two items, and firefox hangs completely, it freeze !!!! nothing answers the mouse, everything is blocked and i am obliged to close firefox with the firefox icon at the bottom of my screen !!! then restart it for firefox to work again.
+</p><p>I'm pretty sure it's the firefox ublock origin extension that causes me this problem.Except with the google chrome browser or i also have ublock origin and the same ublock filters enabled, the site cdiscount is never freezer google chrome !!!!
+several other websites make freezer also completely firefox
+</p><p>I specify that i have already tried to erase the cache and cookies firefox thousands of times and it does not solve the problem, the problem is that firefox reacts, manages very bad ublok origin !!!
+</p><p>So there is a firefox problem that is poorly programmed, do not tolerate ublock origin !!! Please fix this big problem finally, mrs the developers of firefox please
+thank you
+</p>",firefox-670;customize;desktop;windows-10;,firefox,customize,en-US
+1260792,1559441354,1559608017,Bug on Tampermonkey extension,"<p>Hello
+Since the big bug of Firefox on May 5, 2019 that everyone has had :  it disabled all the extensions. Mozilla has made an update of firefox correcting this bug, well since, i no longer have access to my scripts of Tampermonkey extension, he there is no option it has disappeared !!!! I do not see any more my scripts!!!! 
+please fix this big bug please thank you
+</p>",customize;desktop;,firefox,customize,en-US
+1260786,1559436146,1559439385,Bookmarks not backing up will not export or sync,"<p>My Firefox bookmarks have not automatically backed up in more than 6 months. I can go through the steps to export or backup my bookmarks, but no file is ever created. I have tried this multiple times over the last few months, always using the latest version of Firefox (currently 67.0 64 Bit) and OS (Mac OS 10.14.5).
+</p>",firefox-670;bookmarks;desktop;,firefox,bookmarks,en-US
+1260785,1559434438,1559517329,FireFox Memory Leak while watching twitch.tv,"<p>While watching <a href=""http://twitch.tv"" rel=""nofollow"">twitch.tv</a> live streams using HTML5 the amount of RAM that FireFox uses constantly increases overtime.  When the browser is close after watching a stream on Twitch the amount of RAM that is still no longer being used doesn't decrease.
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1260784,1559433792,1559459017,Synchronizoval jsem si Mozillu Firefox s emailovým účtem.,"<p>Po té ji z PC odinstaloval a teď pátrám jak zahájit novou synchronizaci na tentýž účet,ale tak, aby se nesynchronizovala data drive nactena na účet zpět do nově nainstalovaného Firefoxu Mozilla.Ta je propojena s registrací na email seznamu odkud bych doposud synchronizovaná data chtěl totálně clearnout a začít s čistým štítem.Jenže je tu v současné chvíli další problém, který v zápětí vyvstal, že tak chci činit dnes a odpovědi jak resetovat dosavadní synchronizace vedené na zmiňovaný účet jsem nenalezl.
+</p>",firefox-670;sync;desktop;windows-10;,firefox,sync,cs

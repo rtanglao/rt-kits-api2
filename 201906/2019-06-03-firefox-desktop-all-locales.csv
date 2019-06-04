@@ -1,0 +1,343 @@
+id,created,updated,title,content,tags,product,topic,locale
+1260933,1559606184,1559609007,How do i disable my protection programs?,"<p>Today i lost all of my bookmarks and menu settings when i opened my website. I have been a customer of Firefox for many years and cannot seem to fix the problem for retrieving all my bookmarks and settings within the Firefox program! How do i restore all the settings i had?
+</p>",firefox-600;desktop;fix-problems;windows-81;,firefox,fix-problems,en-US
+1260932,1559603136,1559687288,s3 Google Translator Eklentisi Kaldırılmış,"<p>Merhabalar,
+Uzun yıllardır Firefox kullanıyorum ve adapte olduğum eklentiler vardı. Bunların içinde de çok sıklıkla kullandığım s3 google translator'dü. Ancak bir sorun yüzünden mozillayı yeniden sıfırladığımda bu eklentiye maalesef erişemiyorum artık. Başka bir sürü translator eklentisini denedim ancak hiçbirisinden memnun olmadım. Lütfen bu eklentiyi tekrar aktif hale getirebilir misiniz?
+</p>",firefox-670;customize;desktop;windows-10;,firefox,customize,tr
+1260930,1559601796,1559609391,Why does the last website I was on appear when I restart Mozilla Firefox?  Anyone in my house can turn on my computer can see the website and I don't like this.,"<p>I close a website and the next time I go on my computer and click on Mozilla Foxfire, that website appears.  I only want to see the Mozilla Foxfire homepage..No other things I looked at before. I can change to another websiye on my own.  I don't want house guests to turn on my computer and see my websites.
+</p>",firefox-670;websites;desktop;windows-7;,firefox,websites,en-US
+1260926,1559597134,1559675702,"When bookmarking a page, I can't get the complete list of bookmark folders to dropdown in order to select any folder in which to bookmark page.","<p>firefox quantum 60.7.0 on windows 10.  When I try to save a bookmark, the drop down list of folders only shows 5 folders.  I have dozens.  I tried to open it in safe mode (no addons), but the behavior is the same.  I have not lost the bookmarks.  when I click the bookmarks menu item, they are all still there.
+</p><p>thanks,
+Brian
+</p>",bookmarks;desktop;firefox-600;windows-10;,firefox,bookmarks,en-US
+1260925,1559593755,1559593755,Dropdown Menus Not Working Properly Firefox 67...,"<p>This has been a continual problem since Firefox 56 or 57. There have been no suggestions that have worked to correct this issue. If someone wants to check this out for themselves, log into eBay and start the process to list an item. When you see all of the drop down menus to select different things (like the item condition, etc.), you will find that the menus will NOT stay open (you have to click and hold the left mouse button to make your selection).  I noticed that the drop down menus on this site won't function correctly, either.
+</p><p>This is occurring with two bluetooth mice and a USB mouse as well. The operating system is MacOS 10.14.3. The problem does not occur in the versions of Firefox prior to 56 or 57 and the problem does not occur in Chrome.
+</p><p>One thing I just discovered is that if I click at the very outside edge of the menus, they will usually stay open. I really would like to get this issue solved once and for all. Refreshing the browser does not change anything and neither does safe mode. I think there is some coding change within Firefox that is causing the issue.
+</p><p>If anyone has any idea as to what might be causing this issue, please respond. Thanks in advance. 
+</p><p>P.S.  It was suggested that I try a test profile or a new load.  I have just finished a completely fresh load of OS 10.14.3 on a brand new SSD.  NONE of my Firefox profile information was transferred (only my bookmarks).  I transferred NONE of my computer user profile information, either - I installed everything from scratch and manually transferred all of my documents, photos, music, movies, etc.  The problem is STILL happening on a completely fresh build of my OS.
+</p>",firefox-670;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US
+1260923,1559593112,1559595038,I got a notice from Kaspersky Total Security that (C:\Program Files(x86)Mozilla Firefox\firefox.exe) was a vulnerable appication?  was a vulnerable application.,"<p>Should I remove it or add to exclusions?
+</p>",firefox-660;privacy-and-security_1;desktop;windows-10;,firefox,privacy-and-security,en-US
+1260922,1559592851,1559637267,Firefox crashes,"<p>6d9cd312-ce09-4934-8120-81406f1617fc 	03.06.2019 22:00 	
+75384897-93ad-4e7c-a424-9bc178a766da 	03.06.2019 21:57 	
+1867eb95-68ed-4463-90af-8f63f4493b19 	03.06.2019 21:57 	
+d4221e37-abd6-4743-a86b-351e5f7527be 	03.06.2019 21:57 	
+354c3473-92b7-457c-a302-6bc894caa66f 	03.06.2019 21:12 	
+124fde73-cede-4e03-af24-56731d1b3856 	03.06.2019 21:03 	
+55e1fead-17b4-442b-93ad-adef3841d8e7 	03.06.2019 20:42 	
+a61363a6-1986-452d-a211-ba0e3781d75d 	03.06.2019 17:42 	
+c9378bcd-2de2-407f-9358-26eca60ba9f6 	03.06.2019 17:34 	
+1e51c539-de26-4025-b54e-11786a10faa4 	03.06.2019 17:29 	
+40679cd8-9a0b-4eb2-9b68-bb3590db0309 	03.06.2019 17:25
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,cs
+1260921,1559590576,1559590576,Ao sincronizar senhas diferentes para uma mesma conta em dois dispositivos qual será mantida?,"<p>Utilizo o Firefox no desktop e no celular. Acontece de mudar a senha em um ou outro dispositivo.
+Como faço para sincronizar e manter a última atualização da senha nos dois dispositivos?
+</p>",firefox-520;sync;desktop;windows-10;,firefox,sync,pt-BR
+1260920,1559590510,1559653408,"Firefox 67.0 crashes, but no log is created","<p>After upgrading to version 67.0, my Firefox crashes several times per day, but it seems like no log file is created.
+I have checked ""about:crashes"" and the crashes don't show up there.
+Is there any way to get a log out of it?
+</p><p>Hardware acceleration is enabled, running the latest Intel drivers.
+</p><p>Haven't tried Safe Mode yet.
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1260918,1559588911,1559606195,como desactivar la politicas empresariales en firefox,"<p>Hola Amigos de Firefox.
+</p><p>Tengo una problema con las actualizaciones de firefox. A continuación describo el problema.
+</p><p>Recientemente me inscribi a un curso en una escuela tecnica. En mi salon somos 20 personas y cuando empezo el curso unicamente habian 18 pc's, asi que me pidieron que llevara mi laptop mientras me conseguian una pc.
+</p><p>Llevé mi laptop para trabajar y me conecté a la intranet de la escuela. El problema de conectarme a la red de la escuela, fue que dicha escuela tiene una politica de desactivar  las actualizaciones en todos los navegardores que se conecten a ese red sin importar cual navegador sea. Y ahora ya no puedo actualizar mi firefox personal en mi laptop.
+</p><p>Estuve investigando como cambiar esto y segun entendi hay que cambiar en el archivo policies.json de true a false  la opcion DisableAppUpdate pero el archivo es solo de lectura y no me deja. 
+</p><p>Estoy usando la version snap de firefox para linux. Por favor ayuda.
+</p><p>Muchas Gracias.
+</p>",firefox-670;other;desktop;linux;,firefox,other,es
+1260911,1559583867,1559587191,Can I transfer bookmarks from Firefox onto a new laptop?,"<p>Old laptop is working.
+</p>",firefox-670;bookmarks;desktop;windows-10;,firefox,bookmarks,en-US
+1260910,1559581519,1559657843,A downloaded PDF file from Firefox is the same if the file is downloaded using Chrome. Why is this and how can I change it? I need them to be the same.,"<p>For work, I use Nuance Power PDF 3rd party software for editing and making changes to PDF files that I download to my hard drive. The company normally requires us to use Google Chrome for our work, but recently Chrome has been constantly failing, cannot keep up, and crashes on big files. I started using Firefox and it works great! It's very fast and download what I need 98% faster. However, there is a difference in the PDF's between Firefox and Chrome. When I use the file with Chrome I can highlight and makes corrections with the software, but when I download the exact same file through Firefox I cannot make the same changes at all. The software I use is not made just for Chrome, It does have a Firefox extension which is turned on. I was told by my boss that something is different between the Firefox and Chrome. I have gone through Firefox PDF printer settings and no matter what I do, it's the same issue. Is there a way to change how the Firefox version is different?
+</p>",firefox-670;customize;desktop;windows-10;,firefox,customize,en-US
+1260909,1559581134,1559681513,"I had 300+ tabs open when Firefox crashed.  When I reopened, all my tabs were gone.","<p>Restore previous session did not work.  I followed the instructions at <a href=""https://support.mozilla.org/en-US/questions/1247052"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1247052</a> and looked for a backup file at C:\Users\shelby\Desktop\rhwqzled.default\sessionstore-backups, but I only see two file names that start with recovery --  recovery.jsonlz4 and recovery.baklz4 -- and both of them show a date/time stamp that is after the crash, so I assume these won't help.  Do I have any other options?
+</p>",needsinfo;,firefox,tabs,en-US
+1260906,1559579482,1559586119,Firefox won't connect to bit.ly links on facebook - on this occasion https://bit.ly/2XmHLY1  these are genuine public service websites,"<p>Secure Connection Failed
+</p><p>An error occurred during a connection to <a href=""http://bit.ly"" rel=""nofollow"">bit.ly</a>. Cannot communicate securely with peer: no common encryption algorithm(s). Error code: SSL_ERROR_NO_CYPHER_OVERLAP
+</p><pre>   The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.
+</pre>",firefox-670;websites;desktop;windows-10;,firefox,websites,en-US
+1260905,1559579407,1559579407,"ao iniciar o firefox, demora quase que 15segundos para entrar na pagina principal do Google ou qualquer outra pagina.Como resolver isso?","<p>Quando inicio o Firefox, leva em média 15 a 20s para entrar na página do Google ou em mesmo outras páginas. Já fiz o processo de remover extensões, restaurar o navegador como padrão e não consegui resolver o problema. Alguém possui alguma solução?
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,pt-BR
+1260903,1559576460,1559684986,"Firefox Monitor no me abre, muestra error 502 Bad Gateway","<p>Saludos
+</p><p>Desde hace dos días se me presentó este ""error"" (francamente no sé si llamarle así) en una de las herramientas de Firefox, cabe destacar que inicio sesión en Firefox Send y todo está bien, pero de momento, solo me aparece 502 Bad Gateway a la hora de querer entrar al inicio de la herramienta.
+</p><p>La última vez que lo use fue hace dos días, cuando agregué dos correos más a la lista para su seguimiento, uno de Outlook y el otro de Gmail, cerré, normal, al día siguiente intenté acceder para ver si se habían guardado los cambios porque se fue la luz y tuve problemas de internet y de ahí no pude.
+</p><p>Cabe destacar que no veo algún problema con mi cuenta en Firefox, la uso hace bastante tiempo y todo bien, las otras herramientas me dejan iniciar sesión sin problema alguno, solo Monitor está dándome ese error y por nada puedo quitarlo, hacer que sí me muestre el menú de inicio.
+</p><p>¿Alguna sugerencia?
+</p><p>Gracias de antemano.
+</p>",firefox-670;other;desktop;linux;,firefox,other,es
+1260901,1559575777,1559579466,How can I set Firefox to save email addresses So I don't have to type them in every time?,"<p>I have been using Explorer for several years and it no longer will save my email addresses.  It is very handy to have a much used email address just pop up as I begin typing.  HELP&gt;
+</p>",firefox-670;customize;desktop;windows-10;,firefox,customize,en-US
+1260899,1559575077,1559579685,Firefox won't open in windows 10,"<p>Apparently Firefox won't open since it appears browser update to 67.0 can't overcome 66.0.5.  I can't even uninstall FF 66 because I can't close 66.  When I attempt to open with 'run as admin' the pipper goes around 5 sec and then goes bye bye.   Is the problem in Windows 10 or FF?  I am frustrated I have to use Chrome to find a solution.  I need a step by step solution delivered to my email, please.  I don't want to see several ""things"" I can try since there should be just one solution.  I have spent over an hour trying several shots in the dark solutions.
+Thanks, Mike
+</p>",other;desktop;,firefox,other,en-US
+1260898,1559574908,1559580254,I can’t find the security code. Where do I find it?,"<p>I changed my password and did not receive a security code.
+</p>",sync;desktop;verificationemail;escalate;,firefox,sync,en-US
+1260897,1559573601,1559585428,Only way to download a file is by pauzing it and restarting it every minute. How do I fix this?,"<p>Everytime I download a file, the download speed is fast at first and then slows down until it doesn't download anymore at all. If I then pause the download and restart it, the download speed is fast again.
+I've tried restarting firefox with add-ons turned off and then downloading a file, but it still doesn't work. My firefox version is fully updated. It also doesn't work if I have no other tabs open.
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1260896,1559571585,1559595136,"Change default keybindings (specifically, remove ""⌘S"")","<p>I'm using FF 67.0 (as well as 69.0a1 Nightly) on macOS.
+</p><p>Now that we can finally change keyboard shortcuts for Extensions (yay!) I would like to use `⌘S` as one of my key bindings. Problem is, that is already mapped to ""Save Page As..."" — a menu item I hardly ever need.
+</p><p>Is there any way (current or planned) that users can change keybindings for built in native commands? This would be especially useful for the many switchers coming over from Chrome after the adblockalypse.
+</p>",firefox-670;customize;desktop;mac-os;,firefox,customize,en-US
+1260894,1559570988,1559599859,Problem with XHR POST large BLOBs (since version 67.0b3 - Firefox only),"<p>Hi all,
+</p><p>I built a small web application that can extract a large zip file (around 275MB) and sends a specfic large file of the extracted contents (around 300MB) via POST request to my own web api. To do so I use the libary ""zip.js"". At first everything worked fine in all common browsers (Opera, Chrome, IE, Edge and Firefox) under different plattforms (linux and windows).
+</p><p>But since the release of version 67.0 of Firefox it didn't work anymore. I already watched the packages via wireshark. Firefox sends the header of the request but does not attach the file itself.
+</p><p>I already tested my web application with first available beta version of 67 (67.0b3) and latest nightly version (69.0a1) but they didn't work either. The latest runnable version was 66.0.5.
+</p><p><br>
+Javascript Code:
+</p><p>function uploadFile(fileAsBlob)  {
+</p><pre>    console.log(fileAsBlob);
+    const xhr = new XMLHttpRequest();
+    if (xhr.upload) {
+           xhr.onreadystatechange = function() {
+               if (xhr.readyState === 4) {
+                   if (xhr.status !== 200) {
+                       console.log(""Error while uploading."");
+                       return;
+                   }
+                   console.log('Successful.');
+               }
+           };
+           xhr.onerror = function() {
+               console.log(xhr);
+           };
+           xhr.ontimeout = function() {
+               console.log(xhr);
+           };
+           xhr.open(""POST"", 'myEndpoint123', true);
+           xhr.setRequestHeader(""X_FILENAME"", ""myFile.xxx"");
+           xhr.send(fileAsBlob);
+    }
+</pre>
+<p>}
+</p><p><br>
+The corresponding output in the developer console was not helpful for me:
+</p><p>Blob
+size: 299148800
+type: """"
+&lt;prototype&gt;: BlobPrototype
+constructor: function ()
+size: 
+slice: function slice()
+type: 
+&lt;get size()&gt;: function size()
+&lt;get type()&gt;: function type()
+&lt;prototype&gt;: Object { … }      169.254.153.110:325:17
+</p><p>Error while uploading.       169.254.153.110:332:33
+</p><p>XMLHttpRequest​
+mozAnon: false​
+mozSystem: false
+onabort: null
+onerror: function onerror()
+onload: null
+onloadend: null
+onloadstart: null
+onprogress: null
+onreadystatechange: function onreadystatechange()​
+ontimeout: function ontimeout()
+readyState: 4
+response: """"
+responseText: """"
+responseType: """"
+responseURL: """"
+responseXML: null
+status: 0
+statusText: """"
+timeout: 0
+upload: XMLHttpRequestUpload { onloadstart: null, onprogress: null, onabort: null, … }
+withCredentials: false
+&lt;prototype&gt;: XMLHttpRequestPrototype { open: open(), setRequestHeader: setRequestHeader(), send: send(), … } 
+</p><pre>169.254.153.110:339:25
+</pre>
+<p><br>
+</p><p><br>
+When I run the same code with another browser (here Google Chrome), I got the following output:
+</p><p>Blob 
+{size: 299148800, type: """"}
+size: 299148800
+type: """"
+__proto__: Blob
+size: (...)
+slice: ƒ slice()
+type: (...)
+constructor: ƒ Blob()
+Symbol(Symbol.toStringTag): ""Blob""
+get size: ƒ size()
+get type: ƒ type()
+__proto__: Object (index):325
+</p><p>Successful. (index):335
+</p><p><br>
+</p><p><br>
+Has somebody an idea what could be the reason for this behavior? And maybe how it could be fixed?
+</p><p><br>
+Best regards
+Marvin
+</p>",other;desktop;,firefox,other,en-US
+1260893,1559570113,1559570113,"Firefox for Android stopped syncing tabs, dis/re-connect didn't help, shows no tabs but there are many (perhaps too many?)","<p>I've been using Firefox on Android for a while now, taking advantage of the sync between devices. I only have one Android device and one laptop with Firefox on MacOS. The syncing from Android was working perfectly for a long time but recently stopped working. At first I could still see all the old Android open tabs on Firefox on MacOS, but none of the new tabs. Then, in an attempt to fix the issue I disconnected my Firefox account from the Android device and then reconnected that account and tried to re-sync. This cleared all tabs but never synced anything and so now shows no tabs open in the Firefox account. In the Synced Tabs sidebar in the Firefox on MacOS I just see the attached image.
+</p><p>When I tell the Android Firefox to manually sync, it takes some time initially and doesn't show any error messages, so I assume the sync is happening behind the scenes, but I'm unable to see any synced tabs. Under the sync settings on Firefox for Android Bookmarks, History and Open Tabs are all checked. I have verified that if I bookmark something on Firefox for Android and then trigger a sync, I do in-fact see that bookmark in the MacOS Firefox after a sync there. It's just the tabs that are not syncing for some reason.
+</p>",firefox-670;sync;desktop;mac-os;,firefox,sync,en-US
+1260892,1559569474,1559655734,Pivacy setting issue,"<p>Sometimes in Firefox 67 when I choose have Privacy settings settings to ""custom"", but change to ""Never remember history"" and restart browser, when i go back to same pane, it has not updated.
+</p><p>Yet, when i go from ""custom"" to ""Remember history"", then go to ""Never remember"" it saves the setting
+</p><p>Why does this happen?
+</p><p>Also, what is the different between Private browsing and ""Custom"" with option checked ""Always use private browsing"" Are these the same ? Visually that is.
+</p>",firefox-670;privacy-and-security_1;desktop;mac-os;,firefox,privacy-and-security,en-US
+1260891,1559569199,1559617392,Extentions in private browsing,"<p>Since Firefox 67, in Add-on manager, your shown what installed extensions would work in private  browsing:
+</p><p>Also, this link: <a href=""https://support.mozilla.org/en-US/kb/extensions-private-browsing?as=u&amp;utm_source=inproduct"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/extensions-private-browsing?as=u&amp;utm_source=inproduct</a>
+</p><p>Yet the add-on in question, Lastpass does auto connect on browser close, as it requires cookies.. so i must use ""custom setting"" with the only option selected ""Clear history when firefox closes"" as the equivalent to PB.
+</p><p><br>
+However i need more info on what it reports in Add-on manager...  what is Mozilla saying ""This addon ""should work"" ? or ""it will work, but there could be poblem when you restart browser"" ?
+</p><p><br>
+</p>
+<dl><dd>
+</dd></dl>",firefox-670;privacy-and-security_1;desktop;mac-os;,firefox,privacy-and-security,en-US
+1260890,1559568217,1559668664,"I had a password and login saved for my e-mail, and I hi-lite and hit delete in error. Now, Fire fox will not remember the login and password. How do I get it t","<p>fire fox 67 (64 Bit)
+</p>",firefox-670;other;desktop;windows-7;,firefox,other,en-US
+1260887,1559562311,1559597291,Is Ecosia safe to use with Firefox?,"<p>I have been recommended to use Ecosia as a search add-on to Firefox.  Is it safe to do so?  Also, will it impact the Firefox development team support?
+</p>",firefox-670;other;desktop;windows-7;,firefox,other,en-US
+1260885,1559561880,1559677325,since the latest update firefox opens new windows with a blank page instead of my home page.,"<p>In options I have homepage and new windows set to custom urls. The new tab option doesn't have an option for custom url but I'm opening a new window so it shouldn't follow the new tab setting. I never open tabs, just windows. 
+</p><p>Why does every update have to cause a problem with my settings? I leave updates as long as I possibly can as they always cause a problem.
+</p>",firefox-670;customize;desktop;windows-81;,firefox,customize,en-US
+1260884,1559561366,1559591272,How can I change the sizes of fonts and icons in the Menu and Toolbars?,"<p>I'm using Firefox 67.0 under MX Linux. My monitor is 25"" with a resolution of 1920x1200. With this resolution, the text and icons in Firefox Menu and Toolbars are tiny and almost impossible to read. The Thunderbird add-on Theme and Font Size Changer works reasonably well for Thunderbird, so is there a corresponding add-on for Firefox?
+</p><p>I know that Firefox is largely developed by people who are volunteers, but it seems that a tool, as part of the basic Firefox program, should be available to make these changes without installing add-ons or modifying the code manually. Almost everyone needs to be able to tweak these things at one time or another.
+</p>",firefox-670;customize;desktop;linux;needsinfo;,firefox,customize,en-US
+1260882,1559560769,1559587052,ziraat bankası sitesi ile telfon bağlantımı nasıl güvenli hale getiririm?,"<p>yukardakı sorun sebebi ile ziraat  bank call center a baglanamıyorum!
+</p>",other;firefox-529;desktop;firefox-5290;windows-vista;,firefox,other,tr
+1260879,1559560116,1559592267,Firefox no longer opens my home page automatically !!  It will open if I manually enter the URL.,"<p>I've been using Firefox since it first appeared.  It's been my default browser since.  However, the recent updates have badly broken it, to the point that I may be forced to switch to something else, like (choke) Chrome.  Namely, when I open Firefox, no homepage nor URL appears.  I can click the 'home' icon, and get there fine.  Also, since Firefox is myu default browser in Windows10, if I click on a hotlink from an email, the same thing happens...Firefox opens, but the passed URL does not happen.  Just a blank screen in both cases.  
+</p><p>I've looked through lots of online help, but NOTHING has helped at all.
+</p><p>Thoughts ?
+</p>",firefox-670;other;desktop;windows-10;,firefox,other,en-US
+1260878,1559558256,1559567411,All bookmarks missing since update to 67.0,"<p>Since Firefox updated to 67.0 all of my bookmarks are missing.  I have tried to restore from the file listed when I select ""Restore"" but nothing happens at all.  It doesn't even give me an error message.  I can't even locate a ""bookmarks"" file on my laptop.  
+</p><p>Any help appreciated as I am lost without them for work...
+</p><p>Thanks.
+</p>",firefox-670;bookmarks;desktop;windows-10;,firefox,bookmarks,en-US
+1260874,1559555023,1559581406,Firefox crashes,"<p>been watching youtube and browsing generally. over the past couple of weeks firefox tabs have repeatedly been crashing; also firefox itself has been repeatedly crashing; also firefox reloads a tab when i move back to it after having gone to another tab - restarting videos for example; also i am getting dialogue boxes stating the i have run out of memory; also my vpn stopped connecting. i have reinstalled firefox and vpn (vpn now works); had the hardware checked and okayed by a dell tech; updated bios and drivers in an attempt to fix (dell tech did this), removed and reinstalled plugins - the problem still persists. please help.
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1260873,1559554459,1559592711,HTML5 Audio player skipping cookies,"<p>I am using Firefox latest version to test my website running mp3 files fetched via proxy 
+We are using cookie authentication to validate user and  play audio file 
+Here is our current implementation 
+</p><p>We send a request to our media proxy with a user token and it validates and set a cookie in response with a mp3 URL 
+We set this mp3 URL in audio src and cookie is saved in browser 
+</p><p>The problem is that &lt;audio&gt; player fetch media from src but it does not send the cookie we saved for that media proxy instead it does not send a single request cookie although in our XHR call we were sending many cookies 
+</p><p>When no cookie is sent to our media proxy a 401 response is sent and audio player stops 
+</p><p>Here are some requests from workflow 
+</p><p>XHR Response
+</p>
+<hr>
+<p>HTTP/2.0 200 OK
+date: Mon, 03 Jun 2019 07:21:45 GMT
+content-type: text/plain;charset=UTF-8
+content-length: 10
+access-control-allow-credentials: true
+access-control-allow-origin: <a href=""https://consumer.example.com"" rel=""nofollow"">https://consumer.example.com</a>
+set-cookie: x-id-token=**********
+expect-ct: max-age=604800, report-uri=""<a href=""https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"" rel=""nofollow"">https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct</a>""
+vary: Accept-Encoding
+server: cloudflare
+cf-ray: 4e0fe97e6ccfd791-MRS
+X-Firefox-Spdy: h2
+</p><p>XHR Request 
+</p>
+<hr>
+<p>Host: <a href=""http://media.example.com"" rel=""nofollow"">media.example.com</a>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:67.0) Gecko/20100101 Firefox/67.0
+Accept: application/json, text/plain, */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: <a href=""https://consumer.example.com/listen/uuid"" rel=""nofollow"">https://consumer.example.com/listen/uuid</a>
+Origin: <a href=""https://consumer.example.com"" rel=""nofollow"">https://consumer.example.com</a>
+Connection: keep-alive
+Cookie: ajs_anonymous_id=%22f6ae4eca-8ea9-4560-86e3-627457ef4a81%22; _gat=1; __cfduid=d695230e812d89679db4755d7f0b1cc311559546465; optimizelyEndUserId=oeu1559546469968r0.12488801925201709; tracking-preferences={%22version%22:1%2C%22destinations%22:{%22Amazon%20Kinesis%22:true%2C%22Branch%20Metrics%22:true%2C%22Google%20Analytics%22:true%2C%22MailChimp%22:true%2C%22Optimizely%22:true}%2C%22custom%22:{%22marketingAndAnalytics%22:true%2C%22advertising%22:true%2C%22functional%22:true}}; ajs_user_id=%221bd49c39-b295-4e31-87af-1ac3745190fb%22; ajs_group_id=null; _ga=GA1.2.1103036539.1559546471; _gid=GA1.2.2051257759.1559546471; fbsstage=*****
+</p><p>After this request i see that X-Id-Token cookie set in browser but in a subsequent call to same URL not even a single cookie is sent although in above request 4-5 cookies were sent 
+</p><p>Subsequent Request
+</p>
+<hr>
+<p>Host: <a href=""http://media.example.com"" rel=""nofollow"">media.example.com</a>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:67.0) Gecko/20100101 Firefox/67.0
+Accept: audio/webm,audio/ogg,audio/wav,audio/*;q=0.9,application/ogg;q=0.7,video/*;q=0.6,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Referer: <a href=""https://consumer.example.com/listen/uuid"" rel=""nofollow"">https://consumer.example.com/listen/uuid</a>
+Range: bytes=0-
+Origin: <a href=""https://consumer.example.com"" rel=""nofollow"">https://consumer.example.com</a>
+Connection: keep-alive
+TE: Trailers
+expect-ct: max-age=604800, report-uri=""<a href=""https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"" rel=""nofollow"">https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct</a>""
+server: cloudflare
+cf-ray: 4e0fe9823aecd791-MRS
+X-Firefox-Spdy: h2
+</p><p>This works fine in chrome as the cookie is sent in all requests but not in firefox. There is no CORS issue in browser console. I see only these errors from audio player 
+AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+AbortError: The operation was aborted. 
+AbortError: The operation was aborted. 
+</p><p>This happened because the media fetch call returned 401 because cookie was not present 
+Can anyone tell me whats wrong here?
+</p>",other;desktop;,firefox,other,en-US
+1260870,1559547178,1559589151,Does 67 version not show up Organization name in address bar for EV SSL certificate?,"<p>Does 67 version not show up Organization name in address bar for EV SSL certificate? 
+I tried to visit <a href=""https://www.digicert.com"" rel=""nofollow"">https://www.digicert.com</a> and <a href=""https://www.bankofamerica.com/"" rel=""nofollow"">https://www.bankofamerica.com/</a> etc in different major browsers, all shows Organization name in address bar except Firefox.
+The versions before 67 can show up without a problem.
+Is 67 version having a problem with loading up Organization name in address bar for EV SSL certificate? Or is there a  setting I need do in this version?
+</p>",other;desktop;,firefox,other,en-US
+1260869,1559544648,1559545505,Add ons are installed but do not show an icon or work,"<p>I have 2 add ons installed-adblock plus and Roboform. Both show in add ons and show no error. I can disable or remove them. I can re-download and add them without error.  But-neither show the icon on top, nor do they work.  This does not appear to be the issue that occurred on 4 May.  I'm stumped. When I check browser integration in Roboform, there are none listed, meaning that Roboform has not been integrated with FF, but add ons in FF show that it is and it is enabled.  Nothing to check on add block plus, but there is no icon, so it is not doing anything. Any help with this would be greatly appreciated.
+</p>",firefox-680;other;beta;desktop;,firefox,other,en-US
+1260867,1559557546,1559562308,Why wasn't I asked if I wanted to change anything before it was changed?,"<p>I give up!!
+</p>",firefox-670;other;desktop;mac-os;,firefox,other,en-US
+1260866,1559538333,1559690365,"Firefox remembers login names, but does not remember passwords","<p>Hi Team,
+</p><p>I have just installed Linux Mint 19 alongside Windows 7, and installed Linux Firefox 67.  Windows also has 67.
+I pointed the Linux Firefox to the Windows Profile file, and it looked exactly like the Windows version.
+When I went to access websites that have stored login names and password, the Login names were there, but the passwords did not show.   When I entered a password again, and asked it to Save, it proceeded and logged in.   When I logged off, and tried to login again, the Login name was there, but no password - had to enter it again.
+I have looked through all of the relevant posts in Support, and tried several options, but none work.  Would appreciate some assistance is solving this one please.   Thanks    plml
+</p>",firefox-670;privacy-and-security_1;desktop;,firefox,privacy-and-security,en-US
+1260865,1559535392,1559617034,I get Secure Connection Failed on all websites,"<p>I used Firefox for a year on this PC and today it is not working at all.
+</p><p>First it says 'Performing TSL handshake...' and then gives me error 'Secure Connection Failed' on 99% of websites. Google, facebook, youtube etc. <a href=""http://4pda.ru"" rel=""nofollow"">4pda.ru</a> is working for example. 
+Also any other browser works properly. But I don't want to move to Chrome.  
+</p><p>I tried to do all troubleshooting steps from google and firefox help. I cleared all the cache, reinstalled, tried clean installation.
+</p>",desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1260864,1559534962,1559577222,Lost pinned tabs (roaming or ue-v profiles),"<p>Hello,
+</p><p>more than one week users start report that they are lost pinned tabs. In next logon they not see last pinned tabs, and can see only a half of them.
+</p><p>Users use roaming profiles and some of them use ue-v profiles.
+</p><p>I found that Mozilla Firefox try open files in AppData\Local\Mozilla\Firefox\Profiles.
+This folder not sync for roaming profile. And remove every user logoff. 
+For UE-V unlike roaming , this folder remains (not delete after logoff), but is not sync to a nearby computer. Just AppData\Roaming\Mozilla\Firefox - sync with profile.
+</p><p>Is this causing a problem?
+</p><p><br>
+I also noticed that after updating the file appears 
+""AppData\Roaming\Mozilla\Firefox\installs.ini"" with content
+[308046B0AF4A39CB]
+Default=Profiles/6pkh0btp.default-release
+Locked=1
+</p><p>and in profile.ini
+</p><p>[Install308046B0AF4A39CB]
+Default=Profiles/6pkh0btp.default-release
+Locked=1
+[Profile1]
+Name=default
+IsRelative=1
+Path=Profiles/tldv0ieg.default
+Default=1
+[Profile0]
+Name=default-release
+IsRelative=1
+Path=Profiles/6pkh0btp.default-release
+[General]
+StartWithLastProfile=1
+Version=2
+</p><p>What does it mean?
+</p><p>Thanks )
+</p>",tabs;desktop;windows-10;,firefox,tabs,en-US
+1260861,1559522967,1559533762,How do I get my bookmark star and my VPN icons back on the toolbar?,"<p>When I started a new internet session the other day I noticed that the bookmar star icon and my VPN icon were missing on the tool bar. How do I put them back where they were?
+</p>",firefox-670;customize;desktop;windows-10;,firefox,customize,en-US
+1260860,1559522232,1559522232,fraudulen survey account hacked,"<p>while reading something on firefox a screen pops up and says it would like me to complete a survey about firefox. I did the survey. Then it says I won an iphone X and all I need to do is pay $1.00 for processing. I STUPIDLY gave my credit card for the $1.00 and the screen disappears.  Only then do I realize they have my credit card infor and my email address and do not have my mailing address to send the actual phone.  
+</p><p>So something with your security is very wrong.  Granted I was stupid but Firefox was not secure and I was hacked. Now my information is probably being sold everywhere.  The payment went to <a href=""http://successpayments.com"" rel=""nofollow"">successpayments.com</a> which on my credit card statement says is for dating and escort services. Yikes!!!!!do something.
+</p>",firefox-670;other;desktop;mac-os;,firefox,other,en-US
+1260859,1559520693,1559530710,"how to get ""downloadthemall"" functional","<p>I NEED TO USE DOWNLOADTHEMALL SOFTWARE TO QUICKLY DOWNLOAD ALL IMAGES jpg ON A PAGE 
+</p><p>THIS MAY MEAN RUNNING TWO VERSIONS OF FIREFOX ON THE SAME WIN7 PC SINCE I WAS TOLD THIS SOFTWARE NO LONGER WORKS ON THE LATEST FIREFOX VERSION.
+</p><p>HELP
+</p>",firefox-670;customize;desktop;windows-7;,firefox,customize,en-US
+1260858,1559520373,1559530810,"In Hong Kong, how can I get Firefox and NOT the (.cn) Mainland China version?","<p>When I download Firefox, it gives me the .cn version.  I prefer the US version, the one I use when in Los Angeles.  Grateful for any and all help.
+</p>",firefox-670;other;desktop;windows-7;,firefox,other,en-US
+1260857,1559523584,1559528779,"About a week ago, Firefox stopped opening new tabs when a button or link was clicked.  A window pops up briefly and is snuffed out a second later.","<p>I have used Firefox for years, and it worked flawlessly.  About a week ago, when I click on a button or link in a web page, it no longer opens a new tab.  Instead, a small window briefly pops up and is then snuffed out a second later.  Changing the settings to open a new window rather than a new tab has not helped.  I have not added any new pop-up blockers or antivirus programs, and I did not change any settings in my current ones.  I have tried all of the steps suggested by users in the knowledge base, but without effect.  Can you help?  If I can't get this fixed, then I have no chance but to switch to another browser, and I don't really want to do that.
+</p>",firefox-670;tabs;desktop;windows-7;,firefox,tabs,en-US
+1260842,1559570796,1559570796,não consigo postar vídeos de qualquer extensão aceita n meu canal do youtube e  firefox está atualizado,"<p>Tento postar vídeos no meu canal do Youtube com extensõe aceitas e não consigo mais. O firefox está atualzado.
+</p><p>NÃO FICA SÓ LENTO! NÃO PSTA MESMO.TENTEI MUITAS VEZES COM DIFERENTES VÍDEOS E EXTENSÕES..
+</p><p>LEIO PARA VER MINHA CONEXÃO E ELA ÓTIMA COM MAIS DE 10 GIGAS.O QUE FAÇO?
+</p>",firefox-670;other;desktop;windows-7;,firefox,other,pt-BR

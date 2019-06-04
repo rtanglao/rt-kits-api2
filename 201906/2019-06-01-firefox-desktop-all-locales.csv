@@ -1,0 +1,196 @@
+id,created,updated,title,content,tags,product,topic,locale
+1260783,1559428352,1559436412,"Refresh, lost bookmarks, 'old Firefox data' present, cannot retrieve","<p><em>[Locked as a duplicate of <a href=""https://support.mozilla.org/en-US/questions/1260777"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1260777</a>. Please follow up there, thanks.]</em>
+</p><p>A already asked this but am trying to find it again!
+</p>",firefox-670;bookmarks;desktop;windows-10;,firefox,bookmarks,en-US
+1260781,1559427437,1559543164,Hyperlinks from any program other than firefox will not open,"<p>I am having an issue where no hyperlinks will open in firefox.  Thunderbird will show the error below, but no other programs such as discord or open office will show any error or response when clicking on a hyperlink. I was looking through the default programs and settings and the advanced areas in those menus and found the pair of protocol below, which I changed and then changed back with no result.
+</p><p>I have just downloaded chrome and tried to open the links into it, with the same results as firefox.
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1260778,1559425432,1559436479,"""Your organization has disabled the ability to change some options""","<p>Look, this is a huge problem because this message isn't just showing up on my Fire Fox browser, it's also on my TOR browser. I'm not seeking to fix TOR here, I'm just saying that it's on there too and TOR uses Fire Fox - this message appears nowhere else on my PC or browsers. 
+My system was just purchased brand new in Feb. This message did not display when I dl either browser. I've NEVER downloaded ANY Avast or anything like it, I use Windows Defender and that's it. I'm not a techie - but I'm like really neurotic over hard drive space - I don't download ANYTHING unless I absolutely HAVE to with the exception of browsers. I only download those from their official websites though.  I do play some games, I've only downloaded games from Steam, Origin, and Utomik. I do have all of their clients on my PC. Other than that, there's been NOTHING I've dl.  I only included that info because I thought it might help.  Can someone PLEASE help with this. I tried to look at the registry, I'm not seeing anything that seems amiss but I need more specifics - I've read the other questions and answers on this - but I don't know HOW to change anything to see if it helps. I already am scared to death to touch the registry.
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1260777,1559423884,1559682576,"Refreshed, now cannot access bookmarks, but DO have 'old Firefox data' file, nothing I have tried has worked.","<p>POINT ONE:  IMO, there needs to be a warning saying ""if you are thinking of doing a 'refresh' (sounds innocent enough) and are not intimately familiar with Firefox, bear in mind that it may take you hours, days or weeks to get back working online.  So don't do it unless you have to.""
+</p><p>Yes, I have the 'old Firefox data' file but several methods suggested for getting my bookmarks back have not worked.  I also did the procedure suggested to make an HTML file from the backup file, just in case I might need it, but I do not see the HTML file in 'documents'.  Is it somewhere else?  I could list some of the efforts I have made to get my bookmarks back but it would take several pages of typing.  Right now I have about 15 windows open from links on help pages for multiple ways to fix bookmarks problems, but after working on this for several hours I am hopelessly confused.   
+</p><p>For one example: I went to Library / hit 'bookmarks' / hit 'show all bookmarks' / hit 'import and backup' / hit 'restore' / hit 'OK' / get message:  ""unable to process backup file"".  
+</p><p>Should I throw the computer out, buy a new one and start over?  It would certainly be simpler.  But I absolutely DO need those bookmarks.
+</p><p>Thanks for any guidance on this.
+</p>",firefox-670;bookmarks;desktop;windows-10;,firefox,bookmarks,en-US
+1260776,1559423071,1559430566,cannot download firefox as 7-zip says cannot find the file specified,"<p>I have always used Firefox. I now have Windows 10 and the other day I went to open Firefox and it wouldn't. I downloaded it but it came up with '7-Zip cannot find the file specified'.
+Can you help?
+Thanks.
+</p>",download-and-install_1;desktop;,firefox,download-and-install,en-US
+1260771,1559415882,1559675566,"After Firefox 67, auto-filling passwords suddenly make the textboxes where they are entered completely disappear and you cannot tell what is going on.","<p>All details in the title, check the screenshot for more info. Apparently this happens only to me and only after updating to version 67, because I've seen other PCs running Firefox 67 without encountering this issue.
+P.S. For some reason the screenshot in the original post wouldn't show up, so I posted it as a reply. 
+</p><p><em>NotAnIceWolf <a href=""#answer-1226924"" rel=""nofollow"">said</a></em>
+</p>
+<blockquote>
+Screenshot here:
+</blockquote>
+<p>In the attached screenshot, the password HAS been auto-filled, and now the textboxes don't show up, but if I click on login, it works! It's a visual issue.
+Any help would be appreciated. 
+(A thought of mine: Could it be a graphics driver issue? I haven't changed 'em at all before or after the transition to version 67 though...)
+Thanks in advance, everyone!
+</p>",firefox-670;websites;desktop;windows-10;,firefox,websites,en-US
+1260770,1559415853,1559604087,Firefox incredibly slow in site,"<p>When accessing:
+</p><p><a href=""https://www.particulares.santandertotta.pt/pagina/indice/0,,276_1_2,00.html"" rel=""nofollow"">https://www.particulares.santandertotta.pt/pagina/indice/0,,276_1_2,00.html</a>
+</p><p>Firefox gets extremely slow.
+</p><p>I tried restarting with all plugins/addons disabled and the behavior is the same.
+</p><p>I looked at Firefox's task manager and it indicates no problems at all with this tab.
+</p><p>Chromium has no problem with this site.
+</p><p>What could be wrong with Firefox?
+</p>",firefox-670;desktop;fix-problems;linux;escalate;needsinfo;,firefox,fix-problems,en-US
+1260768,1559414872,1559573609,Why does browser console open when I start Firefox?,"<p>Hi all,
+Recently Firefox started to open the Browser Console window whenever I start Firefox. Why would it do this? FYI I'm running Firefox Beta on Windows 10 1803. I already tried the suggested fix elsewhere to reset the browser homepage to about:home (it was that already) and I am talking about the browser console not the developer tools.
+Cheers :)
+</p>",firefox-680;other;beta;desktop;windows-10;needsinfo;,firefox,other,en-US
+1260767,1559414580,1559414580,Tuge 213,"<p>Zona nyaman
+</p>",download-and-install_1;desktop;,firefox,download-and-install,en-US
+1260766,1559413546,1559413991,How to Delete weatherforecasttracker1.com,"<p>Please help this 84 year old.  I truly want to be rid of this stubborn nuisance toolbar. Is there a simple - understandable way to delete ?
+</p>",firefox-670;other;desktop;windows-7;,firefox,other,en-US
+1260765,1559413120,1559414403,"Can't install My Points Score, Firefox preventing permission; says already installed","<p>I was having trouble with My Points Score. I removed it with the intention of reinstalling it. Firefox won't allow permission and then when I go back to the original page where I clocked on download, it tells me it's already there. I can't find it and can't seem to reinstall. Help!
+</p>",firefox-670;other;desktop;windows-10;,firefox,other,en-US
+1260764,1559413120,1559413120,"Can't install My Points Score, Firefox preventing permission; says already installed","<p><i>Locking this thread.</i><br><i>Please continue here: [<a href=""/questions/1260765"" rel=""nofollow"">/questions/1260765</a>]</i><br>
+I was having trouble with My Points Score. I removed it with the intention of reinstalling it. Firefox won't allow permission and then when I go back to the original page where I clocked on download, it tells me it's already there. I can't find it and can't seem to reinstall. Help!
+</p>","",firefox,other,en-US
+1260763,1559412604,1559566369,"Menu de opções está em lista, como faço pra retornar aos ícones?","<p>Antigamente aquele menuzinho que a gente ia pras opções e afins, era em formato de ícone, igual a print 1:
+</p><p>Agora está do jeito da print 2: 
+</p><p><br>
+como eu faço pra deixar ela do jeito da print 1?
+</p>",firefox-670;customize;desktop;windows-10;menu;,firefox,customize,pt-BR
+1260762,1559412175,1559412175,"after update Firefox did your programm ""Firefox Installer"" always when i start the programm ... i can't delete it ..how i can do sonething that this stopped ???","<p>if u can explain it in german language ... i get always the Order to install the Firefox Installer !! ??  can't delet it so 
+i need littele help what to do .. i think its a bug or ??
+</p>",download-and-install_1;firefox-670;desktop;windows-10;,firefox,download-and-install,en-US
+1260761,1559411079,1559411079,How to fix broken text-to-speech voice?,"<p>Hello, I've recently discovered Firefox (using v. 67 here) text-to-speech feature available from the Reader Mode. However the result is pretty disappointing: <a href=""https://www.dropbox.com/s/beyeu1hwgn1zn2z/Enregistrer_20190601192750.m4a?dl=0"" rel=""nofollow"">https://www.dropbox.com/s/beyeu1hwgn1zn2z/Enregistrer_20190601192750.m4a?dl=0</a>. I suppose it's using the OS' text-to-speech engine, which apparently is not working properly. Is there an option to switch to a different engine? If not, any clue how to improve the situation? Gratefully yours.
+</p>",firefox-670;desktop;fix-problems;linux;,firefox,fix-problems,en-US
+1260760,1559409561,1559510552,"Discussion: Would you like the Awesome Bar (full-featured address bar) in Firefox redesigned? (June 1st, 2019)","<p>I sure would! If I could volunteer in any way to make this happen by January 31st, 2021, that would be great! I'd love it to look modern for the next several versions of Firefox for Windows, macOS, and Linux. Same is true for Fenix for Android. I, for one, am very compassionate about the active development of both those web browsers. One way the Awesome Bar can be changed for the better is to put more emphasis on webpages we've tagged in our Firefox bookmarks. I always add tags to any webpage that has important information like <a href=""https://www.visitmaryland.org/list/great-maryland-beaches"" rel=""nofollow"">https://www.visitmaryland.org/list/great-maryland-beaches</a>.
+</p>",firefox-670;other;desktop;windows-10;,firefox,other,en-US
+1260759,1559409509,1559444201,problem accessing my internet provider web site.,"<p>For several weeks (since an update to Firefox was installed) I have not been able to get FIrefox to connect to my internet service provider home page.
+I keep getting:
+</p><p>Unable to connect
+Firefox can’t establish a connection to the server at <a href=""http://www.iserv.net"" rel=""nofollow"">www.iserv.net</a>.
+</p><p><br>
+I can connect to many other web sites, and it isn't a firewall issue either.
+</p>",firefox-670;websites;desktop;windows-10;,firefox,websites,en-US
+1260758,1559409174,1559409174,I've done everything and it still asks me to sign in...hate this!!,"<p>I installed the new Firefox several days ago...asked me to enter my phone # to sync with the phone.  Installed Firefox on my phone and nothing happened...I STILL get the ""enter phone #"" message and I can't find any of my old bookmarks and the startup page is asking me to do a lot of s*&amp;^* just to get online.  I try to follow instructions but they are WAY to complex for me...HELP!!  This sucks...I liked the old Firefox and used it exclusively, but I'm gonna' bail on this if I can't get it going soon.
+</p>",firefox-670;sync;desktop;mac-os;,firefox,sync,en-US
+1260756,1559407929,1559486175,How do i integrate internet download manager with my firefox browser?,"<p>I downloaded Internet download manager, but is not integrated with my Firefox browser. How do I go about the integration of the software with Firefox?
+</p>",firefox-670;customize;desktop;windows-7;,firefox,customize,en-US
+1260754,1559406466,1559517603,I want my bookmarks back ! Where are they ?,"<p>All my bookmarks appear to be gone after installing the latest Firefox.
+My efforts to find them have resulted in total frustration.
+There must be a folder somewhere.
+</p><p>Please help, it can't be this difficult. I have been very pleased with Firefox for years.
+</p><pre>Thanks
+</pre>",firefox-670;bookmarks;desktop;windows-7;,firefox,bookmarks,en-US
+1260753,1559404977,1559406365,How to change default page view from 120% to 100%?,"<p>Every page opens in a 120% zoomed state which I find annoying. Is there any option in about:config which will allow me to change the default page view to 100% please?
+</p>",firefox-6402;other;firefox-640;desktop;windows-7;,firefox,other,en-US
+1260751,1559403138,1559403138,search suggestions from bookmark appear alphabetically instead of by usage,"<p>i recently updated to firefox 67 from a two year old version of firefox, 56. i have all the same settings and stuff from the older version, basically search suggestion is disabled, history is disabled, it will only return results from stuff i have bookmarked.
+</p><p>when i type something into the search bar, the results appear alphabetically. before, it prioritized websites i visited most often. i don't think i had any special addons to do this. i could just type ""y"" and youtube would be the first result, but now i have to type ""youtu""... same with some forums i visited, i could simply type ""w"" and the first result would be that forum, now it displays ""<a href=""http://www.usajobs.gov/"" rel=""nofollow"">http://www.usajobs.gov/</a>""... there isn't even a ""w"" in that, aside from the www...
+</p><p>do i have to just set up keywords for everything? that would work, i didn't have any before though.
+</p>",firefox-600;other;desktop;,firefox,other,en-US
+1260748,1559400937,1559407675,Firefox fell. Doesn't open at all,"<p>Crash ID: bp-f5c76f10-e0ef-4097-873c-e7b072160926
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US
+1260747,1559395209,1559551179,share camera and microphone,"<p>Using Firefox Developer 68.0b6 x64 on Windows 7
+</p><p>Trying to use Google Hangouts, but cannot share camera mic.  Not prompted to, and FF settings wont allow adding web address to [permissions as per help in <a href=""https://support.mozilla.org/en-US/kb/how-manage-your-camera-and-microphone-permissions"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/how-manage-your-camera-and-microphone-permissions</a>.
+</p><p>What other options are there?  Works fine in Opera, Chrome.  Big disappointment that you guys have shut it out.
+</p>",firefox-680;beta;desktop;privacy-and-security_1;windows-7;,firefox,privacy-and-security,en-US
+1260746,1559393932,1559406869,temp very hot,"<p>When I visit a website like <a href=""http://Imgur.com"" rel=""nofollow"">Imgur.com</a> with Firefox in a few minutes the fans turn on: my MacbookPro early 2015 with 16GB internal memory is getting very hot. Visiting the same website with Vivaldi: no problems with a rising temperature. Why is FF causing a rising temperature?
+</p><p>greeting,
+</p><p>marten
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US
+1260745,1559392342,1559392399,Firefox with 240hz getting big delay by default.,"<p>I had a question in ""<a href=""https://support.mozilla.org/ko/questions/1259528"" rel=""nofollow"">https://support.mozilla.org/ko/questions/1259528</a>""
+but it was not resolved and I solved it myself.
+</p><p>Firefox with 240hz monitor and adblocker getting BIIIIIIG delay.
+</p><p>Firefox + 240hz + ublock = Delayed
+Firefox + 240hz + Adguard = Delayed
+Firefox + 240hz + adblock = Delayed
+Firefox + 240hz + Ghostery = Delayed
+Firefox + 240hz + No ad blocker = Normal
+Firefox + 144hz + ublock = Normal
+Firefox + 120hz + ublock = Normal
+</p><p>and my solution is  : 
+layers.offmainthreadcomposition.frame-rate : 240 (default -1)
+layout.display-list.rebuild-frame-limit : 2000 (default 500)
+layout.frame_rate : 240 (default -1)
+</p><p>i found -1, 0 and larger value means, but -1/0 has lower performance with my browser.
+0 : also get sync. even if sync should not be applied. performance is also lower than the default.
+240 : in this case, performance is the same with default. but not delayed.
+</p><p>I think this is a bug, but I do not know where the bug comes from.
+How can I confirm and fix the cause, and can I also report it?
+Or can you help me to report in detail instead?
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1260744,1559391627,1559408437,"Firefox keeps hiding the full screen, minimize, and close buttons. How do I stop this from happening?  Chrome and I.E. don't do this.","<p>I cannot see the maximize, minimize, or close buttons with Firefox Quantum. It makes it very annoying to manipulate windows so I'm tending to go back to using Chrome even though I prefer Firefox. I've tried to correct this though Options and Customize but there seems to be no solution there.
+</p>",firefox-670;customize;desktop;windows-7;,firefox,customize,en-US
+1260743,1559391084,1559398355,"How do I get rid of a ""picture"" containing Mozilla logo, camera drawing and microphone drawing on the top of my screen when I'm talking over Google Hangouts?","<p>The thing is always ""on the top"" covering part of any window I open, which is annoying, as well as ""on the top"" as in the upper part of my screen. I can only move it left and right. Can I hide it?
+</p><p>Thanks for any help,
+Rafau
+</p>",firefox-670;other;desktop;windows-10;,firefox,other,en-US
+1260742,1559389953,1559447503,How to automatically update pinned tabs when network is reconnected?,"<p>There are several pinned tabs when I open my Firefox.
+</p><p>The problem is when there is no Internet connection, these tabs are displayed as requiring network connection.
+However when the network is connected, these tabs are not automatically updated - they still displayed as requiring network connection. I have to refresh each one of them.
+</p><p>Is that my configuration has problem, or the automatically refresh tab function is missing?
+</p><p>Thanks
+wxie
+</p>",tabs;firefox-600;desktop;linux;,firefox,tabs,en-US
+1260734,1559386241,1559386241,translate this page does not work,"<p>Hi, Need help on this. I am using Firefox with Google Search. When I search chinese words using google, most of the time the search will display mostly all in chinese words. And beside there, there is a ""Translate This Page"", where I when I click on it, it will translate the webpage to English.
+But now when I click it, it shows ""400 That's an error"". Can some help me in solving this. Thanks.
+</p>",firefox-670;other;desktop;mac-os;,firefox,other,en-US
+1260732,1559386107,1559594258,How to remove pop-up information windows in the lower left corner of the screen? It interferes with watching movies or videos.,"<p>When watching a video or movie in Firefox browser in the lower left corner of the screen all the time pop up panels with addresses. Very annoying.There is another photo where this pop-up window is shown. Who knows the answer. Thanks in advance!
+</p>",firefox-670;customize;desktop;windows-7;,firefox,customize,en-US
+1260731,1559384411,1559389513,"How to set Firefox  64 bit as default browser, when both 32 bit and 64 bit is installed.","<p>I have both Firefox 32 bit and Firefox 64 bit installed in my Win 10 system. I want to set Firefox 64 bit as default browser for the system, but the option for the same is not available in the Default Apps of Windows  10. It sets the 32 bit version as the default browser, which doesn't open when 64 bit Firefox is open. 
+</p><p>Can someone help me set Firefox 64 bit as default browser?
+</p>",firefox-670;other;desktop;windows-10;,firefox,other,en-US
+1260730,1559383646,1559384247,"Like to Know if Flash is going to improve on FIREFOX as it is mostky what I use in firefox, is there a better way than having to click alow flash? thank you reg","<p>why is Flash Not loading Properly, it is such wast of time but I like the rest of Firefox,so now I have to use 2 browsers and Firefox is not my Default because of the bad loading of Flash, anyone got sugestions
+thank you Mike
+</p>",firefox-670;other;desktop;mac-os;,firefox,other,en-US
+1260729,1559382643,1559416932,Multi account containers,"<p>This add on seems worthless, and non functional. There is a video reference in the description BUT NO LINK PROVIDED!!!
+</p><p>Initially is  sorta worked, forcing me to click ""always open in default"" when I had already assigned a container, now all I can do is edit containers. No longer able to open windows in separate containers. 
+</p><p>Anyone know anything about this USELESS add on?
+</p>",firefox-670;customize;desktop;windows-10;,firefox,customize,en-US
+1260728,1559381923,1559404129,File lenght in firefox\ storage\default has increased affecting backup,"<p>This is feedback - I don't need any answers.
+Feedback is - in summary - that some of the file names used in firefox\ storage\default have recently become quite long and are at risk of affecting personal backup routines (they did affect my backup routines)
+More detail
+For several years I’ve been running backup every night without problems.  Recently – over perhaps the last couple of months – the files in firefox\ storage\default, together with my backup path details, give path lengths that exceeded the Windows 10 limit and give errors in my backup.  I don’t use the default location for firefox files.  I've solved this by shortening the paths to my firefox file location.
+I've attached examples, showing path lengths, of files in firefox\ storage\default at my shortened firefox file location (showing path lengths).
+</p><p>Chris
+</p>",firefox-670;other;desktop;,firefox,other,en-US
+1260727,1559380605,1559389600,is it compulsory to upgrade to get a recaphcha,"<p>Upgrade to the supported browser to get recaphcha challenge
+</p>",firefox-670;other;desktop;windows-81;,firefox,other,en-US
+1260726,1559380155,1559389645,Firefox 67.0 does not allow ebay payments,"<p>After all the annoying nagging I have now updated Firefox from V65 to 67.0. When trying to pay ebay purchases in any form (paypal, credit card ...), there is no response. Everything worked previously in V65, and it works on Google Chrome.
+</p>",firefox-670;other;desktop;windows-7;,firefox,other,en-US
+1260725,1559378448,1559389806,"Previously, firefox had the system to automatically resume the failed downloads, but now it's not happening that way.","<p>If the download gets interrupted somehow due to network problems or sleep mode of the laptop, it is not resuming from the same point as it happened before in firefox. Rather, file starts getting downloaded from the beginning.
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1260724,1559378154,1559378154,"Previously, firefox had the system to automatically resume the failed downloads, but now it's not happening that way.","<p><em>[Locked as a duplicate of <a href=""https://support.mozilla.org/en-US/questions/1260725"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1260725</a>. Please follow up there, thanks.]</em>
+</p><p><br>
+If the download gets interrupted somehow due to network problem or sleep mode of the laptop, it is not getting resumed from the previous point. Rather, it starts downloading the whole file from the start. The problem wasn't there before and is occurring from a while ago.
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1260723,1559377297,1559377297,Drag and drop files doesn't work,"<p>A couple of times now, I've been in online forums and put up posts where they ask for additional info. Most times it's a file of a screen grab etc, but when I try to drag the file into the appropriate box on the submission section of the online form, the action fails and the file does not appear.
+</p><p>I've tried this in other browsers, and it works fine but for some reason, FF blocks this action.
+</p><p>My version of FF is:   67.0 (64-bit)
+</p><p>Any assistance solving this annoyance would be helpful.  Thanks
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1260720,1559368171,1559404667,"When dragging a tab into another window, an afterimage will sometimes stay behind that can only be resolved by restarting the computer.","<p>Hello. I have an issue where, basically what happens is that I drag a tab from one monitor to the other. The tab correctly expands once I release the mouse, but the thumbnail persists. After that, the only solution is to restart the computer. Shutting down the Firefox process tree does nothing; restarting explorer.exe to redraw the Desktop does nothing. That thumbnail is a persistent little bugger, and it overlays itself on top of every other window as well, making it quite bothersome.
+</p><p>The curious thing is that this bug is *old*. Like, *old* old. It's actually one of the reasons I originally switched away from Firefox about six or seven years ago, which is why I'm so surprised that it's still around and that nobody is talking about it, according to a quick Google search.
+</p><p>Add-ons, cache, or similar things can't be the problem, because this is essentially a reinstall of Firefox.
+</p><p>I hope you can figure this one out. As you can imagine, having to restart the computer every once in a while after dragging a tab from one window to a new one is not really realistic long-term.
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1260719,1559365213,1559489985,I can't find any of my old data before firefox updated today.,"<p>Firefox recently updated(without my permission) and i have no idea how to recover my old data.
+</p><p>When I started up firefox, it came with information telling me to sync to an email and my phone and i did all that.i just cant find anyway of restoring my data. I've tried using this thread to help me but i can't find the old firefox data folder. <a href=""https://support.mozilla.org/en-US/questions/1195682"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1195682</a>
+</p><p>I also remember having mulitiple add-ons like no script and ad blocker plus but i don't know which version they were.
+</p><p>if anyone has information, if would be great if you could help me.
+</p>",firefox-670;sync;desktop;windows-10;,firefox,sync,en-US
+1260718,1559359865,1559409602,"Gaps apper after groups of characters in a rendered html, not in the code html, but whatever firefox uses to render what we see when open a page.","<p>Loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong
+</p><p>If you take that long word put in a .html, and render, for me shows small gaps after groups of 9, 14, 18, 20... characters. The number of characters may change in different tags, like tables or a div, but always show small gaps. Tested in chromiun, but just works fine, without this gaps.
+</p><p>In online text editor does not show, but when rendered is shows.
+</p><p>Another detail, you need a css to force the word to break. And when this lines are created by the brake is when the gaps are visible. The css code used in that flow:
+</p><p><br>
+tag {
+word-break: break-word;     //1 For chromiun
+word-wrap: break-word;      //2 For chromiun
+overflow-wrap: anywhere;   //3 For Firefox
+}
+</p>",firefox-670;other;desktop;linux;escalate;,firefox,other,en-US
+1260715,1559358558,1559358558,all ok,"<p>Saikumar
+</p>",sync;desktop;,firefox,sync,en-US
+1260714,1559355543,1559367242,"You are advertising stopping crytominers but there is no option for this to tick, in the area suggested.","<p>hi, you are advertising to stop crytominers but when i go looking for this option it isn't here in the latest version 67.0
+</p><p>or is this coming?
+</p><p>Thanks
+</p>",firefox-670;desktop;windows-7;,firefox,other,en-US
