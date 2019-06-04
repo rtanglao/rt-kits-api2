@@ -44,7 +44,7 @@ end
 # because of issue 3686, https://github.com/mozilla/kitsune/issues/3686, 
 # go back one day and forward one day
 created_time = DateTime.new(ARGV[0].to_i, ARGV[1].to_i, ARGV[2].to_i)
-MIN_TIME = created_time.to_time._to_i
+MIN_TIME = created_time.to_time.to_i
 MAX_TIME = DateTime.new(ARGV[0].to_i, ARGV[1].to_i, ARGV[2].to_i, 23, 59).to_time.to_i
 created_time_minus_1day = created_time - 1
 greater_than = created_time_minus_1day.strftime("%Y-%-m-%-e")
@@ -101,9 +101,9 @@ while !end_program
     tag_str = ""
     tags.each { |t| tag_str = tag_str + t["slug"] + ";"   }
     created = q["created"]
-    if created >= MIN_TIME && <= MAX_TIME
+    if created >= MIN_TIME && created <= MAX_TIME
       csv.push(
-        id, q["created"].to_s, q["updated"].to_s, q["title"], q["content"], 
+        id, created.to_s, q["updated"].to_s, q["title"], q["content"], 
         tag_str, q["product"], q["topic"], q["locale"])
     else
       logger.debug "SKIPPING"
