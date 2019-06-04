@@ -46,7 +46,7 @@ created_str = ARGV[0] + "-" + ARGV[1] + "-" + ARGV[2]
 url_params = {
   :format => "json",
   :product => "firefox", 
-  :created__exact => created_str,
+  :created => created_str,
   :ordering => "+created",
 } 
 
