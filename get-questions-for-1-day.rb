@@ -58,10 +58,9 @@ logger.debug "less than:" + less_than
 url_params = {
   :format => "json",
   :product => "firefox", 
-  #:created => created_str,
   :created__gt => greater_than,
   :created__lt => less_than,
-  :ordering => "+created",
+  :ordering => "-created",
 } 
 
 url = "https://support.mozilla.org/api/2/question/"
