@@ -12,7 +12,7 @@ logger = Logger.new(STDERR)
 logger.level = Logger::DEBUG
 
 if ARGV.length < 1
-	puts "usage: #{$0} [sumoquestions.csv]"  
+  puts "usage: #{$0} [sumoquestions.csv]"  
   exit
 end
 
