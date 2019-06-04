@@ -95,7 +95,7 @@ while !end_program
     logger.debug "QUESTION id:" + id.to_s
     question_number += 1
     logger.debug "QUESTION number:" + question_number.to_s
-    logger.debug "url" + url
+    # logger.debug "url" + url
     if question["created"] < MIN_DATE || url.nil?
       end_program = true
       break
