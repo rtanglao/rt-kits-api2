@@ -78,13 +78,13 @@ while !end_program
     created = Time.parse(question["created"])
     logger.debug "QUESTION created w/error:" + created.to_i.to_s
     question["created"] = created.to_i + issue_3686_offset
-    logger.debug "Question created w/error fixed:" + question["created"]
+    logger.debug "Question created w/error fixed:" + question["created"].to_s
     logger.debug "updated:" + updated
     if !updated.nil?
       updated = Time.parse(question["updated"])
       logger.debug "QUESTION updated w/error:" + updated.to_i.to_s
       question["updated"] = updated.to_i + issue_3686_offset
-      logger.debug "Question updated w/error fixed:" + question["updated"]
+      logger.debug "Question updated w/error fixed:" + question["updated"].to_S
     end
     exit
     if created < MIN_DATE
