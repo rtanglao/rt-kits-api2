@@ -13,11 +13,12 @@ logger = Logger.new(STDERR)
 logger.level = Logger::DEBUG
 
 def getKitsuneResponse(url, params, logger)
+  logger.debug url
+  logger.debug params
   try_count = 0
   begin
     result = Typhoeus::Request.get(url,
                                  :params => params )
-    logger.debug result.ai
     x = JSON.parse(result.body)
   rescue JSON::ParserError => e
     try_count += 1
@@ -45,7 +46,7 @@ created_str = ARGV[0] + "-" + ARGV[1] + "-" + ARGV[2]
 url_params = {
   :format => "json",
   :product => "firefox", 
-  :created__exact => "en-US" + created_str,
+  :created__exact => created_str,
   :ordering => "+created",
 } 
 
