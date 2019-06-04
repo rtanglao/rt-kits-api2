@@ -19,6 +19,7 @@ end
 FILENAME = ARGV[0]
 
 CSV.foreach(FILENAME, :headers => true) do |row|
+  next if row['locale'] != "en=US" || row['product'] != 'firefox'
   puts row['id'] 
 end
 
