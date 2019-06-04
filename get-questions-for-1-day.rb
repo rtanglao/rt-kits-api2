@@ -60,6 +60,8 @@ while !end_program
   sleep(1.0) # sleep 1 second between API calls
   questions  = getKitsuneResponse(url, url_params, logger)
   logger.debug questions.ai
+  created_1st = Time.parse(questions["results"][0]).to_i
+  logger.debug created_1st.to_s
   exit
   url = questions["next"]
   logger.debug "next url:" + url
