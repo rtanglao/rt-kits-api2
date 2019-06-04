@@ -87,7 +87,6 @@ while !end_program
       question["updated"] = updated.to_i + issue_3686_offset
       logger.debug "Question updated w/error fixed:" + question["updated"].to_s
     end
-    exit
     if created < MIN_DATE
       end_program = true
       break
