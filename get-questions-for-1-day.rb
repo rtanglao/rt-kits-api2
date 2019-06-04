@@ -47,6 +47,7 @@ created_str = ARGV[0] + "-" + ARGV[1] + "-" + ARGV[2]
 created_time = DateTime.new(ARGV[0].to_i, ARGV[1].to_i, ARGV[2].to_i)
 created_time_minus_1day = created_time - 1
 greater_than = created_time_minus_1day.strftime("%Y-%-m-%-e")
+MIN_DATE = greater_than.to_time
 created_time_plus_1day = created_time + 1
 less_than = created_time_plus_1day.strftime("%Y-%-m-%-e")
 
