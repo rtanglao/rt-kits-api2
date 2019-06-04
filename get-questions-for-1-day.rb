@@ -59,7 +59,7 @@ question_number = 0
 while !end_program
   sleep(1.0) # sleep 1 second between API calls
   questions  = getKitsuneResponse(url, url_params, logger)
-  logger.debug questions.ai
+  #logger.debug questions.ai
   questions2 = questions["results"].to_a
   created_1st = Time.parse(questions2[0]["created"]).to_i
   logger.debug created_1st.to_s
