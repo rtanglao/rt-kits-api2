@@ -80,12 +80,13 @@ while !end_program
   url_params = nil
   questions["results"].each do|question|
     updated = question["updated"]
+    logger.debug "created:" + question["created"]
     created = Time.parse(question["created"])
     logger.debug "QUESTION created w/error:" + created.to_i.to_s
     question["created"] = created.to_i + issue_3686_offset
     logger.debug "Question created w/error fixed:" + question["created"].to_s
-    logger.debug "updated:" + updated
     if !updated.nil?
+      logger.debug "updated:" + updated
       updated = Time.parse(question["updated"])
       logger.debug "QUESTION updated w/error:" + updated.to_i.to_s
       question["updated"] = updated.to_i + issue_3686_offset
