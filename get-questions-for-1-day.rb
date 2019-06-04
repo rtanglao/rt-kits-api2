@@ -118,9 +118,9 @@ while !end_program
   end 
 end
 headers = ['id', 'created', 'updated', 'title', 'content', 'tags', 'product', 'topic', 'locale']
-FILENAME = sprintf("4.4d-%2.2d-%2.2d-firefox-desktop-all-locales.csv", ARGV[0].to_i, ARGV[1].to_i, 
+FILENAME = sprintf("%4.4d-%2.2d-%2.2d-firefox-desktop-all-locales.csv", ARGV[0].to_i, ARGV[1].to_i, 
   ARGV[2].to_i)
-CSV.open(FILENAME, write_headers: true, headers: headers) do |csv_object|
+CSV.open(FILENAME, "w", write_headers: true, headers: headers) do |csv_object|
   csv.each do |row_array|
     csv_object << row_array
   end
