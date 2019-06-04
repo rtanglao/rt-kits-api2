@@ -120,4 +120,8 @@ end
 headers = ['id', 'created', 'updated', 'title', 'content', 'tags', 'product', 'topic', 'locale']
 FILENAME = sprintf("4.4d-%2.2d-%2.2d-firefox-desktop-all-locales.csv", ARGV[0].to_i, ARGV[1].to_i, 
   ARGV[2].to_i)
-File.write(FILENAME, csv.map(&:to_row).join)
+CSV.open(FILENAME, write_headers: true, headers: headers) do |csv_object|
+  csv.each do |row_array|
+    csv_object << row_array
+  end
+end
