@@ -60,7 +60,7 @@ url_params = {
   :product => "firefox", 
   :created__gt => greater_than,
   :created__lt => less_than,
-  :ordering => "-created",
+  :ordering => "+created",
 } 
 
 url = "https://support.mozilla.org/api/2/question/"
