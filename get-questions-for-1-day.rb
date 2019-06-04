@@ -67,7 +67,7 @@ url = "https://support.mozilla.org/api/2/question/"
 end_program = false
 question_number = 0
 issue_3686_offset = 7 * 3600 # 7 hours off
-  
+csv = []  
 while !end_program
   sleep(1.0) # sleep 1 second between API calls
   questions  = getKitsuneResponse(url, url_params, logger)
@@ -96,10 +96,16 @@ while !end_program
     logger.debug "QUESTION id:" + id.to_s
     question_number += 1
     logger.debug "QUESTION number:" + question_number.to_s
-    # logger.debug "url" + url
+    tags = q["tags"]
+    tag_str = ""
+    tags.each { |t| tag_str = tag_str + t["slug"] + ";"   }
+    csv.push(
+      id, q["created"].to_s, q["updated"].to_s, q["title"], q["content"], 
+      tag_str, q["product"], q["topic"], q["locale"])
     if question["created"] < MIN_DATE || url.nil?
       end_program = true
       break
     end
+
   end 
 end
