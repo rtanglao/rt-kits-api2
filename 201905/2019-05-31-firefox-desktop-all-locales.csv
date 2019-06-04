@@ -1,0 +1,117 @@
+id,created,updated,title,content,tags,product,topic,locale
+1260712,1559346756,1559347847,what happened to my bookmarks and web pages,"<p>I restarted my computer and had previously set up firefox to save all tabs, I had a month of work saved here and it was to always open the tabs after closing the program. I also have about 50 sites book marked for my work and everything disappeared with a new version of firefox of course it said on the new landing page that I didnt lose my work or bookmarks everything is gone and I cant find them anywhere nor is there any instructions as to how I can restore it. I rolled back the computer to an earlier date and the system restore point didnt bring back the information either.--HELP
+</p>",download-and-install_1;firefox-670;desktop;windows-7;,firefox,download-and-install,en-US
+1260706,1559337750,1559349414,All my extensions stopped today. All are allowed in private windows.,"<p>All my extensions stopped today. All are allowed in private windows, in their extension settings. My FireFox version is ""up to date"".
+</p><p>The instructions here (<a href=""https://support.mozilla.org/en-US/kb/extensions-private-browsing?as=u&amp;utm_source=inproduct"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/extensions-private-browsing?as=u&amp;utm_source=inproduct</a>) therefore don't solve this problem.
+</p><p>I just tried uploading a screenshot showing extension card have private windows ""allowed"", but upload doesn't complete (a related issue??).
+</p><p>How can I get my extensions working again?
+</p>",firefox-670;other;desktop;windows-7;,firefox,other,en-US
+1260704,1559336690,1559337040,REmove GRAMMARLY  program,"<p>Can't find  GRAMMARLY  program.  It was   downloaded from  their website  and
+</p><pre>confirmed program attached to Firefox.
+</pre>
+<p>I wish to remove it  from computer
+</p><p>Thank you
+</p>",firefox-670;customize;desktop;windows-7;,firefox,customize,en-US
+1260702,1559335849,1559350662,Durante a extração sempre dá arquivo corrompido. Já fiz 3 downloads e não resolve.,"<p>Eu fiz o download do arquivo de instalação e por 3 vezes. Ao executar a extração está aparecendo a mensagem de file corrupt... 
+Como resolver?
+</p>",desktop;fix-problems;download-and-install_1;needsinfo;downloads;,firefox,fix-problems,pt-BR
+1260701,1559334638,1559334638,"I tried to ""reset"" my account synced on my desktop, tablet and phone no password reset came to my e-mail account","<p>I have a desktop, tablet &amp; phone set up with Firefox sync account - I set up the sync last December and then hadn't logged-in to Firefox since then.  Today I wanted to update my tablet with the same icon shortcuts &amp; favorite bookmarks.  When I tried to find this option to make the tablet the same interface as the desktop, I couldn't find any settings on the tablet to do that so, I wanted to go to the sync account to try matching up the tablet and when I tried to sign-in my password was no longer recognized - I hadn't changed it so, after 3 separate tries to log-in, I did a password reset.  When I went to my e-mail account there was ""NO"" e-mail from Firefox for the reset at all.  I have uninstalled Firefox on my tablet &amp; phone and am only using the desktop for now.  Is there anyway to get a reset or at least create a new account using my current e-mail address?  Why is there no e-mail ""reset"" coming from Firefox?
+</p>",firefox-670;other;desktop;windows-10;,firefox,other,en-US
+1260699,1559333418,1559357988,Cómo hago para que mis decargas vayan a descargas y no a Programas (C:)?,"<p>Veo que la ruta de descargas es correcta y aún así cuando descargo no coloca mis descargas donde quiero, sino en  C:\Users\David Peñaloza\AppData\Local\Temp en el disco.
+</p>",firefox-670;customize;desktop;windows-10;,firefox,customize,es
+1260696,1559328413,1559329087,I can't get Firefox to close,"<p>I cannoy uninstall or upgrade Firefox because it's still running even though I can't open it
+</p>",other;desktop;windows-10;,firefox,other,en-US
+1260693,1559323493,1559431475,Adding gmail or outlook 16 to the customized toolbar,"<p>I had ms outlook mail which I uninstalled,  on my toolbar, but now have MS Office 2016 as my email or should I say outlook 2016. The 'mail' icon in FF customized toolbar, still brings up the old outlook, which of course is a blank page.  I've moved  the mail icon back to the 'bookmark toolbar items', restarted ff browser  and moved the 'mail envelope' back into the toolbar.  Same problem.  It brings up an old email that no longer exists except for 'Choose which account to send the email from' and 'cancel'.  I can't type in the blue box and there's no place to add the correct email.  I hope I'm explaining this right so someone can steer me in the right direction.
+</p>",firefox-670;other;desktop;windows-10;,firefox,other,en-US
+1260692,1559322902,1559333926,Recently Firefox has changed the format of quiltingboard.com and it is not as it shoud be.  Other browers have not changed this.  Help!,"<p>I check, daily, a forum, <a href=""http://quiltingboard.com"" rel=""nofollow"">quiltingboard.com</a>.  In the last few days Firefox opens it in a new format which I do not like.  I cannot change settings, etc.  I have contacted the moderators and they have not changed anything.  Opening it in different browsers gives me the original, correct format.  I would love a solution to this.
+</p>",firefox-670;other;desktop;windows-10;,firefox,other,en-US
+1260691,1559322200,1559327456,"Cannot get rid of searchitnow, help!!!!!!","<p>Have been through everything, got rid of it for a while but it came back, only with Firefox..... Seems to come back after 3 entries into Firefox. Thanks Alex
+</p>",firefox-670;other;desktop;mac-os;,firefox,other,en-US
+1260690,1559322236,1559322236,yer imlerine ulaşamıyorum,"<p>eski sürümde kullanmış oldugum yer imlerine ve kullanıcı parolalarıma ulaşamıyorum çok büyük  sıkıntıdayım yapmış oldugunuz güncellemeyle yaşadığım sorunun sorumlusu sizlersiniz.. sırf bu durum yüzünden browser kullanımında sizi tercih etmeyeceğim
+</p>",bookmarks;desktop;windows-10;,firefox,bookmarks,tr
+1260688,1559318615,1559322745,How can I pass an `about:config` value in the command line?,"<p>I want to be able to call firefox from the command line, and I would like to pass specific configs from the `about:config` page when it's instantiated. How do I do that?
+</p>",other;desktop;,firefox,other,en-US
+1260687,1559318436,1559351271,I downloaded Firefox twice by mistake and don't want to install second download. What do I do?,"<p>I thought the initial download was not working. I had tried twice before and it never appeared in downloads. This time it did, but I had already tried again. My laptop is fast at some things, slow at others.
+</p>",download-and-install_1;,firefox,install-and-update-firefox,en-US
+1260686,1559315605,1559339631,"firefox opens, goes to site searched for, and crashes.","<p>Firefox opens, goes to site searched for, and crashes. doesn't matter where the site is, FB, Amazon, Ebay, whatever, as soon as I get to the new site, it crashes. I have completed a virus scan, malware scan, defrag, reboot, and driver check without finding a problem.
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US
+1260682,1559327521,1559336792,Reduce buffer between Bookmark Toolbar icons?,"<p>I just updated from a much older version of Firefox, and now fewer bookmark icons fit in my bookmarks toolbar. I'm hoping there's a way in about:config that I can reduce the buffer space between Bookmarks Toolbar icons. 
+</p><p>(Yes, I already deleted the names on the bookmarks in my toolbar, I'm way past that for many years now.)
+</p><p>Would really appreciate some quick pointers on this, since it's dumped 18 icons into the expansion area....
+</p>",firefox-670;customize;desktop;windows-7;,firefox,customize,en-US
+1260679,1559310350,1559316344,Why do some websites indicate I am in Private Mode when I am not,"<p>The NY Times and The Washington Post both indicate I am in Private mode and I can not access articles without logging in to their sites vs just seeing articles which I could do last week.
+</p>",firefox-600;desktop;privacy-and-security_1;windows-7;needsinfo;,firefox,privacy-and-security,en-US
+1260675,1559303235,1559314940,in private browsing does a new tab open in private,"<p>If I click on a search result done in a private tab and it opens a new tab, is the new tab in private mode also?
+In other words, if I open Firefox in Private mode, are any tabs that are created, automatically or manually,  also private??
+</p><p>Also, I'm assuming that if I have Firefox, in normal mode, set up to delete everything on exit, then that's basically the same as Private browsing.  True??
+</p>",firefox-670;privacy-and-security_1;desktop;windows-10;,firefox,privacy-and-security,en-US
+1260672,1559300775,1559326168,How can I use multiple profiles and get links to open on the last used window?,"<p>I use multiple profiles for work and personal browsing, and it's very important that I know which window will open a link when I click it.
+</p><p>I do this today on Chrome by focusing on the browser I want to receive the link before clicking it.
+Otherwise you have to constantly copy/paste a link from one window into another, which is a huge time waste.
+</p><p>This is today, the only thing that is stopping me from moving from Chrome to Firefox. Perhaps I missed something when I tried doing this in the past. Is there a setting or something else that can get Firefox to have a similar behavior?
+</p>",other;desktop;,firefox,other,en-US
+1260671,1559299344,1559316159,My Firefox bookmarks suddenly gone,"<p>This morning I opened my Firefox and used my bookmarks.
+Closed Firefox.
+Reopened Firefox and all my bookmarks are gone.
+</p><p>Luckily I make regular html backups and could restore them.
+</p><p>It is just that I would like to know what happened here.
+</p><p>I must say that:
+I use Firefox on an Android tablet where I never change the bookmarks, and on my laptop where I change them very often.
+Since a month I got the warning that Firefox was not syncing anymore. I was asked to reconnect to sync.
+This was on my laptop. Being afraid that reconnecting to sync would install the bookmarks from the Tablet on the laptop I disconnected from sync. But this was 2 days ago!!!
+Can this have caused the bookmarks suddenly disappearing?
+</p>",firefox-670;bookmarks;desktop;windows-10;syncerr;sync;,firefox,bookmarks,en-US
+1260670,1559297670,1559339280,new windows start without add-ons when I click a link,"<p>For years I use Firefox portable. Current version Quantum 67.0 (64-bit). For 2 weeks now, if I start Firefox everything works fine, but if I click on a link in an e-mail, a new Firefox WINDOW opens with the same version, but without the add-ons and different Options (about:preferences). Before this problem, a new TAB opened in the already open Firefox window with all add-ons. I didn’t find a fix (a new install and new default browser stetting) didn’t help.
+</p>",firefox-670;customize;desktop;windows-7;,firefox,customize,en-US
+1260666,1559295997,1559581074,"U Firefoxu 67.0 jsem zjistil, že nelze přetáhnout stránku jako odkaz na Plochu.","<p>U Firefoxu 67.0 jsem zjistil, že nelze přetáhnout stránku jako odkaz na Plochu pomocí myši. Stále se mi zobrazuje symbol přeškrtnutého kruhu a nic se na Plochu neuloží. Přitom v předchozích verzích Firefoxu to šlo. Pokud by někdo věděl jak to opravit, tak bych byl rád.
+</p><p>Trashman
+</p>",firefox-670;customize;desktop;windows-7;,firefox,customize,cs
+1260665,1559295951,1559541294,FF superb with multi-tabs often open until Win10+other May updates; HDD now soon constantly active + tab hover summaries all show the same- until system restart,"<p>The above repeatedly now brings up the yellow bar message that a web page is slowing loading (wait vs close) or various apps open show 'not responding' (e.g. LibreOffice Writer mostly used)  though do so after ponderous wait.   Problem then persists if other apps are closed, leaving only FF running.  The problem seems to build relatively soon after each restart when the HDD starts persistent activity even when nothing much being actively used.  Previously would leave system running for weeks before any signs of restart being preferable.
+Thorough scans, check on drive capacity, file integrity and fragmentation levels, clearing cookies and site data, etc don't reveal anything amiss.     It could of course be unrelated to FF such as if any conflict between Bitdefender and Win10 inbuilt security though none reported.    Open tabs are typically held over a restart.  restarts can be quite slow as though some temp cache being cleared.
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1260662,1559293327,1559323038,"back button is not working on ""https://caliroots.com/""","<p>Wherever in the site ""<a href=""https://caliroots.com/"" rel=""nofollow"">https://caliroots.com/</a>"" the back button doesn't work in Firefox? Only back button and update button seems to reload but nothing else in the page is neither re-loading or re-directing you back to previous page.  This issue is not only for me but anyone tryin in the website.
+</p>",firefox-670;customize;desktop;windows-10;,firefox,customize,en-US
+1260661,1559293238,1559313817,Why does my GWT application no longer work using version 67?,"<p>After upgrading to firefox 67, we sometimes have problems with our GWT based web applications. The error is listed below. The error prevents our application from starting.
+</p><p>The exact same application works fine on Chrome, it works fine in older versions of Firefox and it also works fine in the latest beta of Firefox 68 (b5).
+</p><p>The error is:
+</p><p>SEVERE: Uncaught Web UI exception
+java.lang.NullPointerException: TypeError: <a href=""http://a.AE"" rel=""nofollow"">a.AE</a> is not a function
+	at Unknown.Rvw(webui-0.js)
+	at Unknown._4c(webui-0.js)
+	at Unknown.M8o(webui-0.js)
+	at Unknown.J8o(webui-0.js)
+	at Unknown.K8o(webui-0.js)
+	at Unknown.z8o(webui-0.js)
+	at Unknown.F8o(webui-0.js)
+	at Unknown.O7o(webui-0.js)
+	at Unknown.mig(webui-0.js)
+	at Unknown.g(webui-0.js)
+	at Unknown.xq(webui-0.js)
+	at <a href=""http://Unknown.Aq"" rel=""nofollow"">Unknown.Aq</a>(webui-0.js)
+	at Unknown.zq/&lt;(webui-0.js)
+	at Unknown.cig(webui-0.js)
+	at Unknown.anonymous(webui-0.js)
+	at Unknown.m(<a href=""https://legu-test.stibo.com/webui/webui/webui.nocache.js"" rel=""nofollow"">https://legu-test.stibo.com/webui/webui/webui.nocache.js</a>)
+	at Unknown.onScriptDownloaded/&lt;(<a href=""https://legu-test.stibo.com/webui/webui/webui.nocache.js"" rel=""nofollow"">https://legu-test.stibo.com/webui/webui/webui.nocache.js</a>)
+	at Unknown.d(<a href=""https://legu-test.stibo.com/webui/webui/webui.nocache.js"" rel=""nofollow"">https://legu-test.stibo.com/webui/webui/webui.nocache.js</a>)
+	at Unknown.anonymous(Unknown)
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1260659,1559288649,1559288649,No consigo instalar Firefox,"<p>,la instalacion segun arranca se queda sin hacer nada, no consume CPU ni memoria siempre en 1520 Kb
+</p>",download-and-install_1;desktop;windows-7;,firefox,download-and-install,es
+1260658,1559287981,1559489539,Dowload links sometimes do not work,"<p>I use an online litho and digital printer here in the UK and in My Account I have a list of past jobs and the ability to download VAT invoices. In Safari the download invoice link works but in FF it doesn't. The only Add ons I have switched on are AdBlock Plus and 1Password. In the attached screenshot you can see the blue icons on the right. URL is <a href=""https://www.route1print.co.uk/"" rel=""nofollow"">https://www.route1print.co.uk/</a>
+[EDIT] : FF is version 67.0 by the way.
+</p>",firefox-670;websites;desktop;mac-os;,firefox,websites,en-US
+1260652,1559280002,1559281358,installed latest firefox and lost all my bookmarks. I want to get them back,"<p>I installed  the latest version of firefox  on 5/30/2019 and created an account. when i opened the account all of my many bookmarks had disappeared. I am not a computer geek and need a simple way to restore them.
+Thanks
+</p>",download-and-install_1;firefox-670;desktop;windows-7;,firefox,download-and-install,en-US
+1260648,1559273688,1559276430,touchscreen ceased to work properly on a website (chess.com) after firefox latest update. I ma using a Dell Inspiron laptop running Windows 10,"<p>I have been playing live chess on the <a href=""http://chess.com"" rel=""nofollow"">chess.com</a> website for over a year, this involves using the touch screen to move the pieces around. Now thetouch screen works for other item on the page but not on the actual chess board.
+</p>",firefox-670;other;desktop;windows-10;,firefox,other,en-US
+1260643,1559265681,1559265681,not in a rush to update,"<p>last update wrecked all my plug-ins/add-ons. so i'm not in a rush to update.
+</p>",firefox-660;other;desktop;windows-7;,firefox,other,en-US
+1260641,1559262503,1559267229,Windows' Data Usage Overview does not show how much Firefox is using in the past 30 days.,"<p>I switched from chrome because chrome suddenly had 360GB of internet ethernet used in the past 30 days. However, the firefox executable doesn't appear under usage details, which is troubling because now I have no idea how much internet I'm using.
+</p>",firefox-670;other;desktop;windows-10;,firefox,other,en-US
+1260640,1559262933,1559343227,certain websites are slowing down and get stuck at TLS handshake  fonts.googleapis. i refreshed cleared cookies and data and still hangs on that handshake.,"<p>Youtube and other sites load very slow.  Hangs on TLS Handshake fonts.googleapis.  cant login in to google account. I get the message, ""something went wrong"".  Tried all of the things suggested in the troubleshooting section to no avail.  I don't have this problem with chrome or edge.  I HATE both of those browsers and hope that this is a temporary issue with Firefox.  Running win10 x64 with latest Firefox update.  Is there anything that can fix this?  
+</p><p>Thanks
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1260602,1559320934,1559326256,What of Microsoft stopping support of Win7 beginning Jan 20. Will this affect use of Firefox going forward?,"<p>Will Mozzila change support efforts regarding Win 7?
+</p>",firefox-670;customize;desktop;windows-7;,firefox,customize,en-US
