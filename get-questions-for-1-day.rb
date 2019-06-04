@@ -42,13 +42,23 @@ if ARGV.length < 3
 end
 
 created_str = ARGV[0] + "-" + ARGV[1] + "-" + ARGV[2]
-      
+# because of issue 3686, https://github.com/mozilla/kitsune/issues/3686, 
+# go back one day and forward one day
+created_time = DateTime.new(ARGV[0].to_i, ARGV[1].to_i, ARGV[2].to_i)
+created_time_minus_1day = created_time - 1
+greater_than = created_time_minus_1day.strftime("%Y-%-m-%-e")
+created_time_plus_1day = created_time + 1
+less_than = created_time_plus_1day.strftime("%Y-%-m-%-e")
+
+logger.debug "greater than:" + greater_than
+logger.debug "less than:" + less_than
+
 url_params = {
   :format => "json",
   :product => "firefox", 
   #:created => created_str,
-  :created__gt => '2018-5-28',
-  :created__lt => '2018-5-30',
+  :created__gt => greater_than,
+  :created__lt => less_than,
   :ordering => "+created",
 } 
 
