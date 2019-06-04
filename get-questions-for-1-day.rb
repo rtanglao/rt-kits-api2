@@ -72,7 +72,11 @@ while !end_program
   sleep(1.0) # sleep 1 second between API calls
   questions  = getKitsuneResponse(url, url_params, logger)
   url = questions["next"]
-  logger.debug "next url:" + url
+  if url.nil?
+    logger.debug "nil next url"
+  else
+    logger.debug "next url:" + url
+  end
   url_params = nil
   questions["results"].each do|question|
     updated = question["updated"]
