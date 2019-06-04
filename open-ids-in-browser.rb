@@ -1,4 +1,4 @@
-re 'json'
+require 'json'
 require 'rubygems'
 require 'awesome_print'
 require 'time'
@@ -10,6 +10,6 @@ logger = Logger.new(STDERR)
 logger.level = Logger::DEBUG
 
 ARGF.each_line do |id|
-	  Launchy.open("http://support.mozilla.org/questions/" + id.to_s)
-	    sleep(0.5)
+  Launchy.open("http://support.mozilla.org/questions/" + id.to_s)
+	sleep(0.5)
 end
