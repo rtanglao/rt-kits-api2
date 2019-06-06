@@ -1,0 +1,97 @@
+id,created,updated,title,content,tags,product,topic,locale
+1261053,1559778114,1559778114,when I want to give in the pin of my eid-reader to get announced to -e-health.fvog belgium it says maximum attempts O pin blocked how do I get a new pincode,"<p>see above
+</p>",firefox-670;firefox-6701;other;desktop;windows-7;,firefox,other,en-US
+1261051,1559777819,1559780971,Can't click on the upper part of every page,"<p>I have the same problems as the below link. Whenever I move the mouse to the top of tabs, I can't click and need to move down a little bit to click. I try to reinstall Firefox, but it still happens. I use two screens, and one of the screens can work. 
+</p><p><br>
+<a href=""https://www.reddit.com/r/firefox/comments/8wf6q7/cant_click_on_the_top_of_tabs_i_have_to_move_my/"" rel=""nofollow"">https://www.reddit.com/r/firefox/comments/8wf6q7/cant_click_on_the_top_of_tabs_i_have_to_move_my/</a>
+</p>",firefox-670;tabs;desktop;windows-10;,firefox,tabs,en-US
+1261047,1559773509,1559773649,"Miért van, hogy egy bizonyos (router) webes felület)hibásan jelenik meg Firefox alatt?","<p>Firefox Quantum 67.0.1-en a routerem (Ubiquiti Edge Max) webes felülete hibásan jelenik meg. A felső 1/3 hiányzik....alul meg 1/3 fehér üres rész van.  Az az érdekes, hogy HA növelem a nagyítást akkor 300%-nál előbukkannak a hiányzó részek, de értelemszerűen már összevissza törve. Ezen nagyítás alatt..le egészen a minimum 30%-ig hiányzik. Chrome alatt tökéletes.
+Próbáltam:
+-rókás téma kikapcsolást
+-gyorsítótár törlést
+-nagyítás módosítást (valami itt kergülhetett meg)
+-süti törlés
+Más weboldalon/webes felületen nincs gondom.
+</p><p>Előre is köszi a segítséget.
+Szabolcs
+</p>",firefox-670;websites;desktop;windows-10;,firefox,websites,hu
+1261045,1559769737,1559771473,"YOU DO NOT HAVE ANY CLUE what ""essential data"" is to us, stop forcing us to lose it!","<p>you lost my cookies and saved passwords on this latest ""update"" STOP DOING THAT DAMMIT!
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1261041,1559767756,1559769439,Cannot sign on to Suntrust Online Banking,"<p>I have not been able to sign on to  Suntrust Online Banking for a couple of days.  I get error message 'HTTP Status 400 – Bad Request'.  I have cleared cache, updated Firefox, restarted browser, rebooted computer.  
+</p><p>I can sign onto my account with Chrome and Edge.
+</p><p>I am using Firefox 67.0.1 64-bit under Windows 10.
+</p><p>I contacted Suntrust and they say it is a Firefox issue, not their issue.
+</p>",firefox-670;other;desktop;windows-10;,firefox,other,en-US
+1261039,1559733148,1559768439,fingerprint - Firefox,"<p>Hello
+</p><p>I have Version 67 of firefox whenn i goes to <a href=""http://amiunique.com"" rel=""nofollow"">amiunique.com</a> its comming that i am fingerprinted. Why?
+</p><p>My Fingerpring is blocked by firefox.
+</p><p>How is it possible?
+</p><p><br>
+regards nicolas
+</p>",tips;desktop;,firefox,tips,en-US
+1261035,1559726225,1559732473,Quantity input arrows don't get properly displayed anymore,"<p>I noticed that, on every website, the native UI quantity arrows are not properly displayed anymore and almos unusable (See the screenshot).
+I use Windows 10 Family 1809 - Firefox 67.0.1 (had the same problem with 67.0.0).
+I don't have the problem with Chrome
+I tried disabling every Firefox addons, 2 sreens (high-res/retina or normal), both normal and private browsing. No luck
+It doesn't seem to be related to the website I'm browsing as it's also wrong on your MDN related page, for instance).(<a href=""https://developer.mozilla.org/fr/docs/Web/HTML/Element/Input/number)"" rel=""nofollow"">https://developer.mozilla.org/fr/docs/Web/HTML/Element/Input/number)</a>.
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1261034,1559724237,1559726911,Downloads icon in Firefox is wrong color,"<p>Downloads icon in Firefox is wrong color after moving to toolbar (black in icon choice display panel), disappears into background when in toolbar where it should be white while inactive like other icons.
+</p><p>How do I fix this?
+</p>",download-and-install_1;firefox-670;desktop;,firefox,download-and-install,en-US
+1261032,1559723723,1559726471,How to migrate profile and bookmarks without Firefox sync account?,"<p>I don't want my profile data to leave my house, so setting up a Firefox account 
+and using sync via a cloud service is no option for me.
+</p><p>This is a major privacy concern for me.
+</p><p>How can I migrate my old profile and saved logins to Firefox quantum locally?
+</p>",firefox-670;other;desktop;windows-7;,firefox,other,en-US
+1261031,1559722919,1559732884,Firefox Won't Start,"<p>I recently re-installed Kaspersky on my computer and now Firefox won't open, it was working fine before, there's no error message or anything. I've already been through the articles and nothing has helped, nothing related to firefox will open and uninstalling to re-install has proven to be nothing but a waste of time, does anyone have any suggestions I cannot keep using someone else's computer because of this
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US
+1261029,1559722550,1559771352,Addons are not syncing,"<p>Hi all
+</p><p>I've got some problem with syncing addons - they are not syncing. Yesterday I've installed Firefox Lockwise on my home PC. Today I start FF on my work PC and Lockwise did not install. Same story was earlier with some other addons. Perphaps there was a solution, but I wasn't able to find it.
+</p><p>Everything on PC is up-to-date (FF 67.0.1).
+</p><p>Best regards
+</p>",firefox-670;firefox-6701;sync;desktop;windows-10;,firefox,sync,en-US
+1261026,1559720234,1559728857,"I want to download the new version, but cannot install a firefox konto. the downloaded new version does not show my ""Lesezeichen""","<p>. i do not know what to do?
+</p>",download-and-install_1;firefox-670;firefox-6701;desktop;,firefox,download-and-install,en-US
+1261023,1559717194,1559793400,I down loamy bookmarks/history disapear & come back when I enter via login with username email sent wby FF How to fix?,"<p>I downloaded FF again because my Ff history was disappearing &amp; maybe that interfered with my FF. I can only get my FF history &amp; bookmarks back by  logging in  with the link sent  with am email telling me my user name but not instantly.  I changed my password which may or may not be relevant. I have the latest Kaspersky &amp; a 2 year old Dell XPS
+</p>",firefox-670;firefox-6701;other;desktop;windows-10;escalate;,firefox,other,en-US
+1261022,1559714906,1559788239,"why does firefox keep deleting/changing my favorite sites on my home page?  Why does firefox delete my saved sites on the laptop app ""speed dial 2""?","<p>It is not unusual for me to lose my favorites on BOTH, the Firefox homepage and on the ""SpeedDial 2"" app.  I keep having to reenter my favorites, only for it to happen again, not long after.
+</p><p>As an aside, it is very difficult to find some way to contact Mozilla.  You list Facebook as a way to contact you, but that is no longer being used.  There seems to be no way to, easily, get in contact with Mozilla.  It is as if Mozilla wants to make it as difficult as possible for people to bring their concerns to them.
+</p><p>I am considering going with a nother browser.  I have heard that Brave is a good one.  
+</p><p>AJSmithJr
+</p>",firefox-670;customize;desktop;windows-10;,firefox,customize,en-US
+1261021,1559709078,1559709734,error in terms of service - q about firefox account,"<p>I was wondering if anything in/about a firefox account has a cost associated with it.
+second, in reading the terms of service document - I see at the top updated June 12, 2019.
+so we have time traveling editors? Today is June 04, 2019
+</p>",firefox-680;other;beta;desktop;windows-10;,firefox,other,en-US
+1261020,1559708964,1559771333,Firefox doesn't work in weird ways on Yosemite,"<p>Since the Quantum versions (including the most recent), Firefox on my Yosemite laptop has inconsistent issues. There are several websites that will not work, but not all. And I cannot delete suggestions from the Awesome Bar dropdown using Shift+Delete. Meanwhile, those same websites work fine in Quantum versions in Sierra. And I can successfully delete suggestions. It's the same browser version with the same add-ons and extensions, so why does it work so inconsistently? Or could the one on Yosemite be corrupt (for some unknown reason that an upgrade isn't fixing), and I just need to rebuild it (although I don't want to lose my profile if I don't have to)?
+</p>",firefox-660;other;desktop;mac-os;,firefox,other,en-US
+1261019,1559707534,1559721587,I want to proceed to a trusted website after I recieve an SSL_ERROR_HANDSHAKE_FAILURE_ALERT,"<p>I am unable to find a way to proceed to a trusted site after receiving an ""SSL_ERROR_HANDSHAKE_FAILURE_ALERT"".
+</p><p>The site I am going to is trusted and uses a trusted CA certificate.
+</p>",firefox-670;websites;desktop;windows-10;,firefox,websites,en-US
+1261018,1559705951,1559721625,"Every time I click to expand comments on Facebook, it sends me to the top of the page and I lose what I was looking at.","<p>That one sentence explains it, I think.
+</p>",firefox-670;desktop;fix-problems;mac-os;needsinfo;,firefox,fix-problems,en-US
+1261015,1559704764,1559792851,Firefox keeps resetting itself,"<p>So, for the past couple of weeks, after every 3-4 days, I go to open Firefox, and all my add-ons and settings keep getting reset.
+</p><p>It's a weird thing. I have my add-ons, my customized settings, and everything is working fine. But after a couple of days, I open up firefox and it's like I'm starting from 0. 
+</p><p>I mean, my history, bookmarks, passwords, all remain intact.
+</p><p>But everything else is gone. All my extensions open up a tab saying ""now installed!"" or something along those lines - plus a tab from Mozilla, today about the privacy notice.
+</p><p>My homepage, search and download settings are back to the defaults.
+</p><p>I have tried to refresh my browser, reinstalled my extensions, but still the same issue.
+</p><p>Help?
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1261014,1559703659,1559724424,Cannot get computer to recognize Android phone,"<p>My Dell laptop is not recognizing my Android phone. I have tried all of the steps to sync multiple times on both the laptop and phone, but I cannot get the phone to show up in the recognize device list. However, the computer does show up on the phone. Nothing is syncing to the computer and it is getting frustrating as all the solutions provided in support have failed me.
+</p>",firefox-670;sync;desktop;windows-7;,firefox,sync,en-US
+1261012,1559703025,1559703025,removealware,"<p>Vsjwjh
+</p>",other;desktop;,firefox,other,es
+1261011,1559698596,1559722897,Firefox Monitor error: Verification token is required,"<p>I cannot add a secondary email address to Firefox Monitor.
+</p><p>Adding a secondary email address sends a confirmation email to that address.
+</p><p>When I click the 'Verify my email' link that it sends, a page opens with ""Error: Verification token is required"".
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1261010,1559697885,1559720273,will not accept my written firefox password after 5+ years,"<p>I have been using fire fox for over 5 years.  I like it and have been using it exclusively over chrome for much of that time.  Now I was bounced out and a new sign was requested instead of just opening up as usual.  I went to my password book and typed in the password exactly as written... ERROR: PASSWORD WAS NOT RECOGNIZED.  Nothing is written anywhere on this.  My only recourse is to reset my password with the possibility of losing data.  I will never trust Mozilla to handle all my passwords if this is an example of how they perform.
+</p>",firefox-670;privacy-and-security_1;firefox-6701;desktop;windows-10;,firefox,privacy-and-security,en-US
+1261009,1559695524,1559771229,I just upgraded to 67.0.1 (64-bit) of Firefox and all my bookmarks are gone.,"<p>I just installed ""Firefox Quantum"" version 67.0.1, and none of my bookmarks were copied from my previous version. So I looked at help files on how to import my old bookmarks from my last version of Firefox, and they're all about either importing from Chrome, or Safari, etc, or else they're about sync'ing my mobile devices to my laptop. I don't need any of that information. Why didn't Firefox keep my old bookmarks, the way it always has whenever I have upgraded to a new version? What did it do to my old bookmarks?
+</p><p>I'm kind of upset, because I have a lot of recent bookmarks that I will have lost (since last backup). I sure hope Mozilla didn't just delete all that.
+</p><p>Oh, and I do have a Firefox account, and I've logged in, but still can't find anything that will tell me how to get my bookmarks back.
+</p><p>Thanks.
+</p>",firefox-670;bookmarks;desktop;windows-7;,firefox,bookmarks,en-US
+1261008,1559693552,1559727548,"""Download failed. Please check your connection."" When attempting to install extensions, June 4, 2019.","<p>Who remembers this error from before (about this time last month)? Yeah, I don't know if others are having this problem, but I sure am. Only 2/8 of my extensions reinstalled after moving over to Firefox on Linux (sync is enabled), and attempting to reinstall them results in the ""Download failed. Please check your connection."" error. As with other posts near May, I am connected to the internet, and I even tried a VPN that I luckily was able to download but to no avail.
+</p>",firefox-660;firefox-6603;other;desktop;,firefox,other,en-US
