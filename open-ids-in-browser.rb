@@ -11,6 +11,6 @@ logger = Logger.new(STDERR)
 logger.level = Logger::DEBUG
 
 ARGF.each_line do |id|
-  Launchy.open("http://support.mozilla.org/questions/" + id.to_s)
+  Launchy.open("https://support.mozilla.org/questions/" + id.to_s)
 	sleep(0.5)
 end
