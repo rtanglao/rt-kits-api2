@@ -26,7 +26,7 @@ id_array = []
 CSV.foreach(FILENAME, :headers => true) do |row|
   next if row['locale'] != "en-US" || row['product'] != 'firefox'
   id_array.push(row['id'].to_s) if ids
-  id.array.push("* https://support.mozilla.org/questions/" + row['id'].to_s) if markdown
+  id_array.push("* https://support.mozilla.org/questions/" + row['id'].to_s) if markdown
 end
 sorted_array = id_array.sort
 logger.debug sorted_array
