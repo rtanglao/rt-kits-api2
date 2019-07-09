@@ -1,0 +1,410 @@
+id,created,updated,title,content,tags,product,topic,locale
+1264253,1562710478,1562711286,AUTOFILL AUTOMATICALLY RESETS - FF USERS CAN NOT BLOCK AUTOFILL,"<p>I found a MAJOR FLAW in FireFox so they Steal all your info you type!
+</p><p>I do not want my ""AUTOFILL"" being used, yet FIREFOX BUILT IN TO BE AUTOMATICALLY ON!
+</p><p>I also use CC Cleaner and it exposed a MAJOR SECRET BUG IN FIREFOX and you can NOT TURN OFF AUTOFILL!
+</p><p>The ""Fake"" autofill is reset to always be ON, and if you try to actually Block it, your FF will reboot back to AUTOFILL ON!
+</p><p>You can got to Security and  select ""Autofill"" to be off, but its a FACT, IT STAYS ON!  A 2nd security program states the BROWSER PLUG IN is not Off but On!  When I manually turn it off with a 2nd program, it automatically closes FF and reboots back on with AUTOFILL ON!?
+</p><p>So Once I turn on FireFox and my autofill in security says OFF, it actually stays on.  Looking at programs browser plugin in CCleaner, it reverts and says FF Autofill is ON!  When you try to clear it and change it to OFF, you FIREFOX Automatically CLOSES!  Then when you restart FF and look again, CCLeaner says its ON.
+</p><p>I was wondering why I'd get the same stuff on pages, and I set my Security Autofill OFF.  So you ""assume"" its off, but if you look close, you'll see stuff you typed yesterday, is still valid.  Yet I reset all cookies and run CCLeaner and several other security programs.
+</p><p>So why can't you actually TURN OFF FF ""AUTOFILL""?  Their is a SECRET that forces FF to keep autofill ON, even when you select it to be OFF!   
+</p><p>Does anyone else find this scam on, where your computer catches FF Autofill being on, when you select it to be off?
+</p><p>So all your typing in FF, you may select Autofill ""Off"", but your computer actually reads that Autofill IN FF as still being ""ON"".
+</p><p>So is FF only ""Pretending"" to its users to think your ""autofill"" data is OFF, but ITS ACTUALLY BEING SENT?  If not, why is other security programs picking up on the Autofill typing being sent as ""ON"", inside the actual FF program?   Why would a computer security program reading FF, read the blocked autofill data as being ON, while your FF security controls say its OFF inside the FF Browser?  
+</p><p>This opens up your computer to having all your typed data secretly stolen, and if you use your CC or bank info or passwords, they are really be SENT!  What a FF scam....  So was this purposely made or what?
+</p><p>I never remember having any ""Autofill"" Plugin, until the last few months.  So is this a new addon, that they use to backdoor into FF and steal all your personal data?
+</p>",firefox-680;desktop;privacy-and-security_1;windows-7;,firefox,privacy-and-security,en-US
+1264252,1562707685,1562712629,"Regression ISSUE : about:preferences no longer shows option to ""Show Update History"" in Firefox Updates section","<p>Has this functionality moved?  Or has it been removed?
+</p><p>For me, this is a regression issue.  It is often helpful when troubleshooting an issue to know when Firefox updates were applied, especially when using Firefox is set to automatically update
+</p><p>I am running FF 66.0.4 (64bit) Mozilla Firefox for Ubuntu canonical - 1.0
+</p>",firefox-660;other;desktop;linux;,firefox,other,en-US
+1264249,1562706176,1562708817,Can I get already synced bookmarks off of a dead device? And other syncing issues...,"<p>This involves Firefox on Mac, Windows, Android, and iOS.
+I have been using Firefox on my MacBook since 2012, and been syncing to my Android phones since 2015-ish (a Huawei, then Samsung, then another Samsung, replacing them as they broke). I never had any problems. I can't remember if I was able to access already synced bookmarks from broken phones, but since I move my mobile bookmarks into desktop bookmark folders pretty often, I was never bothered enough to check. Last October, my MacBook's logic board broke. Not long after, my phone broke. I got a secondhand iPhone, and signed into sync, but nothing synced up. I assume because my devices are already dead and no longer syncing? Is there anyway for me to access my laptop bookmarks? I still have the hard drive from the MacBook.
+</p><p>I finally have access to a computer again, this time a Windows desktop, and logged in to my Firefox sync to see if I could find any of my disappeared bookmarks. Nope, but something weird happened. I have about 200 bookmarks on my iPhone, and the first 139 migrated to the desktop. They show up under the 'Mobile Bookmarks' folder on the desktop, but I can no longer see them on my iPhone. The most recent 20 or so bookmarks are still available on my iPhone, but don't appear on the desktop. What just happened?
+</p><p>While going through all the help pages, I discovered that I do have a second Firefox profile, though I opened it up and there isn't anything on it. Not sure if that matters.
+</p><p>Thank you!
+</p>",firefox-680;sync;desktop;windows-10;,firefox,sync,en-US
+1264247,1562705141,1562706398,Firefox unstable since 62.0.3,"<p>Hi,
+</p><p>I'm a longtime Firefox user and 62.0.3 works flawlessly on my Windows 10 PC. However, every version since then - and I've tried them all, right up to 68.0 - has been unstable. The browser hangs and/or crashes and every time reverting to 62.0.3 instantly fixes the problem. This is now quite an old version, though, and I'm concerned that by using it I'm exposing myself to security issues. Any ideas?
+</p>",firefox-620;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1264246,1562705140,1562712533,"Where are my bookmarks from the old one? I set up an account and everything, but when I went back and updated they don't show up when I sign in","<p>I just absolutely HATE this latest version. Even though I hate, hate, hate signing in to use any browser, I made an account with the old version that had all of my doggone book marks. Finally it updated without my even saying yes, and even when I sign in they are gone. I do NOT want to have to work so hard to have my bookmarks on a PC. NOT cool, especially when I'm going to be replacing this dinosaur this year and wanted to have my bookmarks available with the new one. TOO MUCH WORK to sync when I prefer incognito. BOO!
+</p>",firefox-670;bookmarks;desktop;windows-7;,firefox,bookmarks,en-US
+1264245,1562705002,1562712922,Firefox 'hangs' unable to load a webpage for apx 5 mins on every startup,"<p>Hello,
+</p><p>Firefox as an application will load, and I am unable to access any websites for up to 5 minutes. I don't get a splash screen. Then, if I have multiple tabs open, they will all suddenly load up after a period of time. Happens on any internet connection, not just at home.
+</p><p>Internet is connected as applications like Steam, Discord etc will connect and continue to function.
+</p><p>Screenshot shows what I see when it 'hangs'
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1264242,1562702612,1562702612,Atualização Firefox,"<p>Boa tarde, 
+gostaria de saber se tem como criar uma GPO para atualizar o Firefox que esta instalado em todas as estações do ambiente corporativo?
+</p>",other;desktop;,firefox,other,pt-BR
+1264239,1562697796,1562697796,Tabs don’t open.,"<p>3 tabs are showing at top of screen. 
+One is open. Other two will not open. 
+Why?
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US
+1264237,1562696829,1562709117,"Updated Win10; pages now missing text, links are invisible","<p>Since the first Win10 update about a week ago (there have been two in quick succession), pages are sometimes missing individual portions of text or in the case of the Mozilla Help home page and others, almost all of the text. 
+</p><p>Links appear to be there but are not visible (the cursor turns to an active cursor when passed over some parts of a page). 
+</p><p>Win10 is now at 1903 for Win 64
+Firefox is now at 68.0 for 64-bit
+</p><p>I had to use my phone to post this because I cannot post in the Community Support portion of Help.
+</p>",mobile;fix-problems;,firefox,basic-browsing-firefox,en-US
+1264236,1562696682,1562705268,Hiding addons,"<p>I have multiple add-ons. I am using their functionality but I would like to hide them so it only shows 2 of them, without losing the effect of the others. How do I do that?
+</p>",firefox-680;customize;desktop;windows-10;,firefox,customize,en-US
+1264235,1562696520,1562710955,"load only current tab, stop all others, especially on (re)start","<p>Where in the settings or in the about:config can one set FireFox to
+load only the current tab, stop all others from any activity/loading, especially on (re)start?
+</p>",tabs;firefox-680;desktop;windows-7;,firefox,tabs,en-US
+1264234,1562696324,1562708481,autocomplete-richlistitem order no longer works,"<p>For a few months I have been using a userChrome.css customisation which displayed a URL at the beginning of each drop down autocomplete result for the URL Bar (normally a useless page title is displayed).
+</p><p>Here is the thread where I got the script from (thanks for your help, jscher2000):
+<a href=""https://support.mozilla.org/en-US/questions/1256581"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1256581</a>
+</p><p>Today I upgraded to Firefox 68 and it stopped working.  Autocomplete results now display website title first, which is completely unreadable and pointless.
+</p><p>My userChrome.css definitely works, because if I add the following line at the end:
+</p>
+<ul><li> { color: red !important; }
+</li></ul>
+<p>then the text becomes red.
+</p><p>Unfortunately changing the order of autocomplete results so that the URL is first, has no effect.
+</p><p><br>
+</p><p>Here is the entire content of my userChrome.css
+</p>
+<pre>@namespace url(""<a href=""http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul</a>""); /* only needed once */
+
+.ac-url-text  { color: black !important; font-size: 12px !important; }
+.ac-url-text[selected=""true""]  { color: white !important; }
+.ac-site-icon { display: none !important; }
+
+/* Site Identity Button, EV: hide label */
+#identity-box #identity-icon-labels {display:none !important}
+#identity-box:hover #identity-icon-labels {display:-moz-box !important}
+
+/* Squash tab bar to 1px tall and hide the tabs */
+#TabsToolbar
+{
+  height: 1px !important;
+  min-height: 1px !important;
+  max-height: 1px !important;
+} 
+#TabsToolbar .tabbrowser-tab
+{
+  display: none !important;
+}
+
+#PopupAutoCompleteRichResult {
+  margin-left: -9px !important;
+    }
+
+#PopupAutoCompleteRichResult .autocomplete-richlistbox {
+  width: auto !important;
+  max-width: 78vw !important;
+}
+
+
+
+/* Oldbar flex layout based on 
+     <a href=""https://userstyles.org/styles/131235/firefox-autocomplete-prioritize-url"" rel=""nofollow"">https://userstyles.org/styles/131235/firefox-autocomplete-prioritize-url</a> 
+     used with permission, new errors my own */
+
+    .autocomplete-richlistitem[type=""favicon""],
+    .autocomplete-richlistitem[type=""bookmark""],
+    .autocomplete-richlistitem[type=""switchtab""] {
+      display: flex;
+    }
+
+    .autocomplete-richlistitem[type=""favicon""] .ac-url,
+    .autocomplete-richlistitem[type=""bookmark""] .ac-url,
+    .autocomplete-richlistitem[type=""switchtab""] .ac-url {
+      order: 1;
+      display: block !important; /* Force URL for Switch to Tab */
+    }
+
+    .autocomplete-richlistitem[type=""favicon""] .ac-separator,
+    .autocomplete-richlistitem[type=""bookmark""] .ac-separator,
+    .autocomplete-richlistitem[type=""switchtab""] .ac-separator {
+      order: 2;
+      -moz-margin-start: 2px;
+      -moz-margin-end: 4px;
+    }
+    .autocomplete-richlistitem:not([actiontype=""searchengine""]) .ac-separator {
+      visibility: hidden !important;
+      -moz-margin-start: 0;
+      -moz-margin-end: 0;
+    }
+
+    .autocomplete-richlistitem[type=""favicon""] .ac-title,
+    .autocomplete-richlistitem[type=""bookmark""] .ac-title,
+    .autocomplete-richlistitem[type=""switchtab""] .ac-title {
+      order: 3;
+    }
+
+    .autocomplete-richlistitem[type=""switchtab""] .ac-action,
+    .autocomplete-richlistitem .ac-tags {
+      order: 4;
+    }
+
+
+  /* Overall Layout of the ""Oldbar"" style at 65/35 */
+    /* Drop-down width */
+    #PopupAutoCompleteRichResult {
+      max-width: 1000px !important;
+    }
+    /* Space allocated to URL and title */
+    #PopupAutoCompleteRichResult .autocomplete-richlistitem:not([actiontype=""searchengine""]) .ac-url-text {
+      min-width: calc(0.65 * (1000px - 200px)) !important;
+      max-width: calc(0.65 * (1000px - 200px)) !important;
+    }
+    #PopupAutoCompleteRichResult .autocomplete-richlistitem:not([actiontype=""searchengine""]) .ac-title-text {
+      min-width: calc(0.35 * (1000px - 200px)) !important;
+      max-width: calc(0.35 * (1000px - 200px)) !important;
+    }
+
+    .autocomplete-richlistitem .ac-type-icon, 
+    .autocomplete-richlistitem .ac-site-icon,
+    .autocomplete-richlistitem .ac-tags {
+      margin-top: 6px;
+    }
+    
+    /* Font-sizes */
+    #PopupAutoCompleteRichResult .autocomplete-richlistitem:not([actiontype=""searchengine""]) .ac-url,
+    #PopupAutoCompleteRichResult .autocomplete-richlistitem:not([actiontype=""searchengine""]) .ac-title,
+    #PopupAutoCompleteRichResult .autocomplete-richlistitem:not([actiontype=""searchengine""]) .ac-action {
+      font-size: 14px !important;
+    }
+    .autocomplete-richlistitem .ac-url,
+    .autocomplete-richlistitem .ac-action {
+        margin-top: 4px;
+    }
+
+
+
+ /* Remove Page Actions Menu */
+    #pageActionButton 
+    {
+      display: none !important;
+    }
+
+
+/* Reduce height of URL Bar drop down */
+    #PopupAutoCompleteRichResult .autocomplete-richlistitem
+    {
+      height: 26px !important;
+      min-height: 26px !important;
+    }</pre>",firefox-680;customize;desktop;windows-7;,firefox,customize,en-US
+1264233,1562696304,1562705126,"When I am at website https://poczta.o2.pl works fine, but when I am logging to my mail, website is not loading, only few rows of text is displayed.","<p>I tried cleaning cache, cookies, history - nothing works. 
+In attachments I am sending how it looks. 
+On logging page all is ok (second picture).
+</p>",firefox-670;websites;desktop;windows-10;,firefox,websites,en-US
+1264232,1562695967,1562695967,Tabs don’t open.,"<p><i>Locking this thread.</i><br><i>Please continue here: [<a href=""/questions/1264239"" rel=""nofollow"">/questions/1264239</a>]</i><br>
+3 tabs are showing at top of screen. 
+One is open. Other two will not open. 
+Why?
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US
+1264231,1562695935,1562695935,Check for updates but let you choose to install them is SET but forgotten,"<p>On windows 7 my fox just updated to 68.0 from 67.04 without my permission even though I have OPTIONS: Check for updates but let you choose to install them SET.  It got forgotten! Luckily all my extensions have the same status but my favored theme is missing, not even 'disabled' as several others are. WTF is going on here? First, Quantum disables many extensions including my favorites Mozilla Archive Format (MAFF) and Theme Font and Size changer, now today it loses my theme. Is it innocent ignorance or ignorant arrogance?
+</p>",firefox-680;customize;desktop;windows-7;,firefox,customize,en-US
+1264230,1562694468,1562694468,"I have multiple gmail accounts, but FireFox always remembers just one of them","<p>How can I make FIrefox forget the gmail account it keeps wanting to come back to. I just want it (like chrome) to remember the last one I signed in to, not some arbitrary one of them (that does not seem to change)
+</p>",firefox-680;customize;desktop;windows-10;,firefox,customize,en-US
+1264229,1562693648,1562693648,Amazon assistant won't download,"<p><em>locking this thread as duplicate, please continue at <a href=""https://support.mozilla.org/en-US/questions/1264228"" rel=""nofollow"">https://support.mozilla.org/en-US/que.../1264228</a></em>
+</p><p>I have updated Firefox to v68 but I am still unable to download or install Amazon Assistant.  I still get the error message saying  'the add-on could not be downloaded because of a connection failure'.  What can I do about this?
+</p>",firefox-680;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1264228,1562693623,1562693623,Amazon assistant won't download,"<p>I have updated Firefox to v68 but I am still unable to download or install Amazon Assistant.  I still get the error message saying  'the add-on could not be downloaded because of a connection failure'.  What can I do about this?
+</p>",firefox-680;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1264227,1562692630,1562694717,path cookies file on private mode,"<p>On non private mode, cookies stores on cookies.sqlite.
+But how private mode do? where is the path file of cookies stores while browsing in private mode or incognito? on ram memory?
+after check on response header and request header some website via developer tools-&gt;network, I found that web stores cookies even on private mode.
+Yes it is true, when we close the browser, the cookies is gone.
+But, I need to know where path file the cookies is stored in private mode, for security reason.
+thank you very much.
+</p>",other;firefox-630;desktop;linux;,firefox,other,en-US
+1264226,1562691905,1562697748,"How can I permanently turn off mozilla's ""new version"" pop-up window","<p>A couple versions ago, a pop-up persistantly, annoyingly, INSISTS on popping up regularly when I'm trying to use the browser. How can I permanently turn off mozilla's ""new version"" pop-up window. Pop-ups should aready be disabled. I've gone into about:config and tried all the settings that seem to be relevent.
+</p><p>This is about annoying enough to start shopping for other browsers.
+</p>",download-and-install_1;firefox-670;desktop;windows-10;,firefox,download-and-install,en-US
+1264225,1562691638,1562709432,"My laptop knows my Firefox password, and opens it fine, but I can't remember it and can't figure out how to sync a new phone without losing my bookmarks, etc.","<p>Somehow, my computer knows my Firefox password. But it has been so long since I've needed to know it, I've forgotten it. Firefox was synced to my phone. My phone died and I have a new one. (Actually, I just installed a new custom rom on my rooted phone). How do I sync it without knowing my password? Or how can I get my laptop to tell me the password for Firefox that it clearly knows? I'd rather not lose my bookmarks and numerous account passwords.
+</p>",firefox-670;firefox-6704;sync;desktop;windows-10;,firefox,sync,en-US
+1264223,1562690012,1562697187,can't exit reader view in windows 10,"<p>I seem to be stuck in reader view.and can not figure how to get pack to a normal view .The first image is Firefox. Second image is the same sight  in Internet Explorer
+</p>",firefox-670;customize;desktop;windows-10;,firefox,customize,en-US
+1264222,1562689471,1562689471,tab and toolbar rendering not updating - frozen images of previously rendered things persist,"<p>Hi, I'm experiencing a problem with firefox rendering on the tab and toolbar. Everything looks normal on first launch of the browser, but as I navigate between websites, open new tabs and reorder tabs everything that has been previously drawn on the tab and toolbar/searchbar persists, with new things being drawn over the top, overlapped (see image)
+</p><p>My OS info and some other perhaps relevant information
+</p><p>OS: Manjaro Linux x86_64 
+</p><p>Kernel: 4.19.49-1-MANJARO 
+</p><pre>WM: i3 
+</pre>
+<p>Theme: Adapta-Nokto-Eta-Maia [GTK2], solarized-dark-gtk [GTK3]
+</p><pre>Icons: Papirus-Adapta-Nokto-Maia [GTK2/3] 
+</pre>
+<p>What follows is a dump of warning messages that firefox sends to my console, once I start an instance of the browser from there:
+</p><p>```
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:34.946: Theme parsing error: a11y.css:27:13: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:34.946: Theme parsing error: a11y.css:38:20: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:34.947: Theme parsing error: a11y.css:73:19: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:34.947: Theme parsing error: a11y.css:74:19: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:34.947: Theme parsing error: a11y.css:75:18: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:34.947: Theme parsing error: a11y.css:88:18: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:34.947: Theme parsing error: a11y.css:89:19: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:34.947: Theme parsing error: a11y.css:103:19: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:34.947: Theme parsing error: a11y.css:104:19: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:34.947: Theme parsing error: a11y.css:154:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:34.947: Theme parsing error: a11y.css:197:30: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:34.947: Theme parsing error: a11y.css:198:28: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:34.947: Theme parsing error: a11y.css:202:30: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:34.947: Theme parsing error: a11y.css:203:28: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:34.947: Theme parsing error: a11y.css:235:43: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:34.947: Theme parsing error: a11y.css:249:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:34.947: Theme parsing error: a11y.css:250:35: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:34.947: Theme parsing error: a11y.css:266:37: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:34.947: Theme parsing error: a11y.css:289:19: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:34.948: Theme parsing error: a11y.css:392:14: not a number
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:34.948: Theme parsing error: a11y.css:392:14: Expected a string.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:34.948: Theme parsing error: a11y.css:414:10: not a number
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:34.948: Theme parsing error: a11y.css:414:17: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.044: Theme parsing error: gtk.css:26:27: The style property GtkWidget:link-color is deprecated and shouldn't be used anymore. It will be removed in a future version
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.044: Theme parsing error: gtk.css:27:35: The style property GtkWidget:visited-link-color is deprecated and shouldn't be used anymore. It will be removed in a future version
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.044: Theme parsing error: a11y.css:6:29: The style property GtkWidget:cursor-color is deprecated and shouldn't be used anymore. It will be removed in a future version
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.044: Theme parsing error: a11y.css:8:30: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.044: Theme parsing error: a11y.css:9:33: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.044: Theme parsing error: a11y.css:10:35: The style property GtkWidget:focus-line-pattern is deprecated and shouldn't be used anymore. It will be removed in a future version
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.044: Theme parsing error: a11y.css:12:33: The style property GtkMenu:horizontal-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.045: Theme parsing error: a11y.css:13:31: The style property GtkMenu:vertical-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.045: Theme parsing error: a11y.css:19:31: The style property GtkButton:default-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.045: Theme parsing error: a11y.css:27:13: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.045: Theme parsing error: a11y.css:38:20: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.045: Theme parsing error: a11y.css:73:19: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.045: Theme parsing error: a11y.css:74:19: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.045: Theme parsing error: a11y.css:75:18: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.045: Theme parsing error: a11y.css:88:18: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.045: Theme parsing error: a11y.css:89:19: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.045: Theme parsing error: a11y.css:103:19: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.045: Theme parsing error: a11y.css:104:19: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.045: Theme parsing error: a11y.css:154:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.045: Theme parsing error: a11y.css:188:37: The style property GtkMenuItem:horizontal-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.045: Theme parsing error: a11y.css:197:30: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.045: Theme parsing error: a11y.css:198:28: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.045: Theme parsing error: a11y.css:202:30: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.045: Theme parsing error: a11y.css:235:43: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.045: Theme parsing error: a11y.css:249:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.046: Theme parsing error: a11y.css:250:35: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.046: Theme parsing error: a11y.css:266:37: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.046: Theme parsing error: a11y.css:267:35: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.046: Theme parsing error: a11y.css:289:19: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.046: Theme parsing error: a11y.css:392:14: not a number
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.046: Theme parsing error: a11y.css:392:14: Expected a string.
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.046: Theme parsing error: a11y.css:414:10: not a number
+</p><p>(firefox:25470): Gtk-WARNING **: 18:10:40.046: Theme parsing error: a11y.css:414:17: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+</p><p>```
+The warnings continue after this, but the full dump is too long for this textbox - it just repeats the same messages.
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US
+1264220,1562687312,1562687312,How do I prevent the CTRL-F shortcut from engaging in full-screen mode?,"<p>When I want to search for something on a website, I hit CTRL-F which activates full-screen mode. I would like to know this shortcut can be reprogrammed to search for something within a page instead of activating full-screen. I tried searching this community and on-line for this information but could not find it. Thank you for your time. I use Mozilla FireFox 67.0.4.
+</p>",firefox-670;tips;desktop;mac-os;,firefox,tips,en-US
+1264219,1562686336,1562686336,"Restored tabs no longer have page description, only web address.","<p>i have a lot of tabs &amp; usually the tab restore works fine. in the last months it's had the slow script message, but after continuing has been ok, but sometimes hangs for over half an hour, where i force close firefox.
+one time after it just wouldnt start up again &amp; after force closing, i clicked stop on one of the slow script messages &amp; once it finally loaded the active page, all the inactive pages tabs were just the site, not the description (eg, <a href=""http://youtube.com"" rel=""nofollow"">youtube.com</a> instead of Top 10 Funny Cat Videos, or <a href=""http://facebook.com"" rel=""nofollow"">facebook.com</a>) hovering over the tab shows the address, but as in the case of youtube, not much help when it just shows the video filename code. once clicked &amp; it becomes active, the tab shows the correct tab description &amp; works as normal.
+but on restarting &amp; restoring tabs, back to the same thing - only the active one shows correctly, all the rest only the site in the tab, not the description.
+</p><p>how can i fix it, or do i just have to go through all of my tabs?
+</p>",firefox-670;tabs;firefox-6704;desktop;windows-81;,firefox,tabs,en-US
+1264218,1562685957,1562688637,I can't import bookmarks from Edge,"<p>I've followed all instructions, exported my Edge bookmarks, but I just don't have any access to them from Firefox. I'll have to uninstall and continue with Edge until this feature is made available.
+</p>",bookmarks;desktop;firefox-680;windows-10;,firefox,bookmarks,en-US
+1264217,1562685790,1562711228,Hyperlink buttons don't display correctly in Firefox on Windows 7,"<p>Instead of the buttons I get a weird looking little box
+</p>",firefox-670;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US
+1264209,1562679778,1562679778,"Trying to sign into a website, FF tries to download a dll and won't log in","<p>On 7/9/19 when trying to sign into a website, which I've used for years, after I enter my credentials and click 'sign in' FF downloads ""webgate.dll"" and does not proceed.  I am able to successfully log in using Chrome or IE.  I most recently accessed this website via FF last week - no changes to extensions since then.
+</p><p>Using FF Quantum 67.0.4 64 bit
+</p>",firefox-670;firefox-6704;other;desktop;windows-10;,firefox,other,en-US
+1264208,1562679181,1562679181,"How can customize the Mozilla ""top sites"" and make it look like Opera?","<p>I'm trying to move away from Opera. Especially after the antivirus told me it was accessing my webcam on my laptop.  I WANT to use Mozilla.  However, I've become addicted to the easy bars of ""top sites"" on the Opera main page, always there, the only bug is every 2 months or so, they add <a href=""http://Booking.com"" rel=""nofollow"">Booking.com</a> and I have to delete it.
+</p><p>I'm having three issues in getting Mozilla to work for me:
+</p><p>1. The icons won't display after I put in the links, so half of them read as a blankish looking ""A"".
+</p><p>2.  Mozilla keeps adding garbage I don't want, daily, in spades.
+</p><p>3.  My sites are disappearing.  WTF is the point of spending 1-2 hours tailoring my home page only to have it disappear?
+</p><p>I'd like to stop using Opera, but I want the convenience of what I use being front-paged and easy to see at a glance after I switch browsers.  Granted, I don't need the myopically large icons of Opera, but something identifiable without scrutiny would be ideal.  Is there a way to do this, or are we not there yet with Mozilla?
+</p>",firefox-670;customize;desktop;windows-10;,firefox,customize,en-US
+1264207,1562678836,1562678934,How do I stay logged in to Firefox on my imac so I don't have to adjust my settings every time I open my browser?,"<p>I have Firefox synced on several devices, an ibook, an android and my pc. I just got a new imac desktop and installed Firefox but every time it goes to sleep or I shut it down I have to log back in to Firefox and readjust all of my settings. I don't have this problem on my other devices.
+</p>",firefox-670;other;desktop;mac-os;,firefox,other,en-US
+1264203,1562672703,1562678344,"Red pop up screen shows up randomly. Says Firefox has detected hacking into my finances, gives number to call. Screen freezes, can't get screenshot.","<p>Sounds similar to 2 others that say the problem is solved. What is the solution?
+</p>",firefox-670;other;desktop;windows-10;,firefox,other,en-US
+1264197,1562667150,1562667150,"Hogy lehet beállítani, ha a könyvjelzőre kattintok, az adott lapot nem bezárva új lap nyíljon meg automatikusan?","<p>Hogy lehet beállítani, ha a könyvjelzőre kattintok, az adott lapot nem bezárva új lap nyíljon meg automatikusan?
+</p>",firefox-670;other;desktop;windows-7;,firefox,other,hu
+1264196,1562666105,1562666105,Firefox Sync account keeps logging me out,"<p>Starting within the past week, Firefox logs me out of Sync whenever I close it (and possibly also randomly when I don't log out).
+</p><p>My bookmarks and passwords are still present but I can't, for example, send/receive shared pages from other devices. ""Send to another device"" appears to work but doesn't actually send until I open the menu and ""click here to sign in"" (or whatever), then it *instantly* signs in.
+</p><p>I've never used a master password, and Privacy options are set to ""Remember History"".   A couple times recently it's suddenly ""forgotten"" my device name, so my laptop shows up 4 or 5 times on other devices. I only recently was forced to switch to ""stupid Windows 10"" which is painful with only 2gb RAM, but I assume that's not related...
+</p><p>In ""about:sync-log"" there are plenty of ""error-sync"" log files (I'm not sure whether this is normal, or if there should be zero?)
+</p><p>Here my sync-errror file from today alone:  <a href=""https://pastebin.com/gsUb85tU"" rel=""nofollow"">https://pastebin.com/gsUb85tU</a> -- ( potentially identifying data has been {**deleted**}.  )
+</p>",sync;desktop;windows-10;,firefox,sync,en-US
+1264194,1562663988,1562663988,spell check not working in BT Mail,"<p>There is no spell checker in the new BT Mail service.
+Bt Mail relies upon the users browser to supply spell checking.
+I have spell check enabled in my Fire fox browser but it does not work in the BT Mail when composing an email.
+</p>",firefox-670;other;desktop;windows-7;,firefox,other,en-US
+1264193,1562662719,1562662719,Why does Firefox keep defaulting to its own settings?,"<p>Every few days now, I open my browser to find a black screen and I have to reset all my own preferences again, untick 'highlights' and 'tips' re-tick restore previous session/top sites - everything. I've uninstalled firefox and reinstalled it, removed the user data files and cache but it won't stop doing it - it's exasperating. Is there something I haven't ticked or unticked that is making this do this all the time please? I'm not a techy, so be gentle...
+</p>",firefox-670;customize;desktop;windows-10;,firefox,customize,en-US
+1264190,1562661081,1562671840,firefox  password  account,"<p>I  don;t  remember  password  account.what  can  i  do?
+</p>",firefox-670;privacy-and-security_1;desktop;windows-10;needsinfo;,firefox,privacy-and-security,en-US
+1264189,1562660636,1562661374,have lost mails of past 2.5 years from inbox after compacting,"<p>have lost mails of past 2.5 years from inbox after compacting. also received 2 times a crash event and thunderbird restarted. After restart 2.5 years mails have vanished from inbox. please help to recover.
+</p>",other;desktop;,firefox,other,en-US
+1264188,1562659191,1562659191,Outlook email (https://outlook.live.com) does not open when logging in.,"<p>When logging in at <a href=""https://outlook.live.com/mail/inbox"" rel=""nofollow"">https://outlook.live.com/mail/inbox</a> there is no response from outlook. 
+After deleting cookies and history it works again for one day. Then problem appears again.
+In other browsers it works fine.
+In Firefox following add-ons have been installed: Ad-blocker, Ghostery. Disabling these did not have any effect.
+</p>",firefox-670;websites;desktop;windows-10;,firefox,websites,en-US
+1264187,1562658553,1562658821,Why does firefox have a white boarder on left and right sides on a 4k monitor when scalling is above 100%? (multi year problem....),"<p>this has been a problem for multiple years. its caused me not to use my monitor at 4k because i love firefox but cannot stand a white bar on the side. im over this problem, it has not been fixed in several years (3+) with any update. Edge, Chrome, and Opera do not do this, only Firefox. I have tried standard, beta, nightly, and they all do the same thing. It is a firefox problem. Not windows, gpu driver, or anything else. Scaling above 100% should be just fine. I am ready to be done with Firefox as you guys don't seem to care about the problem at all. I have seen multiple posts on here about the same problem, and nothing gets done. Please fix this problem soon. I am ready to switch back to chrome -_-
+</p>",firefox-680;beta;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1264186,1562658188,1562679052,"How to Cancel ""Forget"" Function","<p>Dear Firefox Team,
+</p><p>Last month I had 2 weeks vacation and when I came back to my Firefox everything was normal except for one website. I cannot access my Telegram Web (<a href=""https://web.telegram.org/)"" rel=""nofollow"">https://web.telegram.org/)</a>. I can access the page but it doesn't work properly. So I tried to clear the cache just in case I need to relogin but nothing happened. 
+</p><p>I am searching help from the internet and found about ""Forget"" function on the Firefox. So I tried using this method on my problem but I cannot access the page since. (attached the error notice)
+</p><p>I still be able to access Telegram main site (<a href=""http://telegram.com"" rel=""nofollow"">telegram.com</a>) but not the Telegram web.
+</p><p>How to cancel this ""forget"" function? Please advise.
+</p><p>Thank you so much.
+</p><p>Regards,
+</p><p>Andi
+</p>",firefox-670;privacy-and-security_1;desktop;windows-10;,firefox,privacy-and-security,en-US
+1264185,1562657956,1562657956,the website does not react when i try to set needed font. it just stays the same,"<p>the website does not react when i try to set needed font. it just stays the same
+</p><pre><a href=""http://HLTV.org"" rel=""nofollow"">HLTV.org</a> is th e site, even here at the forum 
+</pre>
+<p>the font looks very small as i set minimum as 17, but infact it is like 10 or so
+while     chrome reacts to that kind of changes
+</p>",firefox-670;websites;desktop;windows-7;,firefox,websites,en-US
+1264184,1562657258,1562657258,no puedo abrir firefox,"<p>Cada vez que lo intento salen todas las preguntas
+</p>",download-and-install_1;desktop;,firefox,download-and-install,es
+1264183,1562656381,1562656381,resistFingerprinting won't turn off,"<p>resistFingerprinting turned itself on a few months back. I'd like it off, since it passing my time zone as GMT causes issues. Every time I turn it off however, it turns itself back on within 30 minutes or so. Any idea how to turn it off and keep it off, or at the very least just turn off the time zone spoofing?
+</p><p>This has been happening on Dev Edition in versions 68 and 69.
+</p>",privacy-and-security_1;desktop;windows-10;,firefox,privacy-and-security,en-US
+1264182,1562653986,1562710308,Some links continuously opens new tabs - Container problems?,"<p>So came across this Youtube link which just spam bombs opening up new tabs in the window. Firefox remains responsive, and I managed to close the window before it used up all my memory and started hanging the system. Using latest version of Firefox, with various Addons listed in the appropriate box below
+</p><p>Link is broken apart below:
+</p><p><a href=""http://www.youtube.com/watch?"" rel=""nofollow"">www.youtube.com/watch?</a> v=WUA5aCOF3y0
+</p>",firefox-670;other;desktop;windows-10;,firefox,other,en-US
+1264181,1562652393,1562652393,can't sign in to my gmail accounts,"<p>hello, I can't sign in to my gmail accounts, the result i am getting every time i tried to sign in that password incorrect and i can  sign in with another browsers.
+</p><p>I have tried this solution <a href=""https://support.mozilla.org/en-US/questions/1197002"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1197002</a> and the problem still persist.
+</p>",firefox-670;other;desktop;windows-7;,firefox,other,en-US
+1264180,1562650945,1562650945,How to Fix toshiba error 0xc0000185,"<p>Actually, I have a suggestion for you. In today's date, most of the people interested to use toshiba device and I hope that will be fine to collect some information about it, So if you faced any type of issue with toshiba device, from browsing toshiba error 0xc0000185, you will get about it properly.
+</p><p><a href=""https://errorcode0x.com/fix-toshiba-error-0xc0000185/"" rel=""nofollow"">https://errorcode0x.com/fix-toshiba-error-0xc0000185/</a>
+</p>",other;desktop;,firefox,other,en-US
+1264178,1562649767,1562681136,How  do  I  Uninstall an  incapable  update?,"<p>I just  had  a update  ownloaded and  installed.  Went  to  open  Firefox  and  discovered  that  the  update  was  incapable  with  the  version  I use.  I also  do  not  have  another  browser  on my tablet.  If I  end  up  having  to  completely  Uninstall the  version  I have  it would  mean  that  I  will  lose 5 months  of  research  from  the  University  of  Leeds and  the  University  of  Brussels.
+</p>",other;desktop;,firefox,other,en-US
+1264177,1562646928,1562646928,"Despite all attempts through different routes, I cannot make Firefox default browser  - Always overridden by Chrome.  What is the problem?","<p>All the mentioned options here in the Community support have been tried. I have reinstalled Firefox and also added it to my mobile, and synced everything as well, and chosen Firefox as my default browser on my mobile. I have chosen Firefox through Custom Programmes (as against 'Non Microsoft) in Win7 and as the default browser in Firefox options (it keeps telling me Firefox is NOT my default browser but won't accept 'Make Firefox my default browser' option). In choosing options for File Associations (in Windows) only Chrome versions are available, and I can neither uncheck those options within Chrome section NOR choose to use Firefox in the Firefox section. I need to keep Chrome available for a few select items so cannot uninstall it. I am desperate. Talk about invasive!
+</p>",firefox-670;other;desktop;windows-7;,firefox,other,en-US
+1264176,1562642220,1562642220,Firefox not updating in all user accounts on Windows machine,"<p>I do not use an Admin user account for web browsing. Therefore, I have a standard (non-admin) user account which I use for web browsing.
+</p><p>I recently upgraded Firefox to v 67.0.4 from my Admin account, thinking that this change would migrate to all user accounts. It did not. In my daily use, standard user account, FF was still at version 66.0.3
+</p><p>Next, I attempted to upgrade FF directly from my standard user account by downloading the installer, then running it from my standard user account but (necessarily( with Admin credentials. This approach also failed, and FF in my standard user account is still stuck on v66.0.3
+</p><p>What is going on and how can I fix it?
+</p>",firefox-660;other;desktop;windows-7;,firefox,other,en-US
+1264174,1562641282,1562641282,When I go to a website and have a #tag ID name Firefox doesn't scroll to the tag,"<p>Going to this page <a href=""https://www.fcc.gov/uls/transactions/daily-weekly#fcc-uls-transaction-files-weekly"" rel=""nofollow"">https://www.fcc.gov/uls/transactions/daily-weekly#fcc-uls-transaction-files-weekly</a>    Firefox doesn't scroll to the fcc-uls-transaction-files-weekly tag id on the page.  Rather it displays the page from the top.  If I go up the the web address, put the cursor as the end of the line and hit enter, I am taken to the part of the page where the tag ID is located.  Chrome and Microsoft's Edge both correctly position the page at the correct location.  Do I have an option set wrong in Firefox or is Firefox just not working correctly? 
+</p><p>From the HTLM on the page
+</p>
+<div class=""panel-pane pane-block pane-fcc-uls-transaction-files-weekly pane-fcc-uls-transaction-files"" id=""fcc-uls-transaction-files-weekly"">
+  <div class=""pane-inner"">
+      <h2>
+      Weekly Databases    </h2>
+<hr>
+<p>I expect to see the Weekly Databases not the Daily Databases,
+</p>
+</div>
+</div>",firefox-670;firefox-6704;websites;desktop;windows-10;,firefox,websites,en-US
+1264173,1562640647,1562652602,Is there a way to save all tabs as a group (I have about 60 tabs opened) before attempting to update to a newer version of FF?,"<p>I don't want to lose all of the tabs that I have opened in my current session. Saving them individually would be very time consuming. Can multiple tabs be saved as a group so that they could be retrieved later?
+</p>",firefox-660;other;desktop;windows-7;,firefox,other,en-US
+1264172,1562639642,1562639642,Why does Firefox open 2 new instances of Firefox in Task Manager Processes everytime I open a new tab.,"<p>If I have 5 tabs open it starts 10 processes of Firefox maxes out my CPU and memory. With one tab open the process uses 100,000 2 tabs makes 4 processes each using 250,000 and 5 tabs is 10 processes of Firefox each using over 1,000,000 which maxes out my CPU and memory crashing or hanging my system.
+</p>",firefox-670;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US
+1264171,1562639461,1562639656,I want to find a forum where people post questions and interact. Geez you guys are making this way too difficult. FIREFOX ...multiple issues and questions,"<p>FORUM....I don't want to ask my questions into a text box. Give me a link to a forum.
+</p>",firefox-660;other;desktop;windows-7;,firefox,other,en-US
+1264170,1562637994,1562658160,restart firefox,"<p>Is there a way to just restart firefox without exiting and double clicking the icon..
+I did find 2 plugins that allows for a restart, but geeez they want full access.. 
+</p><pre>   Access your data for all websites
+   Exchange messages with programs other than Firefox
+   Display notifications to you
+   Access browser tabs
+   Store unlimited amount of client-side data
+   Access browser activity during navigation
+</pre>
+<p>Sure does seem like the webextension builders are asking for way more access then is needed..
+</p><p>How can I build an extension to just restart my browser.
+</p><p>Thank
+</p>",tips;desktop;windows-7;,firefox,tips,en-US
