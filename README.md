@@ -1,7 +1,17 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
-## 09july2019 how to set up launcy
+## 09july2019 revised workflow
+
+```bash
+cd 201907
+../get-questions-for-1-day.rb 2019 7 9 
+../print-all-ids-increasing-order-desktop-english-sumo-questions.rb\
+2019-07-09-firefox-desktop-all-locales.csv ids >2019-07-09-en-us-desktop-ids.txt
+cat 2019-07-09-en-us-desktop-ids.txt | ../open-ids-in-browser.rb
+```
+
+## 09july2019 how to set up launchy
 
 ```bash
 export BROWSER='/mnt/c/Program\ Files/Firefox\ Nightly/firefox.exe'
