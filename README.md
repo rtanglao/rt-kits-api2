@@ -1,6 +1,13 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 09july2019 how to set up launcy
+
+```bash
+export BROWSER='/mnt/c/Program\ Files/Firefox\ Nightly/firefox.exe'
+echo 1262479 | ./open-ids-in-browser.rb
+```
+
 ## 04june2019 randomized :-)
 
 ```bash
