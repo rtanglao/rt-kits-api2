@@ -1,0 +1,299 @@
+id,created,updated,title,content,tags,product,topic,locale
+1264746,1563229948,1563238492,Is there any setting that closes the download link tab automatically?,"<p>When I click a link that directly downloads a zip file, I want that newly opened tab to close automatically after the download has started. I looked around in about:config for some time but couldn't find anything. Any help?
+</p>",download-and-install_1;firefox-680;desktop;windows-10;,firefox,download-and-install,en-US
+1264745,1563228511,1563315717,why is this browser no longer able to go to a site it used to?,"<p>YES I WANT TO SCREAM. This seems like it is nothing more than an effort to sabotage it is so stupid on the part of this browser.
+I go to a site and click the link to comment. I had no problem getting to that point before, now i get a message that says ""this page sin't re directing properly.""
+WHY? 
+I read that maybe i need to clear the cookies.
+GLAD TO.
+but I cannot  find out where they are to clear them out. I look all around in security, i look all around in general.
+i am so sick of this happening. I have to go to my outbox to fetch the email.
+You KNOW THIS IS GETTING TIRESSOME
+this browser isn't working for me anymore. I don't find it helpful, i don't find it is protecting anything it is just a nuisance.
+SO I AM LOOKING FOR OTHER BROWSER.
+IF YOU USE CHROME YOU MIGHT AS WELL HAVE A PERSONAL TRACKER, I'M SURE EVERYONE HAS READ THE NYT ARTICLE.A
+SO I LOOKED INTO mozilla pale moon and then looked into reviews and came across this""
+Why You Shouldn’t Use Firefox Forks Like Waterfox, Pale Moon, or Basilisk.......... and it goes on and on about each. I didnd't read about all because I just want a fast, responsive browser that isn't going to make me crazy.
+it said good things about firefox quantum -- I DO NOT KNOW if that is what i have now, i don't think so, but I do not want any headaches, i never want to be blocked from a site over friggin' cookies nd not be able to quickly clear them out. 
+and then it says this:
+""Even if you don’t completely trust some of Mozilla’s business decisions, your browser is just too important to be left to a small community of enthusiasts. We think it’s best to go with a big project with a large number of developers that receives a lot of attention to security. That’s why we recommend against using these smaller Firefox-based browsers, and why we also recommend against using alternative browsers based on Google Chrome. Here are our concerns with some of the more popular Firefox alternatives...""
+I haven't read on, but look, I if until i can find what i can live with, I would be grateful for some help in finding out HOW NOT TO MAKE THIS BROWSER HARASS THE HELL OUT OF ME BY BLOCKING ME FROM GETTING AN EMAIL, WHEN I BLOODY WELL KNOW CNN IS A FINE SITE, AND PLEASE, I DON'T WANT TO HAVE TO HUNT ALL OVER HOW TO CLEAR COOKIES, WHERE ARE THEY? I 
+HAVE ALLOWED ALL THESE SITES EVERYWHERE I CAN SEE TO IMPUT EVERY SITE SO THAT THE BROWSER KNOWS THAT IS IT OKAY.
+</p><p>I WOULD BE SOOOOOOOOOOOO GRATEFUL JUST TO FIND A WELL SECURED BROWSER THAT ISN'T GOING TO MAKE ME WANT TO SCREAM BECASUE i CAN'T GET TO A SITE I WELL KNOW IS FINE, AND NOT A BOUTIQUE BROWSER, BECAUSE I THINK I CAN WELL SEE WHERE ""A SMALL GROUP OF ENTHUSIASTS"" CAN BECOME DISRUPTIVE TO PEOPLE TRYING TO FIND AN EMAIL.
+DOES ANYONE AT ALL THINK YOU CAN PLEASE HAVE A SUGGESTION? 
+EVEN IF IT IS NOT ASSOCIATED WITH MOZILLA?
+or GOOGLE.
+THANKS AND I APPRECIATE  IT IF YOU CAN GRASP HOW IRRITATING THIS IS AND JUST TRY TO HELP......
+THANKS AGAIN SO MUCH!
+</p>",privacy-and-security_1;desktop;,firefox,privacy-and-security,en-US
+1264743,1563228157,1563232044,Google maps fail on page reload with Firefox 68 on Mac,"<p>Example: <a href=""https://developers.google.com/maps/documentation/javascript/examples/map-simple"" rel=""nofollow"">https://developers.google.com/maps/documentation/javascript/examples/map-simple</a>
+Loads fine on first load. Now highlight the address bar (by clicking in it) and hit the return button: Map does not load.  Do it again: it loads. Do it again: doesn't load.
+I've tried this on different machines - same problem.
+</p>",firefox-680;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US
+1264741,1563227405,1563230140,Is there a way to display the Bookmark Manager in a new tab instead of a window?,"<p>Used to be you could visit/bookmark ""chrome://browser/content/bookmarks/bookmarksManager.xul"" for this, but obviously this no longer applies to modern firefox. Is there an alternative?
+</p>",bookmarks;desktop;firefox-680;windows-7;,firefox,bookmarks,en-US
+1264740,1563226714,1563279874,"Roboto Light font won't display even though I have it, and Roboto displays fine","<p>I want to replace all fonts on all websites with  Roboto Light. I downloaded the Roboto family and installed it on my PC. Now when I use this:
+</p>
+<ul><li>{font-family: ""Roboto"";} 
+</li></ul>
+<p>it works fine, but when I use this:
+</p>
+<ul><li>{font-family: ""Roboto Light"";}
+</li></ul>
+<p>it falls back on another font. Why?
+</p>",firefox-560;other;desktop;windows-81;,firefox,other,en-US
+1264738,1563225959,1563327798,I can not sign in to my gmail account.,"<p>I can type in my email, but the next window for the password does not show it stays on type in your email address. And clicking on ""next"" does nothing. But I can go to my account on my cellphone.
+</p>",firefox-680;other;desktop;windows-10;,firefox,other,en-US
+1264736,1563224834,1563225441,do you have a customer support phone number,"<p>can I talk to a person on my phone
+</p>",other;desktop;,firefox,other,en-US
+1264735,1563224370,1563233229,Why doesnt the back arrow use one click for previous page?,"<p>After a search on <a href=""http://findagrave.com"" rel=""nofollow"">findagrave.com</a> i have a list of names to look at, so i click on one and look at it and decide to go back to the list of names but I click the back arrow and no change until I click it again. So I notice when I right-click the back arrow it shows that two instances of the same page was loaded hence I must click twice on the back arrow to get back to the list page.
+WHY? this doesn't happen in edge or chrome.
+</p>",firefox-680;websites;desktop;windows-10;escalate;,firefox,websites,en-US
+1264731,1563223169,1563223519,Why is Mozilla causing download of widevinecdm.dll--a google product? Google d/n = privacy.  Can this file be uninstalled w/o affecting performance?,"<p>Norton security popped up with ""widevinecdm.dll"" as ""safe.""  I asked no one or anything to install it.  Thus, I investigated what it is and how w/o permission it was installed.  It happened after a firefox update.  I've read several Mozilla posts on this but none answer the fundamental question why Mozilla is using a google id'd product since by definition this does not protect privacy.  In fact google's reason to be is to mine data.  And I find no one explaining what deficits to functioning occur if this is uninstalled.
+</p>",firefox-680;customize;desktop;windows-10;,firefox,customize,en-US
+1264730,1563221340,1563310554,"Zabezpečení stránky (spojení není zabezpečeno, server používá slabé šifrování)","<p>Zdravím, 
+při přihlášení do svého účtu u ISP na stránce: <a href=""https://konto.netbox.cz/"" rel=""nofollow"">https://konto.netbox.cz/</a> jsem si všiml, že mi Firefox hlásí, že spojení není zabezpečeno, viz přiložené screenshoty. U ISP to prověřili s tím, že Firefox jim ukazuje zabezpečené spojení. Chrome mi ukazuje také zabezpečené spojení. Nevíte někdo, co s tím? Díky za případnou odpověď.
+</p>",firefox-680;desktop;privacy-and-security_1;windows-7;,firefox,privacy-and-security,cs
+1264728,1563220554,1563222330,Is a Firefox Account Integration for other websites planned?,"<p>Many have the problem of managing their accounts. Hence ""log-in with ..."" are popular. That makes it easy to centralize, manage and grant (and deny) access to personal data. I'd rather trust Mozilla than Google or Facebook etc.
+</p>",firefox-680;sync;desktop;linux;,firefox,sync,en-US
+1264727,1563219753,1563225391,add-ons are not installing,"<p>when i click  to install the add-on  from the mozilla site, i just get a small bar that cycles indefinitely.  ive added a screenshot to attempt to show whats happening.  I'm signed into my account when i try to install any addons.  Not sure what the issue could be.  I have the newest firefox (version 68).  Any help is appreciated, Thanks
+</p>",firefox-680;customize;desktop;windows-10;,firefox,customize,en-US
+1264725,1563217821,1563241193,Use offline 360 virtual tour,"<p>Until the most recent update to firefox I used firefox to view 360 virtual tours offline on MAC and WINDOWS.
+</p><p>I updated firefox and now all I get is a black space where the 360 is supposed to be.
+</p><p>This is what the tour is supposed to look like: <a href=""https://www.bigdutchmanusa.com/tours/broiler-breeder/"" rel=""nofollow"">https://www.bigdutchmanusa.com/tours/broiler-breeder/</a>
+</p><p>The attached is what comes up with the new version of firefox.
+</p><p>I have many clients who use these tours offline with firefox and I need to know how to fix this ASAP please.
+</p>",firefox-680;other;desktop;mac-os;,firefox,other,en-US
+1264724,1563217749,1563218681,New Firefox logo didn't change. Why?,"<p>Mozilla recently changed their logos for their products. I have a question about new Firefox logo. Why it doesnt change? I mean shortcut icon is still the same? Please take a look at my screnshoots. Tnx!
+</p>",firefox-680;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1264723,1563216519,1563216519,"Não consigo baixar nada no firefox, ele informa esse erro: could not be saved because the source file could not be read","<p>Estou tentando baixar um arquivos de um sistema do Governo porem ele me informa sempre esse erro: could not be saved because the source file could not be read Será que alguém pode me ajudar ? Segue o print da tela com erro.
+</p>",desktop;fix-problems;,firefox,fix-problems,pt-BR
+1264721,1563216092,1563216441,Why can’t I install Firefox on my MacBook Pro?,"<p>Firefox is not in the App Store on my MacBook Pro
+</p>",download-and-install_1;desktop;,firefox,download-and-install,en-US
+1264719,1563211140,1563222387,"Scratchpad won't stop reloading after adding window.addEventListener(""load"", function(){})","<p>I wanted to see if my code would run on load, so I added my script onto Scratchpad: window.addEventListener(""load"", function(){...}) and went to Execute Reload and Run. Now, whenever I go onto that site, the page will not stop reloading even though I have deleted my script from Scratchpad, closed the tab and navigated to the same site in a new tab, and even tried going into a private window. The reload problem persists.
+</p><p>Update: I thought that this was only happening locally, but it looks like it is happening on the live site. It's been refreshing nonstop. Would anyone happen to know how to remove the Scratchpad edit I made? I'm doing research on this, and I can't seem to find any documentation on it. I tried deleting the Scratchpad event listener code, then hitting run. I tried exiting out of scratchpad and the tab that I was using, restarting my computer, etc. Though I don't know if those last steps would make a difference.
+</p>",firefox-680;customize;desktop;windows-7;,firefox,customize,en-US
+1264718,1563211080,1563247448,Facebook Messenger audio files will not play  in Firefox.  They play in Chrome.  Audio contained in video files plays just fine,"<p>All other audio files play without a problem in Firefox, the Facebook Messenger audio files seem to be the only ones affected.  This has been a continuing problem under all Windows versions of Firefox for at least the past 6 months.  I'm using Windows 10, version 1803 and Firefox, both automatically updated to the latest downloads.
+</p>",firefox-690;beta;desktop;fix-problems;,firefox,fix-problems,en-US
+1264716,1563210093,1563213181,I have a black screen after launching firefox.,"<p>I downloaded and installed firefox. now all i have is a black screen within the firefox window. no options, no address bar. nothing. I have installed and uninstalled different versions for x64 and x32 with no results.
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US
+1264715,1563209933,1563305451,"Last update to v 68.0 changed the yellow color I used for the menu bar, which I want to resume using.","<p>What must I do to get the same color back?
+</p>",download-and-install_1;firefox-680;desktop;windows-10;,firefox,download-and-install,en-US
+1264714,1563209693,1563290449,"The latest update, 68.0 (64-bit), causes files that are being downloaded to not go to the correct location.  Has anyone else experienced this issue?","<p>I have an application that processes files based on their extension and location.  I set that application to look in my Downloads folder.  I set Firefox to download to my downloads folder.  However, after the 68.0 update Firefox is not placing Downloaded items into the Downloads folder. It is instead burying them under the logged on user's profile.
+</p>",firefox-680;customize;desktop;windows-10;,firefox,customize,en-US
+1264713,1563209533,1563219981,I have 2 firefox sessions (windows) open on my macbook 10.14.4...is there a keyboard shortcut to switch between them? (I do not mean tabs!),"<p>2 browser windows open...need to alternate between them quickly...is there a keyboard shortcut?
+</p>",firefox-670;tips;desktop;mac-os;,firefox,tips,en-US
+1264712,1563209305,1563229170,i cant set up a digital clock,"<p>tool bar had the time and date, now the time is off . i cant change the time, dont understand the codes? so frustrating  there is no instructions on how to set up a normal time
+</p>",firefox-670;customize;desktop;linux;,firefox,customize,en-US
+1264711,1563209237,1563209899,Firefox does not play html5 videos after sleep,"<p>Hi!
+</p><p>Firefox does not play videos after windows 10 computer returns from sleep. In fact, if I visit video url such as this one <a href=""https://www.w3schools.com/html/mov_bbb.mp4"" rel=""nofollow"">https://www.w3schools.com/html/mov_bbb.mp4</a> directly it still does not play. I works fine until I put my computer to sleep. It is not connection problem because everything other than videos work. And with other browsers, videos also work. This problem started to happen recently for no good reason  - no windows update or FF update that caused it.   Does firefox play videos on it's own or does it depend on some external components? Tab icon shows me infinitely  loading animation. However, when I open dev tools and network tab, it shows me that it's downloading 771kb, which is the correct size of that video. When I right click and choose view page source then I can also see the contents of mp4 file. So it looks like file itself is downloaded but there is some component that does not get notification. 
+</p><p>Is there anyone who could explain how does video playing work in firefox internally?
+</p>",firefox-660;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1264709,1563208812,1563229079,Mis a jour,"<p>Mis a jour
+</p>",download-and-install_1;desktop;,firefox,download-and-install,en-US
+1264708,1563208807,1563208807,Mis a jour,"<p>Mis a jour
+</p>",download-and-install_1;desktop;,firefox,download-and-install,en-US
+1264707,1563208692,1563208692,Mis a jour,"<p>Mis a jour
+</p>",download-and-install_1;desktop;,firefox,download-and-install,en-US
+1264706,1563207619,1563208099,Firefox (Nightly) window is moving/jumping one pixel up when moving the mouse over a link or typing in a textbox,"<p>When I move the mouse over a link, or even during writing in this textarea, the whole window is moving up for one pixel (or so).
+</p><p>It only happens when the window is maximized.
+</p><p>I tried to record it with OBS Studio, but it does not happen when OBS is running.
+</p><p>It also occurs when using a fresh profile. 
+</p><p>It does not happen in the current stable version of Firefox (68.0).
+</p>",desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1264705,1563206981,1563207465,My new tab selection now produces a tab without my Page Actions but old tabs still open still show my Page Actions. How do I fix this?,"<p>Nothing has changed with my Firefox browser, v68.0 (64 bit) but starting this morning my new tab selection now produces a tab without my Page Actions but old tabs that I still have open show my Page Actions.
+</p>",firefox-680;customize;desktop;windows-10;,firefox,customize,en-US
+1264703,1563206511,1563207250,Can't restore previous sessions even though checked Restore previous sessions,"<p>I want to restore previous sessions but not save Browsing &amp; Download History, Form &amp; Search History, Cache and Offline Website Data. So in Settings &gt; Privacy &amp; Security &gt; History &gt; Settings for Clearing History, i ticked those options. I also made sure in about:config that ""privacy.clearOnShutdown.sessions"" is false.
+</p><p>But every time i close Firefox and relaunch it, it opens up a new tab rather than restoring. I checked the ""sessionstore-backups"" folder in my profile folder and indeed every time i closed Firefox, the folder deletes itself. I realised if i put ""privacy.clearOnShutdown.history"" as false the browser restores, but i only want the ability restore previous sessions without storing any history.
+</p><pre>Is there any way around this?
+</pre>",firefox-680;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US
+1264702,1563205179,1563291869,how do I fix print preview screen that worked in ff 65 66 67 in 68 pps is frozen can't get it to full size os8.1 ?,"<p>print preview scree will not resize to full screen MS says it is a FF problem Brother says it is a FF problem...tried several recommended
+options on FF help nothing works...MS could not get any of their offered solutions to work...OS windows 8.1 MS office home and student 2013 word will not resize desperate for a fix please help
+</p>",firefox-680;other;desktop;windows-81;,firefox,other,en-US
+1264699,1563204211,1563206292,Typo on launch page bottom banner,"<p>""That why privacy is..."" should be corrected to, ""That's why privacy is..."" See attached screen shot.
+</p><p>Thanks!
+</p>",firefox-670;other;desktop;mac-os;,firefox,other,en-US
+1264698,1563203891,1563285160,Al entrar en una página que suelo visitar me sale Conexión segura fallida  Ha ocurrido un error al conectar con www.compucalitv.com. PR_CONNECT_RESET_ERROR,"<p>Al entrar en una página que suelo visitar me sale Conexión segura fallida  Ha ocurrido un error al conectar con <a href=""http://www.compucalitv.com"" rel=""nofollow"">www.compucalitv.com</a>. PR_CONNECT_RESET_ERROR. Desde mi movil puedo entrar sin problemas y he intentado todas las soluciones que he visto en vuestra página: Restablecer Firefox, desactivar la medida de seguridad OCSP Stapling, desinstalar mi antivirus AVG, desactivar el cortafuegos y ya no se que más hacer. 
+Espero que podáis ayudarme y muchas gracias por todo.
+</p>",firefox-680;desktop;fix-problems;windows-10;,firefox,fix-problems,es
+1264697,1563201891,1563201891,Unable to access numerous .mil sites,"<p><em>locking this thread as duplicate, please continue at <a href=""https://support.mozilla.org/questions/1264694"" rel=""nofollow"">https://support.mozilla.org/questions/1264694</a></em>
+</p><p>I am no longer able to access ANY of the sites I need to access in order to do my job: JPAS; DISS, SWFT, NCAISS; NISS (all .mil). I am now able to get to the JPAS site, but it doesn't read my PKI certs. I cannot even get to NCAISS due to receiving Secure Connection Failed and now there is no way to bypass this. There used to be an Advanced option that would allow me to bypass this, but that is no longer available. I am completely cut off from NISS due this and I need to access it! The government is unhelpful because I'm using a Mac. Everything was working just fine until this last Firefox update. I am able to access JPAS, DISS and SWFT via Chrome, but I cannot access NCAIS/NISS with Chrome.
+</p><p>PLEASE HELP!  I have tried submitting this twice, but I just get a blank screen, so I am trying without the screen shots to see if I can get it to go through.
+</p>","",firefox,other,en-US
+1264696,1563201541,1563233880,Why is there no bookmarks.html file in my new profile after a refresh?,"<p>Has the latest version switched to only keeping bookmarks internally, and not as a file in the profile folder updated each time the browser is closed? I refreshed Sunday (14 July), but don't see such a file in the new profile folder.
+</p>",bookmarks;desktop;firefox-680;windows-7;,firefox,bookmarks,en-US
+1264695,1563200615,1563201877,Did Not Connect: Potential Security Issue: get this after I log into yahoo mail and click on mail from toolbar,"<p>This just happen today
+I can log in ok but when I click on Mail to my emails I get this error message for no reason.
+See image attached
+</p>",firefox-680;other;desktop;,firefox,other,en-US
+1264694,1563200159,1563217564,Most .mil sites cannot be accessed,"<p>I am no longer able to access ANY of the sites I need to access in order to do my job: JPAS; DISS, SWFT, NCAISS; NISS (all .mil). I can get to the JPAS site, but it doesn't read my PKI certs. I cannot even get to NCAISS due to receiving Secure Connection Failed and now there is no way to bypass this. There used to be an Advanced option. I am completely cut off from NISS due this and I need to access it! The government is unhelpful because I'm using a Mac. Everything was working just fine until this last Firefox update. I am able to access JPAS, DISS and SWFT via Chrome, but I cannot access NCAIS/NISS with Chrome.
+</p><p>PLEASE HELP!!!
+</p>","",firefox,other,en-US
+1264693,1563198257,1563201848,"Facebook notifications, messages & friend requests not loading.","<p>My Facebook notifications, messages, and friend requests don't load on Firefox. It just shows that spinning thing. But when I use Chrome, my Facebook works fine. So I'm pretty sure the problem is with Firefox, not Facebook.
+</p>",firefox-680;other;desktop;mac-os;,firefox,other,en-US
+1264692,1563197639,1563232177,Problem with latest update,"<p>My animated themes are no longer animated. This happened with the 68.0 update. This is the case on two computers running Windows 7 64 bit.
+</p>",download-and-install_1;firefox-680;desktop;windows-7;,firefox,download-and-install,en-US
+1264691,1563197615,1563226872,"Browsing a website i have used for 20 years without any ptoblem, i now receive a message ""Secure Connection Failed""","<p>website &lt;<a href=""https://www.gty.org/>"" rel=""nofollow"">https://www.gty.org/&gt;</a> I note that there is no green lock, but Firefox is preventing me from browsing a website i have used without any problems for 20 years or so. It does not give me an override option. While i appreciate your protection, surely there must be some argument for a user to note the danger, but continue to the website? I was connected for about 30 seconds before shutdown. I need info from the website.
+</p>",firefox-680;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US
+1264690,1563197076,1563197620,Did Not Connect: Potential Security Issue,"<p>2 updates before this website was working fine for me, now whenever I try to access the website ""<a href=""https://www.hcai.ca/"" rel=""nofollow"">https://www.hcai.ca/</a>""  I get the error ""Did Not Connect: Potential Security Issue
+Error code: SEC_ERROR_UNKNOWN_ISSUER
+</p><p>Certificate: 
+Version: Version 3
+S/N: 00:A1:83:9D:1B:00:00:00:00
+</p><p>Value:
+Size: 256 Bytes / 2048 Bits
+cd 10 33 c4 2e 61 42 e8 59 e4 aa a9 84 18 a8 19 
+4e 30 3b 3a 07 c4 17 9d 84 e2 e8 dc ed da 92 86 
+25 b7 06 96 3e 43 c1 14 ac 6c 0b 34 29 31 ad 70 
+90 69 33 4a 3f 8a 4a 71 a0 2b 80 bb a4 aa 71 6c 
+08 0e ea f9 ea 60 f8 dc e9 17 d5 18 3d b7 ab eb 
+30 19 f3 37 47 7f 77 08 b3 ca 32 dd 95 b5 17 13 
+43 a4 06 74 be 8f 65 77 49 0f 59 2e d8 32 56 37 
+a3 07 dc 8a 89 a4 54 11 25 25 bb fc 78 cd 38 f1 
+21 c8 53 b5 c2 37 44 fe f4 a8 72 88 0f b5 60 14 
+8e 9b ac 64 6a db 01 d5 9d d9 b6 8d 30 42 88 68 
+84 95 8a 7d a6 42 1a 37 ef 73 c6 e3 61 fe 72 ae 
+bb c3 ac a3 0d e9 bb ee e0 e7 de 86 37 2d 17 2f 
+1c 30 dc 0c 88 e9 db b6 fc 6e 66 5c ca 1c f5 9b 
+82 d7 61 13 8c 16 67 6e 54 1a d1 5f 4b de 35 ee 
+20 56 f7 e6 ea 2a ce 09 83 26 61 ed 78 62 88 94 
+af 64 79 2f 36 99 89 f0 f9 d6 25 30 76 2f 7b 2d 
+</p><p><br>
+I've run the test on ""<a href=""https://www.ssllabs.com/ssltest/analyze.html?d=www.hcai.ca"" rel=""nofollow"">https://www.ssllabs.com/ssltest/analyze.html?d=www.hcai.ca</a>""
+Which I've gotten the overall B
+</p><p>Trusted 	Yes
+Mozilla  Apple  Android  Java  Windows
+</p><p>I have found this issue with 2 websites so far. Both were working before these last 2 updates.
+</p>",firefox-680;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US
+1264689,1563196224,1563214312,can't use Firefox,"<p>Something with last week's update has jacked  up the browser on my work computer. My tabs aren't loading. Instead they're giving me errors. Last week it was one tab and now it's almost every one. I can't even load a new tab for Firefox support! How do I fix this? Other browsers are working.
+</p><p>Error messages
+- connection has timed out (everything else)
+- corrupted content error (Outlook)
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US
+1264688,1563196144,1563204787,"Firefox version 68 will only open if ""Run As Administrator"".","<p>Several users within our company are unable to use Firefox after the last update to version 68. Firefox will only open if ""Run as Administrator"" is selected. No error comes up. When clicking on it, nothing happens.
+</p><p>Below is what I have tried so far but have had no luck:
+1. Uninstalling/reinstalling
+2. Tried installing the ESR version. 
+3. Refreshed Firefox
+4. Created a new profile.
+</p><p>None of the above solutions have worked. With that being said, each employee's laptop has 2 user accounts. There is an administrator account and the actual user account. The user's account does not have admin rights. Users that do have admin rights such as the IT staff, Firefox is working fine with version 68 (so far).
+</p><p>The users affected have either Windows 8/8.1 or Windows 10.
+</p><p>Any other suggestions would be greatly appreciated.
+</p><p>Thanks in advance!
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US
+1264687,1563195365,1563242582,"FireFox suddenly shows a ""Update Ready to Install"" pop-up for Firefox 68.0?","<p>Firefox normally updates automatically but yesterday evening when I powered up my MacBook Pro and then FireFox( vs 67.0.4) immediately upon launch a pop-up entitled, ""Software Update"" appeared and the body of the message reads, ""Update Ready to install.  A security and stability update for Firefox has been downloaded and is ready to be installed.  Update:  Firefox 68.0       Details (link) etc. Please see uploaded image below. 
+</p><p>I did go to About FireFox, but it does not give me any way to update. 
+</p><p>Question:  Is this the new normal? Is it safe to click the links and update in the pop-up I received?  Or how should I handle this?
+</p><p>Many thanks for your assistance in this matter.  If you need more information, please let me know. 
+</p><p>I am submitting this question from an iMac rather than the MacBook Pro, I'm a little leery of using it at the moment. However, I did run MacScan, Malwarebytes and ClamXAV and they all came out fine.
+</p>",download-and-install_1;firefox-680;desktop;,firefox,download-and-install,en-US
+1264686,1563194742,1563204631,"History management problem, specifically with window.history.go (-1)","<p>An application publishes a page ""#1"" on which the user clicks on the button. The application prepares an html (say ""DOCUMENT.html"") on an IFS, then publishes the page ""LOADER"" - as in figure A - with the URI of the prepared file.
+""DOCUMENT.html"" then is loaded and in turn contains the instructions of figure B. When it is closed the control should return to the ""LOADER""  which in turn closes returning to page ""#1"".
+This works regularly the first time but, if the process is repeated, the return is the page ""# 0"" and if it is repeated again it goes even further back.
+What's wrong ?
+Keep in mind that the whole application uses jQuery and that other browsers (IE, Edge, Chrome) do not have this issue and always they return to page ""# 1""
+Thanks
+Roberto
+</p>",firefox-670;firefox-6704;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1264683,1563192941,1563205430,microsoft blocking installation,"<p>Microsoft saving installation to: C:/Users/Elsie\AppData/Local\Temp\7zS8382763/UAC:803IE  /NCRC   (and NOT Program Files...)  Result is BLANK page with no active links (this long digit file does not exist at that location)
+</p>",download-and-install_1;desktop;,firefox,download-and-install,en-US
+1264682,1563192796,1563224588,microsoft blocking installation,"<p>Microsoft saving installation to: C:/Users/Elsie\AppData/Local\Temp\7zS8382763/UAC:803IE  /NCRC   (and NOT Program Files...)  Result is BLANK page with no active links (this long digit file does not exist at that location)
+</p>",download-and-install_1;desktop;,firefox,download-and-install,en-US
+1264680,1563190930,1563205573,"My tabs appear, but the links to the websites connected to them are missing.  This is not the first time this has happened.  I need to get them back.","<p>It seems that all the tabs are there, but they all say 'New Tab.'  I need to get to the websites behind the tabs.
+</p>",tabs;firefox-680;desktop;windows-10;,firefox,tabs,en-US
+1264678,1563190298,1563306962,"""Print"" and other hotkeys on a bank website suddenly display as ""undefined"" with Firefox for Mac. OK with Chrome, Safari, etc. Suggestions?","<p>The text next to the ""print"" icon and ""?"" icon on a bank website suddenly displays as ""undefined."" Functionality of the website is reduced. I've been using FF with this bank website forever, first time I've experienced a problem. Everything OK with the site with FF on my work PC and with Chrome, Safari, etc.
+</p>",firefox-680;websites;desktop;mac-os;,firefox,websites,en-US
+1264677,1563189951,1563207762,How do I permanently change order/organise bookmarks on the DROP DOWN list please? Your advice https://support.mozilla is not true to my experience.,"<p>Bookmarks simply refuse to do what you say and move into the order I want permanently. And yes I have tried every which way with your ""Show all bookmarks"" ""Library"" etc dialogue boxes.
+</p>",bookmarks;desktop;firefox-680;windows-10;needsinfo;,firefox,bookmarks,en-US
+1264676,1563189857,1563189857,WebVR not correctly integrated with SteamVR,"<p>VR kit used: Valve Index
+</p><p>Hello,
+</p><p>WebVR implementation in Firefox has improved significantly but still some bugs are prohibitive from using it reliably. More specifically, integration with SteamVR appears to be problematic. Here's a test scenario.
+</p><p>How to replicate the problem:
+</p><p>0) Ensure SteamVR is installed and operational, using a compatible VR kit.
+</p><p>1) Visit <a href=""https://sketchfab.com/AliceVision/models"" rel=""nofollow"">https://sketchfab.com/AliceVision/models</a>
+</p><p>2) Open one of the models and select the VR icon (bottom right).
+</p><p>3) Once the 3D model is presented in the VR headset, close the 3D model from within the web page and return to the list of 3D models (main page).
+</p><p>4) 1st issue: Notice that in the headset, SteamVR shows that it's waiting for the application (Firefox in this case) to respond. This should not normally happen, i.e. when Firefox has no content to present, it should present a default 3D scene, for example: a dome with a firefox logo in the middle. Also, if you click on the System Button on the VR controller, the SteamVR Dashboard pops up BUT it does not offer the option to disengage/disconnect Firefox from SteamVR. That keeps SteamVR locked into Firefox. If you wait long enough, you get the ERRORS shown in the attached images.
+</p><p>5) Open another 3D model and click on the VR button. The new model should appear in the VR headset.
+</p><p>6) 2st issue: The VR controller is not longer tracked by Firefox.
+</p><p>I hope you find the above useful and easy to replicate. If you need additional information, please do let me know.
+</p><p>Kind regards
+</p>",firefox-680;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1264671,1563186481,1563223568,FF68 - extension Simple RSS Feeder broken,"<p>The migration to FF68 has cause the extension Simple RSS Feeder (<a href=""https://feeder.co"" rel=""nofollow"">https://feeder.co</a>) to lose all RSS feeds. It was working perfectly well up to FF67.0.4.  Is there anyway to reinstate or recover them?
+</p>",download-and-install_1;firefox-680;desktop;windows-10;,firefox,download-and-install,en-US
+1264670,1563185194,1563262380,"Firefox sync destroyed everything, how to restore ?","<p>Hi,
+I'm at work and wanted to access a single bookmark folder from my home computer. I tried to login to my firefox account through a WEB PAGE - hoping I could access a list of bookmark like I used to do back when XMarks was a thing, I did NOT click on firefox synch ! However, firefox somehow decided that it meant I wanted to synch and started messing everything up. It added all my home bookmarks to my workplace computer, ruined the history (merge), extensions and so on. So I told it to disconnect sync and remove the sync data.
+Guess what ? It didn't just remove the data it just got from sync. It totally destroyed everything. Work bookmarks, gone. History, gone. Addons, all gone. It's nearly as if FF was a brand new installation.
+I'm panicking right now.
+Is there any way to go back ?
+</p>",firefox-670;sync;desktop;windows-10;,firefox,sync,en-US
+1264668,1563182863,1563245077,Auto Update and then a restart,"<p>WOW
+Surprise; FF just updated itself and needs to restart.... here was me thinking I had set it to notify me when there is an update, but it looks like a previous update removed that function. 
+I suddenly found I couldn't open usable tabs, all I would get is a lovely message telling me FF had updated and needed to restart, but not to worry because it will restore my session!
+Now, I had 3 sessions  open with each having 15-20 tabs, and they all had to be closed and reloaded... Oh well it looks like I don't have a choice so here goes...
+I clicked restart and waited, it didn't restart!
+Ok, so I have to manually do the relaunch thing, great, my 3 FF windows are returning..... But oh wow each tab has to reload, the udtube vids all returned to there start position, my DuckDuck search pages and are now blank!
+So all told I lost about 10 minutes and some work because someone knows what is best for me and just went ahead and changed the browsers settings.
+I get why this was done, I mean when ms started pulling stunts like this their users were all super impressed and heaped so much praise on them it was a little embarrassing... Oh what fun!
+</p>",firefox-560;other;desktop;windows-81;,firefox,other,en-US
+1264665,1563180687,1563182692,ask to save logins and passwords for websites - turned it off and it defaults back to ticked,"<p>Privacy &amp; Security
+I have a master password tool so don't need the 'Logins and Password's feature.
+I un-check - ask to save logins and passwords for websites - 
+</p><p>I turned it off and it defaults back to on the next time I launch firefox.
+So I get a reminder on every site I login to.
+</p><p>Its driving me crazy, can anyone help?
+</p>",firefox-680;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US
+1264661,1563169825,1563220254,Where is Firefox on my computer?,"<p>I had a power outage in my neighborhood, and to get my computer running I had to access a restore point.  Now, the links that start Firefox don't work, and I can't find ""firefox.exe"" on my computer.  I can find ""Mozilla Firefox"" directories in both c:\Program Files and c:\Program Files (x86), but there doesn't seem to be any executable file in them.
+</p><p>A little history is that I used FF version 56.2 for a very long time before I upgraded to the most recent version, but I am pretty sure I have created restore points since I upgraded.
+</p><p>If Firefox is hiding somewhere on my computer, I would rather not reinstall it because I have customized it.  It seems to me that doing a restore should not have deleted any programs on my computer.
+</p><p>I use Windows 10.
+</p><p>Thank you.
+</p>",download-and-install_1;desktop;windows-10;,firefox,download-and-install,en-US
+1264660,1563168847,1563222804,"I followed all the instructions in the article ""Recovering important data from an old profile,"" but when I open FF, there are no bookmarks and no history.","<p>At least, I think I followed all the instructions.  After I created the new profile, I went to the section that reads:
+</p><p>Important: Firefox must be closed down while copying files between profile folders. Also, Step 1 refers to your ""old"" profile folder - the profile containing data you want to copy to a new profile. If you can't open a profile from within Firefox, see Finding your profile without opening Firefox.
+</p><p>I found this instruction a little irritating—if in step one ""profile"" means ""old profile folder,"" then why not say so?   But the big problem is that, with the warning that Firefox must be closed down, I closed FF.  
+</p><p>Then I came across this:
+</p><p>Open your profile folder:
+From the Help menu, choose Troubleshooting Information. The Troubleshooting Information tab will open.
+Under the Application Basics section, click on 
+Show in Finder
+. A window will open that contains your profile folder.
+</p><p>Well, these instructions forced me to open Ff again—but to my dismay, when I went to the Application Basics section, and looked at Show in Finder, it wasn't my old profile that showed, but my new one.   Since I only found my old profile picture in the first place by following the same instructions to go to Application Basics when I was told to make a copy of the old profile, which was at that time my current profile, I only got to that profile because it opened automatically—I didn't remember the path, so I don't know how to find it.   But since I did make a copy of it to my external hard drive, I opened my Old Profile from there.
+</p><p>Then this:
+Click the Firefox menu at the top of the screen, then click Quit Firefox.
+</p><p>So I quit FF.  
+</p><p>Then this:
+Hold down the control key while you click on a file you want to copy and choose Copy.
+Open the new Firefox profile folder.
+</p><p>I found this confusing; why in the world would I be told to click on a file to copy before I was told to open the new profile?   And where WAS the new profile?   
+</p><p>So I opened FF again, went to Application Basics, and then opened the new profile, then closed FF again.
+</p><p>So I was once more at this step:
+</p><p>Hold down the control key while you click on a file you want to copy and choose Copy.
+</p><p>But it occurred to me that, rather than repeat this step for each individual item, why not just drag the first sub-folder from the Old Profile to the New One?   I tried that, but got a message saying that the folder was invisible, so I selected everything in that folder and just dragged it into the new profile.
+</p><p>I clicked on everything in the second sub-folder in the Old Profile, but when I dropped the selection in the New Profile, I got a message saying that there were copies, so I stopped.   Since I didn't know why there were two sub-folders in the Old Profile, I thought that, in order to make sure that everything from the Old Profile Folder was in the NPF, I created two sub-folders in the NPF, one entitled ""0 untitled"" and the other ""O untitled 2.""   Then I selected and dragged everything that I had transferred from the first sub-folder of the OPF into the NPF *before* I had created sub-folders for the NPF, and I dragged them into ""0 untitled.""   Then I revisited the second sub-folder of the OPF, selected its contents, then dragged and dropped them into the NPF sub-folder ""0 untitled 2.""   
+</p><p>When I got to the section ""Your important data and their files,"" I was a little confused, because at first I thought I had to transfer these manually because they were not in the OPF, so I searched for them, but when I selected the ""places.sqlite"" and tried to drag and drop it, I got a message asking whether I wished to delete the file from the Cloud—since I didn't, I didn't.   Finally it occurred to me that perhaps they were in the OPF, so I looked, and they were.
+</p><p>The article ends without any instructions as to what to do once you have finished transferring files from the OPF to the NPF, so I simply clicked on FF, which opened without the data.   I closed FF, then shut down and restarted my computer, but when I opened FF, still no data.   
+</p><p>I thought perhaps that I had been wrong to drag and drop, so I opened the copy of my OPF on my external hard drive, then opened FF again t the Application Basics so that I could open the NPF in the finder.  When the NPF opened, I was surprised to see that the two sub-folders no longer had the titles I gave them, but had rather the strange string of numbers and letters reminiscent of the names of the invisible folders in the OPF.   
+</p><p>Should I create another new profile folder and then go through the laborious process of selecting one file, clicking copy, then going into the NPF, without the sub-folders, and then click ""Paste""?  If I do that for one sub-folder from the OPF, should I create a first sub-folder for the NPF, and then put all the laboriously transferred files from the first sub-folder of the OPF into the new first sub-folder of the NPF, and then repeat that process when I transfer the files laboriously one by one from the second sub-folder of the OPF into the NPF?   
+</p><p>I am at a loss, and would appreciate help.
+</p>",other;desktop;needsinfo;,firefox,other,en-US
+1264659,1563162836,1563223025,secure connection failed,"<p>when i try to go on VPN sites it just comes up with Secure Connection Failed
+</p><p>An error occurred during a connection to <a href=""http://www.privateinternetaccess.com"" rel=""nofollow"">www.privateinternetaccess.com</a>. PR_END_OF_FILE_ERROR
+</p><pre>   The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.
+   Please contact the web site owners to inform them of this problem.
+</pre>",firefox-680;websites;desktop;windows-10;,firefox,websites,en-US
+1264657,1563160360,1563205425,No audio when playing youtube video after updating to firefox 68.0 on windows 7 pc,"<p>I have windows 7 on my desktop pc and windows 10 on my laptop. Firefox played YouTube videos with no problems until version 68.0.  On my windows 7 pc, a YouTube video plays without audio. No problem on my windows 10 laptop. A no problem using Chrome on my windows 7 pc.
+</p>",other;desktop;,firefox,other,en-US
+1264656,1563157136,1563183352,Firefox menus stuck in wrong language,"<p>Hello. I've followed a bunch of suggestions from this Forum and elsewhere, but nothing seems to work. My main Firefox menu is stuck in Japanese as are the context menus and pop ups. Others are in English. I've uninstalled Firefox and reinstalled with English version. All settings (about:config, etc) are set to English, don't have Japanese included as additional language or anywhere else.  Help please, it's driving me crazy...
+</p>",firefox-680;customize;desktop;windows-10;language-pack;escalate;,firefox,customize,en-US
+1264654,1563156228,1563202043,Why does my ping spike when using Firefox?,"<p>There's something that is been bothering me for 4-6 months now, and its a bit strange. 
+If I have Firefox open, just running idle on any website, I will get a massive ping spike after every 5-6 pings. Check the pictures attached, they are annotated. 
+This is not present when running idle for any other Chromium based browser. I tested this on Brave and Microsoft Edge (Dev Build).
+A bug that only happens to me? I have no clue what is going on here.
+</p>",firefox-680;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1264653,1563154729,1563159555,Firefox Monitor reports on websites I don't recognize.  How can I take corrective action if this is the case?,"<p>The reports tend to be useless if it is a data aggregator that has been hacked.  A place I've never been, though a username and password has.  If I've never have an account what good are the remedy listed?
+</p>",firefox-680;other;desktop;windows-10;,firefox,other,en-US
+1264650,1563151271,1563305058,I have installed Firefox on a new computer and signed into my firefox account. I have enabled show bookmarks tool bart but they do not appear.,"<p>I have installed Firefox on a new computer and signed into my firefox account. I have enabled show bookmarks tool but they do not appear. On my old computer they are there as usual.
+</p>",bookmarks;desktop;firefox-680;windows-10;,firefox,bookmarks,en-US
+1264649,1563149391,1563149960,login and password info gone after Firefox upgrade,"<p>it said I could retrieve, but there is no old firefox program to open!
+</p>",firefox-680;sync;desktop;windows-10;,firefox,sync,en-US
