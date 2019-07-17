@@ -1,0 +1,145 @@
+id,created,updated,title,content,tags,product,topic,locale
+1264647,1563147321,1563304316,Sürükle Bırak Özelliği,"<p>Resimleri sürükleyerek bırakma özelliği yeni yüklenen 68.0 (64 bit) sürümünde çalışmıyor. 67 de herhangi bir problem yoktu bu yeni güncelleme sonrası fotoğrafları veya bir metni taşıma işlemi yapılamıyor.
+</p>",firefox-680;other;desktop;windows-7;,firefox,other,tr
+1264643,1563142936,1563144911,How to automatically save bookmarks on shut down to a location other than your profile.,"<p>I think the about:config setting ""browser.bookmarks.autoExportHTML"" ""True"" will cause the saving of bookmark.html to the current profile when FireFox shuts down. I found that in a Help response.
+</p><p>Included in the response was a method of saving bookmark.html to a different location.
+</p><p>I cannot find the that help response and would like to implement a save in another location.
+</p>",firefox-670;tips;desktop;windows-7;,firefox,tips,en-US
+1264642,1563142634,1563247344,"latest firefox release, june 22, 2019 changed my display colors making many web pages unreadable","<p>windows 10
+almost like  reverse video
+</p><p>when i switch to chrome problems are solved
+</p><pre>thanks
+</pre>",firefox-680;other;desktop;windows-10;,firefox,other,en-US
+1264641,1563139483,1563194373,Como puedo reproducir radios online?,"<p>En estas paginas y oras no puedo escuchar radio, no reproduce nada, debo usar chrome
+</p><p><a href=""https://www.colombia.com/radio/"" rel=""nofollow"">https://www.colombia.com/radio/</a>
+<a href=""https://play.wradio.com.co/"" rel=""nofollow"">https://play.wradio.com.co/</a>
+</p>",firefox-680;desktop;fix-problems;windows-10;,firefox,fix-problems,es
+1264640,1563137692,1563165395,Firefox appears to refresh randomly and loses all images on all tabs,"<p>It does NOT lose the url behind the lost images.  If I refresh the tabs one at a time the images reappear.  I've erased Firefox and reinstalled to no avail.  I believe this happened after an update.  Virus and malware scans run okay.
+</p>",firefox-680;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1264636,1563128589,1563213479,Autohide taskbar issue.,"<p>I updated the recent ver. 68.0 (64 bit) but after the update my windows 7 (64 bit) auto hide taskbar went behind the firefox. as it used to be on top of firefox. now i'm not be able to access task bar utilities until i press the window key. it pops up when i restore firefox on small window but when i restore it to normal size it is still there. i reinstalled the firefox but still having the issue.
+</p>",firefox-680;other;desktop;,firefox,other,en-US
+1264635,1563126849,1563133413,"When I click on a link at a particular companies website, I get a blank screen although where I want to go appears at the bottom of the page.","<p>If I go to this site, <a href=""https://www.dsw.com/en/us/"" rel=""nofollow"">https://www.dsw.com/en/us/</a> and then click on ""Shoes"", all I get is a blank screen.
+</p>",tabs;firefox-680;desktop;windows-10;,firefox,tabs,en-US
+1264634,1563126746,1563155871,"Can I prevent duplicate bookmarks when importing from Chrome, or will firefox (latest version 7/19) prevent duplicates automatically?","<p>I am evaluating firefox while still using chrome.  I imported bookmarks when I first downloaded firefox and that went smoothly.   Since then I have added new bookmarks (and passwords, but that is another story) to chrome.  I want to get these bookmarks onto firefox, but am concerned that I will wind up getting a bunch of duplicate bookmarks when I import them.   That could be a huge mess, since I have a ton of bookmarks.   Ideally I could just import and firefox would recognize and prevent import of duplicates . . .
+</p>",bookmarks;desktop;firefox-680;windows-10;,firefox,bookmarks,en-US
+1264633,1563126276,1563214344,How do I use my Firefox account on both my Windows 10 desktop and ASUSOR NAS without SYNC?,"<p>I can access all the Firefox ""services"" on my desktop but when I open Firefox in the NAS it keeps asking for my email and password.  When I enter the password I established on the desktop it says ""Incorrect Password"" and turns the box red.  Then a few seconds later the Firefox browser page opens but when I try to open a web page with a video the audio doesn't play.
+</p>",firefox-680;other;desktop;windows-10;,firefox,other,en-US
+1264632,1563125943,1563141792,Every time I open a browser it rests to default settings,"<p>As soon as I downloaded the newest version of Firefox it deleted my saved links on the toolbar. Now, I reset them again and preferences, every time I open the browser it erases them and brings me to default settings. Help on fixing this problem.
+Tks
+</p>",firefox-680;other;desktop;mac-os;,firefox,other,en-US
+1264630,1563124061,1563208280,The text in the Default Theme Tabs has disappeared leaving on an icon there.  How can this be fixed?,"<p>Firefox comes with 3 default theme settings.  I have been using the Default setting and it has been just fine.  Now the loaded tabs lose their text and you are only left with an icon of that the tab represents, I.e. gmail, igHome, NOAA, weather.  How may this be fixed so that the icon and the text are showing?
+</p>",firefox-680;customize;desktop;windows-10;,firefox,customize,en-US
+1264629,1563123596,1563132088,Firefox won't start after fresh re-install,"<p>Problem = ""Firefox is already running but is not responding"" error. Firefox does not open a browser window. 
+I uninstalled firefox, deleted the necessary files in the registry and deleted / backed-up all my profiles. 
+</p><p>Still doesn't open. I cannot terminate the firefox.exe in the taskmanager. 
+I also tried to open firefox in safe mode. 
+</p><p>my profile.ini looks like this after the reinstall : 
+</p><p>[Install308046B0AF4A39CB]
+Default=Profiles/br44he6u.default-release
+Locked=1
+</p><p>[Profile1]
+Name=default
+IsRelative=1
+Path=Profiles/saqp6yc1.default
+Default=1
+</p><p>[Profile0]
+Name=default-release
+IsRelative=1
+Path=Profiles/br44he6u.default-release
+</p><p>[General]
+StartWithLastProfile=1
+Version=2
+</p><p>My installs.ini : 
+</p><p>[308046B0AF4A39CB]
+Default=Profiles/br44he6u.default-release
+Locked=1
+</p><p><br>
+Registry files deleted before reinstall : 
+</p><p>HKEY_CLASSES_ROOT\FirefoxHTML;
+HKEY_CURRENT_USER\Software\Mozilla;
+HKEY_CURRENT_USER\Software\MozillaPlugins;
+HKEY_LOCAL_MACHINE\SOFTWARE\Mozilla;
+HKEY_LOCAL_MACHINE\SOFTWARE\MozillaPlugins.
+</p>",download-and-install_1;desktop;windows-7;,firefox,download-and-install,en-US
+1264628,1563121073,1563205739,Unable to use Paypal on ebay.,"<p>Recent change! Cannot use paypal via the private window that appears on ebay when trying to login. I can login to paypal direct. I've via Mozillas privacy and security options allowed <a href=""http://paypal.com"" rel=""nofollow"">paypal.com</a> and <a href=""http://co.uk"" rel=""nofollow"">co.uk</a> in my cookies, block pop ups and add ons. I can use paypal on ebay via microsoft explorer. I've spent over one hour trying to solve, I'm moderately computer literate but am quite irked and close to installing chrome. Any solutions welcome. Thanks
+</p>",firefox-680;websites;desktop;windows-10;,firefox,websites,en-US
+1264626,1563120026,1563169652,I'm wanting to check the vality of this web dite: https://more.tryflour.com/products/dsf220cav?_pos=5&_sid=30e9e5bc5&_ss=r,"<p>I was shopping for this generator and this site popped up with this incredible price. I am somewhat doubtful of this site. ""Is there a certificate for this site?
+</p>",firefox-670;privacy-and-security_1;firefox-6704;desktop;windows-10;,firefox,privacy-and-security,en-US
+1264625,1563118659,1563256311,Why do my animated themes stop animating and can only be re-activated with a system restore on my PC,"<p>Around 10th July 2019 my animated themes stopped working when  I opened my browser. The image was there but it was not animating This was possibly after a Firefox update but I am not sure. When the themes were not animating the appearance of the theme page differed from when the themes were working.
+</p><p>Attachment 1 shows the theme page when the theme is enabled and working. Attachment 2 shows the theme page appearance when it is not working. Clicking on the 3 dots on the bottom right (when they are not working) takes you into the settings for the theme but there is no way of re-activating the animation.
+</p><p>I have found the only way of re-activating the animation in all of the animated themes I have is to do a system restore back to 10th July 2019. This is not practical to do  every time I close down my computer and re-open it to find my animated theme not working.
+</p><p>If I do a system restore and get the animated themes working and log out of Firefox the themes will not be working when I log in again in the same working session on my PC.
+</p><p>Any help would be appreciated,
+</p>",firefox-680;customize;desktop;windows-10;,firefox,customize,en-US
+1264624,1563117012,1563167460,change color for specific bookmark folder by right-clicking?,"<p>I LOVE Firefox.  The only thing that I'm really missing is the ability to right click on a bookmark folder (or bookmark item) and change the color.
+</p><p>This way I could quickly tell which were more important and needed attention.
+</p><p>I have so many bookmarks and folders, at times it's very hard to find what I'm looking for.
+</p><p>One other small suggestion:  In 'Search bookmarks', I can find bookmarks by topic.  But, if I'm trying to find a bookmark I've 'lost', it won't show me where it's located in the bookmark folder hierarchy.  Possibly a right click to 'open containing bookmark folder would be useful to others also if this positioned the bookmarks toolbar folder tree to show the location of the bookmark from the search?
+</p>",bookmarks;desktop;firefox-680;,firefox,bookmarks,en-US
+1264623,1563114430,1563119294,Can't right-click on entry in history list,"<p>I've been used to removing a history entry (in the drop-down list from the down-arrow to the right of the URL) by right-clicking on it, which would highlight it, then pressing ""Delete"". But recently, right-clicking on an entry does nothing; it does not become highlighted and pressing Delete doesn't delete it. I'm now at FF v 68.
+</p>",firefox-680;desktop;tips;windows-10;,firefox,tips,en-US
+1264622,1563114245,1563153937,i can't drop a video file to open media player,"<p>when i push play icon on the screen , i'm directed to another screen that ask me to type in file name in order to open the media player. the only file name i could find was  VIDEO_TS and this did not work. help please just trying to watch a movie on a computer.
+</p>",firefox-680;other;desktop;windows-10;,firefox,other,en-US
+1264620,1563111323,1563236067,Firefox not running js on local page but ok on internet,"<p>For some reason firefox has doesnt run a site how it supposed to on my local hard drive. Which is a pain when you are designing. The web site works fine live from the hosting page. It seems to have stopped running js files.
+</p><p>I have even downloaded them from the server and i get exactly the same again. The local site works fine with the dreaded ""edge"" etc. I am pulling my hair out with this one.
+</p>",firefox-680;websites;desktop;windows-10;,firefox,websites,en-US
+1264619,1563110455,1563182213,New update does not work well with Amazon labels,"<p>I am so tired of the constant FF updates. Not only do I have to rearrange my toolbars to the way they were before, when I go to print a label from Amazon Seller Central (pdf) it is nowhere to be seen. I went to IE to print it. Then I went into Options and figured out how to get my PDF files to a place I could use them. 
+</p><p>Really, FF, if the default after an update is ""your downloaded PDF files disappear and we don't know where they are"" that's not a good thing. I am wondering why I still use FF. It used to be a good browser but lately I wonder. I have unchecked the ""automatic updates"" box after quite some time of allowing them.
+</p>",firefox-680;websites;desktop;windows-10;,firefox,websites,en-US
+1264618,1563109268,1563316159,I used to share my Firefox-profile with Win7 and Win10; how do I get that back?,"<p>I have my profile for Firefox on a separate drive, so that I can share the profile between Win7 and Win10, and I don't lose my data when either Windows OS's screw up. 
+How do I (in version 68) edit profiles.ini and/or installs.ini to get my 'old' profile back?
+</p><p>AND: does Sync work, when there is always only ONE instance of Firefox working? NB: I have no smartphone, but run Win7, Win10 and Linux Mint 19.1 on ONE desktop PC.
+</p>",download-and-install_1;firefox-680;desktop;windows-10;,firefox,download-and-install,en-US
+1264617,1563109095,1563283389,"Everytime I try to open up a new tab, it disappears.","<p>Recently, every time I try to open up a new tab, it suddenly disappears. It's not in full screen mode so I don't know what the issue is?
+</p>",tabs;firefox-680;desktop;windows-10;,firefox,tabs,en-US
+1264615,1563107325,1563192416,How can I set default upload path for all websites?,"<p>Can you tell me how to set default upload path for firefox? 
+</p><p>If I upload something to <a href=""http://somesite.com"" rel=""nofollow"">somesite.com</a>, and I browse for example c:\uploads\something.txt, than firefox saves this, but for <a href=""http://somesite.com"" rel=""nofollow"">somesite.com</a> only. If I has to upload to <a href=""http://anothersite.com"" rel=""nofollow"">anothersite.com</a>, firefox doesn't know the previous upload path on my computer. So how can I set default upload path for ALL sites?
+</p>",firefox-680;customize;desktop;windows-81;,firefox,customize,en-US
+1264614,1563105597,1563106772,New update does not work well with Amazon labels,"<p>I am so tired of the constant FF updates. Not only do I have to rearrange my toolbars to the way they were before, when I go to print a label from Amazon Seller Central (pdf) it is nowhere to be seen. I went to IE to print it. Then I went into Options and figured out how to get my PDF files to a place I could use them. 
+</p><p>Really, FF, if the default after an update is ""your downloaded PDF files disappear and we don't know where they are"" that's not a good thing. I am wondering why I still use FF. It used to be a good browser but lately I wonder. I have unchecked the ""automatic updates"" box after quite some time of allowing them.
+</p>","",firefox,websites,en-US
+1264613,1563105567,1563171960,link in bookmark not staying highlighted when clicked,"<p>When clicking a link in bookmarks it used to stay highlighted blue until another link is clicked.This problem occurs with every new upgrade/install.I think I have to change the chrome css file, unfortunately I cannot find the answer again.
+</p>",bookmarks;desktop;firefox-680;windows-10;,firefox,bookmarks,en-US
+1264612,1563105140,1563109772,"Get a Warning Email won't send because it looks like Spam, even though it's been sant back and forth several times, just with some new info added each time.","<p>I've sent emails back and forth with someone several time. The last time I added a few lines of information, no links, and tried to send it back. It gave me the warning that it looks like spam and wouldn't send it. I copied and pasted the entire body of the email into a new email, put in the same recipient's address, and it sent. This has happened several times. 
+Why does it happen,?
+Is there a setting to turn off this warning?
+Thanks
+</p>",firefox-680;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US
+1264611,1563104449,1563167830,Message to disable adblock persist after disabling content blocking,"<p>Tried to add to exception but nothing happens, the message persist. I didn't have any custom adblocker installed, as for plugins only Windscribe VPN.
+</p>",firefox-680;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US
+1264610,1563101311,1563168877,"how to  make   the  color of   scrollbar  darker,    when viewing  a  dark  background   webpage","<p>how to  make   the  color of   scrollbar  darker,    when  viewing  a  dark  background  webpage
+</p>",firefox-680;other;desktop;windows-10;,firefox,other,en-US
+1264608,1563098870,1563224468,Why is firefox much slower than chrome on the same Mac?,"<p>I got the impression that firefox was slower than chrome  so i did a speed test.
+</p><p>Chrome result 315 down / 36 up
+Firefox              183 down / 36 up.
+</p><p>I used the same speedtest server for both. This is consistently repeatable. What is the possible cause? Can I change some settings?
+</p>",firefox-670;firefox-6704;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US
+1264607,1563085564,1563092482,All login fields on every website are invisible,"<p>Hello.
+Could someone give advice about invisible login fields i am experiencing for last few days on firefox. I did attached picture.
+When i click on it i cant mark any text but there is invisible cursor whitch become visible if i start typing, so the entire text becomes visible or/and any saved logins.
+If i will not click on fields and wont try to make it visible any saved login/password  details wont be accepted after clicking login button. 
+My only add ons on firefox are Adblock Plus and Zen Mate VPN.
+</p><p>Rose
+</p>",firefox-680;other;desktop;windows-10;,firefox,other,en-US
+1264603,1563074623,1563150809,Fontawesome works in chrome but not in  firefox,"<p>I'm working on a simple webpage and I noticed that fontawesome fonts don't work in Firefox, but it does work in Chrome. Why?
+</p>
+<div id=""footer-icons"">
+<p>		&lt;a href=""#"" target=""_blank""&gt;<i></i>&lt;/a&gt;
+		&lt;a href=""#"" target=""_blank""&gt;<i></i>&lt;/a&gt;
+		&lt;a href=""#"" target=""_blank""&gt;<i></i>&lt;/a&gt;
+		&lt;a href=""#"" target=""_blank""&gt;<i></i>&lt;/a&gt;
+</p>
+</div>",other;desktop;,firefox,other,en-US
+1264602,1563074512,1563179799,Is there any option for hardware two factor authentication for firefox account?,"<p>I would like to use my Solo fido2 key for two factor authentication instead of a 2fa app.  Is this possible?
+</p>",privacy-and-security_1;desktop;windows-10;,firefox,privacy-and-security,en-US
+1264598,1563065549,1563229987,Ant Video Downloader,"<p>Hace años que uso Firefox como navegador principal porque tenía una extensión execpcional, el Ant Video Downloader, que también usan otros navegadores aunque en ninguno funcionaba tan bien como en Firefox. En realidad esta addon sigue funcionando y hace correctamente su función básica, que es descargar archivos.
+</p><p>Sin embargo lo que convertía esta app en una joya era que en sus versiones anteriores tenía integrado un reproductor Flash Player, y de hecho se sigue anunciando como si siguiera teniendo el reproductor cuando no es así:
+</p><p><a href=""https://addons.mozilla.org/es/firefox/addon/video-downloader-player/"" rel=""nofollow"">https://addons.mozilla.org/es/firefox/addon/video-downloader-player/</a>
+</p><p>La ventaja de que llevase integrado este reproductor es que te permitía ordenar limpiamente tus archivos y ponerlos en orden de una manera distinta a la habitual y muy eficaz.
+</p><p>Puesto en contacto con los desarrolladores de esta app parece que el problema está en que la app no es compatible con las actualizaciones de Firefox. En definitiva que me veo obligado a cambiar de navegador y mantener una versión antigua del Firefox para poder usar el Ant Video Downloader como a mí me gusta. No como me obliga Firefox a usarlo.
+</p><p>¿Aquí no hay nadie capaz de hacer que Ant Video Downloader vuelva a instalarse con el reproductor integrado que lo hacía distinto a todas las apps de descarga de vídeos?
+</p>",firefox-560;other;desktop;windows-10;,firefox,other,es
+1264597,1563064604,1563069311,My browser keeps asking for a 6 digit code and I don't know how or why. How do I disable this? I don't have a firefox authenticator,"<p>I don't have any codes that it is asking, how do I disable this?
+</p>",firefox-670;other;desktop;windows-10;,firefox,other,en-US
+1264596,1563062894,1563146024,"My javascript stopped working today when viewing my C Drive content, but still OK once at website","<p>I use javascript:change_frames extensively on my websites to map a thumbnail to 2 or 3 different iframes and it has always worked in all browsers ios, android - everything.  But just now it will not work in Firefox as I try to test my pages prior to FTP to my hosting, although it DOES work once on the www.  It this caused by some new version and can I revert to a version that does not zap my javascript?  Thanks in advance as this is driving me crazy (and to Chrome or Edge after 24 years using Mozilla stuff)
+</p>",firefox-680;other;desktop;windows-10;,firefox,other,en-US
