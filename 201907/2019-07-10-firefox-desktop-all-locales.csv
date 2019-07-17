@@ -1,0 +1,300 @@
+id,created,updated,title,content,tags,product,topic,locale
+1264346,1562802957,1562807674,how to delete google costume,"<p>help me its driving me cray cray!
+</p>",firefox-670;other;desktop;windows-10;,firefox,other,en-US
+1264345,1562802548,1562813223,ff 68 how to force addons to update,"<p>how do you actually update the addons? the gear option to update addons has disappeared. ff 68 does not seem to update addons immediately. is there a way to force ff to update
+</p>",firefox-680;customize;desktop;windows-7;,firefox,customize,en-US
+1264341,1562799852,1562806977,tinkercad doesn't work with ver 68,"<p>Tinkercad is broken with ver 68; worked with 67, no webgl settings changed between Firefox versions. Tinkercad hangs when loading a ""project"". Everything works on IE 11 and Chrome 75
+</p>",firefox-680;websites;desktop;windows-7;,firefox,websites,en-US
+1264335,1562795382,1562808447,"network error on local webpage, ok on website","<p>I have a website (<a href=""http://oakmontwx.eu5.net"" rel=""nofollow"">oakmontwx.eu5.net</a>) and the front page shows up properly, but when I open the front page locally I get a network error.  I am not using localhost on my computer, but I have a javascript routine which reads a text file every 10 seconds.  The network error occurs when the page tries to read the file, and only half the webpage appears.  On the website there is no problem.
+</p><p>This only started occurring today after Firefox did an auto update.  I have refreshed FF and also reinstalled it but the problem persists.  The page shows up properly in MS Edge and Safari.
+</p>",firefox-680;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1264334,1562793097,1562809351,Can I choose when to switch to new tab?,"<p>One of the reasons I prefer Firefox to Chrome is that when I right-click on a link, I can open the link in a new tab.
+</p><p>I usually read news in Chrome because, on some sites, I open 20 new tabs without moving from the main news page. I can then move to the tabs, read one, close it, move to the next, etc.
+</p><p>I would like to move my news reading to Firefox, but I would like to be able to choose whether (or not) to open a new tab at the time the tab is being opened.
+</p><p>Is this possible?
+</p>",tabs;firefox-680;desktop;windows-7;,firefox,tabs,en-US
+1264330,1562791861,1562797442,Which security settings cause my add-on extensions to disappear?,"<p>I have installed these add-ons.  Ad blocker, password manager, and privacy browser.
+</p><p>After changing the settings in Firefox, my ad blocker and password manager disappeared from the menu bar.
+I see the add-ons in the extension list.  Uninstalling, re-instaling the extensions do not bring the extension icons back.
+I tried to do a ""re-install"" using the Firefox ""re-install"" button, but my extensions did not show up again.
+</p><p>I had to completely uninstall Firefox (which does not remove Firefox settings from the computer ---- WHY?!)  delete the registry entry, re-install Firefox and re-instsall the add-on extension to get them to show up again.
+</p><p>But when I go back into settings, make changes, the add-on extensions disappear again.
+</p><p>Which settings cause this?
+</p>",firefox-680;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US
+1264329,1562790546,1562791404,Just updated to Adobe Reader 11.0.23. When I restarted I lost all my bookmarks.  Tried your recovering articles - didn't work.,"<p>Using Firefox 67.0.4
+</p>",firefox-670;bookmarks;firefox-6704;desktop;,firefox,bookmarks,en-US
+1264327,1562788032,1563046419,Firefox consistently hangs after installing the Windows 10 1903 update,"<p>Firefox version: 68.0 x64
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US
+1264326,1562787990,1562968944,What is everyone doing about the bing virus that seems to infect the bookmarks. It is creating without my prompting hundreds of bing bookmarks.,"<p>Bing keeps creating hundreds of bookmarks, as does Microsoft suggested sites in my bookmarks folder.
+</p>",firefox-670;bookmarks;desktop;windows-10;,firefox,bookmarks,en-US
+1264324,1562785800,1562809921,"I can open outlook on chrome and explorer but Firefox suddenly, after 2 years, has no program to open outlook.Outlook","<p>I can use firefox to browse any other sites, but when I ask to go to Outlook, after 2 years of doing this daily, it says it has no program to open it. It feels like it is stuck in some cycle. The only thing I can think of doing was downloading photos the day before and mailing them out directly. Outlook is working fine on chrome so it is a firefox/outlook problem. Any suggestions?
+</p>",firefox-690;websites;beta;desktop;windows-10;,firefox,websites,en-US
+1264323,1562785374,1562806029,Problem with Bing,"<p>I'm using Firefox 67.0.4 (64-bit) on my iMac under OS X 10.14.5 and Bing is my default browser. Until recently if I clicked on one of the trending stories in the banner at the bottom of the window the story would open up on a new page and at the top of the page the same stories from the bottom banner would show up at the top.
+</p><p>Now however when I click a story in the bottom banner the top banner only shows a subset of the bottom-banner stories. How can I get it to display them all?
+</p>",firefox-670;other;desktop;mac-os;,firefox,other,en-US
+1264322,1562784100,1562784994,"add on easy youtube downloader express does not work on firefox 68.0 does work on 67.0.4, I desire to change current version 68.0 back to 67.0.4","<p>How to change firefox 68.0 back to 67.0.4
+</p>",firefox-680;customize;desktop;windows-10;,firefox,customize,en-US
+1264321,1562783939,1562804618,Why do my desktop shortcuts have firefox icons?,"<p>I have several shortcuts on my desktop.  More than one appears with a FireFox icon instead of the corresponding icon which would normally belong to the icon.  This is only happening on one of my computers and not on the other.  I'd like to correct the icons in having be with the appropriate website's icon; i.e. Yahoo should have a purple ""Y"", Accuweather should be a large orange sun.
+</p>",firefox-680;other;desktop;windows-10;,firefox,other,en-US
+1264318,1562782744,1563056002,Why is my XSL file no longer being applied to my XML file?,"<p>This morning Firefox upgraded to version 68.0 and several XML files that each reference a corresponding XSL file stopped loading as they always have. One example follows:
+</p><p>The file ASTest_Appl_Events..xml contains the following
+</p>
+<pre>&lt;?xml version=""1.0"" encoding=""ISO-8859-1""?&gt;
+&lt;?xml-stylesheet type=""text/xsl"" href=""ASTest_Appl_Events.xsl""?&gt;
+&lt;ASTestApplEvents&gt;
+&lt;Event xmlns='<a href=""http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider"" rel=""nofollow"">http://schemas.microsoft.com/win/2004/08/events/event'&gt;&lt;System&gt;&lt;Provider</a> Name='Report Server Windows Service (MSSQLSERVER)'/&gt;&lt;EventID Qualifiers='0'&gt;107&lt;/EventID&gt;&lt;Level&gt;2&lt;/Level&gt;&lt;Task&gt;5&lt;/Task&gt;&lt;Keywords&gt;0x80000000000000&lt;/Keywords&gt;&lt;TimeCreated SystemTime='2019-07-08T10:01:35.000000000Z'/&gt;&lt;EventRecordID&gt;270493&lt;/EventRecordID&gt;&lt;Channel&gt;Application&lt;/Channel&gt;&lt;Computer&gt;ASTest&lt;/Computer&gt;&lt;Security/&gt;&lt;/System&gt;&lt;EventData&gt;&lt;Data&gt;Report Server Windows Service (MSSQLSERVER)&lt;/Data&gt;&lt;/EventData&gt;&lt;/Event&gt;
+&lt;Event xmlns='<a href=""http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider"" rel=""nofollow"">http://schemas.microsoft.com/win/2004/08/events/event'&gt;&lt;System&gt;&lt;Provider</a> Name='Microsoft-Windows-User Profiles Service' Guid='{89B1E9F0-5AFF-44A6-9B44-0A07A7CE5845}'/&gt;&lt;EventID&gt;1530&lt;/EventID&gt;&lt;Version&gt;0&lt;/Version&gt;&lt;Level&gt;3&lt;/Level&gt;&lt;Task&gt;0&lt;/Task&gt;&lt;Opcode&gt;0&lt;/Opcode&gt;&lt;Keywords&gt;0x8000000000000000&lt;/Keywords&gt;&lt;TimeCreated SystemTime='2019-07-08T10:00:10.973301100Z'/&gt;&lt;EventRecordID&gt;270438&lt;/EventRecordID&gt;&lt;Correlation/&gt;&lt;Execution ProcessID='848' ThreadID='524'/&gt;&lt;Channel&gt;Application&lt;/Channel&gt;&lt;Computer&gt;ASTest&lt;/Computer&gt;&lt;Security UserID='S-1-5-18'/&gt;&lt;/System&gt;&lt;EventData Name='EVENT_HIVE_LEAK'&gt;&lt;Data Name='Detail'&gt;1 user registry handles leaked from \Registry\User\S-1-5-21-659900985-4002748794-950523200-1002:
+Process 300 (\Device\HarddiskVolume3\Windows\System32\conhost.exe) has opened key \REGISTRY\USER\S-1-5-21-659900985-4002748794-950523200-1002\Control Panel\International
+&lt;/Data&gt;&lt;/EventData&gt;&lt;/Event&gt;
+&lt;/ASTestApplEvents&gt;
+</pre>
+<p>The file ASTest_Appl_Events.xsl contains:
+</p>
+<pre>&lt;?xml version=""1.0"" encoding=""ISO-8859-1""?&gt;
+&lt;xsl:stylesheet version=""1.0"" xmlns:xsl=""<a href=""http://www.w3.org/1999/XSL/Transform"" rel=""nofollow"">http://www.w3.org/1999/XSL/Transform</a>""
+				xmlns:MSEvent=""<a href=""http://schemas.microsoft.com/win/2004/08/events/event"" rel=""nofollow"">http://schemas.microsoft.com/win/2004/08/events/event</a>""&gt;
+
+&lt;xsl:template match=""/""&gt;
+	&lt;html&gt;
+	&lt;body&gt;
+	&lt;title&gt;ASTest Appl Events&lt;/title&gt;
+	
+	&lt;table&gt;&lt;tr&gt;
+		&lt;td&gt;&lt;h3&gt;ASTest Application Events&lt;/h3&gt;&lt;/td&gt;
+		&lt;td width=""100""&gt; &lt;/td&gt;
+	&lt;/tr&gt;&lt;/table&gt;
+	
+	&lt;table border=""1"" style=""border-collapse:collapse;font-size:14px;"" cellpadding=""4""&gt;
+		&lt;tr bgcolor=""black"" style=""color:white""&gt;
+			&lt;td&gt;Server&lt;/td&gt;
+			&lt;td&gt;Event Type&lt;/td&gt;
+			&lt;td&gt;Provider&lt;/td&gt;
+			&lt;td&gt;Event ID&lt;/td&gt;
+			&lt;td&gt;Time (Mar-Oct subtract 4 hours, Nov-Feb subract 5 hours)&lt;/td&gt;
+			&lt;td&gt;Level&lt;/td&gt;
+			&lt;td&gt;Event Data&lt;/td&gt;
+			&lt;td&gt;User Data&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;xsl:for-each select=""ASTestApplEvents/MSEvent:Event""&gt;
+			&lt;xsl:sort select=""MSEvent:System/MSEvent:TimeCreated/@SystemTime"" order=""descending"" /&gt;
+			&lt;tr bgcolor=""lightgray""&gt;
+				&lt;td&gt;&lt;xsl:value-of select=""MSEvent:System/MSEvent:Computer""/&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;xsl:value-of select=""MSEvent:System/MSEvent:Channel""/&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;xsl:value-of select=""MSEvent:System/MSEvent:Provider/@Name""/&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;xsl:value-of select=""MSEvent:System/MSEvent:EventID""/&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;xsl:value-of select=""MSEvent:System/MSEvent:TimeCreated/@SystemTime""/&gt;&lt;/td&gt;
+				&lt;xsl:choose&gt;
+					&lt;xsl:when test=""MSEvent:System/MSEvent:Level=1""&gt;
+						&lt;td style=""color:orange;""&gt;CRITICAL&lt;br&gt;&lt;/br&gt;(
+							&lt;xsl:value-of select=""MSEvent:System/MSEvent:Level""/&gt;)
+						&lt;/td&gt;
+					&lt;/xsl:when&gt;
+					&lt;xsl:when test=""MSEvent:System/MSEvent:Level=2""&gt;
+						&lt;td style=""color:red;""&gt;ERROR&lt;br&gt;&lt;/br&gt;(
+							&lt;xsl:value-of select=""MSEvent:System/MSEvent:Level""/&gt;)
+						&lt;/td&gt;
+					&lt;/xsl:when&gt;
+					&lt;xsl:when test=""MSEvent:System/MSEvent:Level=3""&gt;
+						&lt;td style=""color:green;""&gt;WARNING&lt;br&gt;&lt;/br&gt;(
+							&lt;xsl:value-of select=""MSEvent:System/MSEvent:Level""/&gt;)
+						&lt;/td&gt;
+					&lt;/xsl:when&gt;
+					&lt;xsl:otherwise&gt;
+						&lt;td&gt;(&lt;xsl:value-of select=""MSEvent:System/MSEvent:Level""/&gt;)&lt;/td&gt;
+					&lt;/xsl:otherwise&gt;
+				&lt;/xsl:choose&gt;
+				&lt;td&gt;&lt;xsl:for-each select=""MSEvent:EventData/MSEvent:Data""&gt;
+					&lt;img src=""Blue_dot(sm).jpg""/&gt; &lt;strong&gt;&lt;em&gt;&lt;xsl:value-of select=""./@Name""/&gt;:&lt;/em&gt;&lt;/strong&gt; &lt;xsl:value-of select="".""/&gt;&lt;br&gt;&lt;/br&gt;
+				&lt;/xsl:for-each&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;xsl:for-each select=""MSEvent:UserData""&gt;
+					&lt;img src=""Blue_dot(sm).jpg""/&gt; &lt;strong&gt;&lt;em&gt;&lt;xsl:value-of select=""./@Name""/&gt;:&lt;/em&gt;&lt;/strong&gt; &lt;xsl:value-of select="".""/&gt;
+				&lt;/xsl:for-each&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+		&lt;/xsl:for-each&gt;
+	&lt;/table&gt;
+	
+	&lt;/body&gt;
+	&lt;/html&gt;
+&lt;/xsl:template&gt;
+
+&lt;/xsl:stylesheet&gt; 
+</pre>
+<p>Screen shots of what I used to see (html generated by an Online XSL Transformer) and currently see are attached.
+</p><p>Any assistance would be appreciated.
+</p><p>Thanks,
+Kurt H
+</p>",firefox-680;other;desktop;windows-10;bug1565220;,firefox,other,en-US
+1264316,1562782055,1562794814,F4 key doesn't open anymore the drop down menu of the most visited sites in Firefox 68,"<p>I'm using firefox only because of F4 shortcut on the awesome bar. From what I saw awesome bar has been replaced with quantum bar. Is there a new shortcut for the drop down menu or do I need to rollback to a previous version ?
+</p>",firefox-680;other;desktop;windows-10;,firefox,other,en-US
+1264313,1562781798,1562792512,How do you set multiple tabs to open when you open the web browser.,"<p>I used to have this set and after it made me update Firefox today my saved tabs went away.
+</p>",firefox-680;customize;desktop;windows-10;,firefox,customize,en-US
+1264312,1562780712,1562783824,"After Update to Version 68.0 Firefox (Win 10), Firefox doesn't display locally stored webfonts and uses Arial (same files online work fine)","<p>Today, I was designing a new webpage. It uses fonts like Open Sans etc (directly embedded via css, not via Google Fonts). After the update to 68.0 (from 67.0.4) the fonts aren't shown any more and Arial is used for everything. It only happens when opened the html-files locally. If you upload the same files to a webserver, everything works fine. With 67.0.4 (and all previous versions) the website works fine both ways. OS is Windows 10, 64 bit, Professional.
+</p>",firefox-680;desktop;fix-problems;windows-10;bug1565220;,firefox,fix-problems,en-US
+1264310,1562779978,1562819201,change the background color in reader mode,"<p>Okay,  I have tried to make the changes in userContent.css,  actually I have tried several things because most of the answers on the site assume that people making the changes are website designers or programmers.  I have years of computer experience and been know to make some scripting changes,  however,  someone needs to really make a ""For Dummies"" option.  That being said I tried saving the userContent.css file from the style inspector with the changes to the chrome directory and nothing I have done over the last 4 weeks of playing with this has worked.
+</p><p>Here is the change I am looking for,  I want the dark background IN READER MODE to go from the dark grey to solid black and every page I read I have to open up the style editor and make the following change.  I change the #333333 to #000000 as show below,  however, I have found no way that works to making that change permanent.
+</p><p>Thanking you in advance for your patience and help with this issue. 
+</p><pre>*BTW,  it would be really great to just have this in the preferences area to make a change*  I am sure that I am not the only one.
+</pre>
+<p>body.dark {
+</p><pre> color: #eeeeee;
+ background-color: #000000;
+</pre>
+<p>}
+</p>",firefox-680;other;desktop;mac-os;,firefox,other,en-US
+1264306,1562776712,1562780478,Some so called organization is controling my browser,"<p>This is a laptop that is only in my possession. it was just recreated in June and I keep getting this message in options and it is quite upsetting to me.  I have zero organizations that I belong to so this I just don't understand.  I have included screen shots of my options page and a shot of what I get when I press the link about organization.  Any help would be greatly appreciated.
+</p>",firefox-680;other;desktop;windows-10;,firefox,other,en-US
+1264305,1562776544,1562780668,Work around for Secure Connection Error,"<p>I refuse to believe the Firefox cannot connect to the US Dept of Energy National Energy Technology Lab site (NETL). There must be a way to get there without getting that ""Secure Connection Failed""  message. It's a .gov site.  <a href=""https://www.netl.doe.gov/"" rel=""nofollow"">https://www.netl.doe.gov/</a>   Can someone please help me find a way around this problem?  I really don't want to have to use Chrome or Explorer.  Thank you!
+</p>",firefox-600;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1264303,1562775329,1562840650,nejde mi otevřit zálošky otvírá mi jen 5 záložek.děkuji,"<p>šlo mi dokud jsem nezměnil  heslo
+</p>",firefox-670;bookmarks;desktop;windows-10;,firefox,bookmarks,cs
+1264301,1562772391,1562780666,Limit search to only use words provided,"<p>I want to search for information on a specific product Steca sewing machine.  Unfortunately Firefox displays every permutation of Singer sewing machine and I've spent hours trawling for the information I'm looking for, without success.  Google (yuck, need to wash my mouth out) has a feature which limits the search to only search on the search criteria I request eg only to show websites/pages that have the word Steca in them.  How can i do this on Firefox?
+</p><p>I really like Firefox although it is heavily skewed to USA - pity as I live in Europe, my preferences and location are set to Europe and I would prefer to see fewer USA websites and pages and more from Europe.
+</p>",firefox-670;tips;desktop;mac-os;,firefox,tips,en-US
+1264300,1562772098,1562814878,[BUG] Drop-down url menu can not be edited since new v68,"<p>This way does not work anymore <a href=""https://support.mozilla.org/en-US/questions/1220341"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1220341</a>
+</p>",firefox-680;customize;desktop;windows-10;,firefox,customize,en-US
+1264299,1562771419,1562809779,Firefox Quantum 68.0 not displaying offline icons (web development),"<p>There appears to be an issue in Firefox Quantum 68.0 (64 bit) Windows 10 with it not displaying icons offline. You can now only see them when the website is uploaded online. This has never before been the case in all previous versions. I've attached a screenshot. there should be displaying in the image facebook, twitter and instagram icons. Makes it very difficult when you can't see them when designing a website. No issues in Chrome, Edge or Opera Browsers.
+</p>",firefox-680;websites;desktop;windows-10;bug1565220;,firefox,websites,en-US
+1264298,1562771182,1563290948,I was updated to FireFox 67.0.4 and hyperlinks aren't working the way they used to?,"<p>hyperlinks now open in a new window and are not recognizing my current open session with my profile &amp; bookmarks. I have to copy the hyperlink and paste it into the current FireFox browser session. I've checked my Options&gt;Tools&gt;General settings and they are checked to open links in a new tab.
+</p>",firefox-670;firefox-6704;other;desktop;windows-7;,firefox,other,en-US
+1264297,1562770690,1562966304,Using Firefox to view web pages that include Apple Maps send monitor to sleep,"<p>When I use Firefox to view web pages that include Apple Maps, this sends my monitor to sleep (simple message ""Attention Entering Sleep mode"" then screen goes black).  There seems no way out of this except to switch off the PC and reboot.
+This only happens in normal mode, web pages display normally in Safe Mode.
+Tried Refreshing Firefox, disabling all Plugins, disabling hardware acceleration; I have no Themes or Extensions; new Profile - none make any difference.
+When the map starts to load, it gets to the point where text (i.e. place names) are rendered but the text is garbled and then the monitor goes to sleep.
+Any ideas anything else I can try? Can I somehow debug the rendering of the map?
+Or am I resigned to always using Firefox in Safe Mode - does this matter anyway?
+Thanking you for any suggestions.
+</p>",firefox-680;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US
+1264296,1562770502,1562916982,Can’t open Firefox in Mac OS 10.15. Error message saying it is not supported.,"<p>My computer auto-upgraded to Mac OS Catalina 10.15.  When I try to run Firefox, I receive an error message that the application is not supported by OS 10.15.  I’ve downloaded the latest version of Firefox.  Any suggestions?
+</p>",other;desktop;,firefox,other,en-US
+1264295,1562769661,1562988742,Both Firefox and Firefox Developer edition refuse to play audio,"<p>Firefox will not play any type of audio. There's no indication of audio being played in Firefox in the soundmixer either. Audio works perfectly fine in all other applications. Steps I've already taken to try and solve the issue:
+</p><p>- Reinstall audio drivers
+- Remove cache, cookies and browser history
+- Refresh Firefox (remove addons / reset settings)
+- Reinstall Firefox
+- Rebooting system in between those steps
+</p><p>I've made sure my audio devise is set as default obviously.
+</p>",firefox-680;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US
+1264293,1562769149,1562916304,firefox goes not responding randomly when watching youtube which slows whole computer,"<p>Basically this happens at any time and it wont let me close Firefox without task manager. in task manager it shows up at system interrupts which uses over 90% of my CPU and at the same time Firefox is using over 10 GB of ram. i have had a look at some fixes like disabling hardware acceleration and stuff but none have worked so far.
+</p>",firefox-680;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1264292,1562768701,1563282164,Drag and drop from firefox to Windows desktop stopped working after updating to Firefox Quantum 68.0 (64-bit),"<p>After <strong>updating to v68 (x64) </strong>earlier today, drag and drop of pictures from Firefox to Windows desktop, stopped working
+</p><p><strong>What I tried so far</strong>
+</p><p>Tried turning it off and on again
+<em>didn't work</em>
+</p><p>Started firefox in safemode with no add-ons
+<em>didn't work</em>
+</p><p>Started windows in safe mode and then started firefox in safemode with no add-ons
+<em>didn't work</em>
+</p><p>Drag n Drop + holding Ctrl key
+<em>didn't work</em>
+Drag n Drop + holding Alt key
+<em>didn't work</em>
+</p><p>Created a new profile 
+<em>didn't work</em>
+</p><p>Re-installed v68
+<em>didn't work</em>
+</p><p>uninstalled and erased ALL firefox files, then installed v68
+<em>didn't work</em>
+</p><p>Installed v68 on a fresh install of Windows 
+<em>didn't work</em>
+</p><p>Installed a fresh copy of Windows on a freshly assembled computer and made a fresh installation of v68 Firefox
+<em>didn't work</em>
+</p><p>Is there something else I can do, in order to fix this problem, besides using <strong>Google Chrome</strong>
+</p>",firefox-680;desktop;fix-problems;bug1564808;,firefox,fix-problems,en-US
+1264291,1562768325,1562769155,New Tab Addon,"<p>i need a new tab addon that doesnt look like this, which is called simple new tab
+</p><p>does anyone know of a different one
+</p>",firefox-680;customize;desktop;mac-os;,firefox,customize,en-US
+1264288,1562766593,1562861262,"Firefox Colors. experimented with it. Created ugly theme, Now want to get rid of. Can't enable my favorite old theme","<p>How do I get rid of Firefox Colors. I created an ugly theme that is now installed. I try to enable my old favorite theme, which appears at first. But when I click out of Firefox and then later go back the ugly Firefox Colors theme appears. It just won't go away. I'd like to get rid of Firefox Colors.
+</p>",firefox-680;customize;desktop;windows-7;,firefox,customize,en-US
+1264287,1562765633,1562776673,Problem i can't drag and drop items on my desk,"<p>since yesterday, i can't seem to drag any of bookmarks, pictures, etc... on my desktop!! did i break sthing?
+windows seven, firefox 68.0 quantum.
+</p>",firefox-680;desktop;fix-problems;windows-7;bug1564808;,firefox,fix-problems,en-US
+1264286,1562765410,1563044514,"Upgrading to Firefox 68 enabled the address bar search dropdown, can I disable this?","<p>After an upgrade to FF68 the address bar now has a drop down and it uses my search provider. I previously was able to type a term or website just in the bar itself, no drop down, no clutter.
+</p><p>Is there any way to turn this off? I had previously created a css file in my chrome directory and it was working just fine. 
+</p><p>Chrome.css file with the following content in order to hide the addressbar dropdown-menu:
+</p>
+<ol><li>PopupAutoCompleteRichResult {
+</li></ol>
+<pre> display: none;
+</pre>
+<p>} 
+</p><p>I have also gone into about:config and previously changed settings like url.dropdown.search or whatever it was. Turned off search suggestions and a couple others.
+</p><p>Should I modify or check anything else?
+</p>",firefox-680;customize;desktop;windows-10;,firefox,customize,en-US
+1264284,1562761659,1562804128,"plain_text.wrap_long_lines not working properly. Even with the value set to false, lines still wrap. I have to use Ctrl-U to force the wrap off  each time.","<p>Updated to version 68.0 this morning, and line wrapping of long text lines still happens even with the plain_text.wrap_long_lines set to false. I've set and reset it, restarted each time. I have to use Ctrl-U to display the page properly.
+</p><p>I create many plain text reports that are legal page size, in landscape (don't ask, not my decision, it just has to be). It's not a deal-breaker, but it is an annoyance.
+</p>",firefox-680;websites;desktop;windows-10;,firefox,websites,en-US
+1264283,1562761461,1562852700,The upgrade of Firefox to version 68 has made the display of websites worse on NVIDIA cards!,"<p>It's like I wrote in the title - if you've done support for AMD users, then showing websites on NVIDIA cards is screwed up!
+Pages ""shudder"" when scrolling them and even disabling hardware acceleration is not helpful.
+Not to mention that the browser loads longer ... - 67.0.4 worked without any problems.
+</p><p>Regards
+Krzysztof
+</p>",firefox-670;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1264282,1562760378,1562764953,Getting akamaihd.net search website when I log on with updated Firefox. VERY ANNOYING.,"<p>I get this automatic website when I log on in stead of cursor going to search box so I can enter question. How do I delete this?
+</p>",firefox-680;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US
+1264281,1562751899,1562872009,why Firefox crashes and make my whole laptop freeze?,"<p>it the third time that i have experienced this issue. simply on random occasions when i open a website Firefox freezes and then, the whole system freezes and all i can do is to reset my laptop with power button.
+</p>",mobile;fix-problems;,firefox,crashing,en-US
+1264280,1562751112,1563290089,"Firefox local development ""CORS request not http""","<p>As of update to v68 I get errors like these:
+Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at file:///D:/website/fonts/fontawesome-webfont.woff?v=4.2.0. (Reason: CORS request not http).
+</p><p>What the heck is this? Why did silly mozila messed up the development of local files? How can I bypass that WITHOUT ALTERING my code?
+It broke fontawesome functionality! Very stupid!
+</p>",firefox-680;other;desktop;windows-10;bug1565220;,firefox,other,en-US
+1264279,1562750994,1562820868,Can I clear all bookmarks on one of my computers,"<p>My bookmarks one one computer are corrupted.  Can I clear them all without affecting others?
+</p>",bookmarks;desktop;firefox-680;windows-7;,firefox,bookmarks,en-US
+1264278,1562749480,1562808261,"Me gustaría saber qué versiones de Firefox están actualmente disponibles o activas, para los distintos sistemas operativos (mobile y web).","<p>Buenos días,
+</p><p>Me gustaría saber qué versiones de Firefox están actualmente disponibles o activas, para los distintos sistemas operativos (mobile y web), así como algunas de sus características y especificaciones o requerimientos técnicos, con el objetivo de que algunos proyectos que estamos llevando a cabo sean compatibles con este navegador.
+</p><p>Muchas gracias de antemano por la información que puedan facilitarme u un saludo,
+</p><p>Silvia Sanchidrián
+</p>",firefox-670;other;desktop;,firefox,other,es
+1264277,1562746407,1562774177,"My Firefox does not stop to reset, it's the second time in 4 days","<p>for example, yesterday I was on Youtube quietly, and my Firefox crash and ask me to restart it in safe mode or refresh, and when I click refresh, it's down to all my data that have been removed, fortunately I use often firefox sync but that does not save all my data ...
+</p>","",firefox,other,en-US
+1264276,1562745464,1562775914,"My interface language changed since the last update,even though I modified about:config and all the specific settings,what's the problem?","<p>Everything worked fine since the last update,since then I changed all I could find related to language in about:config and also modified the options,even removed my language and changed it to english.What is the problem?
+</p>",firefox-680;customize;desktop;windows-10;bug1564998;,firefox,customize,en-US
+1264272,1562744762,1563113611,I can't change user interface lagnuage ( after update),"<p>Guys after latest update I can't change fully my user interface language. I changed language setting to English everywhere, and part of it is still in Estonian ( I live in Estonia, that's why for some reason mozila gave me headache and changed user interface to estonian).
+</p><p>Check screenshot, English is set as main language and menu is still in estonian. I even reinstalled ENGLISH version of firefox, but it didn't help me, still estonian menus. 
+Spend 2 hours trying to solve this issue. Sry for crying, but so often after updates things like this happen.
+</p><p>Please help me change language to English :)
+</p><p>P.S. I can't delete my profile in firefox, and completelly reinstall it, cos I need my setting.
+</p><p>Thanks in advance and have a nice day!
+</p>",firefox-680;customize;desktop;windows-10;bug1564998;,firefox,customize,en-US
+1264271,1562744483,1562744483,I can't change user interface lagnuage ( after update),"<p>edit: locking duplicate topic, please continue at <a href=""https://support.mozilla.org/en-US/questions/1264272"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1264272</a>
+</p><p>Hey guys I finally gave up and installed latest update of firefox ( 68.0). 
+</p><p>And now like always after update I need to spend hours trying to fix some issues :( This time this is the user interface. 
+Since I live in Estonia, after update mozilla decided to change user interface language to estonian ( I want English user interface). 
+</p><p>I changed language everywhere I could, googled it, and still part of mozilla is in estonian ( check screenshots).
+</p><p>I found similar topic on support channel, and reinstalled NEW firefox client in ENGLISH, but still somehow part of menu is in Estonian. 
+</p><p>God, I am so sorry for this crying, but I am really so depressed. Such a waste of time over so simple issue, however none of the changing setting rly help. 
+</p><p>Looking forward to you guys :)
+</p><p>Have a nice day !
+</p>",firefox-680;customize;desktop;windows-10;,firefox,customize,en-US
+1264270,1562741417,1562745855,what do the orange and purple emojis and the end of my add ons?,"<p>Just installed the most recent FF update and in the extension screen I now see some orange and purple emojis and the end of the different adds ons. What do they mean? See attached screen shot. Thanks
+</p>",firefox-680;customize;desktop;windows-10;,firefox,customize,en-US
+1264269,1562740001,1562755330,"How to get Save and quit back when I chose File > Exit, I haven't updated firefox since you removed this feature.","<p>When I update Firefox past version 58 It no longer asks if I want to ""Save and quit"" when I got to FIle&gt; Exit Why was this useful feature removed?
+</p>",firefox-580;customize;desktop;windows-7;,firefox,customize,en-US
+1264268,1562735719,1563223481,"Site consumes CPU and hangs indefinetly , tried all steps mentioned above. Happens on every machine","<p>Siteloads and we try to click on a dropdown it hangs and consumes cpu. I am trying to
+</p>",firefox-680;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1264267,1562735261,1562735261,Don't follow links when filling a form,"<p>Hello, I'm wondering if there is a way to set up firefox in which it doesn't follow any links if there is a form (partially) filled in the current page. Or a way to make firefox ask if it should follow the link before changing the page in that situation. Or an add-on that does that. Do you know of any?
+</p>",firefox-670;customize;desktop;linux;,firefox,customize,en-US
+1264266,1562734513,1562968693,mi computadora esta congelada cuando inicio Firefox no me deja descargar y tampoco cerrar el proceso,"<p>Instalé Freezer toolwize ,pero tengo el problema de que cuando el freezer esta habilitado, el Firefox tiene problemas, no me permite descargar y ni tampoco cerrarlo, cuando por casualidad ""cierro "" el Firefox y luego intento iniciarlo me dice ""Firefox esta en ejecución intente cerrarlo y abrir de nuevo "", lo intento cerrar con el administrador de tareas pero no se puede finalizar el proceso, por favor me podrían ayudar, no se que es lo que pasa
+</p>",desktop;fix-problems;,firefox,fix-problems,es
+1264265,1562734464,1562734464,Since Firefox update today to version 68 I now have this popup to update password when I log in to westpac online banking. This was the same problem with Safari,"<p>This is the reason why I changed from Safari to Firefox because of this annoying update password popup. Firefox needs to fix this problem as I do not want this feature. Firefox update 68 caused this problem as I did not have this problem before. I have deleted saved password in Firefox &amp; retyped in Id &amp; password &amp; wants to save but the password I typed in isn't the same when you save this so I have to fixed this up with the correct password. This did not happen before this update. It is not recognizing my saved password. This was the same problem with Safari when Apple did there update 12.1. Auto submit login was also Safari issue which is not compatible with a lot of websites. Apple is doing an update to fix this by removing this feature etc later this year. It could be coding incompatibility with some sites.  Plus another problem when you click on desktop link &amp; Firefox starts up &amp; New tab with blank page &amp; next tab is Google home page not the link I clicked on since this update. I have change the setting to switch when open link &amp; both pages open in the same tab Google home page &amp; link. Firefox needs to fix this BUG etc plus issues that was not there before update. Let me know
+</p>",firefox-680;other;desktop;mac-os;,firefox,other,en-US
+1264264,1562733322,1562839129,FireFox NOT showing YouTube thumbnails. Have 68.0 as current version of FF,"<p>No Thumbnails for YouTube are showing up after the last update to FireFox. 68.0 is the current version I have.
+</p>",firefox-680;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1264263,1562729828,1562900668,floating videos/pop under/overlays,"<p>Hours and hours wasted trying to stop floating videos, pop-unders and overlays.  DO NOT tell me to do about:config !  I did it all through exhaustive research.  No effect.  The solutions are all over the place and VERY repetitious.  Every permutation of suggested FF fixes have been tried.  Am a very savvy Windows user...  It goes round and round and round and round and round in circles...
+</p><p>Daily I am plagued by floating videos, pop-unders and overlays.  It never ends.  Once again -- DO NOT tell me to do any more about:config -- it has all been tied an tested.  All the settings are as suggested...
+</p>",firefox-680;websites;desktop;windows-7;needsinfo;,firefox,websites,en-US
+1264262,1562728969,1562820386,Why does sometimes firefox exhibit laggy response?,"<p>Sometimes on steaming sites (e.g., youtube) firefox exhibits laggy response time. For example, when I double click on the video for fullscreen, it takes about half a second for firefox to execute. This usually happens when I'm using firefox on the site without closing it for some time. Why does this happen?
+</p>",firefox-680;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1264261,1562724933,1562996540,"cannot save pages, attach files to emails or print from sites only download works.","<p>Hi, have used Firefox for years, but on windows 10 now:
+Cannot attach files from my PC to Hotmail enails because the explore file windows does not open when clicking attach clip.
+Cannot save an internet page because after clicking save page from Fierrefox  menu dropdown selection, nothing happens.
+Cannot print to pdf information from pages (as bank statements with print buttons) because of ""cannot open file. Access denied"" error. Same problem if  what to print is just any internet page.
+NO problem downloading files of any type.
+NO problem doing any of this with Google Chrome.
+Have tried many solutions including refreshing Firefox.
+Antivirus and Firewall is standard Microsoft Windows 10 Defender
+</p>",firefox-670;desktop;fix-problems;windows-10;needsinfo;,firefox,fix-problems,en-US
+1264260,1562721990,1562729614,Links from external applications aren't opening in Firefox,"<p>When I have Firefox 67 (FF) set as my default browser in Windows 10, embedded hyperlinks in third party applications won't open in FF. If I change my default browser to Edge or Chrome these links will open in either application but if I switch back to FF as the default browser they won't open again in FF.
+</p><p>Is there a setting somewhere I could have accidentally set when implementing the privacy features within FF or is there some other reason someone can assist with as to why this would start happening.
+</p><p>Thanks.
+</p>",firefox-670;websites;desktop;windows-10;,firefox,websites,en-US
