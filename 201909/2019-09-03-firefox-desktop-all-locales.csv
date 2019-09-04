@@ -1,0 +1,194 @@
+id,created,updated,title,content,tags,product,topic,locale
+1268005,1567554268,1567554268,Firefox spawns new profiles after every reboot of macOS High Sierra...,"<p>...and doesn't honour a default status of the profile set as such earlier. I have to go to profiles preferences and switch the profile I use back to default one, otherwise it selects every new profile created with each launch as its new default.
+</p><p>I use the same browser in Mavericks (OS X 10.9.5) without any issues with regard to starting from the profile set as default.
+Could it be because of the way High Sierra handles security?
+</p>",download-and-install_1;firefox-690;desktop;,firefox,download-and-install,en-US
+1268004,1567554104,1567554104,Firefox is aburdly slow and Mozilla employeed archive any post regarding performance failures.  Help!,"<p>I have firefox 68.0.2 (the latest update)_ and it completely sucks.  I was running Firefox on Windows and it was great.  On linux it's a complete mess.  Same machine.  Youtube Videos stutter - not watchable.  Basic functionality in Facebook is painful.  It's like the 1990's all over.  Can anyone help.  Please don't suggest the absurd ""Reset Firefox"" function.  Only for morons.
+</p>",firefox-680;desktop;fix-problems;linux;,firefox,fix-problems,en-US
+1268001,1567552620,1567563677,Containers - how can I set the maximum size of each? (Firefox CP Content) to solve sluggish performance,"<p>Very sluggish performance, scrolling or changing tabs etc.  There are 7 ""Firefox CP Content"" processes running, each about 800 MB but I've seen them go to maybe 1.3 GB.  I'm thinking that swapping that much memory takes a long time, so maybe if I force them to be no mor then 500 MB It might help.
+</p><p>Can't find a Preference for ""cache size"" anymore - why not
+Content Process Limit is maxed out at 7.
+</p>",firefox-600;customize;desktop;mac-os;,firefox,customize,en-US
+1268000,1567551506,1567556597,"I suddenly cant stream on any platforms like hulu, etc. it says to update, which I did, then I reset it like told.","<p>netflix wont play, it goes to a screen that says it wont play due to licensing issues with the player. On Hulu, it says to update firefox, which I did, but same problem. When I use Safari it works perfectly. This started about a week ago.
+</p>",firefox-690;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US
+1267997,1567549493,1567563997,Enhanced Tracking Protection and Facebook,"<p>I see that Firefox 69 enabled Enhanced Tracking Protection for all users by default.  I'm curious as to why it is not working (no shield icon) on Facebook.
+</p>",firefox-690;privacy-and-security_1;desktop;windows-10;,firefox,privacy-and-security,en-US
+1267994,1567544073,1567550054,Nothing works now,"<p>This morning, 09/03, Firefox was updated. After that, every time I would open a Facebook game I would be prompted to run Flash Player. Posted on Community, no response. Decided to uninstall/reinstall. Now, everything is F__d'ed up. When I click on any game, all I get is a black window. Also, I've always left two tabs open and when I'm finished on-line, I would click on the red X in the upper right. Then, when I wanted to go back on line, when I click on the Firefox icon in the task bar, both tabs would come up. Now, if I click on the X, I get a warning I'm about to close two tabs. If I click OK, both tabs are closed and when I open Firefox again, they are not there. Getting sick and tired of the problems.
+</p>",firefox-690;other;desktop;windows-10;,firefox,other,en-US
+1267992,1567543778,1567549050,i just have something for everyone inculding mozilla team as well.,"<p>i went on about:config    &amp; typed in network.http.max-connections  to 43,200 also network.http.max-persistent-connections-per-server to 43,200 &amp; its just as fast as ever i think faster or as fast as chrome out of the box...so far no hiccups or web pages breaking. I'm using KDE Neon 64-bit Linux Distro &amp; I would like to read what everbody has to say about it...thoughts, opinions anything would be awesome so far it has not crashed or anything.
+</p>",firefox-680;other;desktop;linux;,firefox,other,en-US
+1267991,1567543667,1567549118,Firefox suddenly stopped working.,"<p>Opens to blank page, no toolbar, all buttons don't work.  I can type into URL window &amp; will take me to a webpage but that's it.  I am sending this from Safari because I can't use Firefox.
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US
+1267988,1567541407,1567550961,youtube search result scrolling jumping back to the top!,"<p>While scrolling video searches in YOUTUBE when you get to the bottom of the displayed results (NOT THE END OF RESULTS, BUT THE BOTTOM OF THE DISPLAYED ON THE SCREEN RESULTS) while loading the next result, FIREFOX jumps back to the beginning of the results, and you have to scroll back through the ones you have already been through to get to the spot you left off! its VERY Aggravating, and time consumming! can we please fix this issue???
+</p>",firefox-680;desktop;fix-problems;windows-10;needsinfo;,firefox,fix-problems,en-US
+1267986,1567537728,1567552230,Can't save any pictures from anywhere,"<p>This has happened to me before, but now it's really bad. I can't save ANY photos to my computer. For example, when I right click to save an image, say on Pinterest, and go to save it a file extension doesn't appear. When I click on the drop down menu for file type nothing shows up either. 
+</p><p>I followed these suggestions, but no go. 
+</p><p><a href=""https://support.mozilla.org/en-US/questions/1249717"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1249717</a>
+<a href=""https://support.mozilla.org/en-US/questions/1248840"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1248840</a>
+</p><p>Also, I don't have the option:
+</p><p>network.http.accept.default = text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 =&gt; text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8 
+</p><p>in my about:config. 
+</p><p>I've cleared the cache and cookies and I had just did a clean install of the most recent update when I re-installed Windows 10. This is very frustrating to me because I save a lot of images from various sources. I'd really appreciate any and all help. 
+</p><p>Thank you!
+</p>",firefox-680;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1267985,1567537061,1567537115,How do I contact a Mozilla/Firefox employee about my problem? Synced tabs issue,"<p>I have an android phone running android 9 (Pie) and I had over 100 tabs on it open (mostly news articles and stuff). It is signed into my Firefox account. I realized that's a lot of tabs and the past 2 days I've been actually sorting them and closing some of them.
+I realized I could do this on my desktop as well. Anyways my phone froze while I had Firefox open, and I realized my tabs on there were all missing... I decided not to panic yet because I could still get to them on my desktop.
+Turns out when I open the ""synced tabs"" pane on my desktop which is logged into the same firefox account.. none of the 100+ tabs are there anymore either.
+How do I actually contact someone that can revert my sync status or whatever to a previous state so I can get my tabs and stuff back that I had open?
+Firefox crashing on my phone SHOULD NOT EVER somehow close all of those tabs on BOTH the phone and the computer.
+I guess the crash of firefox somehow wiped them out, and then my desktop synced with that account, realized those tabs were ""closed"" and cleared the list there as well.
+</p><p>HELP??
+</p>",tabs;firefox-680;desktop;windows-10;sync;syncerr;dataloss;escalate;,firefox,tabs,en-US
+1267984,1567536857,1567563864,I can not get drop down tabs in Yahoo Finance to open.,"<p>When I open Yahoo Finance and go to the ""My Portfolio"" tab and get the drop down menu for that tab, it will not open the tab I click on.
+</p>",firefox-690;other;beta;desktop;windows-81;,firefox,other,en-US
+1267983,1567536686,1567540470,"Profile folder iivedie7.default file automaticually returns to ""read only"" after I change it. How do I fix that?","<p>Error: Firefox already running but not responding
+I went to the profile file properties to uncheck ""read only"" box. It automatically returns to the to the checked read only  box. The box will not stay unchecked.
+</p>",firefox-690;beta;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1267981,1567535117,1567538059,Is there an add on to enable multi forwarding of gmails,"<p>I use gmail and want to forward a string of emails to a number of different addresses.  How can I do this in Firefox?
+</p>",firefox-680;customize;desktop;windows-10;,firefox,customize,en-US
+1267975,1567532554,1567563274,Manually updating add-ons,"<p>Firefox says at <a href=""https://support.mozilla.org/en-US/kb/how-update-add-ons"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/how-update-add-ons</a>, ""Check for Updates: Allows you to check for any updates to your add-ons manually. If there is an update available, you have the option to choose to update it now or later."" I don't see that option. I can install all updates now or not. How can I install selectively? And (since Firefox does not seem to reveal the versions of the add-ons I'm using), how can I be sure whether a particular add-on I'm using is already up-to-date?
+</p>",firefox-690;beta;customize;desktop;windows-7;,firefox,customize,en-US
+1267974,1567532122,1567532414,Locked in a loop of updating to Firefox 69,"<p>The issue is as stated in the subject. Updating from FF 68.0.2.
+A link below to the screen-recording of the problem:
+<a href=""https://www.icloud.com/iclouddrive/0j21jXUfYGnIIyJrW33ii8-HQ#FF_failed_upd"" rel=""nofollow"">https://www.icloud.com/iclouddrive/0j21jXUfYGnIIyJrW33ii8-HQ#FF_failed_upd</a>
+</p><p>A pastebin link below to raw data of troubleshooting info
+<a href=""https://pastebin.com/3AXM7K37"" rel=""nofollow"">https://pastebin.com/3AXM7K37</a>
+</p>",download-and-install_1;firefox-680;desktop;,firefox,download-and-install,en-US
+1267973,1567532112,1567535148,"I ""sped things up"" using the tools you provided. It took out my ad killer app. Why would you do this???","<p>Put my ad killer back and keep your suggestions to yourselves from now on. It didn't speed anything up, it just slowed me down as I have to navigate the non stop ads from ATT...again!!
+</p>",firefox-680;customize;desktop;mac-os;,firefox,customize,en-US
+1267972,1567531493,1567536951,"Can't click on install button for new add-ons or themes, literally nothing happens?","<p>As the title suggests, whenever I click on ""+ install add-on"", nothing is happening. No download. No re-direction, nothing. Firefox is on default, as I just downloaded and installed it.
+</p>",firefox-690;beta;customize;desktop;mac-os;,firefox,customize,en-US
+1267968,1567529646,1567545235,"External Page Jumps does not work properly in Firefox, how to fix this?","<p>I have a site created through wordpress platform. I have used page jump (anchor) to redirect one of my links into a specific section from another page. Works fine with Chrome, IE and Microsoft Edge, except with Firefox. It redirects to the page but gone through the bottom of it rather than the specific section where it's suppose to land.
+</p>",firefox-680;websites;desktop;windows-10;,firefox,websites,en-US
+1267967,1567529417,1567569917,Newest version of Adobe Flash does not work with Firefox,"<p>Last week Adobe Flash stopped actuating/working with Firefox and there is no black box in the address bar or any place else that I see that asks me to activate it. I have it set as Always Activate on the Plug-Ins page but that isn't helping. I checked and have the most recent version. I had to go through several steps to activate it but it does work in Chrome. I run Win 7 and Firefox is my default browser. Please advise how I can get Flash to work again as it is hampering a lot of my activity on the web. Thank you.
+</p>",firefox-600;customize;desktop;windows-7;,firefox,customize,en-US
+1267966,1567528791,1567533630,Firefox crashes randomly without error most of the time.,"<p>After I did a fresh windows 10 install, changed my graphics card and downloaded latest Firefox, it keeps crashing with no error most of the time. When i reopen Firefox, it keeps crashing until I wait a bit. 
+</p><p>Older Firefox works but wont let me disable auto update.
+Also crashes in safe mode and with hardware acceleration disabled.
+Other browsers are working fine.
+</p><p>This time I got a crash report:
+</p>
+<pre>AdapterDeviceID: 0x687f
+AdapterDriverVersion: 26.20.13001.40003
+AdapterSubsysID: 6b761002
+AdapterVendorID: 0x1002
+Add-ons: %7B00000f2a-7cde-4f20-83ed-434fcb420d71%7D:0.9.8.72,%7Bd04b0b40-3dab-4f0b-97a6-04ec3eddbfb0%7D:4.0.4,simple-translate%40sienori:2.1.1,%7B8d38b8d1-3839-4e25-a273-08a896555c89%7D:2.0,%7B026cca71-a2e2-4020-840d-f2759849d62e%7D:0.2.6,jid1-xUfzOsOFlzSOXg%40jetpack:5.16.10,uBlock0%<a href=""http://40raymondhill.net"" rel=""nofollow"">40raymondhill.net</a>:1.22.0,etp-search-volume-study%<a href=""http://40shield.mozilla.org"" rel=""nofollow"">40shield.mozilla.org</a>:1.2,frankerfacez%<a href=""http://40frankerfacez.com"" rel=""nofollow"">40frankerfacez.com</a>:4.0,firefox%<a href=""http://40betterttv.net"" rel=""nofollow"">40betterttv.net</a>:7.0,%7B60f82f00-9ad5-4de5-b31c-b16a47c51558%7D:0.5rc2,webcompat%<a href=""http://40mozilla.org"" rel=""nofollow"">40mozilla.org</a>:5.0.2,formautofill%<a href=""http://40mozilla.org"" rel=""nofollow"">40mozilla.org</a>:1.0,fxmonitor%<a href=""http://40mozilla.org"" rel=""nofollow"">40mozilla.org</a>:3.0,screenshots%<a href=""http://40mozilla.org"" rel=""nofollow"">40mozilla.org</a>:39.0.0,amazondotcom%<a href=""http://40search.mozilla.org"" rel=""nofollow"">40search.mozilla.org</a>:1.1,bing%<a href=""http://40search.mozilla.org"" rel=""nofollow"">40search.mozilla.org</a>:1.0,google%<a href=""http://40search.mozilla.org"" rel=""nofollow"">40search.mozilla.org</a>:1.0,twitter%<a href=""http://40search.mozilla.org"" rel=""nofollow"">40search.mozilla.org</a>:1.0,wikipedia%<a href=""http://40search.mozilla.org"" rel=""nofollow"">40search.mozilla.org</a>:1.0,ddg%<a href=""http://40search.mozilla.org"" rel=""nofollow"">40search.mozilla.org</a>:1.0,%7B443830f0-1fff-4f9a-aa1e-444bafbc7319%7D:0.0.30,%7B02274e0c-d135-45f0-8a9c-32b35110e10d%7D:1.0.4
+AvailablePageFile: 4483977216
+AvailablePhysicalMemory: 4757000192
+AvailableVirtualMemory: 138531236651008
+BIOS_Manufacturer: American Megatrends Inc.
+BreakpadReserveAddress: 3011515121664
+BreakpadReserveSize: 83886080
+BuildID: 20190813150448
+ContentSandboxCapable: 1
+ContentSandboxLevel: 5
+CrashTime: 1567528179
+DOMIPCEnabled: 1
+Email: simojuv@gmail.com
+EventLoopNestingLevel: 1
+FramePoisonBase: 9223372036600889344
+FramePoisonSize: 65536
+GPUProcessLaunchCount: 1
+GPUProcessStatus: Running
+InstallTime: 1567260106
+LauncherProcessState: 0
+MemoryErrorCorrection: None
+ModuleSignatureInfo: {""A-Volute"":[""NahimicOSD.dll"",""A-Volute.SonicRadar3DevProps2.dll"",""ProductInfo.dll"",""A-Volute.SonicStudio3DevProps2.dll"",""ProductInfo.dll""],""Bitdefender SRL"":[""gemmauf64.dll"",""antimalware_provider64.dll""],""MICRO-STAR INTERNATIONAL CO., LTD."":[""RTSSHooks64.dll""],""Microsoft Corporation"":[""msvcp140.dll"",""VCRUNTIME140.dll"",""msvcp140.dll"",""VCRUNTIME140.dll""],""Microsoft Windows"":[""gdi32.dll"",""cryptsp.dll"",""wintrust.dll"",""nsi.dll"",""shell32.dll"",""dbgcore.dll"",""usp10.dll"",""ondemandconnroutehelper.dll"",""pnrpnsp.dll"",""winrnr.dll"",""explorerframe.dll"",""NapiNSP.dll"",""dataexchange.dll"",""amsi.dll"",""DWrite.dll"",""wbemsvc.dll"",""fastprox.dll"",""wbemprox.dll"",""comctl32.dll"",""wshbth.dll"",""twinapi.dll"",""webauthn.dll"",""wbemcomn.dll"",""Windows.UI.dll"",""wininet.dll"",""InputHost.dll"",""dbghelp.dll"",""AudioSes.dll"",""TextInputFramework.dll"",""credui.dll"",""winhttp.dll"",""rasadhlp.dll"",""MMDevAPI.dll"",""xmllite.dll"",""FWPUCLNT.DLL"",""OneCoreUAPCommonProxyStub.dll"",""dhcpcsvc.dll"",""version.dll"",""ColorAdapterClient.dll"",""WinSCard.dll"",""winnsi.dll"",""WinTypes.dll"",""CoreUIComponents.dll"",""avrt.dll"",""propsys.dll"",""wtsapi32.dll"",""d2d1.dll"",""nlaapi.dll"",""d3d11.dll"",""wsock32.dll"",""WINMMBASE.dll"",""winmm.dll"",""CoreMessaging.dll"",""uxtheme.dll"",""twinapi.appcore.dll"",""dwmapi.dll"",""rmclient.dll"",""gpapi.dll"",""DXCore.dll"",""dxgi.dll"",""ntmarta.dll"",""rsaenh.dll"",""IPHLPAPI.DLL"",""dnsapi.dll"",""mswsock.dll"",""CRYPTBASE.DLL"",""devobj.dll"",""sspicli.dll"",""userenv.dll"",""umpdc.dll"",""kernel.appcore.dll"",""powrprof.dll"",""profapi.dll"",""msasn1.dll"",""windows.storage.dll"",""crypt32.dll"",""win32u.dll"",""bcryptPrimitives.dll"",""msvcp_win.dll"",""ucrtbase.dll"",""KERNELBASE.dll"",""gdi32full.dll"",""cfgmgr32.dll"",""bcrypt.dll"",""rpcrt4.dll"",""user32.dll"",""kernel32.dll"",""sechost.dll"",""psapi.dll"",""setupapi.dll"",""msvcrt.dll"",""imm32.dll"",""ws2_32.dll"",""ole32.dll"",""advapi32.dll"",""shlwapi.dll"",""clbcatq.dll"",""oleaut32.dll"",""combase.dll"",""SHCore.dll"",""ntdll.dll""],""Mozilla Corporation"":[""firefox.exe"",""xul.dll"",""freebl3.dll"",""nss3.dll"",""nssckbi.dll"",""softokn3.dll"",""mozglue.dll"",""lgpllibs.dll""],""RIIGI INFOSUSTEEMI AMET"":[""onepin-opensc-pkcs11.dll""]}
+Notes: FP(D00-L1100-W00001000-T000) 
+DWrite? DWrite+ WR? WR- OMTP? OMTP+4 
+ProductID: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+ProductName: Firefox
+ReleaseChannel: release
+SafeMode: 0
+SecondsSinceLastCrash: 1539
+StartupCrash: 0
+StartupTime: 1567528163
+SystemMemoryUsePercentage: 44
+TelemetryEnvironment: {""build"":{""applicationId"":""{ec8030f7-c20a-464f-9b0e-13a3a9e97384}"",""applicationName"":""Firefox"",""architecture"":""x86-64"",""buildId"":""20190813150448"",""version"":""68.0.2"",""vendor"":""Mozilla"",""displayVersion"":""68.0.2"",""platformVersion"":""68.0.2"",""xpcomAbi"":""x86_64-msvc"",""updaterAvailable"":true},""partner"":{""distributionId"":null,""distributionVersion"":null,""partnerId"":null,""distributor"":null,""distributorChannel"":null,""partnerNames"":[]},""system"":{""memoryMB"":8129,""virtualMaxMB"":134217728,""cpu"":{""count"":12,""cores"":6,""vendor"":""AuthenticAMD"",""family"":23,""model"":1,""stepping"":1,""l2cacheKB"":512,""l3cacheKB"":8192,""speedMHz"":3843,""extensions"":[""hasMMX"",""hasSSE"",""hasSSE2"",""hasSSE3"",""hasSSSE3"",""hasSSE4_1"",""hasSSE4_2"",""hasAVX"",""hasAVX2"",""hasAES""]},""os"":{""name"":""Windows_NT"",""version"":""10.0"",""locale"":""en-US"",""servicePackMajor"":0,""servicePackMinor"":0,""windowsBuildNumber"":18362,""windowsUBR"":295,""installYear"":2019},""hdd"":{""profile"":{""model"":""Samsung SSD 850 EVO 250GB"",""revision"":""EMT02B6Q"",""type"":""SSD""},""binary"":{""model"":""Samsung SSD 850 EVO 250GB"",""revision"":""EMT02B6Q"",""type"":""SSD""},""system"":{""model"":""Samsung SSD 850 EVO 250GB"",""revision"":""EMT02B6Q"",""type"":""SSD""}},""gfx"":{""D2DEnabled"":false,""DWriteEnabled"":true,""ContentBackend"":""Skia"",""Headless"":false,""adapters"":[{""description"":""Radeon RX Vega"",""vendorID"":""0x1002"",""deviceID"":""0x687f"",""subsysID"":""6b761002"",""RAM"":8176,""driver"":""aticfx64 aticfx64 aticfx64 amdxc64 aticfx32 aticfx32 aticfx32 amdxc32 atiumd64 atidxx64 atidxx64 atiumdag atidxx32 atidxx32 atiumdva atiumd6a"",""driverVendor"":null,""driverVersion"":""26.20.13001.40003"",""driverDate"":""8-23-2019"",""GPUActive"":true}],""monitors"":[{""screenWidth"":1200,""screenHeight"":1920,""refreshRate"":60,""pseudoDisplay"":false},{""screenWidth"":2560,""screenHeight"":1440,""refreshRate"":60,""pseudoDisplay"":false},{""screenWidth"":1920,""screenHeight"":1080,""refreshRate"":60,""pseudoDisplay"":false}],""features"":{""compositor"":""basic"",""gpuProcess"":{""status"":""available""},""wrQualified"":{""status"":""available""},""webrender"":{""status"":""unavailable-no-angle""},""d3d11"":{""status"":""unavailable""},""d2d"":{""status"":""unavailable"",""version"":""1.1""}}},""appleModelId"":null,""isWow64"":false,""isWowARM64"":false,""sec"":{""antivirus"":[""Bitdefender Antivirus Free Antimalware""],""antispyware"":null,""firewall"":[""Windows Firewall""]}},""settings"":{""blocklistEnabled"":true,""e10sEnabled"":true,""e10sMultiProcesses"":8,""telemetryEnabled"":false,""locale"":""en-US"",""intl"":{""requestedLocales"":[""en-US""],""availableLocales"":[""en-US""],""appLocales"":[""en-US""],""systemLocales"":[""en-US""],""regionalPrefsLocales"":[""et-EE""],""acceptLanguages"":[""en-US"",""en""]},""update"":{""channel"":""release"",""enabled"":true,""autoDownload"":false},""userPrefs"":{""app.update.service.enabled"":false,""browser.cache.disk.capacity"":1048576,""browser.search.region"":""EE"",""browser.search.widget.inNavBar"":false,""browser.startup.homepage"":""&lt;user-set&gt;"",""browser.urlbar.suggest.searches"":false,""general.config.filename"":""&lt;set&gt;"",""layers.acceleration.disabled"":true},""sandbox"":{""effectiveContentProcessLevel"":5},""launcherProcessState"":0,""addonCompatibilityCheckEnabled"":true,""isDefaultBrowser"":true,""attribution"":{""campaign"":""%2528not%2Bset%2529"",""content"":""%2528not%2Bset%2529"",""medium"":""referral"",""source"":""<a href=""http://www.google.com"" rel=""nofollow"">www.google.com</a>""},""defaultSearchEngine"":""google-b-d"",""defaultSearchEngineData"":{""name"":""Google"",""loadPath"":""[other]addEngineWithDetails:google@search.mozilla.org"",""origin"":""default"",""submissionURL"":""<a href=""https://www.google.com/search?client=firefox-b-d&amp;q="" rel=""nofollow"">https://www.google.com/search?client=firefox-b-d&amp;q=</a>""}},""profile"":{""creationDate"":18139,""firstUseDate"":18139},""addons"":{""activeAddons"":{""{443830f0-1fff-4f9a-aa1e-444bafbc7319}"":{""version"":""0.0.30"",""scope"":8,""type"":""extension"",""updateDay"":18079,""isSystem"":false,""isWebExtension"":true,""multiprocessCompatible"":true,""blocklisted"":false,""description"":""Use your eID smart card on the web"",""name"":""Token signing"",""userDisabled"":false,""appDisabled"":false,""foreignInstall"":true,""hasBinaryComponents"":false,""installDay"":18079,""signedState"":2},""{02274e0c-d135-45f0-8a9c-32b35110e10d}"":{""version"":""1.0.4"",""scope"":8,""type"":""extension"",""updateDay"":18089,""isSystem"":false,""isWebExtension"":true,""multiprocessCompatible"":true,""blocklisted"":false,""description"":""Configures Firefox to use PKCS11 for authentication"",""name"":""PKCS11 loader"",""userDisabled"":false,""appDisabled"":false,""foreignInstall"":true,""hasBinaryComponents"":false,""installDay"":18089,""signedState"":2},""{00000f2a-7cde-4f20-83ed-434fcb420d71}"":{""version"":""0.9.8.72"",""scope"":1,""type"":""extension"",""updateDay"":18139,""isSystem"":false,""isWebExtension"":true,""multiprocessCompatible"":true,""blocklisted"":false,""description"":""Enlarge thumbnails, and show images/videos from links with a mouse hover."",""name"":""Imagus"",""userDisabled"":false,""appDisabled"":false,""foreignInstall"":false,""hasBinaryComponents"":false,""installDay"":18139,""signedState"":2},""{d04b0b40-3dab-4f0b-97a6-04ec3eddbfb0}"":{""version"":""4.0.4"",""scope"":1,""type"":""extension"",""updateDay"":18139,""isSystem"":false,""isWebExtension"":true,""multiprocessCompatible"":true,""blocklisted"":false,""description"":""This extension sets your search engine to Ecosia so you can plant trees with every search."",""name"":""Ecosia - The search engine that plants trees"",""userDisabled"":false,""appDisabled"":false,""foreignInstall"":false,""hasBinaryComponents"":false,""installDay"":18139,""signedState"":2},""simple-translate@sienori"":{""version"":""2.1.1"",""scope"":1,""type"":""extension"",""updateDay"":18139,""isSystem"":false,""isWebExtension"":true,""multiprocessCompatible"":true,""blocklisted"":false,""description"":""Quickly translate selected text on web page. In toolbar popup, you can translate input text.""</pre>",firefox-680;firefox-6802;desktop;fix-problems;,firefox,fix-problems,en-US
+1267965,1567528058,1567536259,I have a IIS 7.5 web server but FireFox won't allow access. All other browsers work fine but not firefox.,"<p>I get the error PR_END_OF_FILE_ERROR. I need to know what is wrong with the server as otherwise people won't be able to use FireFox to view the site.
+</p>",firefox-680;firefox-6802;desktop;privacy-and-security_1;windows-7;,firefox,privacy-and-security,en-US
+1267963,1567527569,1567532953,"Bookmarks sidebar is automatically open every time firefox launches, how can i stop this?","<p>Every time firefox launches on my PC the bookmarks sidebar is automatically open and i can't seem to stop this happening.
+</p><p>Any help would be appreciated, thanks.
+</p>",bookmarks;desktop;firefox-680;windows-10;,firefox,bookmarks,en-US
+1267960,1567524548,1567534485,Firefox 69 reader mode maximum zoom level has been limited. Can this be fixed?,"<p>Prior to FF 69, I could zoom to HUGE font sizes in Reader Mode.  As a user with low vision (macular degeneration) this was very helpful.  However, in FF69, zooming is extremely limited.  The maximum font size appears to be about 24 point - which is next to useless for those with low vision.  Is there any way this can be fixed?  I tried the Reader addon, but its zoom isn't much better.
+</p>",firefox-690;other;beta;desktop;windows-10;,firefox,other,en-US
+1267959,1567524114,1567559734,¿Cómo puedo deshabilitar el guardado de imágenes en formato webp que no me sirve?,"<p>Recientemente las imágenes se me guardan en formato webp que no me sirve.   Si renombro los archivos de webp a jpg se pueden visualizar perfectamente, pero no me sirven en el programa en el que los uso, por lo que tengo 2 opciones:
+</p><p>1.- Copiar la imágen con el botón derecho, ir a mspaint, pegarla, y guardarla en el formato deseado.
+2.- Renombrar el .webp a .jpg, abrirlo con el mspaint y guardarlo con otro nombre.
+</p><p>Es ridículo que un archivo que en el servidor es un .jpg y que en la barra de direcciones se llama .jpg, SOLO deje guardarlo en .webp
+</p>",firefox-680;other;desktop;windows-10;needsinfo;,firefox,other,es
+1267955,1567523162,1567523890,Yahoo Mail InBox list of E-Mails keep shifting left to right constantly,"<p>When I use my Yahoo Mail, the list of messages in my In Box keep moving back and forth across my monitor.  This is very unnerving.  It does not happen in Yahoo Mail in Microsoft Edge.
+</p>",firefox-680;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1267954,1567522978,1567535642,menu bar is disappear every time i start firefox 69.0,"<p>Hi.
+After the last firefox 69.0 update i have this issue.
+The menu bar i must appear it every time the program start.
+</p><p>Before the 69.0 update the menu bar it was ALWAYS APPEAR without need to do anything at all.
+</p><p>How i can solve this new issue came with firefox 69.0?
+</p>",firefox-690;beta;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US
+1267952,1567522509,1567537217,Duplicating Tabs or Opening a Link in a New Tab - Site Never Loads,"<p>I have only recently been having this problem. I have been using Firefox for about 9 months and been having this problem for less than a week. When I go to open a new link in a new tab, that tab never loads. I can open a blank tab and paste the link there, and it will load about 90% of the time.
+</p><p>I have 2 add-ons, the Multi-Account Containers add-on and a ColorPick Eyedropper. I tried turning off the Proxy setting, since I don't use one. And I have tried disabling the DNS prefetch thing. Neither of those suggestions have worked. 
+</p><p>Does anyone have any other ideas? I would rather not go back to Chrome if possible. The multi-account container is a lifesaver.
+</p>",tabs;firefox-680;firefox-6802;desktop;windows-10;,firefox,tabs,en-US
+1267950,1567521689,1567521689,"I've tried everything, but Firefox still defaults to a printer which is disabled instead of the new one.  How can I change this?","<p>I have printed to the new HP printer and this works fine, but Firefox persists in keeping the old laserjet as the defualt.  I have disabled the old printer in CUPS, reset the printer settings in Firefox and deleted all printer settings from the prefs.js file, but Firefox persists in selecting this old printer first.  I don't want to delete it as it was difficult to install and I might want to add it back to my network later.
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US
+1267948,1567521034,1567562762,"I can't drag, drop and move around folders on the bookmarks toolbar, but everything else seems to be working fine.","<p>This broke after I installed the beta version of firefox 69. I tried deleting firefox and reinstalling (with the stable 69 version that was just released) but I still can't pick up the bookmark folders. Moving and selecting things within the folders is working, I just can't grab them off the toolbar and can only click to open them.
+</p><p>I have another laptop running exactly the same configuration of themes and addons that I didn't try the beta on, and that's updated to 69 and is working just fine.
+</p>",firefox-690;bookmarks;beta;desktop;windows-10;,firefox,bookmarks,en-US
+1267947,1567520454,1567530142,"unable to sign into a website ( https://www.goodreads.com/) checked with other browsers, they works just fine.","<p>it started yesterday. I've been trying to sign into this particular website for hours and i thought something wrong with website but it turns out i can sign into it when i use other browsers like chrome. <a href=""https://www.goodreads.com/"" rel=""nofollow"">https://www.goodreads.com/</a>
+</p>",firefox-680;firefox-6802;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1267946,1567520358,1567529039,beta bug report,"<p>Where do I report a bug in v70 b3 please?
+</p>",other;desktop;windows-10;,firefox,other,en-US
+1267945,1567518188,1567520610,What does *raced* from the dev tools - Network - Transferred mean?,"<p>Hello,
+</p><p>What does (raced) mean in transferred elements? Seems to me the browser is getting the item from the server even though I've set a cache for jpeg and png files. Other similar items are locally cached as it should.
+</p><p>Thank you,
+</p>",firefox-680;other;desktop;windows-10;,firefox,other,en-US
+1267944,1567514059,1567521381,This video file cannot be played.(Error Code: 232011) Firefox help gives no specific and direct answer to this NEW problem,"<p>I'm running latest Firefox 68.2 64bit on Windows 7x64 Ultimate. This is a new problem, I can plat any media with all my apps and on other sites but Accuweather News <a href=""https://www.accuweather.com/en/videos/trending-now/co15rob4"" rel=""nofollow"">https://www.accuweather.com/en/videos/trending-now/co15rob4</a> videos are suddenly not playable. PS: Firefox Help was useless on this query/error. None of the results were relevant. Am I going to have to ""Google Search for the solution? HELP please and thank you.
+</p>",firefox-680;other;desktop;,firefox,other,en-US
+1267943,1567509479,1567515162,Recurrent and apparently random firefox crashes after 1903 windows update,"<p>Hello everyone.
+</p><p>Since the forced windows 1903 update I have a big problem with Mozilla Firefox.
+</p><p>Firefox is randomly freezing and closing. (I guess it's crashing). I have no idea why and I am totally lost.
+No crashes are detected in 'about:crashes' and I tried to reinstall Firefox completely but the problem is still here.
+</p><p>I have the feeling the crash occur when I open new tabs..
+</p><p>Thanks a lot for your help !
+</p>",firefox-680;other;desktop;windows-10;,firefox,other,en-US
+1267942,1567505788,1567516398,Opens two windows on every boot.,"<p>On every boot ff69 opens two windows, one empty and one with opened tabs, every time i manually close the empty window. Next boot it reopens it. Same with laptop. On occasion if i close the window on laptop it'll only open main window on desktop on next boot. But this might only happen once and next boot the second window starts opening again for no reason.
+How do i make ff stop opening two windows on boot?
+</p>",firefox-690;beta;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1267938,1567503461,1567513387,"Dobrý den, v Mozille se mi začal nahoře bílý pruh. Pomůže sice F11 ale Mozilla nejde ani zavřít, jedině přes Alt+F4.","<p>Je nějaké řešení?
+</p>",firefox-680;desktop;fix-problems;windows-10;,firefox,fix-problems,cs
+1267937,1567497739,1567514696,"when attempting to bookmark using my tags list, typing the initial letter in the box results in a bookmark in the first tag displayed and not my desired one.","<p>Recently encountered a problem bookmarking web-sites using my tags list. When I type the initial letter, eg: o, the first tag, alphabetically, beginning with 'o' is indicated. But my bookmark is automatically saved there instead of letting me choose a preferred tag from the drop down list. In order to bookmark in my desired tag the only way is to scroll through the whole list and tick my preferred tag. How can I return to the former method?
+Hope someone has a solution. I have the latest firefox update.
+</p>",bookmarks;desktop;firefox-680;windows-10;,firefox,bookmarks,en-US
+1267935,1567495419,1567517004,"Ublock global filtering of 3rd party domains, when accessing someother domain, but partial whitelist of 3rd party domain when accessed directly- Is it possible?","<p>Suppose i want to access <a href=""http://123newss.com"" rel=""nofollow"">123newss.com</a>, which uses technology from <a href=""http://t.com"" rel=""nofollow"">t.com</a> 
+I create a ublock ""global-filter"" of the domain <a href=""http://t.com"" rel=""nofollow"">t.com</a>, that blocks loading of <a href=""http://t.com"" rel=""nofollow"">t.com</a> at <a href=""http://123newss.com"" rel=""nofollow"">123newss.com</a> and everywhere else.
+For some reason i'm a frequent user of <a href=""http://t.com"" rel=""nofollow"">t.com</a>, and whenever i try to visit <a href=""http://t.com"" rel=""nofollow"">t.com</a> i have to 
+temporary unblock the blocking of <a href=""http://t.com"" rel=""nofollow"">t.com</a>. This creates a lot of friction since i'm a frequent user of this url.
+If i create a ublock/whitelist of domain <a href=""http://t.com"" rel=""nofollow"">t.com</a> then ublock allows every tracker to load at <a href=""http://t.com"" rel=""nofollow"">t.com</a>, eg. <a href=""http://t.com"" rel=""nofollow"">t.com</a> visit triggers loading of <a href=""http://21trackers.com"" rel=""nofollow"">21trackers.com</a>.
+</p><p>The idea is - Block tracking urls globally, but allow auto whitelisting of urls when visited directly.
+Analogy: prevent embedded yt videos from loading in arbitrary website, but allow when you have visited  <a href=""http://125yt.com"" rel=""nofollow"">125yt.com</a>, without also allowing every other <a href=""http://21trackers.com"" rel=""nofollow"">21trackers.com</a> domains at <a href=""http://125yt.com"" rel=""nofollow"">125yt.com</a> from loading.
+Sounds like containerization or ""cross-site"" url loading block.
+Is it possible or am i missing something?
+</p>",firefox-680;customize;desktop;windows-7;,firefox,customize,en-US
+1267934,1567494668,1567517268,Saved log in information is empty after Sync.,"<p>Today I start my PC and open Firefox and it asked me to log in to Sync. (Although it was logged in before starting my computer).  I log in and Sync. After after that i see there is nothing in saved password. Where are saved password? 
+How can I Get my saved password?
+</p>",firefox-680;sync;desktop;windows-10;,firefox,sync,en-US
+1267932,1567492858,1567538930,I can not log in the website swissid.ch,"<p>When I want to log into my swissid account from another site when I have entered the password, nothing happened. When I try directly from the website <a href=""http://swissid.ch"" rel=""nofollow"">swissid.ch</a> the login page doesn’t charge.
+</p>",firefox-680;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US
+1267928,1567484216,1567536453,"eBay pages turn blank after loading. Works fine using Explorer, but would prefer to use Firefox.","<p>What hasn't worked: Clearing cookies; Turning off hardware acceleration; Updating Firefox (currently on 68.0.2); Changing 1 of 2 about:config settings (they were already set to the suggested setting)
+</p>",firefox-680;websites;desktop;windows-7;,firefox,websites,en-US
+1267926,1567478519,1567478519,Do you have any benefits for me?,"<p>Food  etc...
+</p>",other;desktop;,firefox,other,en-US
+1267925,1567477582,1567480070,Stop the import wizard automatically importing previous stuff.,"<p>Hello, I keep reinstalling Firefox to try get a completely clean copy of it but some stupid fucking 'Import Wizard' is automatically giving me my previous stuff back which I don't want, and I have no idea how to stop it doing it.
+</p><p>Please assist community, I am loosing my temper with this bullcrap wizard!!!
+</p>",download-and-install_1;desktop;,firefox,download-and-install,en-US
+1267924,1567476552,1567515163,Firefox URL Autocomplete Not Working - Have Tried Everything,"<p>I'm having a lot of trouble with the URL autocomplete function not working. I have been trying to solve this for a couple days and nothing is working to enable the URL autocomplete. Here are some of the things I have tried - does anyone have any ideas?
+</p><p>Thanks so much!
+</p><p>-Made sure the browser.urlbar.autoFill item is set to 'true'
+-Adjusted Firefox History settings to 'Remember History'
+-Adjusted Firefox Address Bar settings (Browsing History, Bookmarks, and Open Tabs are checked)
+-Cleared cache and cookies
+-Reset Firefox several times
+-Reinstalled Firefox (without deleting profile and Firefox data)
+</p><p>I have attached screenshots of how my 'about:config' looks, as well as the 'Important Modified Preferences,' in case there's an error that someone else can catch.
+</p><p>(I am running Firefox 68.0.2 on macOS Mojave Version 10.14.5)
+</p>",firefox-680;customize;desktop;mac-os;,firefox,customize,en-US
