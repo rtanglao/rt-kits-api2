@@ -1,0 +1,142 @@
+id,created,updated,title,content,tags,product,topic,locale
+1268070,1567634547,1567641227,I don't have the option to Always activate in flash player,"<p>I can not set Flash player to Always Activate...that option is not available in the add-ons manager...I have version 32-0-0-238, with 32 bit windows 8....also the battery just gives me the Allow option I can not set it to remember that decision
+</p>",firefox-320;desktop;fix-problems;windows-8;,firefox,fix-problems,en-US
+1268069,1567633569,1567637709,"How do I fix ""Secure Connection Failed""?","<p>Error code: PR_END_OF_FILE_ERROR
+I see this error with every website I try. I first noticed the problem after I installed ZoneAlarm, I've since uninstalled the program and tried many solutions, but nothing is working. None of my other web browsers ate connecting either.
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US
+1268068,1567631650,1567674530,"Firefox Updated yesterday, again my logins and passwords are not there, how do I fix this?  I","<p>I also tried using Sync and still no logins &amp; passwords.  This has happened numerous times, last time it was AVG.  I'm now using Dashlane and Chrome for any website that requires a login but this is getting tiring.
+</p>",firefox-690;other;desktop;windows-10;escalate;dataloss;,firefox,other,en-US
+1268065,1567626265,1567649840,I have found a malware/adware addon. How to submit it to mozilla?,"<p>the addon is named as Security Update Tool. Its not visible in the Addons tab but visible in the debugging tab. I successfully removed the addon and its evil effects. But want to aware the community.
+Thank You
+</p>",firefox-690;other;desktop;windows-10;,firefox,other,en-US
+1268063,1567624357,1567629530,"I lost my phone and I couldn't use my authenticator app, I can't use my account. What will I do?","<p>I lost my phone and I couldn't use my authenticator app, I can't use my account (when I want to sign in, it says to  me to use authenticator app . But I lost my phone. I can steel access my mail.  What will I do?
+</p>",firefox-690;sync;desktop;windows-10;,firefox,sync,en-US
+1268061,1567622581,1567648578,Los archivos xml con transformación a xslt ya no pueden ser visualizados en firefox,"<p>Anteriormente he estado utilizando firefox para visualizar archivos xml con transformacón xslt, hasta la versión 67.04 es posible visualizar las transformaciones, con las recientes actualizaciones de firefox, ya no es posible.
+</p>",firefox-690;desktop;fix-problems;mac-os;needsinfo;,firefox,fix-problems,es
+1268060,1567621744,1567623743,how to maximize streaming resolution in Firefox,"<p>looking for a way to  get maximum streaming resolution in Firefox.  I have updated my pc and monitor to handle Ultra HD resolutions, but cannot find what resolutions are supported by Firefox 68 (under Win 7, 64-bit) or how to change.  I have read that Firefox is limited to 720P, and do not know if this is still so.  Where do I find the current resolution and can it be changed, or do I need a specific add-on?  Thanks for any information you can share!
+</p>",firefox-680;customize;desktop;windows-7;,firefox,customize,en-US
+1268059,1567621372,1567625185,How do I stop Bing from doing a search that I asked Google (which is set as my default) to do?,"<p>Firefox is my default browser and Google the default search engine.  This has worked fine for years.  Suddenly, a search typed into Google results in a Bing result.  I made sure that Bing is not checked as even an alternate search engine but that does not help.
+</p>",firefox-690;other;desktop;windows-10;,firefox,other,en-US
+1268058,1567618995,1567619758,"After tabs gone, how to restore session in Firefox on Lubuntu 16.04?","<p>I'm on Lubuntu 16.04. Opened Firefox. Blank window, all my 10+ windows and many tabs were gone. I only have one firefox profile. I start looking up info, I find my profile directory and copy my sessionstore-backups directory. Use some nice dude's tool at <a href=""https://www.jeffersonscher.com/ffu/scrounger.html"" rel=""nofollow"">https://www.jeffersonscher.com/ffu/scrounger.html</a> to verify the old previous.jsonlz4 has my windows and tabs, and it does.
+</p><p>However, there is NO sessionstore.jsonlz4 in my main profile folder, only a bunch of files, which include sessionCheckpoints.json, the only file with any ""session"" in the filename. If I copy my previous.jsonlz4 to that directory (yes, using sudo) as sessionstore.jsonlz4 and run Firefox, it's blank as before, with none of the old tabs or windows. My suspicion at this point is that Firefox 68 on Ubuntu is doing something different than Windows, but I really have no idea. How do the sessions work on Ubuntu, what is the sessionstore.jsonlz4 equivalent?
+</p>",tabs;firefox-680;desktop;linux;,firefox,tabs,en-US
+1268057,1567617743,1567634094,Firefox doesn't autofeed the password,"<p>Six month ago my bank went from a one page to a two page login.  The help you gave me six months ago solved the problem.  Now the bank has changed back again to a one page login.  Two days ago the response you gave me I marked as Solved when I deleted the saved ID and password and Firefox loaded the new ID and Password.  I thought that would fix the problem. That was premature.  I should have tried logging in to my bank, because it still isn't loading the password.  The password field is set to Fill Password.
+</p><p>P.S.  And I don't need another responses from some sarcastic SOB who cant read or think clearly and who sends me a NO-Reply Email that I can't respond to.
+</p>",firefox-680;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US
+1268056,1567617431,1567620504,blank bar above firefox,"<p>I am using the newest version of firefox, I have no idea on what key I accidentally pressed. My address bar is now very fat, and there's a blank space above the tabs, and that bar is not the title bar. I have tried installing themes but that didn't do the trick.
+I am using windows 7.
+</p><p>How do I restore firefox to its default view?
+</p>",firefox-690;other;desktop;windows-7;,firefox,other,en-US
+1268055,1567617401,1567618608,Menu bar and bookmarks toolbar keep disappearing when FF is reopened (visibility settings not getting saved),"<p>The latest Firefox update hide my bookmark toolbar and the menu bar. When I re-enable them, the setting is apparently not getting saved because they're hidden again the next time I launch the browser.
+</p><p>Windows 10 Pro
+Firefox 69.0
+</p>",firefox-690;bookmarks;desktop;windows-10;,firefox,bookmarks,en-US
+1268054,1567617107,1567626071,Menu are in wrong language,"<p>I just updated FF from 68 to 69 and now my menus are messed up. While preferences all set to English, top menu and context menu are all in Russian, addons too. Options are only thing that's in English as far as I can see. And it's not deletable from settings too (screenshot). Any way to fix it without reinstalling whole thing? (which is i'm not 100% will help but it's still last resort)
+</p>",firefox-690;customize;desktop;windows-10;,firefox,customize,en-US
+1268053,1567614640,1567617827,it is asking for parent's permission when i am an adult myself,"<p>I am the age of being an adult, but when I try to install Firefox (after making an account, both for Firefox and now a Microsoft account separate from my parents, to make sure), it says I need parent's/adult's permission to use it. Am I doing something wrong?
+</p>",download-and-install_1;desktop;,firefox,download-and-install,en-US
+1268052,1567614228,1567634988,Hovering a tab over Bookmarks button no longer opens the dropdown?,"<p>My browser updated to v69.0 this morning, and now I find myself unable to use functionality that I utilize quite often. If I have a tab open I want to save to my Bookmarks, so I drag it over and hover it above the Bookmarks button in my toolbar, the Bookmarks dropdown opens up, and I can navigate my myriad of folders and sub-folders to place the tab in the folder I want to save it in. Now, however, hovering the tab over the Bookmarks button is no longer causing the dropdown to open.
+</p><p>This becomes especially egregious if I want to save multiple tabs to the same folder simultaneously. I can drop them into the Bookmarks as a group, but then I must manually move each one to the correct subfolder and place it where I want them. It quickly becomes a tedious process.
+</p>",firefox-690;tabs;desktop;windows-10;,firefox,tabs,en-US
+1268048,1567611544,1567625586,Where is the bookmark import file after refresh?,"<p>I refreshed my Firefox but the bookmark file the Help Document said would be in the Old Firefox data folder is not there. As you can see in the image I do not have a file called ""places.sqlite"". I only refreshed Firefox under the indication that I would not lose any of my bookmarks (they would be saved and I could get them back).
+</p><p>I had many bookmarks. Are they lost now?
+</p><p>Help Document: <a href=""https://support.mozilla.org/en-US/kb/recovering-important-data-from-an-old-profile#w_copying-files-between-profile-folders"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/recovering-important-data-from-an-old-profile#w_copying-files-between-profile-folders</a>
+</p>",firefox-680;firefox-6802;desktop;fix-problems;windows-7;escalate;dataloss;refresh;,firefox,fix-problems,en-US
+1268046,1567611256,1567689875,How can I turn off *distracting* display of trackers blocked in bottom right of web pages for Firefox 69?,"<p>How to turn off *distracting* display of trackers blocked in bottom right of web pages for Firefox 69?
+</p><p>I appreciate that Firefox is now blocking third party trackers.
+But I can't stand having a distracting purple display of trackers blocked in every web page.
+That is unacceptable to me and I want a way to turn off that distracting display on *every* web page.
+</p><p>I find it ironic that distracting ads are being removed (good!) but Firefox developers thought it was a smart idea to *add* its own distracting information on web pages (sheesh -- at least could we have the option to put that tracker summary in the menu bar? -- I would ideally prefer being able to abolish it from even being seen there).
+</p><p>I am a software developer who doesn't care for web page pollution or distraction from the real content, and a tracker blocking summary in my face on every page is definitely pollution.
+</p><p>I'm going back to Chrome because of this one issue (the ad blocker I use only puts its summary count in the menu bar).
+</p><p>Firefox really goofed by adding its own ""ad"" on *every* web page for its new feature. Now I need a blocker for those ads!
+</p>",firefox-690;customize;desktop;windows-7;,firefox,customize,en-US
+1268045,1567610724,1567630817,Every time I update Firefox the language changes to English and I have to manualy add and change it back to Polish; why added languages do not stay (only Eng)?,"<p>In the Options &gt; Language it is always only English after every update of Firefox. I then add Polish, every time, but it doesn't stay there. Another update and all of it repeats. Any suggestions?
+</p>",firefox-690;other;desktop;windows-10;,firefox,other,en-US
+1268043,1567607662,1567630269,"After update, can I turn off notification that an update has occurred?","<p>I use Firefox on nearly 70 different machines in full screen to display information around my business. I want Firefox to update automatically so I'm always on the latest release. However, after the update, I do NOT want an additional tab alerting that the browser has updated nor the pop-up in the upper left asking me to click through to see what's new in the latest version that's been installed, as they grab focus from the informational webpage I'm trying to display.
+</p><p>Is it possible to allow automatic updates but receive no indication in the browser that the update has occurred. A ""silent"" update, if you will?
+</p>",download-and-install_1;desktop;windows-10;,firefox,download-and-install,en-US
+1268042,1567605248,1567631668,Freeze  and shutdown FF in random period,"<p>NVIDIA GeForce GTX 1050 Ti
+</p><p><br>
+Errors log
+</p><p>	Killing GPU process due to IPC reply timeout
+(#16) 	CP+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+(#17) 	CP+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+(#18) 	CP+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+(#19) 	CP+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+(#20) 	CP+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+(#21) 	CP+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+(#22) 	CP+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+(#23) 	CP+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+(#24) 	CP+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+(#25) 	CP+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+(#26) 	CP+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+</p>",firefox-680;firefox-6802;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US
+1268037,1567600205,1567644101,My bank changed from a two page login to a one page.  Not filling password.,"<p>No I said the bank used, passed tenth, a two page login then they changed to a one page login.  (you stupidly misread my problem on the first go around)
+</p><p>I checked the fields.  Both have the Fill field indicated. 
+</p><p>The saved login information is all there and correct.  However the password field is not being filled.
+</p>",firefox-680;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US
+1268036,1567597071,1567611311,Search engine names are missing in Firefox 69's search bar,"<p>The search engine names have disappeared once again!
+</p><p>I'd been running userChrome scripts to fix this ""bug"" (thanks to the help of people in this forum <a href=""https://support.mozilla.org/en-US/questions/1192499#answer-1045326"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1192499#answer-1045326</a> ). But the names have disappeared again in version 69.
+</p><p>I do like Firefox, but sometimes I wonder what the interface designers are smoking. Who could possibly think that an unlabeled list of search engine icons is a useful way to search the internet!? For that matter, who on earth decided that users want to type their search terms FIRST and THEN decide what type of search they want to perform? Most of the time, people search the exact opposite way to this.
+</p>",firefox-690;customize;desktop;windows-7;,firefox,customize,en-US
+1268035,1567593645,1567612214,Some tabs refuse to close.,"<p>I try to close a tab and it opens again. I have to select 2 tabs and then close the 2 together and then it works.
+</p>",firefox-690;other;desktop;mac-os;,firefox,other,en-US
+1268032,1567589105,1567614496,Export Bookmark Name and Location in Columns?,"<p>I'm playing around with something in Google maps and need to be able to export all my bookmarks with name (ie description) and location (ie URL) into a csv or txt file into two columns that can be edited in a text editor and then imported into google maps. All the export / backup routines leave me with files that are far too complex for me to manually edit into this format. Anyone any ideas how i can do this please?
+Thanks.
+</p>",bookmarks;desktop;firefox-680;windows-10;,firefox,bookmarks,en-US
+1268031,1567588928,1567597429,what does this mean Click on the Firefox button in the upper-left of your browser?,"<p>Click on the Firefox button in the upper-left of your browser and click on Options — it'll pull out a little submenu when you hover over it with your mouse, but you can ignore that and just click right on the word Options. 2. Select the Content tab and make sure that “Block pop-up windows” is checked.
+there is no such button as mozilla firefox button?wwhat is this and where is it suposed to be????unwanted p[opups or ads that your softwars seems incapable of blocking.
+</p>",firefox-690;privacy-and-security_1;desktop;windows-7;,firefox,privacy-and-security,en-US
+1268030,1567587696,1567591495,"Firefox Screenshots doesn't work anymore, how to fix it?","<p>Screenshots are enabled but when I select ""Take a Screenshot"" in the ""Page actions"" menu nothing happens.
+</p>",firefox-680;desktop;fix-problems;linux;,firefox,fix-problems,en-US
+1268029,1567587684,1567685509,Connection issues after booting PC for several minutes,"<p>Every time I boot my PC, Firefox has troubles connecting to most sites for quite a few minutes. The only site it seems to connect to is this site itself, <a href=""http://support.mozilla.org"" rel=""nofollow"">support.mozilla.org</a>
+Other applications connect to the internet just fine as soon as I boot up, but Firefox seems to have troubles and only on this device.
+</p>",firefox-680;websites;desktop;windows-10;,firefox,websites,en-US
+1268028,1567587046,1567663410,Manejo de excepciones https en Firefox versión 69,"<p>Hasta la versión anterior (68,02) se permitía crear una excepción para el acceso a un sitio sin certificado aunque la url usara https. En esta nueva versión (69) no solamente no ofrece la creación de la excepción sino que devuelve el error ""El uso de la clave del certificado es inapropiada para la operación pretendida. Código de error: SEC_ERROR_INADEQUATE_KEY_USAGE"" impidiendo acceder al sitio.
+</p>",firefox-690;desktop;fix-problems;windows-10;,firefox,fix-problems,es
+1268026,1567584027,1567606440,"Firefox updates occur without my permission and destroy my work, and I would like them to ask my permission befoe updating.","<p>I am a priest (Russian Orthodox), and much of my work is counseling by e-mail. For the second time, Firefox's updater summarily stalled my computer and caused extensive e-mail text to be lost. They have isolated themselves from communication with users, so there's no way to ask them to stop doing this and to create a permission function. Does anyone out there work for Mozilla, who can advance a memo? Is there some way I can enable an existing permission function? or do I have to switch to Opera, or somewhere? I really like Firefox, and this is the only issue I've had with them in six years, but it's a critical one. Some of the things I deal with are truly critical matters
+</p><p>Thanks for whatever help you might be able to give me.
+</p>",firefox-690;other;desktop;windows-10;,firefox,other,en-US
+1268025,1567583964,1567627113,Firefox cannot play certain Twitter gifs on Windows 7,"<p>Examples of broken gifs:
+</p><p><a href=""https://twitter.com/wannaODIN_/status/1169143681976283136"" rel=""nofollow"">https://twitter.com/wannaODIN_/status/1169143681976283136</a>
+</p><p><a href=""https://twitter.com/RedTestament/status/1169139822100930561"" rel=""nofollow"">https://twitter.com/RedTestament/status/1169139822100930561</a>
+</p><p><a href=""https://twitter.com/_t3nshi/status/1169122796573736960"" rel=""nofollow"">https://twitter.com/_t3nshi/status/1169122796573736960</a>
+</p><p>As far as I can tell, this is mainly a Windows 7 problem. I have done a fair bit of testing with gifs I've made myself, and while I don't exactly know how gif ""encoding"" or whatever works, it seems to be a problem with how Twitter converts certain gif versions.
+</p><p>If I make a gif with Aseprite 1.2.13-x64 the gifs do not work, and show up as black. However you can still download them as a video, reupload them, and then they work, which is kinda weird but I assume twitter re-converts the videos into something else.
+</p><p>However if I make the same gif with Aseprite 1.2.9 which is at least a year older, they work on Twitter.
+</p><p>I've seen some references about H.264 Level 5.2 not working on Windows 7, and maybe that might be the issue? If so, is there any way to get Level 5.2 media to play on Windows 7? <a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=1479203#c10"" rel=""nofollow"">https://bugzilla.mozilla.org/show_bug.cgi?id=1479203#c10</a>
+</p><p>Using MediaInfo to check the files of the videos in question they say that they are using AVC (Main@L5.2) (CABAC / 4 Ref Frames), while the ""gifs"" (yes I know that they are just videos on Twitter) that DO work are AVC (Main@L5).
+</p>",firefox-690;desktop;fix-problems;windows-7;escalate;gif;,firefox,fix-problems,en-US
+1268022,1567575787,1567578223,RiskWare.DontStealOurSoftware,"<p>Co to za dodatek, do czego służy i czy jest potrzebny?
+</p>",other;desktop;malware;escalate;,firefox,other,en-US
+1268021,1567575427,1567614389,"When I updated Firefox Quantum to 69.0, the ""Highlight All"" feature of ""Ctrl + F"" no longer works for Gmail.","<p>1) Refreshing Gmail tabs
+2) Using new tabs to open those Gmail tabs
+3) Resetting Firefox
+</p><p>I tried those actions, and none of them seem to fix this issue. 
+</p><p>Based on my personal usage since the update to 69.0, this issue currently seems to only apply to Gmail.
+</p><p>This function seems to work fine on other web pages/sources.
+</p>",firefox-690;other;desktop;windows-10;,firefox,other,en-US
+1268020,1567573791,1567580574,What has changed to make css code for search bar inoperable?,"<p>I have updated to v.69 and instead of a list of search engines I now see a clutch of unrecognisable icons.  The setting ""toolkit.legacyUserProfileCustomizations.stylesheets"" is set to 'true' (default) in about:config.  css code for a list is in searchbar.css imported into userChrome.css.  Why has it stopped working and what can I do about it?
+</p>",firefox-690;customize;desktop;,firefox,customize,en-US
+1268019,1567572338,1567649395,"I have made firefox delete all history upon closing.  It doesn't do it, does anyone else have this problem?","<p>When I close firefox I have it set up to clear everything on the ""clear history"" list.  Including cookies and cache.  I use a program called ccleaner and it always finds tons of firefox cookies an cache.
+</p>",firefox-690;cookies;desktop;windows-10;,firefox,cookies,en-US
+1268017,1567569331,1567573829,version 69.0,"<p>Search on ver 69.0 always returns as Yahoo search. No matter which search engine I choose the result is that Yahoo search appears even though I don't want that.
+</p>",firefox-690;other;desktop;windows-10;,firefox,other,en-US
+1268016,1567568312,1567645842,No se sincronizan los marcadores ni los temas en los distintos ordenadores,"<p>Buenas, tengo 2 computadoras y 1 celular. Todos unidos a la misma cuenta. Si elimino o agrego alguno de los marcadores no sucede lo mismo en el otro. Ya elimine, quite, reinstale, e hice todo.
+</p>",firefox-690;bookmarks;desktop;windows-10;needsinfo;,firefox,bookmarks,es
+1268015,1567567457,1567583906,Problem with Amazon (&other?) login after upgrading to FX69,"<p>When I upgraded to FX 69 on OSX, I got the attached error trying to log in to Amazon.  When I downgraded to FX68.1ESR, the problem went away.
+</p>",firefox-680;other;desktop;mac-os;bug_1;escalate;login;,firefox,other,en-US
+1268014,1567567277,1567603135,what's the relevant timeout for this really slow connection?,"<p>When I try to connect to <a href=""https://mim.t-mobile.com/primary/openPage"" rel=""nofollow"">https://mim.t-mobile.com/primary/openPage</a> Firefox returns, 'The connection has timed out
+</p><p>The server at <a href=""http://mim.t-mobile.com"" rel=""nofollow"">mim.t-mobile.com</a> is taking too long to respond.'  Opera &amp; Lynx don't connect either.  I can connect at a public computer, but the connection can take minutes to make, and sometimes it gives up.  (They're Windoze; I'm Linux.)  What's the relevant timeout to see if I really could connect if I gave Firefox minutes to try?
+</p>",firefox-680;customize;desktop;linux;,firefox,customize,en-US
+1268011,1567561765,1567689407,My homepage has been hijacked by world tv,"<p>Please have someone walk me through this hijack
+</p>",firefox-690;other;desktop;windows-7;,firefox,other,en-US
+1268010,1567561378,1567614308,I have trouble trying to login to firefox,"<p>I get an error ""Sorry. We’ve locked your account"". The confirmation email we sent to **********@gmail.com was returned and we’ve locked your account to protect your Firefox data. I have access to this email and have not received any confirmation mail.
+I have been trying to login after a week but still the problem persists.
+Any help will be appreciated, Thank you.
+</p>",firefox-690;sync;desktop;linux;,firefox,sync,en-US
+1268008,1567558194,1567562390,"Hello.  When I open Firefox (latest update just loaded) it brings up in the search area ""go-tosearchitnow.global.ssl.fastly.net. States 'nothing here' on screen","<p>I opened Firefox this evening, and could not conduct any searches, and the search area jut read: <a href=""http://go-tosearchitnow.global.ssl.fastly.net"" rel=""nofollow"">go-tosearchitnow.global.ssl.fastly.net</a>, and the page at the very top left showed ""nothing here"".  It will not allow me to search.  I just uploaded the latest version of Firefox, but still nothing happens regarding searches, and the same site and message still appeara
+</p>",firefox-690;other;desktop;mac-os;,firefox,other,en-US
+1268007,1567556940,1567565324,takes long time for my browser to load a web site initially,"<p>At start up my browser takes a long time to load a web site initially. I used to see this initial load time much shorter than now. Any suggestions?
+</p>",bookmarks;desktop;firefox-680;windows-7;,firefox,bookmarks,en-US
