@@ -46,7 +46,7 @@ end
 created_time = Time.gm(ARGV[0].to_i, ARGV[1].to_i, 1)
 greater_than = (created_time - 1).strftime("%Y-%-m-%-e")
 less_than = created_time.to_datetime.next_month.to_time.strftime("%Y-%-m-%-e")
-less_than_time = Time.parse(less_than)
+less_than_time = Time.parse(less_than + " 00:00:00 UTC")
 
 logger.debug "created_time" + created_time.to_i.to_s
 logger.debug "less than time" + less_than_time.to_s

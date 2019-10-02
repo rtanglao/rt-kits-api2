@@ -1,15 +1,4 @@
 id,created,updated,title,content,tags,product,topic,locale
-1267811,1567318456,1567322745,how do l go about hooking up seroundsound from my 50mv349R/F7 Roku tv to my LG XBOOM minicomponente,"<p>I can't   get my seroundsound to work
-</p>",other;desktop;,firefox,other,en-US
-1267809,1567317529,1567332277,Can't detach Mail.com from Firefox,"<p>I used to have a <a href=""http://Mail.com"" rel=""nofollow"">Mail.com</a> account and attached their browser to Firefox. <a href=""http://Mail.com"" rel=""nofollow"">Mail.com</a> deleted my account and now I can't detach the browser from Firefox.
-</p>",download-and-install_1;desktop;windows-7;,firefox,download-and-install,en-US
-1267802,1567298360,1567385162,Amazon DRM Error,"<p>Windows 10 had an update, I reverted the update, and now for Amazon specifically, and on Firefox only, I cannot play prime videos. I get error 7235 which is digital rights error.  Basically it cannot see the add-on ""Widevine Content Decryption Module"". I've tried restarting PC several times, 4 different version of Firefox from 63-68 (currently on version 63). Tried uninstalling completely and reinstalling Firefox. I prompted Widevine to prompt when used and when I played a Amazon video, it DID prompt me, but still gave me the error.
-</p><p>Tried contacting amazon support but they just gave me the basic troubleshooting and had no luck. Any ideas are appreciated!
-</p>",websites;firefox-630;desktop;windows-10;,firefox,websites,en-US
-1267801,1567296676,1567342487,firefox 68.02 - Clear downloads no longer works,"<p>I can no longer clear download history by doing the following
-Clock on the download icon then clock on ""Show All Downloads"". The window that gets created has no downloads however if I just click on the download icon then I see downloads listed there.
-</p><p>This used to work until the latest version 68.02
-</p>",firefox-680;other;desktop;windows-10;,firefox,other,en-US
 1267800,1567288962,1567467883,Why do files on 'Firefox Send' get expired before the time that they are set to be available?,"<p>Firefox Send does not keep files for set period.
 </p>",firefox-680;desktop;windows-10;,firefox,other,en-US
 1267799,1567288754,1567294901,Compatible with the old web console,"<p>I need to use the Dialogic DMG2000 media gateway in my work.

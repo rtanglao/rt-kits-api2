@@ -1,35 +1,4 @@
 id,created,updated,title,content,tags,product,topic,locale
-1265887,1564642202,1564642202,Miksi päivitys esti ponnahdusikkunat?,"<p>viimeyön päivitys estää pääsyn sosiaaliseen mediaan ja ponnahdusikkunat
-</p>",firefox-680;other;desktop;windows-10;,firefox,other,fi
-1265886,1564635016,1564698007,Cannot delete bookmarks,"<p>I am running Firefox Quantum 68.0.1 on Windows 10 Pro 64 bit. I cannot delete bookmarks. I use the technique recommended by Firefox help page and can successfully delete the bookmarks but they reappear after a few minutes. I have not synced the desktop to any other device. I have also noticed that Firefox seem to automatically saves some pages to as bookmarks. It also shuffles the bookmarks on the bookmark Toolbar. They seem to move round and get swapped by other bookmarks automatically. I just installed ""Bookmark Clean Up"" and deleted heaps of bookmarks (65) using that Add-on. A few minutes later they all returned back. What am i doing that causes this ? Its driving me up the wall. Thanks 
-I have the following Extensions installed:
-Bookmark Clean Up
-iCloud Bookmarks
-</p>","",firefox,bookmarks,en-US
-1265885,1564633926,1564855730,What is a valid phone number format for syncing with the mobile phone,"<p>I am attempting to sync my mobile phone with my laptop. All I get is a message invalid format. There is no suggestion of what a valid phone format is with United States. What is a valid phone number format for the United States.
-</p><p>EDIT:
-</p><p>I found the answer in another post on the main Firefox forum. I explain it in my post below. (2019.08.03 T11:08 CDT)
-</p><pre>I consider the question answered.
-</pre>",sync;mobile;,firefox,sync-and-save,en-US
-1265884,1564629441,1564629441,Restoring Expired Synced Tabs,"<p>My old PC's hard drive died two weeks ago. My laptop had my synced tabs on it earlier today but now they no longer show. Is there any back end way to retrieve them?
-</p>",firefox-680;sync;desktop;windows-10;,firefox,sync,en-US
-1265883,1564627042,1564639510,disable video autoplay,"<p>Updated FF and now videos are once again autoplaying. What do I setting to do I need to change THIS time?
-</p><p>(As a side note, it sure would be helpful if there was a way to search / sort the forum posts by date. I've just wasted 30 mins looking at unhelpful posts from the last two years.)
-</p>",firefox-680;other;desktop;windows-7;,firefox,other,en-US
-1265882,1564626456,1564776766,can you turn off private browsing?,"<p>I don't want any options or availability to use private browsing. I think this will help keep me accountable on the internet. Is this possible?
-</p>",firefox-680;customize;desktop;windows-10;,firefox,customize,en-US
-1265879,1564624391,1564628802,"A URL for my website brings up an error message, The site is experiencing technical difficulties., but in Chrome the URL works! Why? It was working earlier in F","<p>I am developing a wordpress website at <a href=""http://stonest1.wwwaz1-ss22.a2hosted.com/"" rel=""nofollow"">http://stonest1.wwwaz1-ss22.a2hosted.com/</a>. Everything worked until about an hour ago. When I use FF to open that URL, I get the error, The site is experiencing technical difficulties. If I open the URL in Chrome, the site appears as it should! What could have happened in FF to prevent it from working. I cleared the cache and closed FF then re-opened. Same problem.
-</p>",firefox-6801;firefox-680;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
-1265877,1564621535,1564621535,Firefox cannot find my Seamonkey profile when I go to import it into Firefox.,"<p>I am trying to migrate my Seamonkey profile into Firefox. When I open Bookmarks/Open all bookmarks/Import and backup/Import from another browser, Firefox says it cannot find any other browser on my system.
-If I try to run from the command line with ""firefox -- migration"" I do not get any migration menu.
-</p><p>If it is not actually possible simply to import all that data, what are the minimum files I need to copy from my Seamonkey profile into the Firefox profile, to preserve minimal functionality, including:
-passwords, cookies, and other website-related data;
-history;
-bookmarks;
-modified about:config settings
-helper applications
-</p><p>Note: This question was posted in Seamonkey; therefore, all browser information is related to that software. The installed version of Firefox is 60.8.0esr (64-bit).
-</p>",download-and-install_1;firefox-520;desktop;,firefox,download-and-install,en-US
 1265873,1564616466,1565315767,"Getting the ""Gah! Your tab crashed"" when Firefox starts","<p>This is on a Windows 7 Enterprise Lenovo laptop.  When I open Firefox, I get a blank tab and after about 15 seconds I get the ""Gah! Your tab crashed!"".  If I restore the tab, the error comes back.  If I boot the computer in Safe Mode or Safe Mode with Networking, it works fine.
 </p><p>I've removed the AV from the system, I've removed and completely deleted all Firefox folder and created a new Windows profile.  No change.
 </p><p>I've tried turning off HW acceleration.  I'm using the latest version (x64).
