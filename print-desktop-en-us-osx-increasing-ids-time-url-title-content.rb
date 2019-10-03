@@ -9,9 +9,6 @@ require 'csv'
 require 'logger'
 require 'nokogiri'
 
-# fragment = Nokogiri::HTML.fragment('<span>Chunky bacon</span>')
-# fragment.text
-
 logger = Logger.new(STDERR)
 logger.level = Logger::DEBUG
 
@@ -29,24 +26,42 @@ osx_regexp_tags =
 osx_regexp= 
 /
   (os\sx|mojave|catalina|macos|elcapitan|osx|mac\sos|
-  	el\scapitan|sierra|yosemite|mavericks)
+  	el\scapitan|sierra|yosemite|mavericks|
+    macbook|imac|powermac|macpro|mac\spro|macintosh)
 /x
 num_osx_questions  = 0
 id_time_url_title_content_array = []
 CSV.foreach(FILENAME, :headers => true) do |row|
   hash = {}
+  content = ""
   logger.debug row['tags']
   logger.debug row['title']
   next if row['locale'] != "en-US" || row['product'] != 'firefox'
   found_in_title_or_content = false
   if osx_regexp.match(row['title']) 
-  	logger.debug "found os x in title"
+  	logger.debug "FOUND os x in title"
   	found_in_title_or_content = true
-  end			
+  end	
+  
+  if !found_in_title_or_content 
+  	content  = Nokogiri::HTML.fragment(row['content']).text 
+  	logger.debug 'CONTENT:' + content
+  	if osx_regexp.match(content) 
+  		logger.debug "FOUND os x in content"
+  		found_in_title_or_content = true
+  	end
+  end
   next if !osx_regexp_tags.match(row['tags']) if !found_in_title_or_content
   num_osx_questions += 1
   # id_array.push(row['id'].to_s) if ids
-  # id_array.push("* https://support.mozilla.org/questions/" + row['id'].to_s) if markdown
+  hash["url"] = "https://support.mozilla.org/questions/" + row['id'].to_s
+  hash["id"] = row['id']
+  hash["title"] = row['title']
+  hash["content"] = content[0..79]
+  hash["tags"] = row["tags"]
+  hash["created"] = row["created"]
+  awesome_print hash
+  exit
 end
 logger.debug 'num_osx_questions:' + num_osx_questions.to_s
 #sorted_array = id_array.sort
