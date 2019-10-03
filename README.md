@@ -1,6 +1,19 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 0october2019 get os x questions
+
+```bash
+cd 201907
+../get-questions-for-1-month.rb 2019 7
+../print-desktop-en-us-osx-increasing-ids-time-url-title-content.rb  \
+2019-07-firefox-desktop-all-locales.csv  2>/tmp/foo.txt
+ ```
+ 
+ output:
+ 
+ https://github.com/rtanglao/rt-kits-api2/blob/master/201907/sorted-osx-desktop-en-us-2019-07-firefox-desktop-all-locales.csv 
+ 
 ## 09july2019 revised workflow
 
 ```bash
