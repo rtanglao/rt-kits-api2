@@ -55,7 +55,7 @@ CSV.foreach(FILENAME, :headers => true) do |row|
   num_osx_questions += 1
   # id_array.push(row['id'].to_s) if ids
   hash["url"] = "https://support.mozilla.org/questions/" + row['id'].to_s
-  hash["id"] = row['id']
+  hash["id"] = row['id'].to_i
   hash["title"] = row['title']
   hash["content"] = content[0..79]
   hash["tags"] = row["tags"]
@@ -64,6 +64,7 @@ CSV.foreach(FILENAME, :headers => true) do |row|
   id_time_url_title_content_tags_array.push(hash)
 end
 logger.debug 'num_osx_questions:' + num_osx_questions.to_s
+awesome_print id_time_url_title_content_tags_array.sort_by { |h| h["id"] }
 #awesome_print id_time_url_title_content_tags_array
 #sorted_array = id_array.sort
 #logger.debug sorted_array
