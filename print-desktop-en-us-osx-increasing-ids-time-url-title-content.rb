@@ -30,7 +30,7 @@ osx_regexp=
     macbook|imac|powermac|macpro|mac\spro|macintosh)
 /x
 num_osx_questions  = 0
-id_time_url_title_content_array = []
+id_time_url_title_content_tags_array = []
 CSV.foreach(FILENAME, :headers => true) do |row|
   hash = {}
   content = ""
@@ -59,11 +59,12 @@ CSV.foreach(FILENAME, :headers => true) do |row|
   hash["title"] = row['title']
   hash["content"] = content[0..79]
   hash["tags"] = row["tags"]
-  hash["created"] = row["created"]
-  awesome_print hash
-  exit
+  # 10/2/2019 20:34:35
+  hash["created"] = Time.at(row["created"].to_i).strftime("%-m/%-d/%Y %H:%M:%S")
+  id_time_url_title_content_tags_array.push(hash)
 end
 logger.debug 'num_osx_questions:' + num_osx_questions.to_s
+#awesome_print id_time_url_title_content_tags_array
 #sorted_array = id_array.sort
 #logger.debug sorted_array
 #puts sorted_array
