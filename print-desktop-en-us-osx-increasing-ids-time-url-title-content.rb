@@ -53,19 +53,22 @@ CSV.foreach(FILENAME, :headers => true) do |row|
   end
   next if !osx_regexp_tags.match(row['tags']) if !found_in_title_or_content
   num_osx_questions += 1
-  # id_array.push(row['id'].to_s) if ids
-  hash["url"] = "https://support.mozilla.org/questions/" + row['id'].to_s
-  hash["id"] = row['id'].to_i
-  hash["title"] = row['title']
-  hash["content"] = content[0..79]
-  hash["tags"] = row["tags"]
-  # 10/2/2019 20:34:35
-  hash["created"] = Time.at(row["created"].to_i).strftime("%-m/%-d/%Y %H:%M:%S")
-  id_time_url_title_content_tags_array.push(hash)
+
+  id_time_url_title_content_tags_array.push(
+    [
+      row['id'].to_i,
+      Time.at(row["created"].to_i).strftime("%-m/%-d/%Y %H:%M:%S"), # 10/2/2019 20:34:35
+      "https://support.mozilla.org/questions/" + row['id'].to_s,
+      row['title'],
+      content[0..79],
+      row["tags"]
+    ])
 end
 logger.debug 'num_osx_questions:' + num_osx_questions.to_s
-awesome_print id_time_url_title_content_tags_array.sort_by { |h| h["id"] }
-#awesome_print id_time_url_title_content_tags_array
-#sorted_array = id_array.sort
-#logger.debug sorted_array
-#puts sorted_array
+sorted_array =  id_time_url_title_content_tags_array.sort_by { |h| h[0] }
+headers = ['id', 'created', 'url', 'title', 'content', 'tags']
+
+FILENAME = sprintf("sorted-osx-desktop-en-us-%s", ARGV[0])
+CSV.open(FILENAME, "w", write_headers: true, headers: headers) do |csv_object|
+  sorted_array.each {|row_array| csv_object << row_array }
+end
