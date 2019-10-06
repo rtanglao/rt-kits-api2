@@ -90,7 +90,7 @@ elsif markdown
   logger.debug 'markdown filename:' + FILENAME
   open(FILENAME, 'w') do |f|
     f.puts "id | created | Title | Content|tags"
-    f.puts "--- | --- | --- | --- | --- | ---"
+    f.puts "--- | --- | --- | --- | ---"
     sorted_array.each do |row_array|
       tags_array = row_array[5].split(';')
       logger.debug "tags_array" + tags_array.to_s

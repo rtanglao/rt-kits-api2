@@ -1,5 +1,5 @@
 id | created | Title | Content|tags
---- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | ---
 1263665|[7/1/2019 13:01:26](https://support.mozilla.org/questions/1263665)|HDCP does not work on Mac when connect to beamer|Hi, 
 I'm trying to stream Prime Video on my MBP (15" 2013) and MBA (11" 2011) to|[firefox-670](https://support.mozilla.org/en-US/questions/firefox?tagged=firefox-670)[desktop](https://support.mozilla.org/en-US/questions/firefox?tagged=desktop)[fix-problems](https://support.mozilla.org/en-US/questions/firefox?tagged=fix-problems)[mac-os](https://support.mozilla.org/en-US/questions/firefox?tagged=mac-os)
 1263730|[7/2/2019 02:52:50](https://support.mozilla.org/questions/1263730)|Is there any way to cast a single Firefox desktop tab while not casting others?|I read that Miracast didn't really go anywhere and the FirefoxOS stick got put o|[other](https://support.mozilla.org/en-US/questions/firefox?tagged=other)[desktop](https://support.mozilla.org/en-US/questions/firefox?tagged=desktop)[mac-os](https://support.mozilla.org/en-US/questions/firefox?tagged=mac-os)
