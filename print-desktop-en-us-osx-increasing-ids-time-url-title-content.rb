@@ -102,7 +102,7 @@ elsif markdown
        end  
        tags_markdown = ";" if tags_markdown == ""
        f.puts sprintf("%d |[%s](%s) |%s |%s |%s", row_array[0], row_array[1],
-        row_array[2], row_array[3], row_array[4], tags_markdown)
+        row_array[2], row_array[3].tr("\n",""), row_array[4].tr("\n",""), tags_markdown)
      end
    end
  end
