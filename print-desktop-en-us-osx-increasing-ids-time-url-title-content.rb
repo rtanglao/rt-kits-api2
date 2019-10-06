@@ -98,7 +98,7 @@ elsif markdown
       tags_array.each do |t| 
         logger.debug t
         tags_markdown += "[" + t + "]" +
-         "(https://support.mozilla.org/en-US/questions/firefox?tagged="+ t + ")"
+         "(https://support.mozilla.org/en-US/questions/firefox?tagged="+ t + ")" + ";"
        end  
        f.puts sprintf("%d|[%s](%s)|%s|%s|%s", row_array[0], row_array[1],
         row_array[2], row_array[3], row_array[4], tags_markdown)
