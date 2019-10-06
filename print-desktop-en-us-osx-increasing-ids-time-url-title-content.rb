@@ -89,7 +89,7 @@ elsif markdown
   FILENAME = sprintf("sorted-osx-desktop-en-us-%s", ARGV[0]).gsub("csv", "md")
   logger.debug 'markdown filename:' + FILENAME
   open(FILENAME, 'w') do |f|
-    f.puts "id | created | Title | Content|tags"
+    f.puts "id | created | Title | Content | Tags"
     f.puts "--- | --- | --- | --- | ---"
     sorted_array.each do |row_array|
       tags_array = row_array[5].split(';')
@@ -100,7 +100,7 @@ elsif markdown
         tags_markdown += "[" + t + "]" +
          "(https://support.mozilla.org/en-US/questions/firefox?tagged="+ t + ")" + ";"
        end  
-       f.puts sprintf("%d|[%s](%s)|%s|%s|%s", row_array[0], row_array[1],
+       f.puts sprintf("%d |[%s](%s) |%s |%s |%s", row_array[0], row_array[1],
         row_array[2], row_array[3], row_array[4], tags_markdown)
      end
    end
