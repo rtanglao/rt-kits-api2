@@ -100,6 +100,7 @@ elsif markdown
         tags_markdown += "[" + t + "]" +
          "(https://support.mozilla.org/en-US/questions/firefox?tagged="+ t + ")" + ";"
        end  
+       tags_markdown = ";" if tags_markdown == ""
        f.puts sprintf("%d |[%s](%s) |%s |%s |%s", row_array[0], row_array[1],
         row_array[2], row_array[3], row_array[4], tags_markdown)
      end
