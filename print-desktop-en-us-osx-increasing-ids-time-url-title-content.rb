@@ -8,16 +8,29 @@ require 'date'
 require 'csv'
 require 'logger'
 require 'nokogiri'
+require 'fluent_markdown_builder'
 
 logger = Logger.new(STDERR)
 logger.level = Logger::DEBUG
 
-if ARGV.length < 1
-  puts "usage: #{$0} [sumoquestions.csv]"   
+if ARGV.length < 2
+  puts "usage: #{$0} [sumoquestions.csv] csv|markdown"   
   exit
 end
 
 FILENAME = ARGV[0]
+
+csv = false
+markdown = false
+if ARGV[1] == "csv"
+  csv = true
+elsif ARGV[1] == "markdown"
+  markdown = true
+else
+  puts "usage: #{$0} [sumoquestions.csv] csv|markdown"
+  exit
+end
+    
 osx_regexp_tags = 
 /
   (?:os-x|mojave|catalina|macos|elcapitan|osx|mac-os|\
@@ -68,7 +81,27 @@ logger.debug 'num_osx_questions:' + num_osx_questions.to_s
 sorted_array =  id_time_url_title_content_tags_array.sort_by { |h| h[0] }
 headers = ['id', 'created', 'url', 'title', 'content', 'tags']
 
-FILENAME = sprintf("sorted-osx-desktop-en-us-%s", ARGV[0])
-CSV.open(FILENAME, "w", write_headers: true, headers: headers) do |csv_object|
-  sorted_array.each {|row_array| csv_object << row_array }
-end
+if csv
+  FILENAME = sprintf("sorted-osx-desktop-en-us-%s", ARGV[0])
+  CSV.open(FILENAME, "w", write_headers: true, headers: headers) {|csv_object|
+    sorted_array.each {|row_array| csv_object << row_array }}
+elsif markdown
+  FILENAME = sprintf("sorted-osx-desktop-en-us-%s", ARGV[0]).gsub("csv", "md")
+  logger.debug 'markdown filename:' + FILENAME
+  open(FILENAME, 'w') do |f|
+    f.puts "id | created | Title | Content|tags"
+    f.puts "--- | --- | --- | --- | --- | ---"
+    sorted_array.each do |row_array|
+      tags_array = row_array[5].split(';')
+      logger.debug "tags_array" + tags_array.to_s
+      tags_markdown = ""
+      tags_array.each do |t| 
+        logger.debug t
+        tags_markdown += "[" + t + "]" +
+         "(https://support.mozilla.org/en-US/questions/firefox?tagged="+ t + ")"
+       end  
+       f.puts sprintf("%d|[%s](%s)|%s|%s|%s", row_array[0], row_array[1],
+        row_array[2], row_array[3], row_array[4], tags_markdown)
+     end
+   end
+ end
