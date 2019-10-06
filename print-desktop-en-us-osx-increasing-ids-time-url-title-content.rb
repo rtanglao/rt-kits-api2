@@ -72,7 +72,7 @@ CSV.foreach(FILENAME, :headers => true) do |row|
       row['id'].to_i,
       Time.at(row["created"].to_i).strftime("%-m/%-d/%Y %H:%M:%S"), # 10/2/2019 20:34:35
       "https://support.mozilla.org/questions/" + row['id'].to_s,
-      row['title'],
+      row['title'][0..79],
       content[0..79],
       row["tags"]
     ])
