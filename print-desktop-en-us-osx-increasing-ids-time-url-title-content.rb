@@ -58,7 +58,7 @@ CSV.foreach(FILENAME, :headers => true) do |row|
   if !found_in_title_or_content 
   	content  = Nokogiri::HTML.fragment(row['content']).text 
   	logger.debug 'CONTENT:' + content
-    content = content[0..279] + "..." if content.length > 80
+    content = content[0..276] + "..." if content.length > 280
     if osx_regexp.match(content) 
       logger.debug "FOUND os x in content"
       found_in_title_or_content = true
