@@ -87,11 +87,11 @@ if csv
   CSV.open(FILENAME, "w", write_headers: true, headers: headers) {|csv_object|
     sorted_array.each {|row_array| csv_object << row_array }}
   elsif markdown
-    FILENAME = sprintf("sorted-osx-desktop-en-us-%s", ARGV[0]).gsub("csv", "md")
+    FILENAME = sprintf("sorted-osx-desktop-en-us-%s", ARGV[0]).gsub(".csv", ".md")
     logger.debug 'markdown filename:' + FILENAME
     open(FILENAME, 'w') do |f|
       # f.puts "Number of questions:" + sorted_array.length.to_s + "\n\n"
-      f.puts("<br /><br />")
+      #f.puts("<br /><br />")
       f.puts "id | created | Title | Content | Tags"
       f.puts "--- | --- | --- | --- | ---"
       sorted_array.each do |row_array|
@@ -106,6 +106,7 @@ if csv
         tags_markdown = ";" if tags_markdown == ""
         f.puts sprintf("%d |[%s](%s) |%s |%s |%s", row_array[0], row_array[1],
           row_array[2], row_array[3].tr("\n",""), row_array[4].tr("\n",""), tags_markdown)
+        exit  
       end
     end
   end
