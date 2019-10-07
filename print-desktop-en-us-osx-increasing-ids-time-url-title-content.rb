@@ -8,7 +8,6 @@ require 'date'
 require 'csv'
 require 'logger'
 require 'nokogiri'
-require 'fluent_markdown_builder'
 
 logger = Logger.new(STDERR)
 logger.level = Logger::DEBUG
