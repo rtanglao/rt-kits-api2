@@ -1,0 +1,68 @@
+id,created,updated,title,content,tags,product,topic,locale
+1270179,1570402808,1570411572,"Whenever I try to watch a video on YouTube, it doesn't play and instead displays a white screen with no functionality except for the title. How can I fix this?","<p>Whenever I open YouTube, the standard screen shows, including ads and videos, but whenever I try to watch a video by clicking on it, it takes me to the video's URL but the video screen itself is white, and does not have any features, such as play or the video's timebar. However, it still displays the title and comments and recommended videos. How do I fix this? This is only a FireFox issue, as I am still able to watch YouTube through Chrome.
+</p>",firefox-690;websites;desktop;windows-10;,firefox,websites,en-US
+1270170,1570394963,1570399758,saved logins disappeared,"<p>hello
+</p><p>since last week, my saved logins have disappared. I tried with a win10 system recovery (there were 2 timestamps available): both didn't work, linked to a problem with Firefox profile (but error message doesn't show up fully so hard to see what is wrong).
+</p><p>Via shadowexplorer, I was able to export the following files from previous system recovery backups: key3.db key4.db &amp; logins.json .
+</p><p>If I copy these to a new (or existing profile), the logins.json file is renamed to logins.json.corrupt
+</p><p>I have seen that there was a similar problem with AVG-users, but I run Comodo internet security premium...
+</p><p>Any clues how to retrieve the logins??
+</p><p>thx in advance!
+</p>",firefox-560;desktop;fix-problems;windows-10;escalate;passwords;dataloss;passwords-dataloss;,firefox,fix-problems,en-US
+1270169,1570394959,1570394959,"I upgraded FF 65 to 69.0.1.  Can't get rid of ""Changes to your Firefox profile"" page in favor of my home. What's wrong?","<p>I upgraded FF 65 to 69.0.1.  I'm signed in/sync'd.  I see my bookmarks etc from previous profile.
+</p><p>But whenever I create a new window I always get ""Changes to your Firefox profile"" page asking me to sign in, not my home (which is Google).  (If I hit the Home button, home page comes up.)
+</p><p>Why does the new window not understand I'm logged in?  What's wrong?
+</p>",download-and-install_1;firefox-690;desktop;mac-os;,firefox,download-and-install,en-US
+1270164,1570390065,1570390065,How can I migrate 32-bit 60.8.0esr to 64bit 60.9.0esr on debian/linux,"<p>Both systems are Debian10. I have tried everything I have found by searching the net and nothing works.  No matter what I do the new 64 bit FF (60.9.0) will not recognize anything in the profile that I copy over from the old 32 bit FF (60.8.0).
+</p>",download-and-install_1;desktop;linux;,firefox,download-and-install,en-US
+1270161,1570387241,1570387792,Restore Previous Session not working in version 69.0.2.,"<p>Is there ""any setting"" or settings that would cause that? 
+I have Restore Previous Session checked since day one. 
+OS Win 8.1 
+tnx
+</p>",firefox-690;tabs;desktop;windows-81;,firefox,tabs,en-US
+1270160,1570385308,1570385308,Travamento do PC por utilização intensa de memoria RAM pelo navegador firefox.,"<p>Utilizo o firefox para empresas quantun ESR no uso profissional e o firefox Quantun 69 no uso doméstico, mas ambos possuem uma caracteristica indesejada: A utilização intensa de memoria RAM que piora com o uso continuo, até causar o travamento do PC, principalmente com alguns sistes como o Google Maps. Descobri um aplicativo externo chamado FIREMIN que monitora o firefox e que realmente corrigiu o problema. Mas ai vem a pergunta: este aplicativo é confiável e recomendado pela firefox para utilização em ambiente profissional?
+</p>",firefox-690;desktop;fix-problems;windows-10;,firefox,fix-problems,pt-BR
+1270154,1570376191,1570399888,How to change text and background color of dropdown menues from toolbar,"<p>I am trying to change the text color and background color of the menus that drop-down from the bookmarks toolbar in Firefox.  I have tried the user-Chrome.css suggestion but it doesn't work. I can't include a screenshot as the menus disappear as soon as I try. Themes don't seem to change that part of the display. Any help appreciated. Thanks
+</p>",firefox-690;customize;desktop;firefox-6901;linux;,firefox,customize,en-US
+1270153,1570375383,1570393752,Unicode characters for Edyptian Hieroglyphs starting from U13000 are phantom.,"<p>FF doesn't correctly display Unicode characters for Hieroglyphic font. What should I isntall/how do I fix this?I have tried to install several ttf fonts like Segoe ui historic.ttf or New Gardiner.ttf Best, Max
+</p>",firefox-690;customize;desktop;windows-81;,firefox,customize,cs
+1270152,1570375368,1570375368,Youtube autoplay sometimes work Sometimes dont.,"<p>So I have set autoplay on on youtube, I has the newest version of mozzila and I have set in settings (private and security) of mozzila - I have auto play turned like this - allow sounds and video. But still it doesn t work everytime. Sometimes it autoplays to another song sometimes it stops. Do you guys know smth about that? I would appreciate any help. Thanks for any help comments.
+</p>",firefox-690;firefox-6902;desktop;fix-problems;windows-10;,firefox,fix-problems,cs
+1270151,1570375003,1570375003,Novo viros fazendo pesquisa Anual do Visitante 2019 e oferecendo R$500 em disconto quando abre um novo site,"<p>estava fazendo uma pesquisa de boas, quando decidir entrar em um site qualquer e me apareceu essa tela, fazendo uma pesquisa de uso de navegador, achei estranho, mas fiz, ai eles deram esse cupom o que estranhei mais ainda, então fiz uma pesquisa, e vi no forum do google que tbm estavam acontecendo isso com a galera que usa o Chrome. 
+deem uma olhada nisso para que as pessoas não caiam nesse golpe!
+</p>",firefox-690;other;desktop;windows-10;,firefox,other,pt-BR
+1270147,1570371693,1570380122,"Websites say only ""reset"" when I go to them. How to I fix this???","<p>Whenever I go to a website, it says ""reset"" and that's all it says. Any help pls?
+</p>",firefox-600;websites;desktop;windows-10;,firefox,websites,en-US
+1270145,1570360652,1570389692,"i've  reinstalled win10 and signed in again, but the password and other data isn't synced","<p>WIN 10 reinstalled, signed in with same account into firefox, but no old data synced...
+</p>",firefox-690;sync;desktop;windows-10;,firefox,sync,en-US
+1270144,1570360488,1570399364,"Whenever I try to download something, the download instantly fails","<p>Anything I try and download instantly fails. I have no add-ons, tried resetting Firefox, and even disabled my AV. Other browsers can still download files, but Firefox is unable to. Any help would be greatly appreciated!
+</p>",firefox-690;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
+1270143,1570357579,1570357579,Nem tudok YouTube videókat megnyitni.,"<p>Ha megpróbálok egyet lejátszani, ez az üzenet jelenik meg:
+</p><p>""A cím nem volt érthető
+</p><p>A Firefox nem tudja, hogy kell ezt a címet megnyitni, mert a protokollok egyike (rtsp) nincs egyetlen programhoz sem hozzárendelve, vagy nem engedélyezett ebben a kontextusban.
+</p><pre>   Lehet, hogy egyéb szoftvert kell telepítenie a cím megnyitásához.""
+</pre>
+<p><br>
+Chrome-on tökéletesen működik.
+</p>",firefox-690;firefox-6902;desktop;fix-problems;windows-10;,firefox,fix-problems,hu
+1270141,1570355441,1570355441,Simple tab managing extension,"<p>I have the latest version of Firefox and I'm looking for a simple extension that will allow me to save opened tabs in some session and later bring the same layout of open tabs. I know there is like a gazillion extensions regarding tab management or whatever but first of all I don't have time to browse all of them, and second I just don't need all those overdeveloped functions that I'll never use. I just want an extension that does two simple things. Saves open tabs in a session and then restores them. Can you guys recommend me something ?
+</p>",firefox-690;customize;desktop;windows-10;,firefox,customize,en-US
+1270138,1570354213,1570354213,How do I get rid of recommendations to use sync?,"<p>Sometimes when I bookmark a page, a purple box promoting sync will appear over the page thumbnail area. I have already unchecked the boxes for both extension and feature recommendations in Firefox preferences. I'm not sure what I'm missing here. 
+</p><p>How do I disable this recommendation to use sync?
+</p>",firefox-680;sync;desktop;linux;,firefox,sync,en-US
+1270137,1570347983,1570360622,Firefox will not let me download anything?,"<p>Hello! It appears that my downloading for Firefox will not work? Comes up with a ""Failed"" error message without any context of what the failure is, tried to download in Safemode and it still did not work.
+</p>",download-and-install_1;firefox-690;desktop;windows-10;bug1586228;,firefox,download-and-install,en-US
+1270136,1570340784,1570362565,why mozila are not support,"<p>Becaua
+</p>",privacy-and-security_1;desktop;,firefox,privacy-and-security,en-US
+1270135,1570338113,1570340457,"Sometimes Firefox Browser Crashes, sometimes a tab, sometimes flash","<p>A week since a fresh install of Linux, Latest firefox. Every stinking day something crashes. I never had this problem for a decade before. I think it is deliberate. Please stop!!!!
+</p>",desktop;fix-problems;linux;esr;firefox-608;,firefox,fix-problems,en-US
+1270132,1570334998,1570336916,How to disable mouse cursor activating Menu & Address Bar in FullScreen?,"<p>I like FullScreen a lot. But when I'm browsing the mouse cursor activates the Menu/Address bars if its moved to the top of the screen and everything moves down then up when the cursor is moved away.  Is there a way of disabling this ""feature""?  I can bring up the Address Bar by using Alt_D anytime when in FullScreen.  Couldn't see anything in about:config.
+</p>",firefox-690;customize;desktop;windows-7;,firefox,customize,en-US
+1270131,1570334115,1570375635,False security risk messages when internet connection fails,"<p>I often get false security risk messages from 69.0.2 if I try to go to a web site while the internet connection has failed.  No error code, though.
+</p><p>I suspect that it cannot distinguish error codes from the modem about the failed internet connection from genuine security risks.
+</p><p>Look at the top line of the attached picture for a message about the failed internet connection.
+</p>",firefox-690;privacy-and-security_1;firefox-6902;desktop;windows-10;,firefox,privacy-and-security,en-US
+1270129,1570321239,1570406477,Can't contact one particular web site from an email link,"<p>2 months ago the email links to articles that I had been using for years stopped working.  Error message says can't connect with the web site. This is a very popular web site.
+</p>",firefox-690;websites;desktop;mac-os;escalate;,firefox,websites,en-US
+1270128,1570320504,1570329869,Proxy Setting Reset Each Time Firefox Is Opened,"<p>I am using firefox as a browser for a private network that requires specific proxy settings, each time i open firefox it resets the proxy settings rendering me unable to use the network. When I change the settings I have to restart the browser to connect the the network, and boom, setting reset again. Any idea how to fix this issue? The specific setting is ""Use this proxy server for all protocols"" checkbox, it rechecks every time I reopen the browser, all other settings remain the same, including the exemption below, but that setting overrides exemptions making it impossible to connect to the network.
+</p>",privacy-and-security_1;desktop;windows-10;,firefox,privacy-and-security,en-US
