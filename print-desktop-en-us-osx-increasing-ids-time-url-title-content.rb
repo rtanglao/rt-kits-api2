@@ -59,7 +59,7 @@ CSV.foreach(FILENAME, :headers => true) do |row|
   if !found_in_title_or_content 
   	content  = Nokogiri::HTML.fragment(row['content']).text 
   	logger.debug 'CONTENT:' + content
-    content = content[0..79] + "..." if content.length > 80
+    content = content[0..279] + "..." if content.length > 80
     if osx_regexp.match(content) 
       logger.debug "FOUND os x in content"
       found_in_title_or_content = true
@@ -90,8 +90,7 @@ if csv
     FILENAME = sprintf("sorted-osx-desktop-en-us-%s", ARGV[0]).gsub(".csv", ".md")
     logger.debug 'markdown filename:' + FILENAME
     open(FILENAME, 'w') do |f|
-      # f.puts "Number of questions:" + sorted_array.length.to_s + "\n\n"
-      #f.puts("<br /><br />")
+      f.puts "Number of questions:" + sorted_array.length.to_s + "\n\n"
       f.puts "id | created | Title | Content | Tags"
       f.puts "--- | --- | --- | --- | ---"
       sorted_array.each do |row_array|
@@ -104,9 +103,10 @@ if csv
           "(https://support.mozilla.org/en-US/questions/firefox?tagged="+ t + ")" + ";"
         end  
         tags_markdown = ";" if tags_markdown == ""
-        f.puts sprintf("%d |[%s](%s) |%s |%s |%s\n", row_array[0], row_array[1],
-          row_array[2], row_array[3].tr("\n",""), row_array[4].tr("\n",""), tags_markdown)
-        #exit  
+        f.puts(
+          sprintf("%d |[%s](%s) |%s |%s |%s\n", row_array[0], row_array[1],
+          row_array[2], row_array[3].tr("\n",""), row_array[4].tr("\n",""), 
+          tags_markdown))
       end
     end
   end
