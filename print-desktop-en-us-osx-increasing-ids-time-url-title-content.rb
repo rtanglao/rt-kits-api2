@@ -90,7 +90,7 @@ if csv
     FILENAME = sprintf("sorted-osx-desktop-en-us-%s", ARGV[0]).gsub("csv", "md")
     logger.debug 'markdown filename:' + FILENAME
     open(FILENAME, 'w') do |f|
-      f.puts "Number of questions:" + sorted_array.length.to_s + "\n\n"
+      # f.puts "Number of questions:" + sorted_array.length.to_s + "\n\n"
       f.puts("<br /><br />")
       f.puts "id | created | Title | Content | Tags"
       f.puts "--- | --- | --- | --- | ---"
