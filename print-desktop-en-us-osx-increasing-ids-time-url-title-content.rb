@@ -91,7 +91,7 @@ if csv
     logger.debug 'markdown filename:' + FILENAME
     open(FILENAME, 'w') do |f|
       f.puts "Number of questions:" + sorted_array.length.to_s 
-      f.puts("<br />")
+      f.puts("<br /><br />")
       f.puts "id | created | Title | Content | Tags"
       f.puts "--- | --- | --- | --- | ---"
       sorted_array.each do |row_array|
