@@ -48,7 +48,8 @@ CSV.foreach(FILENAME, :headers => true) do |row|
   id_time_url_title_content_tags_array.push(
     [
       row['id'].to_i,
-      Time.at(row["created"].to_i).strftime("%-m/%-d/%Y %H:%M:%S"), # 10/2/2019 20:34:35
+      #Time.at(row["created"].to_i).strftime("%-m/%-d/%Y %H:%M:%S"), # 10/2/2019 20:34:35
+      row["created"],
       "https://support.mozilla.org/questions/" + row['id'].to_s,
       row['title'][0..79],
       content,
