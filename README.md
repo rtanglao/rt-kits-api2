@@ -1,6 +1,18 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 19October2019 get all the questions for an arbitary time period
+
+e.g. january 1, 2019 - october 18, 2019 
+
+```bash
+./get-questions-for-^Cbitrary-time-period.rb 2019 1 1 2019 10 18 
+./print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb 2019-01-01-2019-10-18-firefox-desktop-all-locales.csv csv  
+```
+
+* output is here:
+  * https://github.com/rtanglao/rt-kits-api2/blob/master/sorted-all-desktop-en-us-2019-01-01-2019-10-18-firefox-desktop-all-locales.csv
+
 ## 06october2019 get all os questions
 
 ```bash
