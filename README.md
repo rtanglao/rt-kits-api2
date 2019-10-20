@@ -6,8 +6,9 @@ Roland's Kitsune API scripts version 2
 e.g. january 1, 2019 - october 18, 2019 
 
 ```bash
-./get-questions-for-^Cbitrary-time-period.rb 2019 1 1 2019 10 18 
-./print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb 2019-01-01-2019-10-18-firefox-desktop-all-locales.csv csv  
+./get-questions-for-bitrary-time-period.rb 2019 1 1 2019 10 18 
+./print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb\
+2019-01-01-2019-10-18-firefox-desktop-all-locales.csv csv  
 ```
 
 * output is here:
