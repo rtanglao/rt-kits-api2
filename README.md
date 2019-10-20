@@ -3,6 +3,8 @@ Roland's Kitsune API scripts version 2
 
 ## 19October2019 get all the questions for an arbitary time period
 
+* fixed get-questions-for-bitrary-time-period.rb to work with issue 3686 and new issue https://github.com/mozilla/kitsune/issues/3946, all other ruby scripts haven't been updated for 3686 and 3946
+
 e.g. january 1, 2019 - october 18, 2019 
 
 ```bash
