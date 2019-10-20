@@ -1,6 +1,16 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 20October2019 get all the questions for an arbitary time period including answerids and question creator
+
+```bash
+cd /home/rtanglao/GIT/rt-kits-api2/ARBITRARY_TIME_PERIOD
+../get-creator-answers-questions-for-arbitrary-time-period.rb 2019 1 1 2019 10 19
+# output is:
+# 2019-01-01-2019-10-19-firefox-creator-answers-desktop-all-locales.csv
+```
+
+
 ## 19October2019 get all the questions for an arbitary time period
 
 * fixed get-questions-for-bitrary-time-period.rb to work with issue 3686 and new issue https://github.com/mozilla/kitsune/issues/3946, all other ruby scripts haven't been updated for 3686 and 3946
