@@ -6,6 +6,7 @@ Roland's Kitsune API scripts version 2
 * where `contribution` = a reply by somebody other than the original poster of the support question
 
 ```bash
+../get-creator-answers-questions-for-arbitrary-time-period.rb 2019 1 1 2019 10 19 
 ../print-desktop-contributors.rb 2019-01-01-2019-10-19-firefox-creator-answers-desktop-all-locales.csv >01january-19october2019-contributors.txt &
 cat 01january-19october2019-contributors.txt | sort | uniq -c | sort -nr > 29january-19october2019-sorted-contributors.txt
 ```
