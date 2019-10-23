@@ -5,7 +5,7 @@ Roland's Kitsune API scripts version 2
 
 ```bash
 cd /home/rtanglao/GIT/rt-kits-api2/201910
- ../get-creator-answers-questions-for-arbitrary-time-period.rb 2019 10 22 2019 10 22
+../get-creator-answers-questions-for-arbitrary-time-period.rb 2019 10 22 2019 10 22
 ../print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb 2019-10-22-2019-10-22-firefox-creator-answers-desktop-all-locales.csv markdown 
 ```
 
