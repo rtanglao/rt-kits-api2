@@ -1,0 +1,105 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1271181,2019-10-23 14:02:17 UTC,2019-10-23T14:02:17Z,How to properly implement group policy ExtensionSettings control,"<p>I've downloaded the latest admx files and tried pasting the sample JSON into the Computer section of the group policy. I used the JSON from <a href=""https://github.com/mozilla/policy-templates/blob/9387163a9b1dd93500867fcb3b33598b6d559e89/README.md#extensionsettings"" rel=""nofollow"">https://github.com/mozilla/policy-templates/blob/9387163a9b1dd93500867fcb3b33598b6d559e89/README.md#extensionsettings</a>
+</p><p>I think that sample is supposed to block all but 1 firefox extension, but it's still letting me install any extension.
+For this feature, I'm running Firefox 70.0 64-bit on Windows 10
+How do I properly configure the group policy so that only approved extensions are allowed?
+</p>",customize;desktop;,firefox,customize,en-US,"",nicholag
+1271180,2019-10-23 14:00:06 UTC,2019-10-23T14:00:06Z,When I click on a link in an email two duplicate tabs open,"<p>Every time I click on a link in an email Firefox opens two duplicate tabs.  This has been happening for a while so I'm not sure which version of Firefox it started with.  It does not happen in other browsers.
+</p><p>I am using Windows 10.  All security updates are current.
+</p>",firefox-690;tabs;desktop;windows-10;,firefox,tabs,en-US,"",jblatz2
+1271179,2019-10-23 13:56:04 UTC,2019-10-23T13:56:04Z,Firefox 70 travando ao iniciar no Windows 10,"<p>Firefox 70 travando ao iniciar no Windows 10, se fechar e abrir ele abre normalmente.
+Alguém já passou por esta situação, após a atualização para a versão 70?
+</p>",firefox-700;desktop;fix-problems;windows-10;,firefox,fix-problems,pt-BR,"",robsonspires
+1271177,2019-10-23 13:22:00 UTC,2019-10-23T13:22:00Z,How to block certain add-ons in firefox from using the internet,"<p>I want to be able to block certain add-ons from accessing the internet can this be done in the about:config deal? thx
+</p>",firefox-690;privacy-and-security_1;desktop;windows-10;,firefox,privacy-and-security,en-US,"",rbcr2br
+1271176,2019-10-23 13:15:52 UTC,2019-10-23T13:38:25Z,downloaded Firefox update & no longer have green security padlock,"<p>Hello community, this morning I downloaded a Firefox update only to find that my green security padlock was no longer in my browser!  I have used FFox for many years and never had this happen before therefore am naturally concerned that my web security has been compromised.  As an older peerson I am not a tech. genious and have tried re-installing Firefox, also looked at updating but it reads that updates are up to date.  Can anyone help put this right please?  Many thanks Rose
+</p>",privacy-and-security_1;firefox-700;desktop;windows-10;,firefox,privacy-and-security,en-US,1260277;1260280;,rosesidney
+1271172,2019-10-23 12:09:57 UTC,2019-10-23T12:41:57Z,"Is it possible to email the ""Reader"" view of a web page?","<p>Is it possible to email the ""Reader"" view of a web page?
+</p>",firefox-690;other;desktop;mac-os;,firefox,other,en-US,1260263;,drnow
+1271171,2019-10-23 12:06:53 UTC,2019-10-23T12:06:53Z,my email that this account is set up with doesn't work,"<p>And I set up new email can you help me change my email
+</p>",sync;desktop;,firefox,sync,en-US,"",poolcleaner
+1271170,2019-10-23 12:04:07 UTC,2019-10-23T12:04:07Z,upgraded to 70.0 and now there is a 6 second delay on loading first site,"<p>I have upgraded to 70.0 and now there is a 6 second delay on loading first site. I have firefox starting in private mode and without a home page. this loads at its usual speed. However, when I click on a bookmark the  system hangs for 6 seconds before the site is presented. Subsequent sites load rapidly as usual. I have tested with other browsers and sites and the problem is specific to Firefox and not specific to the site being load. Once loaded, if I open an additional Firefox window this loads sites rapidly. I have been using Firefox for many years and the problem has only occurred since I upgraded to 70.0.
+</p><p>Can anyone help please.
+</p>",firefox-700;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,"",jarchibald42
+1271169,2019-10-23 11:33:12 UTC,2019-10-23T11:33:12Z,Tooltips on my webpage disappears quickly in Firefox but they work in fine in other browsers. It happens even if I use Firefox in safe mode.,"<p>Tooltips on my website doesnt stay open long enough in Firefox. They appears and disappears in a second making users unable to read the text on tooltips. I tried to switch off the hardware acceleration in Firefox but that doesnt solved the issue. 
+It works fine in all other browsers and tooltip remains open unless I move mouse pointer away from the triggering element.
+I have also tried this in safe mode but the issue remains in that as well.
+</p>",firefox-680;other;desktop;,firefox,other,en-US,"",sharma_ankit
+1271167,2019-10-23 10:32:21 UTC,2019-10-23T10:52:07Z,Firefox refuse password,"<p>I'm installing a new computer. My Firefox password works on old computer but rejects on new one. Cant resent coz of risk of lost data. Any alternative fixes
+The Firefox password works perfectly on the old computer but is rejected on the new one. Resetting is not an option as I cannot risk loosing data. Are there alternative fixes? Thanks
+</p>",privacy-and-security_1;firefox-700;desktop;windows-10;,firefox,privacy-and-security,en-US,1260251;,jamesmdorsey
+1271165,2019-10-23 10:27:48 UTC,2019-10-23T13:06:12Z,How to open a .Catalog file with unknown apllication,"<p>when I try to open this file in my laptop it is opening in MS Word, Check attachment (SS1). I have tried the same in another laptop firefox browser, in that is working and check attchment (SS2). How to change the option Open with to "" Unkown Application"".
+</p>",download-and-install_1;firefox-700;desktop;windows-10;,firefox,download-and-install,en-US,1260274;,kondareddy385
+1271164,2019-10-23 10:16:13 UTC,2019-10-23T10:16:13Z,Permitir a Firefox acceder solo a una pagina web sin usar complementos,"<p>Buenos dias.
+</p><p>Me gustaria hacer que firefox solo puediese acceder a una única página web. La cosa es que no quiero utilizar complementos ya que el usuario puede desactivarlos o borrarlos.
+</p><p>¿Hay alguna forma, mediante archivos de configuracion, de conseguir esto (una especie de Whitelist)? He visto el fichero Host de Windows, pero solo me deja bloquear sitios. ¿Se puede bloquear al usuario para que no pueda modificar nada de los complementos ya instalados? Cabe destacar que uso Windows 10 Home edition y que las opciones como el Group Policy editor no las tengo.
+</p><p>Gracias por vuestro tiempo.
+</p><p>Un saludo.
+</p>",other;firefox-640;desktop;windows-10;,firefox,other,es,"",transy999
+1271163,2019-10-23 08:59:04 UTC,2019-10-23T08:59:04Z,Cannot delete SSL from Cache,"<p>Hi - I recently deleted SSLs from two of my websites and whislt doing so took all necessary steps to forced HTTP not HTTPS. The sites:
+<a href=""http://15rueduvieilhopital.fr"" rel=""nofollow"">15rueduvieilhopital.fr</a> &amp; <a href=""http://thetallskinnylattephilosopher.com"" rel=""nofollow"">thetallskinnylattephilosopher.com</a> load in all browsers and on all devices ok EXCEPT FF on my desktop (v69.0.3 on Mac OS 10.14.6) which keeps looking for the SSl and, because it can't find one, generates a security warning. For the record this doesn't happen in a private browsing window in FF. It appears that FF is somehow caching the SSL. I have deleted 'Everything' from my history and quite and restarted FF but the probelm perists. 
+</p><p>Can anyone tell me how to remove the SSLs from the cache?
+</p><p>Thanks
+Martin
+</p>",firefox-690;privacy-and-security_1;firefox-6903;desktop;mac-os;,firefox,privacy-and-security,en-US,"",martinr2
+1271162,2019-10-23 08:31:46 UTC,2019-10-23T08:31:46Z,Cannot change colour of unvisited links Firefox 70,"<p>After just downloading firefox 70, my unvisited links are now blue. In change appearance and colours, it is still yellow.
+</p>",firefox-700;customize;desktop;windows-7;,firefox,customize,en-US,"",sjh2
+1271161,2019-10-23 08:19:55 UTC,2019-10-23T08:19:55Z,A link from a pinned tab opens in a new tab,"<p>Whenever I click a link in a pinned tab, the link loads in a new tab. If I unpin the tab, the same link loads in the same tab. That wasn't the case before, but I don't know what changed to make Firefox behave this way. I tried disabling all the extensions, that didn't help. I'd like links to behave the same way, whether the tab is pinned or not. Note, I am NOT asking ""how to override the default behavior of links and make them all load in the same tab, despite the target attribute or Javascript"".
+</p>",firefox-690;tabs;desktop;linux;,firefox,tabs,en-US,"",endixj
+1271160,2019-10-23 08:13:59 UTC,2019-10-23T11:04:06Z,url area change - possibly due update,"<p>To the left of the webpage URL is the 'padlock, then the 'tracker' icon .. but there used to be another icon which could be used to 'drag and drop' an icon/webpage link onto the desktop, but it has disappeared .. any thoughts?
+</p>",firefox-700;other;desktop;windows-10;,firefox,other,en-US,1260245;1260246;1260250;1260252;1260255;,CloudCatcher1
+1271158,2019-10-23 08:00:58 UTC,2019-10-23T08:00:58Z,I'm installing a new computer. My Firefox password works on old computer but rejects on new one. Cant resent coz of risk of lost data. Any alternative fixes,"<p>The Firefox password works perfectly on the old computer but is rejected on the new one. Resetting is not an option as I cannot risk loosing data. Are there alternative fixes? Thanks
+</p>",privacy-and-security_1;firefox-700;desktop;windows-10;,firefox,privacy-and-security,en-US,"",jamesmdorsey
+1271157,2019-10-23 07:54:58 UTC,2019-10-23T07:54:58Z,Cookies and Website-Data Permissions,"<p>I need to allow some websites to store cookies, all other cookies are getting deleted every time I close FireFox. There is a dialogue ""Cookies and Website-Data""--&gt;""Permissions"" that lets me whitelist specific websites. Cookies of these websites should be excepted from the deletion when closing FireFox.
+</p><p>The problem is that everytime I close firefox the whitelisted websites disappear...
+I had this problem already with Version 69, its still there in 70...
+</p><p>Thanks in advance for any hints...
+</p><p>Martin
+</p>",firefox-700;cookies;desktop;windows-10;,firefox,cookies,en-US,"",martin.m.mayer
+1271154,2019-10-23 07:03:35 UTC,2019-10-23T10:44:18Z,Screen flashes black then white.,"<p>I'm using a white enabled Theme that naturally turns the screen light, but the main portion of my computer is set in dark mode, so seemingly Firefox is assuming that the whole PC needs to be in dark, even when powering up Firefox, and as a result, I get a dark screen for a short moment when I first fire up Firefox, then it turns white.
+</p>",firefox-700;other;desktop;windows-10;,firefox,other,en-US,1260232;1260247;,Sir_Wysceroth
+1271153,2019-10-23 06:42:57 UTC,2019-10-23T06:42:57Z,"Wie lösche ich Meldungen bei Firefox Monitor, die ich bearbeitet habe und nicht mehr sehen möchte?","<p>Wie lösche ich Meldungen bei Firefox Monitor, die ich bearbeitet habe und nicht mehr sehen möchte?
+</p>",privacy-and-security_1;firefox-700;desktop;mac-os;,firefox,privacy-and-security,en-US,"",ruffmarcel
+1271152,2019-10-23 06:22:24 UTC,2019-10-23T06:22:24Z,firefox color worked then stopped,"<p>why did my original theme stop working
+why did my new firefox color theme not download
+why is there always an issue with every update
+</p>",firefox-700;other;desktop;mac-os;,firefox,other,en-US,"",stleroy
+1271151,2019-10-23 05:39:18 UTC,2019-10-23T07:36:59Z,Can you plz keep the older icon?,"<p>Hi there ! Can you please stay on the Firefox ICON and Logo like these 2 images...? the new FLAT type icons and Logo makes me Sad ... :( 
+</p><p>Please?
+</p>",firefox-700;other;desktop;windows-7;,firefox,other,en-US,1260234;,alvy.aumi.2018
+1271150,2019-10-23 05:09:33 UTC,2019-10-23T07:33:55Z,After update to ESR68.2.0 Bookmark Descripions missing.,"<p>Win7 64bit. Firefox completed an upgrade to version 68.2.0 and when I clicked on Show all bookmarks the whole layout looks different and most important the description field is missing. This was a problem once before with a different version of Firefox but the ESR version was supposed to keep this. I know I can open the html file which shows this info but that is not nearly as easy to use or convenient as having that info a click away. Is there anyway to revert to a version or get this field to show again? thanks
+</p>",bookmarks;desktop;firefox-680;windows-7;,firefox,bookmarks,en-US,1260233;,graphicfunn
+1271149,2019-10-23 05:02:00 UTC,2019-10-23T05:02:00Z,How do you change the search bar on the right back to the old look?,"<p>So Firefox updated again tonight and this time they did some changes to the little search bar on the right of the long one and I was wondering if there is a way I could change it back to the way it was before this new update.
+</p>",firefox-700;customize;desktop;windows-10;,firefox,customize,en-US,"",DreamAngel329
+1271148,2019-10-23 03:57:33 UTC,2019-10-23T03:57:33Z,Firefox won't fully download xfinity e mail,"<p>I have used Firefox for years. My email is provided by Comcast's Xfinity.  Until today, Firefox allowed me to access all features related to my Xfinity email.
+Nos, using Firefox, I cannot download the ""emoticons"" feature of my Xfinity e mail. They won't download.
+After talking to Comcast, I switched to Chrome and was able to fully download the emoticons. 
+I would like to continue using Firefox, but can you please fix my ""emoticon"" problem?
+Thank you.
+</p>",firefox-700;other;desktop;windows-10;,firefox,other,en-US,"",sgpasek
+1271146,2019-10-23 01:56:19 UTC,2019-10-23T03:35:22Z,Premature blocking of Adobe Flash Player continues in FF 70,"<p>I am going to keep saying this until someone in the development area responds with a REASONABLE reply.
+</p><p>Starting with FF 69, there is no way to allow Flash to run without being authorized for EVERY site, EVERY time one visits it.  The developers have cited the fact that Flash itself will be discontinued by Adobe at the end of 2020 as justification for this.  That is still over a year away and I see this move as very premature AND very user-UNfriendly.
+</p><p>It has been less than a month since FF 69 and I am already tired of having to authorize the plugin every day on the three remaining sites (that I visit daily) which still require Flash because they have not upgraded to HTML5.  While I understand completely that this is an industry-wide matter -- that Adobe itself will discontinue support for Flash -- Firefox's developers have made the (IMHO) absurd decision to inconvenience users more than a year before this move became necessary.
+</p><p>What I would like to see is, when the pull-down menu from the ""Lego block"" displays, is an option under ""Allow"" to let the user designate ""Always allow for this site"".  Once coded, it would never need to be removed, because as sites do convert to HTML5 there would no longer be a ""trigger"" for the Flash plugin.
+</p><p>PLEASE, those of you developers who made the change in FF 69, do not perpetuate the image we all have of you as being heavy-handed and uncaring about Firefox users.  Make our lives easier while we wait for our favorite sites to upgrade.  Let us allow Flash to run, only on our specific sites, without a daily inconvenience.
+</p><p>Admit you ""jumped the gun"" and do the right thing by us.
+</p>",privacy-and-security_1;firefox-700;desktop;windows-7;,firefox,privacy-and-security,en-US,1260214;1260215;1260221;,Kymber
+1271145,2019-10-23 01:55:02 UTC,2019-10-23T02:31:18Z,How to get rid of the url box in the bottom left corner with Version 70,"<p>With version 70 the flashing flickering url box in the bottom left corner has returned, even though the CSS that worked to kill it in earlier releases remains in mu userchrome.css file.  The CSS that worked before is
+</p>
+<pre>#statuspanel-label,.statuspanel-label
+  {
+    -moz-appearance: none !important;
+    opacity: .01 !important;
+  }</pre>
+<p>and someone more recently used 
+</p>
+<pre>#statuspanel { display:none !important; }</pre>
+<p>but neither of these are working for me in Version 70.  How do I get rid of this?  Thanks.
+</p>",firefox-700;customize;desktop;windows-7;unsuppportedhacks;unsupporteduserchromecss;unsupported;userchromecss;,firefox,customize,en-US,1260204;1260207;1260209;,OneMoreName
+1271144,2019-10-23 01:49:31 UTC,2019-10-23T13:22:02Z,How can I remove Akamaihd.net from a mac running MacOS Mojave?,"<p>When searching in Firefox I get <a href=""http://Akamaihd.net"" rel=""nofollow"">Akamaihd.net</a> virus. How do I safely remove this?
+</p>",firefox-700;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,1260202;1260212;1260276;,nkwoolf
+1271141,2019-10-23 00:02:46 UTC,2019-10-23T02:11:10Z,Disable middle click tab bar,"<p>My previous question: <a href=""https://support.mozilla.org/en-US/questions/1254024"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1254024</a>
+</p><p>With the latest update, the following css tweak to disable the creation of new tab when middle clicking the empty tab bar area no longer works.
+</p><p><a href=""https://pastebin.com/zSJYR8PJ"" rel=""nofollow"">https://pastebin.com/zSJYR8PJ</a>
+</p><p>This along with the shortcut CTRL+SHIFT+P to open a new private window are features no other browsers have.
+</p>",tabs;firefox-700;desktop;windows-10;unsupported;unsupporteduserchromecss;unsuppportedhacks;userchromecss;,firefox,tabs,en-US,1260198;1260199;1260205;,ZetiX
