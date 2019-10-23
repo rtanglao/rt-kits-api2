@@ -1,6 +1,14 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 22october2019 get questions for day 1, firefox 70
+
+```bash
+cd /home/rtanglao/GIT/rt-kits-api2/201910
+ ../get-creator-answers-questions-for-arbitrary-time-period.rb 2019 10 22 2019 10 22
+../print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb 2019-10-22-2019-10-22-firefox-creator-answers-desktop-all-locales.csv markdown 
+```
+
 ## 20October2019 get all contributors January 29, 2019 - October 19, 2019
 
 * where `contribution` = a reply by somebody other than the original poster of the support question
