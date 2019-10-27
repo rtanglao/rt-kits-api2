@@ -1,0 +1,505 @@
+D, [2019-10-27T16:27:58.895703 #949] DEBUG -- : firefox-700;sync;desktop;windows-10;
+D, [2019-10-27T16:27:58.896164 #949] DEBUG -- : Get the IP address for a signed in 'Synced Device' 'Last Seen'
+D, [2019-10-27T16:27:58.897166 #949] DEBUG -- : CONTENT:So I have multiple devices I have signed in on and I can see them listed under devices in my account.
+Under each device it says, "Last Seen"... 5 months ago .. or 1 year ago... 1hr ago... ETC
+It then gives a city and state for its location.
+How do i get the IP address itself that it was connected too or using for the 'Last Seen' location?
+
+D, [2019-10-27T16:27:58.897599 #949] DEBUG -- : firefox-700;customize;desktop;windows-10;
+D, [2019-10-27T16:27:58.897638 #949] DEBUG -- : How do I get the old logo back, it looked better?
+D, [2019-10-27T16:27:58.897791 #949] DEBUG -- : CONTENT:any way to get the old logo back, i don't like how the current one looks.
+
+D, [2019-10-27T16:27:58.897913 #949] DEBUG -- : firefox-700;other;desktop;windows-10;
+D, [2019-10-27T16:27:58.897946 #949] DEBUG -- : An extenion requires container tabs
+D, [2019-10-27T16:27:58.898093 #949] DEBUG -- : CONTENT:I'm interested in learning more about container tabs.  I occasionally see this message in options (referring to various addons). and I have no ideas what it means and what I should do about it.
+
+D, [2019-10-27T16:27:58.898247 #949] DEBUG -- : firefox-700;other;desktop;windows-10;
+D, [2019-10-27T16:27:58.898280 #949] DEBUG -- : How Do I Delete The Mobile Bookmarks Folder, among others, revisited?
+D, [2019-10-27T16:27:58.898691 #949] DEBUG -- : CONTENT:I viewed this thread. https://support.mozilla.org/en-US/questions/1164362
+Maybe I'm doing something wrong.  I use CustomCSSforFx https://github.com/Aris-t2/CustomCSSforFx/issues/211, to which I added 
+/* Hide Mobile Bookmarks on menus */
+
+BMB_mobileBookmarks, #menu_mobileBookmarks {
+
+ display: none !important;
+
+} 
+But it doesn't work.  Oddly, I have another, newer, profile, where the Mobile Bookmarks Folder isn't displayed,  I don't know exactly what governs whether you see it or not, but the sync rules for my android (currently I have "nothing selected to synced from phone) my were established before the latest profile was created.  
+What I'd also like to get rid of, or "hide" are the "Other Bookmarks" folder, and the Bookmarks Toolbar" folder from the Bookmarks drop down menu.  At worst, I'd like to be able to move them.
+
+D, [2019-10-27T16:27:58.898791 #949] DEBUG -- : download-and-install_1;firefox-700;desktop;windows-10;
+D, [2019-10-27T16:27:58.898824 #949] DEBUG -- : My  firefox crashes on windows 10 after 1 year, chrome is working fine. What is problem?
+D, [2019-10-27T16:27:58.899014 #949] DEBUG -- : CONTENT:Firefox crash on the time but chrome is working fine.
+System notify " not enough memory"
+Is this true? I already removed all ext, app
+Thanks
+Joe
+
+D, [2019-10-27T16:27:58.899125 #949] DEBUG -- : firefox-700;desktop;fix-problems;windows-10;escalate;
+D, [2019-10-27T16:27:58.899158 #949] DEBUG -- : Firefox will not let me play Morow.com
+D, [2019-10-27T16:27:58.899315 #949] DEBUG -- : CONTENT:I have the current version of FIrefox installed but it will not let me play my favorite radio station as it says that it is not a sercure site, even though it is HTTPS, My old laptop runs the site fine but is windows 7.
+
+D, [2019-10-27T16:27:58.899421 #949] DEBUG -- : firefox-690;other;desktop;windows-10;
+D, [2019-10-27T16:27:58.899452 #949] DEBUG -- : Quando vou fazer o download de arquivo do google drive, o navegador me rediciona para uma página em branco e não consigo baixar o arquivo. Alguma solução?
+D, [2019-10-27T16:27:58.899514 #949] DEBUG -- : privacy-and-security_1;firefox-700;desktop;windows-10;
+D, [2019-10-27T16:27:58.899541 #949] DEBUG -- : how do i delete an account with no pasword as no longer have access to the email address
+D, [2019-10-27T16:27:58.899702 #949] DEBUG -- : CONTENT:ex girlfriend  singed into Firefox and i don't have her password as we no longer talk to each other how do i remove her account from Firefox and use my own account
+
+D, [2019-10-27T16:27:58.899825 #949] DEBUG -- : firefox-700;customize;desktop;
+D, [2019-10-27T16:27:58.899912 #949] DEBUG -- : Change 'search suggestions' language?
+D, [2019-10-27T16:27:58.900145 #949] DEBUG -- : CONTENT:I have the same issue as: https://support.mozilla.org/en-US/questions/1176616 - which hasn't been solved.
+Functionally, I am in the same circumstances as that user. Everything in my Firefox is in eng-US except for the Search Suggestions, which are in my native language. That makes me furious.
+That thread already has screenshots so i need not attach any.
+This user on Reddit also has the same issue but found no solution: https://www.reddit.com/r/firefox/comments/9zk6vs/how_to_stop_firefox_from_giving_search/
+
+D, [2019-10-27T16:27:58.900258 #949] DEBUG -- : firefox-700;cookies;desktop;
+D, [2019-10-27T16:27:58.900319 #949] DEBUG -- : Site information button disappeared in 70.0
+D, [2019-10-27T16:27:58.900511 #949] DEBUG -- : CONTENT:The Site information button (circle i) disappeared in the 70.0 update making it very cumbersome to clear cookies & data. How do I get it back. Or Is there a new way to do this without going thru all the preference windows?
+
+D, [2019-10-27T16:27:58.900616 #949] DEBUG -- : firefox-700;other;desktop;windows-10;
+D, [2019-10-27T16:27:58.900649 #949] DEBUG -- : Firefox is already running on computer restart
+D, [2019-10-27T16:27:58.900849 #949] DEBUG -- : CONTENT:My computer becomes unresponsive at times while Firefox is running. I restart it. When it is back up, Firefox with all the open tabs prior to the computer is still running. Every other application has to be restarted. Why is this? How is it setup to do this?
+
+D, [2019-10-27T16:27:58.900954 #949] DEBUG -- : bookmarks;firefox-700;desktop;mac-os;
+D, [2019-10-27T16:27:58.900987 #949] DEBUG -- : My bookmark favicons are not loading properly
+D, [2019-10-27T16:27:58.901135 #949] DEBUG -- : CONTENT:I'm using Firefox 70.0 on Mac (Mojave, 10.14.6), and all of a sudden, my bookmark favicons are not loading properly. I've tried clearing my cache and restarting, but that isn't helping. Any suggestions?
+
+D, [2019-10-27T16:27:58.901336 #949] DEBUG -- : privacy-and-security_1;desktop;windows-10;
+D, [2019-10-27T16:27:58.901372 #949] DEBUG -- : My access to all Facebook content is being blocked since latest Firefox upgrade and I can't resolve the problem.
+D, [2019-10-27T16:27:58.901541 #949] DEBUG -- : CONTENT:Hello, I just upgraded to the latest version of Firefox today, and I am not at all happy about the new security settings. I find my access to Facebook content is completely blocked, whereas all other websites appear to be fine. Screenshot from one of the Facebook groups I follow is attached. I have spent hours trying to figure out your new security settings to enable access to Facebook, including switching off all blocking, and nothing is working, except to abandon Firefox and use Microsoft Edge (which is giving me perfect access). Also very ironically I have to use Microsoft Edge to log into Firefox support as Firefox tells me my cookies aren't enabled...except they are. I have been checking out Permissions to ensure everything is correctly enabled and I notice Load Images keeps reverting to Default rather than Enable – I don’t know if this is significant. At any rate Facebook images and data are not loading and it is clear all the pages are being blocked. I also wonder why my Avast online security is not being recognised by Firefox at the moment. I have been happy to use Firefox as my default browser for at least the last 10 years, but this is ridiculous, and I hope there is a simple solution to these issues or I will be changing to a different browser. Thanks, Helen
+
+D, [2019-10-27T16:27:58.901702 #949] DEBUG -- : firefox-700;customize;desktop;windows-81;
+D, [2019-10-27T16:27:58.901736 #949] DEBUG -- : Add-on or key for preventing/controlling cursor focus (specially in Gmail)?
+D, [2019-10-27T16:27:58.901913 #949] DEBUG -- : CONTENT:I am having trouble using Gmail. It's sluggish and its cursor focus behavior is enervating. I click a field and start typing, then Gmail, with its (or my computer's, or browser's) slowness takes a second or two to apply focus to its desired field, so it starts inputting my typing in the wrong field or worse, interpreting my inputs as actions (archiving, deleting, starring, muting conversations, opening chats, opening Google Tasks sidebar, deleting open draft, etc., really freaking messy). Example: I select a conversation, click the label button, click the label menu's text input field and start typing, then focus is removed from the field (and letters start activating those unwanted actions) and then finally Gmail apply focus to that same field, as if it' only now ready to accept input in it, even if I clicked it before.
+How can I prevent sites (or at least Gmail, specifically) from controlling/changing cursor focus? Is there an about:config key or an add-on for this, please?
+BTW, I don't mind Gmail and/or Firefox being a bit slow, I recognize I contribute to it by have a few add-ons installed and running (though not so many). What I don't want is Gmail choosing for me where my typing input is going.
+
+D, [2019-10-27T16:27:58.904751 #949] DEBUG -- : firefox-700;other;desktop;malware;escalate;
+D, [2019-10-27T16:27:58.904899 #949] DEBUG -- : Search Pulse can not be deleted . My search box is always redirected to search pulse
+D, [2019-10-27T16:27:58.905188 #949] DEBUG -- : CONTENT:I have a Search Pulse virus that redirects my search box to them. I have tried upgraded OS, running malwaretbytes, going to add-ons in Firefox ( had nothing installed) and the issue persists. Helllllp
+
+D, [2019-10-27T16:27:58.905296 #949] DEBUG -- : 
+D, [2019-10-27T16:27:58.905329 #949] DEBUG -- : Search Pulse can not be deleted . My search box is always redirected to search pulse
+D, [2019-10-27T16:27:58.905462 #949] DEBUG -- : CONTENT:I have a Search Pulse virus that redirects my search box to them. I have tried upgraded OS, running malwaretbytes, going to add-ons in Firefox ( had nothing installed) and the issue persists. Helllllp
+
+D, [2019-10-27T16:27:58.905550 #949] DEBUG -- : firefox-700;desktop;fix-problems;windows-10;
+D, [2019-10-27T16:27:58.905582 #949] DEBUG -- : Stuck trying to restore pages with normal browser
+D, [2019-10-27T16:27:58.905715 #949] DEBUG -- : CONTENT:For a while now FF has been trying to restore the last session everytime I try to relaunch the broswer. Since the last patch - 70.0 - the regular browser will not open pages when launching it just sits there stuck in handshaking mode. Only way I can use it now is in private mode.
+
+D, [2019-10-27T16:27:58.905814 #949] DEBUG -- : firefox-700;other;desktop;windows-10;
+D, [2019-10-27T16:27:58.905847 #949] DEBUG -- : Firefox (maybe v70.0) text color changes
+D, [2019-10-27T16:27:58.906004 #949] DEBUG -- : CONTENT:I go daily to easynews.com. Starting today I noticed a color change in some of the text fields. The dark purplish blue text was now more light cyan colored. I went to the same location in Chrome and it was still the original color. I noticed I now have v70.0 and wonder if it's related to that.
+
+D, [2019-10-27T16:27:58.906213 #949] DEBUG -- : firefox-700;desktop;fix-problems;
+D, [2019-10-27T16:27:58.906249 #949] DEBUG -- : Why does the FF cache become excessively large, and how can I constrain it?
+D, [2019-10-27T16:27:58.906444 #949] DEBUG -- : CONTENT:In an earlier version of FF, there was an explicit user setting for maximum cache size -- this was very helpful in constraining the bloat which regularly occurs with multiple tabs open for any extended period of time.  At some point in the past few years, this setting disappeared from the up-front user option pages (but might still be around in some deeper, less-obvious setting as I have an older machine which still seems to honor its limit set long ago).
+Since I routinely have to purge the webpage cache in order to regain responsiveness and function of FF when my regular tabs remain open for most of the day, I would like to see this setting return to the user-option front pages -- or know where it is located in some deeper option page.
+More to the point, though, I would really like FF to constrain itself by design from bloating out on webpage cache -- reminds me too much of the 'memory leakage' problem which came to plague the Opera browser that I finally abandoned 10+ years ago for FF.  I realize that many website developers these days are enamored with the bells, whistles and flashy graphics needed to gain eyeballs and earn something from clicks and click-throughs, but the present-day notion of some endless user supply of RAM grates quite hard with someone of my vintage and experience with computers since the late 1960s.
+
+D, [2019-10-27T16:27:58.906557 #949] DEBUG -- : download-and-install_1;desktop;
+D, [2019-10-27T16:27:58.906593 #949] DEBUG -- : Trying to install firefox on Mac, drag it to applications folder and stuck on "preparing to copy"
+D, [2019-10-27T16:27:58.906724 #949] DEBUG -- : CONTENT:Firefox was not responding so I dragged to the trash and downloaded the latest version. Followed instructions to drag it to Applications folder and it stuck on "preparing to copy to Applications." After hours I had to relaunch Finder to get rid of this window. Repeated with same result.
+
+D, [2019-10-27T16:27:58.906846 #949] DEBUG -- : tabs;firefox-560;desktop;windows-10;
+D, [2019-10-27T16:27:58.906881 #949] DEBUG -- : When opening a new tab, it shows my screensaver, not my recently visited websites/pages. How do I fix this?
+D, [2019-10-27T16:27:58.907034 #949] DEBUG -- : CONTENT:When I turn on my computer (Windows 10) and open the browser (Waterfox browser), it opens to the pages I used last, which is what I want. But, when I open a new tab (by clicking on the +), it opens with a view of my screensaver plus the time/weather info instead of opening with a group of thumbnails for my most visited sites/pages. How can I change that? Have looked this up & it refers to an "options tool" that is supposed to be in the right corner of the new tab page but there isn't anything like that. When I go to the Menu, I can find this option but there is nothing listed under Tabs to show I want a new tab to open with my most recent visits. New tabs always opened before with thumbnails of my most recently visited  sites/pages.  This just started two days ago.
+
+D, [2019-10-27T16:27:58.907123 #949] DEBUG -- : firefox-700;desktop;fix-problems;mac-os-x-109;
+D, [2019-10-27T16:27:58.907155 #949] DEBUG -- : FF 70 on Mac : No more title in the title bar. How to fix it.
+D, [2019-10-27T16:27:58.907286 #949] DEBUG -- : CONTENT:Hi all
+Since I installed FF 70.0 there are no more titles in the title bar. I looked in the Preferences and found nothing.
+I am running OS X 10.9.5 Mavericks.
+TIA for your help.
+Nick
+
+D, [2019-10-27T16:27:58.907374 #949] DEBUG -- : firefox-690;desktop;fix-problems;linux;
+D, [2019-10-27T16:27:58.907405 #949] DEBUG -- : On first boot of Firefox, I cannot go to my gmail without waiting many minutes. How to fix?
+D, [2019-10-27T16:27:58.907534 #949] DEBUG -- : CONTENT:I do not have this problem with Chromium.   I read a solution for a similar problem with amazon dot com.   It referred to 2 factor authorization.   What is that?   Why is it assumed that someone asking a question would know computer jargon?
+
+D, [2019-10-27T16:27:58.907615 #949] DEBUG -- : firefox-700;other;desktop;windows-10;
+D, [2019-10-27T16:27:58.907646 #949] DEBUG -- : What setting to I use to get firefox to open a separate tab when clicking on a link?
+D, [2019-10-27T16:27:58.907768 #949] DEBUG -- : CONTENT:When I click on a link on a web site, a new tab does not open with that link.
+
+D, [2019-10-27T16:27:58.907855 #949] DEBUG -- : firefox-700;other;desktop;windows-8;
+D, [2019-10-27T16:27:58.907887 #949] DEBUG -- : grin ssl padlock
+D, [2019-10-27T16:27:58.908015 #949] DEBUG -- : CONTENT:Hello may I know any team Mozilla change Grin for dark SSL Padlock .Now is just not visible if website is secure .Very bad idea change this Green color. Why if was good.???
+
+D, [2019-10-27T16:27:58.908124 #949] DEBUG -- : firefox-700;customize;desktop;windows-10;
+D, [2019-10-27T16:27:58.908156 #949] DEBUG -- : Is there a way to disable the "This time search with:" box in userChrome.css?
+D, [2019-10-27T16:27:58.908442 #949] DEBUG -- : CONTENT:This solution https://support.mozilla.org/en-US/questions/1171243 still leaves a narrow strip under the navigation bar. Is there a way to get rid of it as well?
+Previously, I would use this code snippet in userChrome.css:
+[#PopupAutoCompleteRichResult {display: none!important;}]
+Then, starting with version 68 it stopped working and I found out I had to change it to this:
+[#urlbar-results {display: none!important;}]
+And after Firefox updated to version 70 it quit working.
+
+D, [2019-10-27T16:27:58.908543 #949] DEBUG -- : firefox-690;other;desktop;windows-10;
+D, [2019-10-27T16:27:58.908578 #949] DEBUG -- : Cannot clear search input
+D, [2019-10-27T16:27:58.908713 #949] DEBUG -- : CONTENT:I have one site, my library search site, that whenever I try to run a search it fills the search box with a search argument that i used many months ago. It does not happen with other web browsers. I'm guessing that the search is saved somewhere in the inners of Firefox but can't find a location. Any suggestion on how to "search and destroy" this artifact?
+
+D, [2019-10-27T16:27:58.908822 #949] DEBUG -- : firefox-690;other;desktop;
+D, [2019-10-27T16:27:58.908856 #949] DEBUG -- : Paypal nem lehet fizetni linux mint alatt.
+D, [2019-10-27T16:27:58.908931 #949] DEBUG -- : firefox-700;other;desktop;mac-os;
+D, [2019-10-27T16:27:58.908961 #949] DEBUG -- : Clicking link in email starts Firefox and opens second window
+D, [2019-10-27T16:27:58.909108 #949] DEBUG -- : CONTENT:When I click a link in an email while Firefox is not currently running, Firefox is launched, which opens a window with a blank tab, then a second window opens with the contents of the linked page. I want the link to open in the already open window when Firefox launches, and into that homepage blank tab. I have tried various permutations of the about:config settings for browser.link but nothing seems to fix this problem. If Firefox is currently running, the link opens in a new tab, which is good. But if the current tab is empty, it should open in that tab, so I don't need to close the blank tab.
+
+D, [2019-10-27T16:27:58.909210 #949] DEBUG -- : firefox-680;customize;desktop;windows-81;
+D, [2019-10-27T16:27:58.909243 #949] DEBUG -- : Firefox bookmark line spacing/height how to reduce?
+D, [2019-10-27T16:27:58.909360 #949] DEBUG -- : firefox-700;desktop;fix-problems;windows-10;
+D, [2019-10-27T16:27:58.909388 #949] DEBUG -- : mojibake on pages in zh-HK locale with special symbols
+D, [2019-10-27T16:27:58.909670 #949] DEBUG -- : CONTENT:When I customise fonts using Firefox settings (for zh-CN, zh-TW, zh-HK and jp locales) and choose to override fonts specified on a page,
+some special symbols on pages in the zh-HK locale are not rendered correctly.
+https://user-media-prod-cdn.itsre-sumo.mozilla.net/uploads/images/2019-10-26-04-51-37-c4ca42.png
+this happens specifically for the zh-HK locale. If I switch to zh-TW, they are rendered correctly:
+https://user-media-prod-cdn.itsre-sumo.mozilla.net/uploads/images/2019-10-26-04-52-48-c81e72.png
+I looked into the problem using "inspect element" and checked the "fonts" tab. It seems special fonts are used in the page. In a page in the zh-TW locale, the fonts are correctly loaded as:
+https://user-media-prod-cdn.itsre-sumo.mozilla.net/uploads/images/2019-10-26-04-56-14-eccbc8.png
+with zh-HK, some font on my system (MingLiu_HKSCS) is used as fallback:
+https://user-media-prod-cdn.itsre-sumo.mozilla.net/uploads/images/2019-10-26-04-59-34-a87ff6.png
+
+There are pages that are only available in zh-HK. I would like to use my preferred fonts (as in other locales such as zh-TW) but this creates mojibake on the page.
+How could I solve this problem?
+
+D, [2019-10-27T16:27:58.909796 #949] DEBUG -- : firefox-690;other;desktop;windows-7;
+D, [2019-10-27T16:27:58.909829 #949] DEBUG -- : I get spam malware messages on one profile only and not the others
+D, [2019-10-27T16:27:58.910117 #949] DEBUG -- : CONTENT:A few days ago I started getting full page spam messages when looking at threads in one forum only. I have to keep backing out or closing out of Firefox. Initially FF blocked them, but not anymore. Norton never blocked them.
+These messages only come up when using one FF profile, not another. They also do not show up when using a Chromebook, so I presume the problem is on my end.
+I have cleared all cookies & cache and did a complete scan with Norton, Malwarebytes, & AdwCleaner. Even restored Windows 7 back to an earlier time. But none of this helped.
+They are full page messages & say they're from AT&T, Walmart, or Visa. However the addresses all start out with:
+happy.luckyparkclub.com/………..
+Sometimes the messages appears right away & sometimes it takes a few minutes.
+I cleared FF cookies, went back to the forum, & then looked at the cookies again. I noticed that happy.luckyparkclub.com and dbmtrk.xyz both appeared in the cookies list at the same time, 23 seconds. The forum cookie was time stamped at 22 seconds.
+If I look at the forum using a different FF profile there is no problem & neither of these 2 cookies are there.
+If I open a New Private Window in the problem profile then I don't get the messages either, at least not yet.
+What does the Private Window NOT access that the regular window does?
+Which profile folder or file could be causing the problem?
+Thanks for any suggestions.
+
+D, [2019-10-27T16:27:58.910257 #949] DEBUG -- : privacy-and-security_1;firefox-700;desktop;windows-10;
+D, [2019-10-27T16:27:58.910294 #949] DEBUG -- : how to import passwords from a file .CSV ?
+D, [2019-10-27T16:27:58.910416 #949] DEBUG -- : CONTENT:pls help
+
+D, [2019-10-27T16:27:58.910558 #949] DEBUG -- : firefox-690;websites;desktop;windows-7;
+D, [2019-10-27T16:27:58.910593 #949] DEBUG -- : Why doesn't the new firefox let me login to youtube, patreon, messenger and a whole load of other sites?
+D, [2019-10-27T16:27:58.910784 #949] DEBUG -- : CONTENT:So my Firefox updated to the new version (70) and it doesn't work properly on half of my most regular sites.  In particular it won't let me login to messenger(.com), youtube, mediafire, patreon and several other sites.  Either the login box never loads properly or it doesn't respond when I fill in my details and click 'login'.  
+I have tried with other browsers and everything works fine.  I have also tried disabling all my firefox add-ons, but the problems all still persist.  It's definitely the new browser.  I couldn't even login here to post this problem, that's how bad the new browser is.  I had to uninstall and go back to a previous version, sync everything and now it all works fine again.  It's definitely the new browser, and I suspect lots of other people are having these problems but can't report them because the new browser doesn't let them login here to report it.
+Well done Mozilla.  You've really set a new standard for releasing software that wasn't ready.  What's next, a browser that doesn't work on Wordpress sites?
+
+D, [2019-10-27T16:27:58.910865 #949] DEBUG -- : other;desktop;
+D, [2019-10-27T16:27:58.910897 #949] DEBUG -- : ALIREZA
+D, [2019-10-27T16:27:58.911025 #949] DEBUG -- : CONTENT:ALIREZABAZRAFSHAN
+
+D, [2019-10-27T16:27:58.911186 #949] DEBUG -- : sync;desktop;
+D, [2019-10-27T16:27:58.911220 #949] DEBUG -- : How to adjust sync settings before the sync-process starts?
+D, [2019-10-27T16:27:58.911409 #949] DEBUG -- : CONTENT:Here is my situation: I have my main personal laptop with a ton of bookmarks and extensions. Now I got a second laptop for work. I want to be able to send tabs from one laptop to the other via the "send tab" feature. So I obviously have to log into Firefox sync. But I DON'T want to have all my bookmarks, settings, history and especially extensions synced on my work laptop. Since I want to have a different set of bookmarks on my work laptop (related to work) I need to turn off the syncing of the bookmarks (unfortunately I don't  think it's possible to sync two different sets of bookmarks). Same goes for the extensions, settings and history. So long story short, I want to only use the send-tab feature, and to sync opened tabs. 
+Now here's the problem. When I log into Firefox sync after a fresh install on my work laptop and I enter my credentials, you are not asked what to sync. The default is to sync everything. After that everything is synced right away within a few seconds, and by the time I went to settings to turn the syncing of bookmarks, extensions etc. off, the bookmarks already synced and a ton of extensions start to appear. And probably all my settings that I don't want on my work laptop are synced, too. 
+Is there a way to choose what to sync BEFORE the syncing starts? That would actually be pretty smart...
+
+D, [2019-10-27T16:27:58.911526 #949] DEBUG -- : cookies;desktop;windows-7;
+D, [2019-10-27T16:27:58.911560 #949] DEBUG -- : websites
+D, [2019-10-27T16:27:58.911766 #949] DEBUG -- : CONTENT:These websites are not opening in mozilla firefox 
+https://iptvapp.eu
+https://bestairsoftsniperrifle.com
+https://cuteteacuppomeranian.com
+https://psl5.net
+
+D, [2019-10-27T16:27:58.911851 #949] DEBUG -- : firefox-700;sync;desktop;windows-10;
+D, [2019-10-27T16:27:58.911882 #949] DEBUG -- : My laptop was upgraded to Windows 10 and I don't know which other device I should choose to sync my newly downloaded firefox. Thanx for reply!
+D, [2019-10-27T16:27:58.912029 #949] DEBUG -- : CONTENT:As title, many thanks.
+
+D, [2019-10-27T16:27:58.912129 #949] DEBUG -- : other;desktop;
+D, [2019-10-27T16:27:58.912162 #949] DEBUG -- : Great troubles with Firefox under MacOS Catalina. It scraches and is slow as never before!!!
+D, [2019-10-27T16:27:58.912370 #949] DEBUG -- : CONTENT:With Catalina Firefox now is a lot slower in front of Chrome which works properly. It also often crash
+I do think there issue of compatibility with new OS
+
+D, [2019-10-27T16:27:58.912478 #949] DEBUG -- : firefox-690;firefox-6903;desktop;fix-problems;mac-os;
+D, [2019-10-27T16:27:58.912510 #949] DEBUG -- : new Date() issue
+D, [2019-10-27T16:27:58.912672 #949] DEBUG -- : CONTENT:when i am passing Date in new Date() function browser adding extra -  
+new Date('26-Oct-2019 02:45 PM')
+Date Mon Oct 26 -2019 14:45:00 GMT+0553 (India Standard Time)
+please check the below  attachment
+
+D, [2019-10-27T16:27:58.912760 #949] DEBUG -- : websites;firefox-700;desktop;linux;
+D, [2019-10-27T16:27:58.912793 #949] DEBUG -- : can not sign in & display the content on https://courses.edx.org/login?next=/dashboard
+D, [2019-10-27T16:27:58.912964 #949] DEBUG -- : CONTENT:no login options
+
+D, [2019-10-27T16:27:58.913144 #949] DEBUG -- : desktop;fix-problems;
+D, [2019-10-27T16:27:58.913178 #949] DEBUG -- : Pages not loading correctly, buttons not working, and local storage can't be turned on -- is this a lost cause?
+D, [2019-10-27T16:27:58.913401 #949] DEBUG -- : CONTENT:Greetings -
+I'm experiencing multiple issues on Firefox and I'm wondering if these can be fixed, or I'm I'm better off re-installing. To wit:
+1) Certain sites have stopped loading properly. For instance until earlier today I could load Facebook with no problem, but now only the top blue menu bar will load; the rest of the page is blank white. Oftentimes this has happended with certain other sites; for instance I've not had full functionality on Vimeo or the New York Times' sites for a while. Until recently when I've had this issue with Facebook I've been able to clear the cache and re-load and that has been working, but today I tried this and now that solution doesn't work.
+2) Certain buttons don't function, such as video playback buttons on The Guardian's site, or certain playback and navigation buttons on Netflix. 
+3) I tired to log into my Firefox account and got the warning message "Cookies and local storage are required. Please enable cookies and local storage in your browser to access Firefox Accounts. Doing so will enable functionality such as remembering you between sessions." Cookies *are* enabled, however, and nothing seems to turn them back on. I've even tried trashing the cookies.sqlite file and re-starting, it doesn't help.
+I'm tempted to trash the whole install and start from scratch (I've been upgrading from one to the next for over ten years now), but I have thousands of bookmarks I want to preserve, plus many passwords, and now I cannot even log into my Firefox account on the  browser itself due to the erroneous "cookies" error massage to confirm that all my passwords are safely backed up. I've tried re-starting in safe mode with all plug-in disabled, and that did nothing to solve my problems.
+Er... help?!
+
+D, [2019-10-27T16:27:58.913574 #949] DEBUG -- : firefox-710;beta;customize;desktop;windows-10;malware;escalate;
+D, [2019-10-27T16:27:58.913611 #949] DEBUG -- : Malicious Extensions
+D, [2019-10-27T16:27:58.913772 #949] DEBUG -- : CONTENT:I downloaded a malicious add-ons extension called "YouTube to MP3 Convert Button" by "Firefox user 6248547". All it did was open a video conversion website, which worked for the first video I tried (with alot of popups) but the second video I tried, it redirected me to a fake Firefox update page. 
+As soon as I tried to cancel it, a login popup kept appearing and all my open tabs immediately went haywire trying to do some kind of redirect, and I it would not let me click on anything. I quickly ended the process to force close the browser, restarted Firefox and cleared my cache and uninstalled the extension. I am concerned about what kind of malware this may have installed on my machine. 
+I reported this user over a month ago, but it is still available on the add-on page, and other people also commented about it having malware.
+Any suggestions?
+
+D, [2019-10-27T16:27:58.913872 #949] DEBUG -- : bookmarks;desktop;windows-10;
+D, [2019-10-27T16:27:58.913904 #949] DEBUG -- : Is there a Folder View like Windows Explorer to drag and drop bookmarks?
+D, [2019-10-27T16:27:58.914052 #949] DEBUG -- : CONTENT:I have a lot of unsorted bookmarks and folders.  Is there a way to view them in Windows File Explorer so I can drag and drop them from one folder to another after searching for certain bookmarks?  Doing the organizing one at a time, with 2500 bookmarks is just too frustrating!
+
+D, [2019-10-27T16:27:58.914258 #949] DEBUG -- : firefox-700;other;desktop;windows-10;
+D, [2019-10-27T16:27:58.914292 #949] DEBUG -- : I use to have 1 row of pocket articles & could click on more suggestions.  Now I have many rows. & would llike 1 as before. How?
+D, [2019-10-27T16:27:58.914448 #949] DEBUG -- : CONTENT:I was able to pick 1 row with an option to pick more. There are solutions suggested to remedy this - all of them complicated & now, with no guarantee they will work. Is there an easy way to set the no. of rows as before for pocket or is it a bug as many have suggested?  Is it going to be fixed soon or is it a purposeful way to raise revenue that doesn't respect the user as before?
+
+D, [2019-10-27T16:27:58.914590 #949] DEBUG -- : firefox-700;other;desktop;windows-10;
+D, [2019-10-27T16:27:58.914624 #949] DEBUG -- : How to stop Firefox from flashing when going to google.com or any other website with a white background?
+D, [2019-10-27T16:27:58.914849 #949] DEBUG -- : CONTENT:I have just installed the newest version of Firefox, which, by default and when I change to another theme, follows my PC settings for "default app mode" concerning light or dark. I should also mention that I'm using the New Tab Homepage extension, which will bring you to your homepage when opening a new tab. When I open a new tab, while loading my homepage or when I go to another page with a white background, there is a quick flash from the default Firefox theme, "A theme with the operating system color scheme".
+If I set my PC theme to light, I have no issues whatsoever. But if I leave it set to dark, regardless whether or not I change to a different Firefox theme, the flashing still occurs. Even after disabling the extension, then opening a new tab and manually hit the home button taking me to google.com, there is a flash.
+I and my girlfriend are severely photosensitive and I'm afraid this will cause a seizure. How do I resolve this issue?
+
+D, [2019-10-27T16:27:58.914998 #949] DEBUG -- : firefox-700;other;desktop;mac-os;
+D, [2019-10-27T16:27:58.915031 #949] DEBUG -- : bug rendering PDFs in Firefox for Mac
+D, [2019-10-27T16:27:58.915255 #949] DEBUG -- : CONTENT:When redering (previewing) multipage PDFs in Firefox, only the first page appears. Here's an example: https://mail.google.com/mail/u/0/?sw=2&token=%5B%22cftp%22,%22f7e8c6714e%22,%22gmail_fe_191002.11_p3%22,%22ZyMrc6cBAw-rFZnvtXyj5A%5Cu003d%5Cu003d%22,%227416,7018,7236,7467,6969,6999,7618,6807,7327,7500,7121,7517,7443,7137,7403,7407,7489,7449,7113,7016,7158,7379,7591,6804,7278,7567,7156,6821,7453,7418,7584,7020,7638,7393,7468,7414,7495,6792,7068,7569,7150,6984,7030,7172,7634,7332,7433,7027,7361,7419,6929,7189,7164,7348%22,3%5D&dilte=0&gme=1&sme=0#inbox/FMfcgxwDrvBHZsMQGCrggVQcPTzkQQbX?projector=1&messagePartId=0.1.
+
+D, [2019-10-27T16:27:58.915396 #949] DEBUG -- : firefox-700;customize;desktop;windows-10;
+D, [2019-10-27T16:27:58.915431 #949] DEBUG -- : Unknown "List All Tabs" Option on Tabs Bar
+D, [2019-10-27T16:27:58.915631 #949] DEBUG -- : CONTENT:Firefox 70.0 x64. I have a number of add-ons installed, but have reviewed their options and don't seem to find an explanation.
+As shown in the image, there is a down arrow character, more like an inverted caret, at the right end of my tabs bar. When I mouse over it, it says, "List all tabs." If I click on it, that's what it does: it lists the currently open tabs. But it seems to exist only after I've added a newly opened tab, as distinct from restoring previously opened tabs. In Customize, it is grayed out and refuses to be dragged away.
+Any ideas where this might have come from, or how I could proceed to find out?
+
+D, [2019-10-27T16:27:58.915747 #949] DEBUG -- : bookmarks;firefox-700;desktop;windows-10;needsinfo;
+D, [2019-10-27T16:27:58.915780 #949] DEBUG -- : Hola. Reinstale windows. Reinstale Firefox. Conecte a SYNC y nada que me descarga la informacion. Tengo 2 cuentas y el mismo problema.
+D, [2019-10-27T16:27:58.915846 #949] DEBUG -- : firefox-700;other;desktop;windows-10;needsinfo;
+D, [2019-10-27T16:27:58.915934 #949] DEBUG -- : Hola. Reinstale windows. Reinstale Firefox. Conecte a SYNC y nada que me descarga la informacion. Tengo 2 cuentas y el mismo problema.
+D, [2019-10-27T16:27:58.915994 #949] DEBUG -- : firefox-700;other;desktop;windows-10;
+D, [2019-10-27T16:27:58.916020 #949] DEBUG -- : SMTP Error: Message size exceeds server limit. I get this even when the file is below 32mgs.
+D, [2019-10-27T16:27:58.916164 #949] DEBUG -- : CONTENT:can't email attachments.
+
+D, [2019-10-27T16:27:58.916310 #949] DEBUG -- : privacy-and-security_1;firefox-700;desktop;windows-10;
+D, [2019-10-27T16:27:58.916344 #949] DEBUG -- : sign inns
+D, [2019-10-27T16:27:58.916485 #949] DEBUG -- : CONTENT:Latest FIrefox upgrade has changed the way username and password is displayed and it's useless, the previous version has been working perfectly for tears, so why change it?
+Only option to see password is a dumb eye icon, all it does is change from dots to asterix doesn't display the actuall password, gives an option to copy, but if a website has rejected a password there is zero point in copy and pasting the same bloody thing again, but if displayed in alpha numerical characters we can at least see what the password is not anylonger and therefore probably workout the correct one.
+Needs changing ASAP.
+
+D, [2019-10-27T16:27:58.916651 #949] DEBUG -- : num_questions:47
+../print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb:68: warning: already initialized constant FILENAME
+../print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb:20: warning: previous definition of FILENAME was here
+D, [2019-10-27T16:27:58.916790 #949] DEBUG -- : markdown filename:sorted-all-desktop-en-us-2019-10-26-2019-10-26-firefox-creator-answers-desktop-all-locales.md
+D, [2019-10-27T16:27:58.917587 #949] DEBUG -- : tags_array["privacy-and-security_1", "firefox-700", "desktop", "windows-10"]
+D, [2019-10-27T16:27:58.917631 #949] DEBUG -- : privacy-and-security_1
+D, [2019-10-27T16:27:58.917660 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.917685 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.917714 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.917765 #949] DEBUG -- : tags_array["firefox-700", "other", "desktop", "windows-10"]
+D, [2019-10-27T16:27:58.917790 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.917816 #949] DEBUG -- : other
+D, [2019-10-27T16:27:58.917839 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.917872 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.917910 #949] DEBUG -- : tags_array["firefox-700", "customize", "desktop", "windows-10"]
+D, [2019-10-27T16:27:58.917932 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.917963 #949] DEBUG -- : customize
+D, [2019-10-27T16:27:58.917987 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.918010 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.918054 #949] DEBUG -- : tags_array["firefox-700", "other", "desktop", "mac-os"]
+D, [2019-10-27T16:27:58.918078 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.918102 #949] DEBUG -- : other
+D, [2019-10-27T16:27:58.918124 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.918148 #949] DEBUG -- : mac-os
+D, [2019-10-27T16:27:58.918191 #949] DEBUG -- : tags_array["firefox-700", "other", "desktop", "windows-10"]
+D, [2019-10-27T16:27:58.918222 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.918247 #949] DEBUG -- : other
+D, [2019-10-27T16:27:58.918271 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.918293 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.918345 #949] DEBUG -- : tags_array["firefox-700", "other", "desktop", "windows-10"]
+D, [2019-10-27T16:27:58.918368 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.918391 #949] DEBUG -- : other
+D, [2019-10-27T16:27:58.918424 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.918449 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.918485 #949] DEBUG -- : tags_array["bookmarks", "desktop", "windows-10"]
+D, [2019-10-27T16:27:58.918506 #949] DEBUG -- : bookmarks
+D, [2019-10-27T16:27:58.918566 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.918593 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.918642 #949] DEBUG -- : tags_array["firefox-710", "beta", "customize", "desktop", "windows-10", "malware", "escalate"]
+D, [2019-10-27T16:27:58.918666 #949] DEBUG -- : firefox-710
+D, [2019-10-27T16:27:58.918691 #949] DEBUG -- : beta
+D, [2019-10-27T16:27:58.918713 #949] DEBUG -- : customize
+D, [2019-10-27T16:27:58.918738 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.918762 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.918791 #949] DEBUG -- : malware
+D, [2019-10-27T16:27:58.918814 #949] DEBUG -- : escalate
+D, [2019-10-27T16:27:58.918850 #949] DEBUG -- : tags_array["desktop", "fix-problems"]
+D, [2019-10-27T16:27:58.918872 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.918905 #949] DEBUG -- : fix-problems
+D, [2019-10-27T16:27:58.918945 #949] DEBUG -- : tags_array["websites", "firefox-700", "desktop", "linux"]
+D, [2019-10-27T16:27:58.918967 #949] DEBUG -- : websites
+D, [2019-10-27T16:27:58.918996 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.919019 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.919042 #949] DEBUG -- : linux
+D, [2019-10-27T16:27:58.919090 #949] DEBUG -- : tags_array["firefox-690", "firefox-6903", "desktop", "fix-problems", "mac-os"]
+D, [2019-10-27T16:27:58.919114 #949] DEBUG -- : firefox-690
+D, [2019-10-27T16:27:58.919137 #949] DEBUG -- : firefox-6903
+D, [2019-10-27T16:27:58.919160 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.919181 #949] DEBUG -- : fix-problems
+D, [2019-10-27T16:27:58.919202 #949] DEBUG -- : mac-os
+D, [2019-10-27T16:27:58.919246 #949] DEBUG -- : tags_array["other", "desktop"]
+D, [2019-10-27T16:27:58.919269 #949] DEBUG -- : other
+D, [2019-10-27T16:27:58.919293 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.919409 #949] DEBUG -- : tags_array["firefox-700", "sync", "desktop", "windows-10"]
+D, [2019-10-27T16:27:58.919435 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.919460 #949] DEBUG -- : sync
+D, [2019-10-27T16:27:58.919483 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.919511 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.919550 #949] DEBUG -- : tags_array["cookies", "desktop", "windows-7"]
+D, [2019-10-27T16:27:58.919574 #949] DEBUG -- : cookies
+D, [2019-10-27T16:27:58.919600 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.919629 #949] DEBUG -- : windows-7
+D, [2019-10-27T16:27:58.919664 #949] DEBUG -- : tags_array["sync", "desktop"]
+D, [2019-10-27T16:27:58.919687 #949] DEBUG -- : sync
+D, [2019-10-27T16:27:58.919709 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.919751 #949] DEBUG -- : tags_array["other", "desktop"]
+D, [2019-10-27T16:27:58.919774 #949] DEBUG -- : other
+D, [2019-10-27T16:27:58.919798 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.919838 #949] DEBUG -- : tags_array["firefox-690", "websites", "desktop", "windows-7"]
+D, [2019-10-27T16:27:58.919859 #949] DEBUG -- : firefox-690
+D, [2019-10-27T16:27:58.919883 #949] DEBUG -- : websites
+D, [2019-10-27T16:27:58.919905 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.919932 #949] DEBUG -- : windows-7
+D, [2019-10-27T16:27:58.919969 #949] DEBUG -- : tags_array["privacy-and-security_1", "firefox-700", "desktop", "windows-10"]
+D, [2019-10-27T16:27:58.919990 #949] DEBUG -- : privacy-and-security_1
+D, [2019-10-27T16:27:58.920018 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.920041 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.920063 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.920109 #949] DEBUG -- : tags_array["firefox-690", "other", "desktop", "windows-7"]
+D, [2019-10-27T16:27:58.920131 #949] DEBUG -- : firefox-690
+D, [2019-10-27T16:27:58.920153 #949] DEBUG -- : other
+D, [2019-10-27T16:27:58.920175 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.920198 #949] DEBUG -- : windows-7
+D, [2019-10-27T16:27:58.920241 #949] DEBUG -- : tags_array["firefox-700", "desktop", "fix-problems", "windows-10"]
+D, [2019-10-27T16:27:58.920263 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.920285 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.920312 #949] DEBUG -- : fix-problems
+D, [2019-10-27T16:27:58.920335 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.920370 #949] DEBUG -- : tags_array["firefox-700", "other", "desktop", "mac-os"]
+D, [2019-10-27T16:27:58.920399 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.920423 #949] DEBUG -- : other
+D, [2019-10-27T16:27:58.920445 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.920468 #949] DEBUG -- : mac-os
+D, [2019-10-27T16:27:58.920511 #949] DEBUG -- : tags_array["firefox-690", "other", "desktop", "windows-10"]
+D, [2019-10-27T16:27:58.920533 #949] DEBUG -- : firefox-690
+D, [2019-10-27T16:27:58.920558 #949] DEBUG -- : other
+D, [2019-10-27T16:27:58.920581 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.920609 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.920647 #949] DEBUG -- : tags_array["firefox-700", "customize", "desktop", "windows-10"]
+D, [2019-10-27T16:27:58.920670 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.920706 #949] DEBUG -- : customize
+D, [2019-10-27T16:27:58.920740 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.920763 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.920807 #949] DEBUG -- : tags_array["firefox-700", "other", "desktop", "windows-8"]
+D, [2019-10-27T16:27:58.920829 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.920852 #949] DEBUG -- : other
+D, [2019-10-27T16:27:58.920873 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.920895 #949] DEBUG -- : windows-8
+D, [2019-10-27T16:27:58.920937 #949] DEBUG -- : tags_array["firefox-700", "other", "desktop", "windows-10"]
+D, [2019-10-27T16:27:58.920959 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.920982 #949] DEBUG -- : other
+D, [2019-10-27T16:27:58.921011 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.921036 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.921080 #949] DEBUG -- : tags_array["firefox-690", "desktop", "fix-problems", "linux"]
+D, [2019-10-27T16:27:58.921104 #949] DEBUG -- : firefox-690
+D, [2019-10-27T16:27:58.921127 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.921150 #949] DEBUG -- : fix-problems
+D, [2019-10-27T16:27:58.921172 #949] DEBUG -- : linux
+D, [2019-10-27T16:27:58.921248 #949] DEBUG -- : tags_array["firefox-700", "desktop", "fix-problems", "mac-os-x-109"]
+D, [2019-10-27T16:27:58.921275 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.921300 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.921320 #949] DEBUG -- : fix-problems
+D, [2019-10-27T16:27:58.921349 #949] DEBUG -- : mac-os-x-109
+D, [2019-10-27T16:27:58.921388 #949] DEBUG -- : tags_array["tabs", "firefox-560", "desktop", "windows-10"]
+D, [2019-10-27T16:27:58.921410 #949] DEBUG -- : tabs
+D, [2019-10-27T16:27:58.921437 #949] DEBUG -- : firefox-560
+D, [2019-10-27T16:27:58.921473 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.921507 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.921549 #949] DEBUG -- : tags_array["download-and-install_1", "desktop"]
+D, [2019-10-27T16:27:58.921571 #949] DEBUG -- : download-and-install_1
+D, [2019-10-27T16:27:58.921596 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.921638 #949] DEBUG -- : tags_array["firefox-700", "desktop", "fix-problems"]
+D, [2019-10-27T16:27:58.921661 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.921684 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.921706 #949] DEBUG -- : fix-problems
+D, [2019-10-27T16:27:58.921750 #949] DEBUG -- : tags_array["firefox-700", "other", "desktop", "windows-10"]
+D, [2019-10-27T16:27:58.921773 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.921795 #949] DEBUG -- : other
+D, [2019-10-27T16:27:58.921817 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.921840 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.921884 #949] DEBUG -- : tags_array["firefox-700", "desktop", "fix-problems", "windows-10"]
+D, [2019-10-27T16:27:58.921906 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.921930 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.921958 #949] DEBUG -- : fix-problems
+D, [2019-10-27T16:27:58.921982 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.922017 #949] DEBUG -- : tags_array[]
+D, [2019-10-27T16:27:58.922078 #949] DEBUG -- : tags_array["firefox-700", "other", "desktop", "malware", "escalate"]
+D, [2019-10-27T16:27:58.922103 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.922129 #949] DEBUG -- : other
+D, [2019-10-27T16:27:58.922152 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.922174 #949] DEBUG -- : malware
+D, [2019-10-27T16:27:58.922203 #949] DEBUG -- : escalate
+D, [2019-10-27T16:27:58.923992 #949] DEBUG -- : tags_array["firefox-700", "customize", "desktop", "windows-81"]
+D, [2019-10-27T16:27:58.924053 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.924080 #949] DEBUG -- : customize
+D, [2019-10-27T16:27:58.924115 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.924138 #949] DEBUG -- : windows-81
+D, [2019-10-27T16:27:58.924174 #949] DEBUG -- : tags_array["privacy-and-security_1", "desktop", "windows-10"]
+D, [2019-10-27T16:27:58.924197 #949] DEBUG -- : privacy-and-security_1
+D, [2019-10-27T16:27:58.924221 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.924242 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.924275 #949] DEBUG -- : tags_array["bookmarks", "firefox-700", "desktop", "mac-os"]
+D, [2019-10-27T16:27:58.924299 #949] DEBUG -- : bookmarks
+D, [2019-10-27T16:27:58.924320 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.924345 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.924366 #949] DEBUG -- : mac-os
+D, [2019-10-27T16:27:58.924437 #949] DEBUG -- : tags_array["firefox-700", "other", "desktop", "windows-10"]
+D, [2019-10-27T16:27:58.924464 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.924488 #949] DEBUG -- : other
+D, [2019-10-27T16:27:58.924508 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.924529 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.924604 #949] DEBUG -- : tags_array["firefox-700", "cookies", "desktop"]
+D, [2019-10-27T16:27:58.924629 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.924652 #949] DEBUG -- : cookies
+D, [2019-10-27T16:27:58.924674 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.924708 #949] DEBUG -- : tags_array["firefox-700", "customize", "desktop"]
+D, [2019-10-27T16:27:58.924730 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.924752 #949] DEBUG -- : customize
+D, [2019-10-27T16:27:58.924773 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.924812 #949] DEBUG -- : tags_array["privacy-and-security_1", "firefox-700", "desktop", "windows-10"]
+D, [2019-10-27T16:27:58.924838 #949] DEBUG -- : privacy-and-security_1
+D, [2019-10-27T16:27:58.924862 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.924885 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.924907 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.924943 #949] DEBUG -- : tags_array["firefox-700", "desktop", "fix-problems", "windows-10", "escalate"]
+D, [2019-10-27T16:27:58.924966 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.924988 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.925011 #949] DEBUG -- : fix-problems
+D, [2019-10-27T16:27:58.925032 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.925054 #949] DEBUG -- : escalate
+D, [2019-10-27T16:27:58.925089 #949] DEBUG -- : tags_array["download-and-install_1", "firefox-700", "desktop", "windows-10"]
+D, [2019-10-27T16:27:58.925111 #949] DEBUG -- : download-and-install_1
+D, [2019-10-27T16:27:58.925133 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.925155 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.925176 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.925210 #949] DEBUG -- : tags_array["firefox-700", "other", "desktop", "windows-10"]
+D, [2019-10-27T16:27:58.925232 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.925254 #949] DEBUG -- : other
+D, [2019-10-27T16:27:58.925276 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.925296 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.925330 #949] DEBUG -- : tags_array["firefox-700", "other", "desktop", "windows-10"]
+D, [2019-10-27T16:27:58.925352 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.925374 #949] DEBUG -- : other
+D, [2019-10-27T16:27:58.925394 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.925416 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.925449 #949] DEBUG -- : tags_array["firefox-700", "customize", "desktop", "windows-10"]
+D, [2019-10-27T16:27:58.925471 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.925494 #949] DEBUG -- : customize
+D, [2019-10-27T16:27:58.925515 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.925536 #949] DEBUG -- : windows-10
+D, [2019-10-27T16:27:58.925569 #949] DEBUG -- : tags_array["firefox-700", "sync", "desktop", "windows-10"]
+D, [2019-10-27T16:27:58.925590 #949] DEBUG -- : firefox-700
+D, [2019-10-27T16:27:58.925611 #949] DEBUG -- : sync
+D, [2019-10-27T16:27:58.925633 #949] DEBUG -- : desktop
+D, [2019-10-27T16:27:58.925655 #949] DEBUG -- : windows-10

@@ -46,8 +46,10 @@ end
 created_time = Time.gm(ARGV[0].to_i, ARGV[1].to_i, ARGV[2].to_i)
 greater_than_time = (created_time - 3600 * 24).strftime("%Y-%-m-%-e")
 less_than = Time.gm(ARGV[3].to_i, ARGV[4].to_i, ARGV[5].to_i)
+end_time = Time.gm(ARGV[3].to_i, ARGV[4].to_i, ARGV[5].to_i, 23, 59, 59)
+
 less_than_time = (less_than + 3600 * 24).strftime("%Y-%-m-%-e")
-less_than_time_parsed = Time.parse(less_than_time)
+less_than_time_parsed = Time.parse(less_than_time + " 00:00:00 UTC")
 logger.debug "created_time" + created_time.to_s
 logger.debug "greater than time" + greater_than_time.to_s
 logger.debug "less than" + less_than.to_s
@@ -111,7 +113,7 @@ while !end_program
     logger.debug 'answers_str:' + answers_str
     logger.debug 'creator:' + creator
 
-    if created.to_i >= created_time.to_i && created.to_i < less_than_time_parsed.to_i
+    if created.to_i >= created_time.to_i && created.to_i < end_time.to_i
       logger.debug "NOT skipping"
       csv.push(
         [
