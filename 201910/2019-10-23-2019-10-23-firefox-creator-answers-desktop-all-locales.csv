@@ -55,11 +55,11 @@ i was also trying to edit About:config toolbars order but after moving urlbar to
 is there any way to make navigation toolbat in 2 rows or move adres bar someplace else?
 i attach my old screenshot and how it looks now
 </p>",firefox-680;desktop;tips;windows-7;,firefox,tips,en-US,1260419;1261259;,kokodin
-1271208,2019-10-23 20:18:21 UTC,2019-10-25T11:04:48Z,Dosyaların nereye kaydedileceğini her zaman sor,"<p>güncellemeden önce tıkladığım lin anında iniyordu şimdi bana soruyor kaydet diye ayarlardan çözemiyorum o kısım çalışmıyor yardım  edermisiniz direk firefox ile açtırmak istiyorum tıkladığım resmi 
+1271208,2019-10-23 20:18:21 UTC,2019-10-28T01:59:46Z,Dosyaların nereye kaydedileceğini her zaman sor,"<p>güncellemeden önce tıkladığım lin anında iniyordu şimdi bana soruyor kaydet diye ayarlardan çözemiyorum o kısım çalışmıyor yardım  edermisiniz direk firefox ile açtırmak istiyorum tıkladığım resmi 
 </p><p><br>
 Dosya kayıt yeri
 Dosyaların nereye kaydedileceğini her zaman sor
-</p>",firefox-710;beta;customize;desktop;windows-10;,firefox,customize,tr,1260970;,aykodent
+</p>",firefox-710;beta;customize;desktop;windows-10;,firefox,customize,tr,1260970;1261701;,aykodent
 1271207,2019-10-23 20:16:10 UTC,2019-10-23T20:43:28Z,I want to find login details of my website,"<p>I want to find login details of my this website <a href=""https://apkstreet.com"" rel=""nofollow"">https://apkstreet.com</a> I have saved in Mozilla Firefox when I login first time. Now, I'm unable to find it. Help!
 </p>",privacy-and-security_1;desktop;windows-7;,firefox,privacy-and-security,en-US,1260421;1260423;,henrywilliam463
 1271206,2019-10-23 20:01:13 UTC,2019-10-23T20:24:25Z,issues with bookmarks after migration to 68.2 ESR macOS,"<p>Hi,
@@ -95,8 +95,8 @@ I want to know how to get rid of that stupid Firefox Monitor program and there i
 </p><p>Thanks,
 </p><p>Charles
 </p>",download-and-install_1;firefox-710;beta;desktop;linux;,firefox,download-and-install,en-US,1260368;1260381;,charlesc-firefox.com
-1271186,2019-10-23 15:02:52 UTC,2019-10-27T20:53:28Z,Install Firefox stable and Firefox Beta in the same pc,"<p>Hi, I've installed stable (70.0), dev (71.0) and nightly (72.0). How to install also the beta version without replacing the stable? Thank
-</p>",download-and-install_1;firefox-700;desktop;windows-10;,firefox,download-and-install,en-US,1260305;1260428;1260456;1261634;,bludev
+1271186,2019-10-23 15:02:52 UTC,2019-10-28T00:19:22Z,Install Firefox stable and Firefox Beta in the same pc,"<p>Hi, I've installed stable (70.0), dev (71.0) and nightly (72.0). How to install also the beta version without replacing the stable? Thank
+</p>",download-and-install_1;firefox-700;desktop;windows-10;,firefox,download-and-install,en-US,1260305;1260428;1260456;1261634;1261686;,bludev
 1271184,2019-10-23 14:39:09 UTC,2019-10-23T23:18:27Z,add a website to list of Exceptions for Enhanced Tracking Protection,"<p>How do you add a website to the list of exceptions for Enhanced Tracking Protection?  Only see buttons to remove websites from the list but no button to add to the list
 </p>",websites;firefox-700;desktop;windows-10;,firefox,websites,en-US,1260299;1260435;1260450;1260451;1260476;1260484;,bhamilton_27
 1271180,2019-10-23 14:00:06 UTC,2019-10-23T14:00:06Z,When I click on a link in an email two duplicate tabs open,"<p>Every time I click on a link in an email Firefox opens two duplicate tabs.  This has been happening for a while so I'm not sure which version of Firefox it started with.  It does not happen in other browsers.

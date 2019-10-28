@@ -79,6 +79,7 @@ while !end_program
   end
   url_params = nil
   questions["results"].each do|q|
+    logger.debug "question:" + q.ai(options = {html: true})
     updated = q["updated"]
     logger.debug "created:" + q["created"]
     created = Time.parse(q["created"])
