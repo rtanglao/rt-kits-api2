@@ -82,9 +82,10 @@ if csv
         end  
         tags_markdown = ";" if tags_markdown == ""
         f.puts(
-          sprintf("%d |[%s](%s) |%s |%s |<details><summary>%s</summary>%s</details>\n", row_array[0], row_array[1],
-          row_array[2], row_array[3].tr("\n",""), 
-          row_array[4].tr("\n","")[0..79], row_array[4].tr("\n",""), 
+          sprintf("%d |[%s](%s) |%s |<details><summary>%s</summary>%s<details> |%s\n", 
+            row_array[0], row_array[1],
+            row_array[2], row_array[3].tr("\n","")[0..79],row_array[3].tr("\n",""),
+            row_array[4].tr("\n",""), 
           tags_markdown))
       end
     end
