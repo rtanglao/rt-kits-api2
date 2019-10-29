@@ -8,7 +8,7 @@ Roland's Kitsune API scripts version 2
 ```
 * [created time in the API](https://github.com/rtanglao/rt-kits-api2/blob/master/test-time-question-1271141-stdout.txt) is: `
   * `"created" => "2019-10-23T00:02:46Z`
-  * but the web page shows `Posted 10/22/19, 5:02 PM`
+  * but the web page shows `Posted 10/22/19, 5:02 PM`: ![wrong-time-question-1271141](https://github.com/rtanglao/rt-kits-api2/blob/master/wrong-website-time-question-1271141.png)
   * If the API time is in UTC and correct,  shouldn't the web page show `Posted 10/22/19, 7:46 PM` if [the web page is in Pacific](https://www.worldtimebuddy.com/utc-to-pst-converter?qm=1&lid=100,8,6174041&h=100&date=2019-10-29&sln=2.5-3)?
 
 ## 22october2019 get questions for day 1, firefox 70
