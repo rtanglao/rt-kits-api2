@@ -1,6 +1,12 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 28october2019 1st sumo question of the day in utc time has the wrong time in the UI
+
+```bash
+./test-time-question-1271141.rb >./test-time-question-1271141-stdout.txt
+```
+
 ## 22october2019 get questions for day 1, firefox 70
 
 ```bash
