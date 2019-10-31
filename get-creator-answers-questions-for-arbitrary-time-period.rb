@@ -126,7 +126,11 @@ while !end_program
     else
       logger.debug "SKIPPING"
     end
-    logger.debug 'url:' + url
+    if !url.nil?
+      logger.debug 'url:' + url
+    else
+      logger.debug 'url is nil'
+    end
     logger.debug 'created:' + q["created"].to_i.to_s
     logger.debug'created_time:' + created_time.to_i.to_s
     if (created.to_i < created_time.to_i) || url.nil?
