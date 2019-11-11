@@ -82,11 +82,15 @@ while !end_program
     logger.ap q
     #logger.debug "question:" + q.ai(options = {html: true})
     updated = q["updated"]
-    logger.debug "created from API:" + q["created"] + "<-- bug this is PST not UTC"
-    # All times are stored in PST not PDT and not UTC
+    logger.debug "created from API:" + q["created"] + "<-- this is PST not UTC despite the 'Z'"
+    # All times returned by the API are in PST not PDT and not UTC
+    # All URL parameters for time are also in PST not UTC
+    # See https://github.com/mozilla/kitsune/issues/3961 and
+    # https://github.com/mozilla/kitsune/issues/3946
+    # The above may change in the future if we migrate the Kitsune database to UTC
     created = Time.parse(q["created"].gsub("Z", "PST")) 
     if !updated.nil?
-      logger.debug "updated from API:" + updated + "<-- bug this is PST not UTC"
+      logger.debug "updated from API:" + updated + "<-- this is PST not UTC despite the 'Z'"
       updated = Time.parse(q["updated"].gsub("Z", "PST"))
       logger.debug "updated:" + updated
     end
