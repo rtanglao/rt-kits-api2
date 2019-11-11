@@ -1,0 +1,164 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1272715,2019-11-10 23:11:56 UTC,2019-11-10T23:11:56Z,После обновления браузера до версии 70.0.1 некоторые сайты не открываются.,"<p>Здравствуйте! После обновления браузера до версии 70.0.1 некоторые сайты не открываются, надо очистить Cookies. Возможно ли добавить функцию очистки Cookies при закрытии Firefox для указанных мной сайтов, а не только для всех сайтов?
+</p>",firefox-700;cookies;desktop;windows-81;,firefox,cookies,en-US,"",sega-srg
+1272714,2019-11-10 22:57:54 UTC,2019-11-11T00:00:39Z,Block  Firefox Extension using Group Policy,"<p>Good afternoon. How can I block extensions through firefox for group policies
+</p>",other;desktop;windows-10;,firefox,other,en-US,1265950;1265951;1265952;,monstro163
+1272713,2019-11-10 21:30:27 UTC,2019-11-11T00:43:28Z,I just update my firefox to 70.0.1 (64-bit). But all details description in my previously gone. How to get my description back ?,"<p>I just update my firefox to 70.0.1 (64-bit). But all details description in my previously gone. How to get my description back ? 
+Because some of my password and notes store in bookmark in my previous firefox.
+Need help. Thanks.
+</p>",bookmarks;firefox-700;desktop;windows-10;,firefox,bookmarks,en-US,1265948;1265957;,edyfutwembun
+1272712,2019-11-10 20:52:49 UTC,2019-11-10T20:52:49Z,Does Enhanced Tracking Protection learn?  Also are my addons overkill?,"<p>This is just something that I want to learn about.  Since Firefox's Enhanced Tracking Protection is based on lists from Disconnect as I've read, does that mean that when Disconnect updates, so to does ETP?  Or does ETP slowly learn over time about new trackers and block those (like how Privacy Badger works?)
+I currently have ETP set to Strict, but I also have Disconnect, Privacy Badger, Privacy Possum, and DuckDuckGo Privacy Essentials as addon supplements.
+If this has been answered already, sorry for the repeat question.
+</p>",privacy-and-security_1;firefox-700;desktop;windows-10;,firefox,privacy-and-security,en-US,"",Vannick
+1272709,2019-11-10 19:39:45 UTC,2019-11-10T23:35:00Z,Can't upload photos to Facebook,"<p>As of the recent Firefox update 67, we've been unable to upload photos to the Facebook Marketplace, with the photos just showing the blank wheel, and nothing actually happening, no upload progress being made, etc.
+</p><p>In addition, we're also unable to edit posts that have already been made in buy, swap, sell groups, with the edit box simply not showing up.
+</p><p>After some Googling, we've updated Java to the most recent version, and checked the other plugins for updates, and there are no adblocks that are interfering with Facebook as far as we know.
+</p><p>Any advice or help you can give would be greatly appreciated, since we are a small business and Facebook is one of the ways we use to advertise new products and get new customers.
+</p>",websites;firefox-700;firefox-7001;desktop;windows-10;,firefox,websites,en-US,1265921;1265929;1265949;,pioneercountryfurniture
+1272707,2019-11-10 19:03:14 UTC,2019-11-10T21:04:38Z,"Pinned tabs open links & URLs in themselves, but not in new tabs","<p>It's officially described here <a href=""https://support.mozilla.org/en-US/kb/pinned-tabs-keep-favorite-websites-open"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/pinned-tabs-keep-favorite-websites-open</a> that ""Links to other websites open in a new tab so that your Pinned Tab doesn't change."" But this is just not the case for me. The content of my pinned keeps changing because they don't open links and URLs (the url bar) in themselves. I'm running FX 70.0.1 (64-bit).
+</p>",tabs;firefox-700;desktop;windows-10;,firefox,tabs,en-US,1265920;,gixandy
+1272706,2019-11-10 18:52:35 UTC,2019-11-10T20:33:48Z,"Preferences says Facebook Container ""requires container tabs"", but Facebook Container seems to be working","<p>General Preferences seems to believe that I don't have container tabs enabled. It says that Facebook Container ""requires container tabs"" and suggests I disable it. (See first image). However, the add-on seems to be working - the tab has a black underline (see second image)
+</p><p>I only noticed this message today, so I have no idea how long it's been around. I've tried many things, including
+</p><pre> - making sure Firefox is up-to-date
+ - restarting Firefox (many times, including in Safe Mode)
+ - removing and reinstalling Facebook Container
+ - disabling all add-ons except Facebook Container
+ - closing and re-opening Preferences after each and every change
+</pre>
+<p>I even installed a system update and re-started my computer. 
+</p><p>I'd appreciate all and any help.
+</p><p>Thanks
+</p>",firefox-680;customize;desktop;,firefox,customize,en-US,1265919;,ameriehelton
+1272705,2019-11-10 18:26:12 UTC,2019-11-10T20:56:49Z,"How do I save or copy the set of tabs in a window, so I can put into another profile.","<p>I have 3 profiles, depending on what I'm using Firefox for.  Somehow I inadvertently closed a window with a bunch of tabs (even though I have closing warning on.  I have an earlier version of this window in another proile.  How do I save or copy the set of tabs in a window, so I can put into another profile? 
+(Previously I could set the new window option to be a set of tabs from the current window, copy it, quit and switch profile, then paste it into the preferences and when I opened a new window all the tabs would appear.  I inadvertently upgraded fromv 58 to v69 (after 7 hours trying different things, I wasn't able to stop FF from upgrading behind my back, when I would restore an older verison, but that's a different problem), and I can't see how to do what I was able to do before in v69.
+</p>",firefox-690;tabs;desktop;mac-os;,firefox,tabs,en-US,1265923;,calspm
+1272704,2019-11-10 18:26:07 UTC,2019-11-10T18:26:07Z,Busy/Loading Circle,"<p>At least 3-4 times a day I get what I call a busy/loading circle. I cannot refresh it or otherwise stop it, the only option is to close that tab, open a new one, and manually go back to where I was. Running Windows 10 64 bit 1903 with Firefox 70.0.1. It's been happening ever since I updated to 70.0.0 and across all websites that I use.
+</p>",firefox-700;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",swingarm1
+1272703,2019-11-10 17:59:11 UTC,2019-11-10T17:59:11Z,Firefox is not responsive since update 70.0.1 on macOS Mojave. Even the menu is not opening,"<p>Since I moved to 70.0.1, none of the webpages open, even the menu on the top right corner is not opening. Rolled back to 69.0.3 and it works smoothly.
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US,"",nansu305
+1272702,2019-11-10 17:13:54 UTC,2019-11-10T19:11:37Z,"secure connection failed on websight i use all the time, now i cant","<p>i just want to access <a href=""http://scarletsmods.com"" rel=""nofollow"">scarletsmods.com</a> and i cant because is says secure connection failed. ive tried many different things from this sight but i cant access the web page. it is a secure page. i use it all the time.
+</p>",firefox-700;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1265914;,ashleyshpak
+1272701,2019-11-10 17:11:46 UTC,2019-11-11T01:49:44Z,"The middle mouse wheel no longer opens a link in a new tab like it used to;  now, it shows my history of previous sites visited.","<p>I used to be able to open a new tab by clicking on a link with my middle mouse wheel. Now, it displays what the system tray's TASK VIEW icon shows.
+</p>",tabs;firefox-700;firefox-7001;desktop;,firefox,tabs,en-US,1265960;,bromberg
+1272697,2019-11-10 14:51:59 UTC,2019-11-10T22:03:55Z,How do I open a private window with a url from command line windows 10?,"<p>I've tried:
+""C:\Program Files\Mozilla Firefox\firefox.exe"" -private <a href=""http://google.com"" rel=""nofollow"">google.com</a>
+""C:\Program Files\Mozilla Firefox\firefox.exe"" <a href=""http://google.com"" rel=""nofollow"">google.com</a> -private
+""C:\Program Files\Mozilla Firefox\firefox.exe"" -private-window <a href=""http://google.com"" rel=""nofollow"">google.com</a>
+""C:\Program Files\Mozilla Firefox\firefox.exe"" <a href=""http://google.com"" rel=""nofollow"">google.com</a> -private-window 
+all with no luck.
+What am I doing wrong?
+From reading the developer documentation ' ""C:\Program Files\Mozilla Firefox\firefox.exe"" -private-window url' should work but it doesn't.
+Thanks.
+</p>",firefox-700;other;desktop;windows-10;,firefox,other,en-US,1265896;1265897;1265898;1265906;1265907;1265909;1265911;1265917;1265918;1265935;1265936;,mustang.4222
+1272696,2019-11-10 14:27:14 UTC,2019-11-10T14:27:14Z,dropdown menu after left click not working,"<p>Left click on mouse will not activate drop-down menus. it appears but does not become active and disappears.  This happened recently after update.
+</p>",firefox-700;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",goral3
+1272695,2019-11-10 14:18:15 UTC,2019-11-10T14:18:15Z,in page links don't work except with right click,"<p>Since updating to v70.0.1 most in page links will not redirect UNLESS I right click on them and select Open in a New Tab. This behaviour didn't exist in previous versions. I removed an adblocker extension but no difference. I keep thinking someone how I got Explorer but with a Firefox skin.
+</p>",other;firefox-700;firefox-7001;desktop;windows-10;,firefox,other,en-US,"",RealGomer
+1272694,2019-11-10 13:24:55 UTC,2019-11-10T21:32:00Z,Keep getting message that my browser is being slowed by a web page trying to open.,"<p>Then it asks me what I want to do.  I have deleted Firefox and started again but the problem comes back.
+</p>",firefox-700;firefox-7001;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1265930;,chasjames19
+1272693,2019-11-10 12:38:48 UTC,2019-11-10T12:38:48Z,Roblox won't open when I press play on the website.,"<p>I have emailed Roblox Support and they told me to come here. 
+</p><p>Whenever I press play on the Roblox website, it says to download the game but I already have.
+I have good reason to believe this has something to do with Firefox opening the Roblox game because I can do it in any other browser.
+</p>",firefox-700;other;desktop;windows-10;,firefox,other,en-US,"",amturtlemc
+1272692,2019-11-10 12:35:44 UTC,2019-11-11T06:00:41Z,Why am I denied access to the Fox News Website?,"<p>This is the message I get
+Access Denied
+You don't have permission to access ""<a href=""http://www.foxnews.com/"" rel=""nofollow"">http://www.foxnews.com/</a>"" on this server.
+</p><p>Reference #18.2c781bb8.1573417368.15c1da03 
+I am running the version 70.0.1
+</p>",websites;firefox-700;desktop;mac-os;,firefox,websites,en-US,1265937;1266014;,gbrian
+1272691,2019-11-10 12:15:07 UTC,2019-11-10T12:15:07Z,"2FA was disabled on my account a year ago, yet it's suddenly enabled again.","<p>About a year ago (possibly longer), I distinctly remember Mozilla forcing 2FA for various things including sending emails to addons+amo@mozilla<a href=""http://-community.org"" rel=""nofollow"">-community.org</a>. I am 99% sure I carefully turned that trash off after my add-on thread, otherwise I'd have my recovery key on hand. Now, after a long period of inactivity, I am permanently in 2FA hell with no recovery key. I created this new account so that I can ask what the procedure is to gain back access to my old account. That account exists for the sole purpose of maintaining my add-on, and now I can't touch my own add-on.
+</p><p>Also, attached is a screenshot of other nonsense that occurs when I try to sidestep 2FA. I receive all account emails no problem: verification code for this new account, multiple successful password resets on the old account, etc. This screenshot however shows that they are sending a ""confirmation link"" yet no email is even attempted. I don't know what to make of this mess.
+</p>",privacy-and-security_1;desktop;,firefox,privacy-and-security,en-US,"",nader.firefox
+1272690,2019-11-10 11:49:30 UTC,2019-11-10T14:03:11Z,"When opening a new tab on Fedora 29, it gets stuck in an infinite loading loop and does not load.","<p>When opening a new tab and trying to navigate to a new site, the tab gets stuck and does not load  This occurs for both opening a new tab and navigating to another website, or by clicking a hyperlink on the current page. This happens about 50% of the time when I try to go to another tab.
+</p>",firefox-690;tabs;desktop;firefox-6901;linux;,firefox,tabs,en-US,1265855;1265864;,575scott
+1272689,2019-11-10 11:16:55 UTC,2019-11-10T11:16:55Z,Printing box opening randomly,"<p>Anyone having an issue with Firefox opening the print dialogue box randomly?
+</p>",firefox-700;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,"",spindlerja16
+1272687,2019-11-10 10:00:44 UTC,2019-11-10T14:29:15Z,Access to foxnews.com is denied on my iMac,"<p>Can access on Safari but not on Firefox
+</p>",firefox-700;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,1265832;1265872;,4034-voldy914
+1272685,2019-11-10 09:11:03 UTC,2019-11-10T19:08:20Z,cannot enter text firefox or thunderbird,"<p>I cannot enter text or numbers, ANYTHING! on Firefox or Thunderbird!  All okay with Explorer and Chrome.  What happened?
+</p>",other;desktop;windows-7;bug_1;,firefox,other,en-US,1265835;1265844;1265913;,mv-ladyjoan
+1272680,2019-11-10 06:47:23 UTC,2019-11-10T06:47:23Z,"what is : ""media.peerconnection.ice.obfuscate_host_addresses"".It appears not documented","<p>In about:config ""media.peerconnection.ice.obfuscate_host_addresses"" doesn't appear to be documented. 
+can anybody guide me on it's use or where to find documentation?  
+</p><p>i'm interested in settings surrounding protecting ip/internal/address leakage. i don't have a vpn or proxy but i don't want my geo location to be broadcast and identified by ip-address. probably nothing i can do in the browser as ISP assigns the ip address, but all info is good.
+</p>",firefox-700;customize;desktop;windows-7;escalate;,firefox,customize,en-US,"",spudatoe
+1272679,2019-11-10 06:46:18 UTC,2019-11-10T21:18:35Z,How do I change my settings to allow me to get onto a Canadian gov. website?,"<p>Hi, I recently have been unable to login anymore to a (Canadian) gov. website that I have regularly used. I've messed with settings &amp; seem worse off now. I've also tried to ensure that Javascript is enabled but am still getting an error message that it's not. Currently I've messed with all sorts of cookie/tracker settings and have no idea what I'm doing.
+Thanks!
+</p>",privacy-and-security_1;firefox-700;firefox-7001;desktop;mac-os;,firefox,privacy-and-security,en-US,1265927;,MarianneM7
+1272678,2019-11-10 06:20:29 UTC,2019-11-11T05:34:34Z,Mobile version running on MacBook Pro with Catalina,"<p>Recently updated to Catalina Os and now The interface is that of a mobile platform so none of the additional apps in Firefox work
+</p>",other;desktop;,firefox,other,en-US,1266008;,zoltan4u
+1272677,2019-11-10 06:02:59 UTC,2019-11-11T06:11:14Z,Cant return from the previous page (Bir önceki sayfaya geri dönememe sorunu),"<p>[TR]
+Bu sorun genelde google üzeriden başıma geliyor. Google üzerinden farklı bir web sayfasına geçiş yaptığımda, tekrar google arama sayafasına dönemiyorum. Başka sitelerdede bir kaç defa başıma geldi. Fakat her zaman olmuyor, arada sırada böyle yapıyor. Güncelleme öncesinden böyle bir sorun yoktu diye hatırlıyorum. Sorunun ne olduğuna anlam verebilmiş değilim. Geri dönüş tuşu deaktif oluyor.
+</p><p>[EN]
+This problem usually happens to me over google. When click to a different web page on Google, i can't go back to the google search page. It's happened a couple of times on other sites. But it doesn't always happen. I remember there was no such problem before the update (btw not sure). I really dont get it what's the problem. When this happens return(previous) button being deactivated.
+</p>",firefox-700;other;desktop;windows-10;,firefox,other,tr,1266017;,ca0sleider77
+1272675,2019-11-10 05:23:02 UTC,2019-11-10T22:42:03Z,Text are hard to read despite the default settings on fonts,"<p>I think ever since the latest updates, some websites displays a different font that are so hard to read even though my settings are at default (Times New Roman, 16 and have selected ""Allow pages to choose their own fonts, instead of your selections above"" on the Options). I have also tried ClearType Text Tuner. Back then, they were still normal but it's now having hiccups on the fonts, not only on one website does it happen but also on some websites. 
+</p><p>First picture are the fonts on Firefox (it wasn't like that before) and second picture is from Chrome (although the color is too light but you can see the difference).
+</p><p>Any help would be appreciated, thank you.
+</p>",firefox-700;other;desktop;windows-10;,firefox,other,en-US,1265749;1265803;1265945;,xmeoki.h
+1272673,2019-11-10 04:53:25 UTC,2019-11-10T15:33:21Z,"Firefox renders some HTML metatdata on some pages, whch obsucres the content. For example, at https://www.dailymail.co.uk/debate/article-7668911/DAN-HODGES-Jere","<p>I think the question explains. See teh attached clip from a newspaper web site.
+</p>",firefox-700;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1265745;1265751;1265757;1265786;1265796;1265799;1265879;,johnwoo3
+1272672,2019-11-10 04:50:21 UTC,2019-11-11T03:40:21Z,I can't access Firefox Send,"<p>On 9//11/19 and 10/11/19 I tried to access Firefox Send, but simply get message 'Something Went Wrong'.
+I even changed my password but the same thing happened. 
+Can anyone please help.
+I am using Windows 7 on a public computer.
+</p>",firefox-660;other;desktop;windows-7;,firefox,other,en-US,1265926;1265959;1265975;1265976;,recoverymail123890
+1272671,2019-11-10 04:35:31 UTC,2019-11-10T16:21:36Z,"My Firefox devices stopped sync (win10, win7, raspbian, android)","<p>about:sync-log 
+</p><p>1573387978968	Sync.LogManager	DEBUG	Flushing file log
+1573387978971	FirefoxAccounts	DEBUG	FxAccountsProfileClient: Requested profile
+1573387978971	FirefoxAccounts	DEBUG	getOAuthToken enter
+1573387978976	FirefoxAccounts	TRACE	getCachedToken returning cached token
+1573387978976	FirefoxAccounts	DEBUG	getOAuthToken returning a cached token
+1573387978977	Services.Common.RESTRequest	DEBUG	GET request to <a href=""https://profile.accounts.firefox.com/v1/profile"" rel=""nofollow"">https://profile.accounts.firefox.com/v1/profile</a>
+1573387978994	Sync.LogManager	DEBUG	Log cleanup threshold time: 1572523978994
+1573387979023	Sync.LogManager	DEBUG	Done deleting files.
+1573387979759	Services.Common.RESTRequest	DEBUG	GET <a href=""https://profile.accounts.firefox.com/v1/profile"" rel=""nofollow"">https://profile.accounts.firefox.com/v1/profile</a> 304
+1573388006387	FirefoxAccounts	DEBUG	FxAccountsWebChannel message received: fxaccounts:fxa_status
+1573388006388	FirefoxAccounts	DEBUG	fxa_status received
+1573388006388	FirefoxAccounts	DEBUG	service: 30b11ae57025e70b
+1573388006388	FirefoxAccounts	DEBUG	is private browsing: false
+1573389100448	FirefoxAccounts	INFO	Polling device commands.
+1573389100448	Sync.Service	DEBUG	User-Agent: Firefox/70.0.1 (Windows NT 10.0; Win64; x64) FxSync/1.72.0.20191030021342.desktop
+1573389100449	Sync.Service	INFO	Starting sync at 2019-11-10 14:31:40 in browser session O1gxzMml8M5-
+1573389100449	Sync.Service	DEBUG	In sync: should login.
+1573389100450	Sync.Service	INFO	User logged in successfully - verifying login.
+1573389100520	Sync.BrowserIDManager	DEBUG	unlockAndVerifyAuthState already has (or can fetch) sync keys
+1573389100521	Sync.Status	DEBUG	Status.login: error.sync.reason.serverMaintenance =&gt; success.status_ok
+1573389100521	Sync.Status	DEBUG	Status.service: error.login.failed =&gt; error.login.failed
+1573389100522	Sync.Service	DEBUG	Fetching unlocked auth state returned success.status_ok
+1573389100580	Services.Common.RESTRequest	DEBUG	GET request to <a href=""https://api.accounts.firefox.com/v1/account/device/commands?index=1"" rel=""nofollow"">https://api.accounts.firefox.com/v1/account/device/commands?index=1</a>
+1573389101382	Services.Common.RESTRequest	DEBUG	GET <a href=""https://api.accounts.firefox.com/v1/account/device/commands?index=1"" rel=""nofollow"">https://api.accounts.firefox.com/v1/account/device/commands?index=1</a> 200
+1573389101383	Hawk	DEBUG	(Response) /account/device/commands?index=1: code: 200 - Status text: OK
+1573389101383	Hawk	DEBUG	Clock offset vs <a href=""https://api.accounts.firefox.com/v1:"" rel=""nofollow"">https://api.accounts.firefox.com/v1:</a> -383
+1573389101386	Sync.Resource	DEBUG	GET fail 503 <a href=""https://sync-581-us-west-2.sync.services.mozilla.com/1.5/91863943/info/collections"" rel=""nofollow"">https://sync-581-us-west-2.sync.services.mozilla.com/1.5/91863943/info/collections</a>
+1573389101386	Sync.Resource	WARN	GET request to <a href=""https://sync-581-us-west-2.sync.services.mozilla.com/1.5/91863943/info/collections"" rel=""nofollow"">https://sync-581-us-west-2.sync.services.mozilla.com/1.5/91863943/info/collections</a> failed with status 503
+1573389101389	Sync.Status	DEBUG	Status.login: success.status_ok =&gt; error.login.reason.server
+1573389101389	Sync.Status	DEBUG	Status.service: error.login.failed =&gt; error.login.failed
+1573389101389	Sync.ErrorHandler	DEBUG	Got Retry-After: 3600
+1573389101389	Sync.Status	DEBUG	Status.login: error.login.reason.server =&gt; error.sync.reason.serverMaintenance
+1573389101389	Sync.Status	DEBUG	Status.service: error.login.failed =&gt; error.login.failed
+1573389101390	Sync.SyncScheduler	DEBUG	Got backoff notification: 3600000ms
+1573389101390	Sync.SyncScheduler	DEBUG	Fuzzed minimum next sync: 1573392701390
+1573389101391	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1573389101391	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1573389101421	Sync.SyncScheduler	DEBUG	Next sync in 4369256.143576094 ms. (why=schedule)
+1573389101424	Sync.Service	DEBUG	Exception calling WrappedLock: Error: Login failed: error.sync.reason.serverMaintenance(resource://services-sync/service.js:984:15) JS Stack trace: onNotify@service.js:984:15
+1573389101426	Sync.Service	DEBUG	Not syncing: login returned false.
+</p>",firefox-700;sync;desktop;windows-10;,firefox,sync,en-US,1265894;,andouan.grekas
+1272668,2019-11-10 03:40:31 UTC,2019-11-10T10:57:10Z,How do I remove wrongly accepted spellings from the spellchecker?,"<p>The spellchecker has recently stopped highlighting 'teh' as a misspelling of 'the'.  I frequently make this and other typing errors when using the browser, because i have to look at the keyboard when typing quickly and rely on the spellcheck to highlight the times when my fingers are not so well coordinated.
+At first, i thought it was a Facebook issue, but it appears on other sites where i make manual inputs.
+</p>",firefox-700;customize;desktop;windows-10;,firefox,customize,en-US,1265735;1265838;,trevordclarke
+1272667,2019-11-10 02:46:37 UTC,2019-11-10T16:22:22Z,Since updating Firefox shows adverts.,"<p>Previously, there were just blank squares  The shield is showing next to the padlock.  I haven't consciously done anything to trigger this.
+</p>",privacy-and-security_1;firefox-700;desktop;windows-7;,firefox,privacy-and-security,en-US,1265740;1265837;1265876;1265895;,kgtuckton
+1272666,2019-11-10 01:51:21 UTC,2019-11-10T22:12:03Z,how can i stop the refresh page,"<p>When i am reading a page suddenly reload !! so i have to wait 3-4 sec to get the page load. can i stop it ?
+</p>",websites;firefox-700;desktop;windows-10;,firefox,websites,en-US,1265738;1265931;1265938;,siourock
+1272665,2019-11-10 00:52:16 UTC,2019-11-10T01:09:19Z,my website log in not working in firefox and working in others browsers,"<p>i am unable to open my website dashboard in firefox and working fine in other browsers <a href=""https://bestmotorcycleshelmet.com"" rel=""nofollow"">https://bestmotorcycleshelmet.com</a>
+</p>",other;desktop;,firefox,other,en-US,1265722;,hasnainafridi5615
+1272664,2019-11-10 00:49:32 UTC,2019-11-10T00:49:32Z,Windows Language Icon disappear while using Firefox,"<p>Hi,
+</p><p>I encounter very strange issue, While using Firefox The windows language icon in the taskbar disappear and i lose some language changing functions, when i minimize or close Firefox Everything works fine again.
+</p><p>Thank you
+</p>",other;firefox-700;firefox-7001;desktop;windows-7;,firefox,other,en-US,"",amrmohamed685
+1272662,2019-11-10 00:16:13 UTC,2019-11-10T21:09:02Z,"The browsing and downloading histories are not deleted, even canceling places.sqlite","<p>Nella cronologia di download si sono accumulati molti dati che io voglio cancellare, ma questo non avviene, anche la cronologia di navigazione non si cancella. Ho provato a cancellare il file ""places.sqlite"", al riavvio di firefox le cronologie sono vuote, ma il problema rimane, l'opzione di cancellazione delle cronologie non funziona. Ho anche eseguito il ripristino di firefox, ma senza soluzione del problema
+Attendo cortese risposta, possibilmente risolutiva.
+Cordiali saluti.
+</p>",firefox-700;other;desktop;windows-10;,firefox,other,en-US,1265925;,valtersalvagno

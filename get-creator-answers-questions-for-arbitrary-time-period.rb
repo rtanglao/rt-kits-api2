@@ -89,10 +89,12 @@ while !end_program
     # https://github.com/mozilla/kitsune/issues/3946
     # The above may change in the future if we migrate the Kitsune database to UTC
     created = Time.parse(q["created"].gsub("Z", "PST")) 
+    logger.debug "created with PST correction:" + created.to_s
+
     if !updated.nil?
       logger.debug "updated from API:" + updated + "<-- this is PST not UTC despite the 'Z'"
       updated = Time.parse(q["updated"].gsub("Z", "PST"))
-      logger.debug "updated:" + updated
+      logger.debug "updated with PST correction:" + updated.to_s
     end
     
     id = q["id"]
