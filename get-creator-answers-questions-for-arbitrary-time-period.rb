@@ -82,19 +82,13 @@ while !end_program
     logger.ap q
     #logger.debug "question:" + q.ai(options = {html: true})
     updated = q["updated"]
-    logger.debug "created:" + q["created"]
-    created = Time.parse(q["created"])
-    # kitsune issue 3686 has been fixed
-    #logger.debug "QUESTION created w/error:" + created.to_i.to_s
-    #q["created"] = created.to_i + issue_3686_offset
-    #logger.debug "Question created w/error fixed:" + q["created"].to_s
+    logger.debug "created from API:" + q["created"] + "<-- bug this is PST not UTC"
+    # All times are stored in PST not PDT and not UTC
+    created = Time.parse(q["created"].gsub("Z", "PST")) 
     if !updated.nil?
+      logger.debug "updated from API:" + updated + "<-- bug this is PST not UTC"
+      updated = Time.parse(q["updated"].gsub("Z", "PST"))
       logger.debug "updated:" + updated
-      updated = Time.parse(q["updated"])
-      logger.debug "created:" + q["created"]
-      #logger.debug "QUESTION updated w/error:" + updated.to_i.to_s
-      #q["updated"] = updated.to_i + issue_3686_offset
-      #logger.debug "Question updated w/error fixed:" + q["updated"].to_s
     end
     
     id = q["id"]
