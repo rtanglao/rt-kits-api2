@@ -107,7 +107,6 @@ while !end_program
     answers = q["answers"]
     answers_str = ""
     answers.each { |a| answers_str = answers_str + a.to_s + ";"   }
-    created = Time.parse(q["created"])
     creator = q["creator"]["username"]
     logger.debug 'createdtop:' + created.to_i.to_s
     logger.debug 'created_time:' + created_time.to_i.to_s
