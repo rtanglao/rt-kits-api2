@@ -3,6 +3,7 @@ Roland's Kitsune API scripts version 2
 
 ## 11november2019 how to run these scripts for product integrity
 
+* on Windows with WSL1 or WSL2, Linux or OS X install python 2.6 or newer
 * clone the repo: ```git clone https://github.com/rtanglao/rt-kits-api2.git```
 * and then run the scripts (change the dates appropriately e.g. change ```11 3``` and ```11 9``` to the start and end of the week) and get the number of questions:
 
