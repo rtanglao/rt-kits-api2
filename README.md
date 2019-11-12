@@ -13,7 +13,7 @@ cd PRODUCT_INTEGRITY_4WEEK_RELEASE_CYCLE
 2019-11-03-2019-11-09-firefox-creator-answers-desktop-all-locales.csv markdown
 wc -l sorted-all-desktop-en-us-2019-11-03-2019-11-09-firefox-creator-answers-desktop-all-locales.md 
 295 sorted-all-desktop-en-us-2019-11-03-2019-11-09-firefox-creator-answers-desktop-all-locales.md
-# actual number of question is 295 - 4 = 291 questions the week of Novembe 3-9, 2019
+# actual number of question is 295 - 4 = 291 questions the week of November 3-9, 2019
 ```
 
 ## 11november2019 product integrity Sunday-Saturday e.g. November 3-9, 2019
