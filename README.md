@@ -1,6 +1,21 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 1november2019 how to run these scripts for product integerity
+
+* clone the repo: ```git clone https://github.com/rtanglao/rt-kits-api2.git```
+* and then run the scripts (change the dates appropriately e.g. change ```11 3``` and ```11 9``` to the start and end of the week) and get the number of questions:
+
+```bash
+cd PRODUCT_INTEGRITY_4WEEK_RELEASE_CYCLE
+../get-creator-answers-questions-for-arbitrary-time-period.rb 2019 11 3 2019 11 9
+../print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb \
+2019-11-03-2019-11-09-firefox-creator-answers-desktop-all-locales.csv markdown
+wc -l sorted-all-desktop-en-us-2019-11-03-2019-11-09-firefox-creator-answers-desktop-all-locales.md 
+295 sorted-all-desktop-en-us-2019-11-03-2019-11-09-firefox-creator-answers-desktop-all-locales.md
+# actual number of question is 295 - 4 = 291 questions the week of Novembe 3-9, 2019
+```
+
 ## 11november2019 product integrity Sunday-Saturday e.g. November 3-9, 2019
 
 ```bash
