@@ -1,6 +1,16 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 11november2019 product integrity Sunday-Saturday e.g. November 3-9, 2019
+
+```bash
+cd /home/rtanglao/GIT/rt-kits-api2/PRODUCT_INTEGRITY_4WEEK_RELEASE_CYCLE
+../get-creator-answers-questions-for-arbitrary-time-period.rb 2019 11 3 2019 11 9
+../print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb \
+2019-11-03-2019-11-09-firefox-creator-answers-desktop-all-locales.csv markdown
+```
+
+
 ## 11november2019 FIXED: "1st sumo question of the day in utc time has the wrong time in the UI"
 
 * All times returned by the API are now PST (even though they say 'Z') and all URL parameters are now PST (see https://github.com/mozilla/kitsune/issues/3946 and https://github.com/mozilla/kitsune/issues/3961 )
