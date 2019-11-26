@@ -1,6 +1,14 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 25november2019 going back to december 2018 for product integrity
+
+```baah
+../print-product-integrity-week-start-dates.rb > 2018-2021-12-19-product_integrity_dates.txt
+../print-csv-num-en-us-questions-by-product-integrity-week.rb 2018-11-01-2019-11-25-firefox-creator-answers-desktop-all-locales.csv 2018-2021-12-19-product_integrity_dates.txt >2018-11-26-num-ff-desktop-aaq-questions-01nov2018-25nov2019.csv
+ mv 2018-11-26-num-ff-desktop-aaq-questions-01nov2018-25nov2019.csv 2018-11-26-num-ff-desktop-en-us-aaq-questions-01nov2018-25nov2019.csv
+```
+
 ## 11november2019 how to run these scripts for product integrity
 
 * on Windows with WSL1 or WSL2, Linux or OS X install python 2.6 or newer
