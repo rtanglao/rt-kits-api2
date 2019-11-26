@@ -21,9 +21,11 @@ DATE_FILENAME = ARGV[1]
 
 puts 'product_integrity_week_start, num_ff_desktop_en_us_questions'
 num_questions = 0
+save_the_date = ''
 
 IO.foreach(DATE_FILENAME) do |date|
   date = date.chomp
+  save_the_date = date
   dstart_gte = DateTime.parse(date + "Z").to_time.to_i
   dend_lt = DateTime.parse(date + "Z").next_day(7).to_time.to_i
   num_questions  = 0
@@ -36,4 +38,4 @@ IO.foreach(DATE_FILENAME) do |date|
   end
   puts( date + ', ' + num_questions.to_s)
 end
-logger.debug 'num_questions:' + num_questions.to_s
+logger.debug 'date:' + save_the_date + ' num_questions:' + num_questions.to_s
