@@ -36,6 +36,6 @@ IO.foreach(DATE_FILENAME) do |date|
     created = DateTime.parse(row['created']).to_time.to_i
     num_questions += 1 if created >= dstart_gte && created < dend_lt
   end
-  puts( date + ', ' + num_questions.to_s)
+  puts( date + ', ' + num_questions.to_s) if num_questions != 0
 end
 logger.debug 'date:' + save_the_date + ' num_questions:' + num_questions.to_s
