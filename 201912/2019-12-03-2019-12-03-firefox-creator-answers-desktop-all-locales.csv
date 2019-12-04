@@ -1,0 +1,139 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1274207,2019-12-03 15:19:07 -0800,2019-12-03T15:19:07Z,I've just downloaded 64 bit Firefox on my Mac with the Catalina OS and now I have to sign into Firefox everytime I open it. Is this the new normal?,"<p>I've just downloaded 64 bit Firefox on my Mac with the Catalina OS and now I have to sign into Firefox everytime I open it. Is this the new normal?
+</p>",download-and-install_1;firefox-710;desktop;mac-os;,firefox,download-and-install,en-US,"",robkom
+1274205,2019-12-03 15:10:00 -0800,2019-12-03T15:22:39Z,Firefox crashes,"<p>I am running a recently refreshed version of Firefox 71.0 (64 bit). My Firefox is closing completely whenever I try to browse to locate a file. This happens on multiple sites, but as an example, I went to <a href=""https://send.firefox.com/"" rel=""nofollow"">https://send.firefox.com/</a> and tried to browse out for a file. The file explorer window opens, but then Firefox freezes and shuts down. There are no crash reports generated when this happens. This also happens when I run Firefox in safe mode. This has been happening for a few days and was also happening in Firefox 70.0.1.
+</p><p>I tried the same process using Microsoft Edge, and I am able to browse out for the file without issue.
+</p><p>Thank You
+</p>",firefox-710;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1270516;1270520;1270521;,nathan.sharp
+1274201,2019-12-03 14:38:45 -0800,2019-12-03T15:02:57Z,"""Restore previous session"" setting being ignored","<p>In my preferences I have ""Restore previous session"" checkbox checked and ""Warn you when quitting the browser"" unchecked. However I get a warning when I quit the browser with multiple tabs open, and my old tabs don't reopen when reopening Firefox.
+</p><p>I think this has started happening since updating to Catalina. Any ideas what might be going wrong?
+</p>",firefox-700;other;desktop;mac-os;,firefox,other,en-US,1270500;1270511;,mfishe
+1274198,2019-12-03 13:50:39 -0800,2019-12-03T14:35:43Z,"policies.json not working (Firefox 70, Linux)","<p>I want to disable private mode via a policies.json file, but it doesn't work. Firefox says that ""policy service is inactive""
+I enabled the debugging for policies via about:config, but the log doesn't give anything that forwards towards my policies.json file.
+</p><p>I'm running Fedora 31 linux. The exact same policies.json file does work on my Ubuntu machine, but not this one.
+</p><p>{
+</p><pre> ""policies"": {
+   ""DisablePrivateBrowsing"": true
+ }
+</pre>
+<p>}
+</p><p>created using sudo touch /usr/lib64/firefox/distribution/policies.json
+edited using sudo gedit
+</p><p>The file is located in /usr/lib64/firefox/distribution as it should be.
+</p><p>What's going on?
+</p>",privacy-and-security_1;firefox-700;desktop;,firefox,privacy-and-security,en-US,1270493;,thomasnarmon
+1274197,2019-12-03 13:24:25 -0800,2019-12-03T16:21:25Z,"How do I put the Tabs on Bottom with Firefox 71?  Once again, with their update, they SCREWED UP.","<p>I attempted to reuse the Chrome fix that was successful for previous versions, but that did not work.  I want my Tabs on the Bottom where ""I"" put them, not they way Firefox thinks I am supposed to have them  I am sure others are having the same difficulty.
+</p>",firefox-710;customize;desktop;windows-10;,firefox,customize,en-US,1270472;1270473;1270482;,montanamoss
+1274196,2019-12-03 13:00:23 -0800,2019-12-03T13:52:52Z,"After upgrading to 70.1.0, some fontawesome icons stopped working on sites.","<p>After upgrading to 70.1.0, some fontawesome icons stopped working on sites. Some of them work more beautifully, and some do not. For example, the fa-share-alt icon does not work anywhere now. In other browsers, everything is fine.
+</p>",firefox-710;desktop;fix-problems;windows-81;,firefox,fix-problems,en-US,1270464;1270466;1270478;,amorka89
+1274195,2019-12-03 12:48:51 -0800,2019-12-03T12:48:51Z,Як збільшити розмір кешу у версії фокса 68.2 і вище?,"<p>За замовчуванням розмір кешу даних у фаєрфокса всього 1 ГБ. Як його збільшити? Такої опції у версії 68.2 немає, хоча в попередніх версіях розмір кешу можна було самому встановити таким, як захочеться користувачу.
+</p>",other;desktop;windows-7;,firefox,other,en-US,"",jankee69
+1274194,2019-12-03 12:45:45 -0800,2019-12-03T14:01:46Z,"When clicking a youtube search result the search result page itself is removed from my browsing history, how is that possible?","<p>Im not talking about when you press back and then youtube forces you to stay on the current video even though its actually a different url because it senses that you want to go back to search results which wont automatically play another video and hence make them less money... Im talking about opening a new tab, searching for something on youtube, and then when I press a video/search result, the back button is greyed out implying I wrote the whole url for that specific video into the address bar without ever searching it up... How is that possible??? How is youtube actually removing my local browser history? Is that what theyre doing or are they somehow manipulating my browser to think there is none? This stinks so badly...
+</p>",privacy-and-security_1;firefox-700;firefox-7001;desktop;windows-10;,firefox,privacy-and-security,en-US,1270463;1270483;,skiibear
+1274192,2019-12-03 12:27:42 -0800,2019-12-03T12:49:45Z,how to configure privacy,"<p>Hello. I simply want an easy browser. I would really like to avoid ALL the bells and whistles. I also would like to prevent ANY information collection by ANYONE or background communications. I am also looking to find a product that will remove ANY and ALL cookies on demand and ALL temporary internet files, and especially ""customized advertising"" whose main purpose seems to be presenting me with the same search results regardless of the desired search. That being said I do not want to spend a month studying firewall configuration or how to set up firefox. Any chance I can get step by step guide to enable maximum protection while providing the minimum of information
+Thank you for ANY assistance
+</p><p>P.S. It is at least an hour worth of labour to get past the Captcha softwares
+</p>",privacy-and-security_1;firefox-700;firefox-7001;desktop;windows-7;,firefox,privacy-and-security,en-US,1270458;,ess_tee
+1274188,2019-12-03 12:04:20 -0800,2019-12-03T15:00:20Z,Firefox Developer Edition 72.0b1 (64-bit)  not working with any streaming sites (except YouTube),"<p>I have been trying - without success - to stream netflix, hulu, hbo go and disney plus using Firefox Developer edition for the last several months.  Each time I go to Netflix it tells me the widevine CDM plugin crashes. 
+</p><p>I get various errors while trying to view any videos on Netflix, including ""your network does not support streaming"" - which I know to be false due to the two ROKU devices on two separate TVs in the house, my PS4 and Chrome all functioning properly on my machine.
+</p><p>On disney plus I see Error 83 - and have attached a few screen shots.
+</p><p>I went to the Shaka Player Demo (as referenced in another ticket) and it also crashed with the following error:
+Shaka Error MEDIA.VIDEO_ERROR (3,,NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - void __cdecl mozilla::gmp::ChromiumCDMParent::Shutdown(void): ChromiumCDMParent is shutdown)
+</p><p>I have reset firefox - made sure it's updated to the latest version, unchecked and rechecked the DRM checkbox, erased all and created new profiles several times. downloaded (manually) the widevine latest CDM version (according to firefox) and placed fully downloaded versions of the dll files into the proper directory.
+</p><p>I am still getting errors.
+</p><p>I would prefer to use Firefox if at all possible, as I appreciate the tracking protections it affords.  I have also - on a trial basis - excepted Disney Plus tracking protections and content restrictions (autoplay allow, all tracking protections off) and I have no extensions running save my 1password extension.
+</p><p>Thank you for any help you can provide.
+</p>",websites;beta;firefox-720;desktop;windows-10;,firefox,websites,en-US,1270453;1270509;,rknield
+1274186,2019-12-03 11:55:48 -0800,2019-12-03T17:39:40Z,How can I sync a second computer without having to verify sync with an email acknowledement,"<p>I have more than one computer with firefox on it and want to sync bookmarks and other settings but other machines do not have mail access. I keep my mail on one computer only. Been burnt by hackers and want to minimize access. Microsoft allows a code to be sent to cell phone for authorizations. Do you have a similar option? BTW how many times are you going to ask for verification on sync. Seems like it happens regularly.
+</p>",firefox-710;sync;desktop;windows-10;,firefox,sync,en-US,1270449;1270467;1270534;1270537;,msaine
+1274185,2019-12-03 11:52:26 -0800,2019-12-03T12:54:50Z,How can I get tabs below in firefox 71.0?,"<p>Since the new update, tabs are on top again. And the fix for the last time it no longer worked (as usual) is not valid anymore. What must I do now? And why is firefox so set on placing the tabs on top? Thanks
+</p>",tabs;firefox-710;desktop;windows-10;,firefox,tabs,en-US,1270434;1270446;1270462;,ShishiShabbat
+1274184,2019-12-03 11:19:10 -0800,2019-12-03T11:55:07Z,"My new laptop with windows 10 insists that I use Microsoft Edge to stream a radio station, the same station on Firefox, I get no audio.","<p><strong>I want to be able to choose the software or browser that I want to use to listen to my station </strong>
+</p>",other;desktop;needsinfo;,firefox,other,en-US,1270425;1270430;,denis8
+1274178,2019-12-03 10:10:22 -0800,2019-12-03T11:44:47Z,How to enable RoboForm in Firefox 71?  No enable button on options.,"<p>An update to Firefox disabled RoboForm.  When trying to manage extensions in Firefox settings, there is no option to enable this extension.  Is there a problem with RoboForm?  Or another way to re-enable?  (I am not trying to view a toolbar at bottom of page, just over enable the extension.)
+</p>",firefox-710;customize;desktop;windows-7;,firefox,customize,en-US,1270427;,mbspangler
+1274177,2019-12-03 09:43:50 -0800,2019-12-03T15:37:28Z,1Password extension inoperative with 72.0b1,"<p>Extension appears in toolbar and extensions detail window, but clicking on the icon does nothing.
+New since latest beta installed.
+</p>",other;beta;firefox-720;desktop;mac-os;,firefox,other,en-US,1270514;1270519;1270522;1270524;,koberg
+1274176,2019-12-03 09:29:46 -0800,2019-12-03T14:50:48Z,how do i recover logins and passwords from before lockwise,"<p>after lockwise, i cant find all of my logins and passwords, i am screwed if i cant find tham, as i had completely trusted firefox.  how do i get them back, or read the .json files so that i can write them all down. please help me.
+</p>",firefox-700;other;desktop;windows-7;needsinfo;,firefox,other,en-US,1270402;1270503;,brianchest
+1274175,2019-12-03 09:20:39 -0800,2019-12-03T10:57:14Z,Commenting login and share buttons disabled,"<p>On all platforms running Disqus the three share controls and Disqus login control have all gone dead.  Clicking has zero effect.  Have already tried disabling all addons -- no effect.
+</p>",firefox-710;websites;desktop;windows-7;,firefox,websites,en-US,1270410;1270413;1270417;1270421;,JoeJupa
+1274173,2019-12-03 09:06:25 -0800,2019-12-03T11:13:35Z,"Informed that my Mozilla was updated, I was asked to sign up for Firefox. Is there a chat with support so I can locate what it is that is involved?","<p>When I opened up Mozilla this am, the screen went to notice that I was updated, and would I like to sign up for Firefox. I scanned the offerings, and assumed all the info would be there when I hit next. It went to signup right away, I confirmed my email, but what is available to me seems scattered in different place; in fact, I'm confused with being Mozilla signed up, and now Firefox. I was hoping you had a chat support so I could be directed to easier understanding.
+</p>",firefox-710;other;desktop;windows-7;,firefox,other,en-US,1270397;1270399;1270407;1270423;,bazbear2
+1274172,2019-12-03 08:56:24 -0800,2019-12-03T14:51:02Z,Firefox Crashing,"<p>My Firefox crashes all the time, but never creates a Crash Report in About:Crashes &amp; never send me a notice about crashing. Many actions cause it to crash. Here are some: downloading from another site; printing from email like emailed tickets; clicking on some items in Firefox Options, opening a second window in Firefox.. There seems to be no specific pattern. I have uninstalled &amp; installed again several times. &amp; I have also updated. Nothing helps or stops the crashing. It is very frustrating &amp; inconvenient. I have run anti-virus &amp; malware scans. I prefer Firefox to Chrome, but may have to change my default browser if this crashing problem cannot be fixed. Please advise. It might be useful if I could actually talk to someone. thank you. Jonathan Rose    xxxxxxxx.xxxx@xxx.xxx xxx xxx-xxxx
+</p><p><br>
+<em>(personal data removed by moderator; please do not post personal data on a public forum)</em>
+</p>",firefox-700;desktop;fix-problems;windows-10;escalate;,firefox,fix-problems,en-US,1270424;1270443;1270499;1270504;,jonathan.rose
+1274170,2019-12-03 08:35:14 -0800,2019-12-03T10:45:42Z,weird font on steam reviews,"<p>as you can see the font is really big.
+i have attached one to show how it looks like in FF
+one how it looks like in chrome
+</p><p>how come it looks like this? it makes reviews unreadable
+</p>",websites;firefox-700;firefox-7001;desktop;windows-10;,firefox,websites,en-US,1270412;1270415;1270418;1270419;,johnnylogen
+1274169,2019-12-03 08:25:27 -0800,2019-12-03T12:37:02Z,streaming problem: error 239000,"<p>video file can not be played.(error code 239000)   Lately I get this everywhere. I've got a browser that won't let me stream: this is a problem. Need a fix or another browser? What 2 do?
+</p>",firefox-700;firefox-7001;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,1270452;,indym66
+1274168,2019-12-03 08:21:12 -0800,2019-12-03T13:54:47Z,How do I get tabs back on bottom with new ver 71 release?,"<p>New release v71 moved my tabs back to top. How do I get them back to bottom?
+</p>",firefox-710;customize;desktop;windows-7;,firefox,customize,en-US,1270471;1270480;,jdevlin
+1274166,2019-12-03 07:37:21 -0800,2019-12-03T16:25:19Z,setting default printer for firefox,"<p>I am running Windows 10 Pro 2019 upgrade. My default printer is set in control panel to my Canon MF260 and is automatically selected by several apps, word, wordperfect, excel etc., however Firefox always selects another printer a Canon iP7250 colour that I don't use often, so each time I want to print an email I have to remember to select my default printer before printing. There seems to be nowhere in the Firefox setup to set the default printer.
+</p>",firefox-700;customize;desktop;windows-10;,firefox,customize,en-US,1270455;1270528;1270531;1270532;,David_Dundas
+1274164,2019-12-03 07:34:42 -0800,2019-12-03T07:54:53Z,Keystrokes are lagging in FF70 for windows 10,"<p>New Desktiop with Windows 10. Newly installed FF70. ONLY in FF do the keystokes lag when typing ANYwhere (Like now) Tried numerous things - Refresh, Troubleshoot &amp; Uninstall &amp; re-install. All other software (MS Office - notepae) woeking just fine. NOTE: because of my vision my Theme in Windows 10 is ""High Contrast B&amp;W"". My old destop is still working fine. With this new install of FF70 I am not able to even change colors.
+</p>",firefox-710;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1270380;,lombardi5
+1274163,2019-12-03 07:05:47 -0800,2019-12-03T07:05:47Z,"Firefox keeps crashing my computer, running unsupported scripts, and slowing down everything","<p>I have had problem with my Mac, and upgraded to Catalina. Since then the problem has become worse. I removed a chrome routine that was shown as an unsupported script on Firefox, and for a while all went well. Now it is back. I have deleted and reloaded Firefox, then tried deleting all Firefox files in Library (and lost all my bookmarks, but there are still problems.
+</p>",firefox-700;firefox-7001;desktop;fix-problems;,firefox,fix-problems,en-US,"",coenvanwyk
+1274160,2019-12-03 06:38:18 -0800,2019-12-03T09:06:33Z,A page on my website won't show content links on Firefox but will on Edge.,"<p>My website has a page that lists and links past newsletter Updates. <a href=""http://www.ftcsf.org/updates"" rel=""nofollow"">http://www.ftcsf.org/updates</a>
+</p><p>On Edge, this works fine, but on Firefox the list and links are missing.
+</p>",websites;firefox-700;firefox-7001;desktop;windows-10;,firefox,websites,en-US,1270390;1270395;,nancylynnprice
+1274159,2019-12-03 06:26:40 -0800,2019-12-03T07:18:21Z,Protect saved passwords through device security,"<p>Although I love Mozilla and I am  using it for decades now, I find it very frustrating the lack of password protection security. I cannot understand why Mozilla, the browser that aims to be the most secure for its users, cannot have a system similar to Chrome that requires user login before revealing stored passwords.
+</p><p>Whoever gets access on my computer can easily get all saved passwords - which might include banks/IRS/email, etc. It is even worse on the phone app. 
+</p><p>This can be a major reason to stop using Mozilla
+Thank you
+</p>",privacy-and-security_1;firefox-700;desktop;,firefox,privacy-and-security,en-US,1270370;,a_lambridis
+1274158,2019-12-03 05:36:27 -0800,2019-12-03T08:58:16Z,Updated to win 10 from 8.1 and forgot to backup my precious bookmarks.,"<p>Hi, I updated from win 8.1 to win 10 via a complete install; (fn105fn@yahoo.com; and changed my user name )
+</p><p>Alas, I forgot to back up my bookmarks; very important for my travelling in my motorhome.
+</p><p>Is there a chance where I may find it? Can I reinstall it to my current Firefox?
+</p>",bookmarks;firefox-700;desktop;windows-10;,firefox,bookmarks,en-US,1270391;,fn105fn
+1274154,2019-12-03 04:55:51 -0800,2019-12-03T04:57:43Z,"Por favor ayuda. Necesito deshabilitar que aparezca esto. Botón ""Refrescar Firefox""","<p>Buenos días, agradecería muchísimo que me puedan ayudar con lo siguiente.
+Tengo unos equipos con una configuración de firefox personalizada a los cuales les empezó a aparecer el mensaje que aparece en la captura y me está causando muchos inconvenientes ya que al parecer provoca que Firefox se reinstale en el equipo restableciendo toda la configuración a su estado predeterminado.
+Hay alguna manera de evitar que aparezca dicho mensaje? Desde about:config se puede quitar esto?
+</p><p>Desde ya les agradezco!!!
+Saludos!
+</p>",customize;desktop;windows-7;,firefox,customize,es,1270348;,gastt1691
+1274152,2019-12-03 04:40:10 -0800,2019-12-03T16:15:43Z,Can't log in except in private mode,"<p>Using Firefox 70.0.1 on macOS 10.14.6. I'm running into two issues that seem related and which I haven't solved. Firstly, there are some websites that refuse to let me log in (notably Flickr) except in a private window. There are others, such as a Leica camera forum, that let me log in but only show images if I do so in a private window. What I've done so far:
+-turned off extensions for those sites (uBlock Origin and Malwarebytes Browser Guard)
+-turned off Firefox tracking protection
+-tried in safe mode
+-cleared cookies and cache
+-(in response to a recent thread about a similar issue) ensured dom.webnotications.enabled is set to 'true'
+</p><p>This issue seems to have arisen with the update to v.70. Any thoughts?
+</p>",websites;firefox-700;firefox-7001;desktop;,firefox,websites,en-US,1270346;1270351;1270481;1270484;1270485;1270488;1270489;1270490;1270512;1270530;,drmoss
+1274151,2019-12-03 04:35:40 -0800,2019-12-03T05:13:51Z,Building mozilla from source code on CentOS-8,"<p>Hi, 
+</p><p>I am trying to build the latest ESR and ESR31 on CentOS 8. 
+I am trying to run the bootstrapper but it is unable to find some packages for both ESR sources ( i.e. 31 and 68 ). 
+Am I doing something wrong with my assumption of building mozilla from source on CentOS 8 ? Please help!!
+</p>",download-and-install_1;desktop;needsinfo;,firefox,download-and-install,en-US,1270343;1270347;,sswien
+1274150,2019-12-03 04:34:36 -0800,2019-12-03T04:34:36Z,After continue refresh of the site I am getting error and than jquery functions are not working in same tab,"<p>After continue refresh of the site I am getting error of invisible recaptcha (Connection error)  and than jquery functions are not working in same tab not only the current site any other site in the same tab have the issue.
+In previous version(below 70) of firefox the site was working fine even after the captcha error message.
+The site is working fine in next tab in same browser.
+Issue is occurring only in firefox browser
+</p>",firefox-700;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",dbhati
+1274148,2019-12-03 03:25:14 -0800,2019-12-03T18:25:42Z,Addons are not installing. They are all enabled and appear in my addons list but are not in the toolbar. Have tried customise toolbar not there,"<p>I have Firefox 70.0.1 (64-bit) running on Windows 10 Pro. I recently added several addons to firefox on a fresh install (new laptop) prior to syncing to my account from another PC, but despite appearing on the list of addons as enabled, (and all having worked for me previously on my old laptop) the new extensions do not appear in my toolbar or on the list of items to include in the toolbar when I click on customize. I have closed and restarted both firefox and my machine, and removed and reinstalled the addons several times but none of this has helped. I also synced my account and  clicked the include addons checkbox and this did not help either.
+</p>",firefox-700;customize;desktop;firefox-7001;windows-10;,firefox,customize,en-US,1270358;1270372;1270542;1270543;,j.michael1723
+1274145,2019-12-03 02:52:03 -0800,2019-12-03T02:52:03Z,"I cannot update my Unipass certificate, because Firefox has recently done an update and is blocking me renewing my certificate now","<p>Phil Truscott
+</p>",other;firefox-700;firefox-7001;desktop;windows-10;,firefox,other,en-US,"",phil46
+1274144,2019-12-03 02:40:20 -0800,2019-12-03T13:47:17Z,Why Firefox don't make Bookmark bar displayed in New Tab only like Chrome?,"<p>Hi, i am a Firefox lover. I have been using Firefox for about 3 years. But have one things that i really hate in Firefox, that is bookmark bar in Firefox not disappear automatic when you are not in Newtab. My screen is quiet small (13 inch) so it's quiet anoy when the bookmark bar take a small space of the interface. I just wonder that why Firefox don't make it like Chrome?
+</p><p>I tried a way, which is using custom userChrome.css but it's animation is not smooth.
+</p><p>I really love Firefox and i hope that you will make it become more convenient for users.
+</p><p>Thank you.
+</p>",bookmarks;firefox-700;desktop;windows-10;,firefox,bookmarks,en-US,1270335;1270475;,nguyenhuuthuat09
+1274141,2019-12-02 23:26:33 -0800,2019-12-03T09:20:25Z,časté,"<p>Jak lze po připnutí prohlížeče na spodní lištu PC vypnout zobrazovaní častých stánek? Děkuji MJ
+</p>",firefox-700;customize;desktop;windows-10;,firefox,customize,cs,1270318;1270336;1270340;1270342;1270354;1270398;,jelinekm
+1274139,2019-12-02 21:59:12 -0800,2019-12-02T23:27:33Z,Maintenance service not starting.,"<p>Windows 10, firefox latest version.  
+Problem: Firefox is not auto updating for a long time and each time I have to manually do it.  After looking into it, I notice the maintenance service is not starting.
+With UAC disabled or not it has no effect.
+Remove all AV from PC no effect.
+</p>",firefox-700;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1270314;,heiko4
+1274137,2019-12-02 20:01:56 -0800,2019-12-03T10:32:36Z,Why isn't my bookmark restore file type recognized?,"<p>I'm trying to restore my bookmarks after reinstalling Windows 10. They were saved in a windows.old file on my Passport.  I used the Import and Backup button, selected Restore, and choose my file. It's a json file.  It then gave me an error message ""unsupported file type.""  
+</p><p>BTW, the file ends in .jsonlz45dd510a6.  It's not recognized as a json file, so I had choose 'all files"" and then highlighted it to select it, and received the above error message.  I then tried making a copy but omitting the letters and numbers after .jason, and tried using that, but got an error message ""unable to process the backup file.""
+</p>",bookmarks;firefox-700;desktop;windows-10;,firefox,bookmarks,en-US,1270313;1270411;1270416;,justchris63
+1274136,2019-12-02 18:29:38 -0800,2019-12-03T17:39:27Z,I want a new function on Youtube,"<p>When I watch a video on Youtube while using Bluetooth earphones, I want to use play/pause button to play or pause a video on Youtube. Firefox does not support it, but Chrome does. Please add this function
+</p>",firefox-700;customize;desktop;windows-10;,firefox,customize,en-US,1270297;1270324;1270536;,duchotboy97
