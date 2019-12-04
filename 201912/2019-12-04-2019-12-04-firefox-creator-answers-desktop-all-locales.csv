@@ -1,0 +1,197 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1274262,2019-12-04 07:16:32 -0800,2019-12-04T07:16:32Z,Can you use regular expresssions in the Find in page box,"<p>I search through log files regularly which is done in some circumstances through a browser, today for example I was searching through a large iptables firewall log, looking for excessive packets from certain ip addresses.  I wanted to search for strings that show ""100 packets"" but the number needed to be 100 or more.  In the attached screenshot is an entry for 418 packets for example.  I tried using syntax for regular expressions with \d1[0-9][0-9]* but nothing was found, I could not tell if regular expression searches worked in the Find in page box.  Does anyone know if this works and if so, what is the syntax?
+</p>",firefox-700;customize;desktop;windows-10;,firefox,customize,en-US,"",cwensink
+1274261,2019-12-04 07:02:58 -0800,2019-12-04T07:02:58Z,"Neu seit Firefox 71.0: Ich will keine zweite Zeile bei den Zugangsdaten (""von dieser Webseite""). Wie kriege ich die weg?","<p>Seit dem heutigen Update auf 71.0 erscheinen überall ZWEI Zeilen bei den Zugangsdaten. In der ersten steht der Nutzername (den brauche ich) und in der zweiten steht nutzloses Zeug wie ""von dieser Webseite"". Die zweite Zeile will ich entfernen. Sie macht das Ganze total unübersichtlich und die Listen irre lang.
+Wie kriege ich die wieder weg? Bisher gab es sie nicht - und das war gut so!
+</p>",firefox-710;customize;desktop;windows-10;,firefox,customize,en-US,"",karl.kuester
+1274260,2019-12-04 07:01:46 -0800,2019-12-04T07:01:46Z,"Problems with firefox, tabs and history","<p>My firefox just started having problems.  I cannot open tabs after I close them by mistake.  When i open a new tab, it is a blank page, not my last website, and i checked my settings, and it hasn't changed.  All of my history disappeared, and no new history ever appears.  All my autofills are gone, and no matter how much I try to change the settings, nothing helps.  This is very annoying.  Oh, also, some websites won't load completely.  What can I do, I'm about to switch to Crome...
+</p>",beta;firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",metalgerm
+1274259,2019-12-04 06:58:59 -0800,2019-12-04T07:10:17Z,can not download videos to desktop  in thunderbird,"<p>I judt pdated   to the newest  firefox version   and  I have instagram for desktop. I have all the necessary extentions  for instagam videos to  down load to my  desk top. My default player is Windows media player  before the update and as of last week  i was able to get  any instagram video to sown load to my  desktop I no longer can. I have reinstalled Firefox reinstalled widows media player, changed my instagram password. Changed my firefx password, have the latest adobe installed/. Tried   downloaing  instagram videos in safe mode with  no extentions it will not go to desktop I have Ig helper  add on instagram  photo and video downloader it will not  down load to my desktop   as of  2 days  it will in Google Chrome  but id rather not  use  Chrome
+</p>",firefox-710;other;desktop;windows-7;,firefox,other,en-US,1270609;,mdm54
+1274258,2019-12-04 06:53:48 -0800,2019-12-04T07:15:47Z,I can't use my Epson printer preferences vs. the Firefox default,"<p>I have just installed Firefox after about a year or two with Chrome. Everything apparently works well and preferrable over Chrome especially for the security aspect of it, but I have run into a snag with the printer default. I use a Epson WF-4740 for all my printing via the network. 
+I have searched the Help menus and the Internet. I have gone in to the ""about:Config"" and added my printer, saved it and gone out and back into Firefox. Firefox only brings up the default within the program. There are no other choices. After a couple of tries, I see that it won't keep it in default nor allow me to use it even once. I have to use the ... bars for the Print command as an attempt as the regular Printer icon in the tool bar is only for the Firefox default. 
+How do I change this to use my Printer preferences and save it as a Default permanently?
+</p>",firefox-710;customize;desktop;windows-10;,firefox,customize,en-US,1270610;,360CameraShoot
+1274257,2019-12-04 06:47:19 -0800,2019-12-04T06:47:19Z,Gmail all of a sudden stopped uploading attachments,"<p>Gmail all of a sudden stopped uploading attachments, does anybody else have this problem and/or know how to fix it? It's happening when I try to drag/drop an image into an email, and even when I try to attach a file the traditional way via paperclip button. It doesn't show an error message, it just gets stuck in the midst of attaching.
+</p>",firefox-710;websites;desktop;mac-os;,firefox,websites,en-US,"",mohitmehan
+1274254,2019-12-04 06:25:18 -0800,2019-12-04T06:25:18Z,My website is showing insecured only in mac firefox,"<p>Hi,
+</p><p><a href=""https://www.meteortutors.com/"" rel=""nofollow"">https://www.meteortutors.com/</a>
+</p><p>this is my website, the site is secured connection in all the browsers, but showing insecured only in firefox, weird thing is the issue only with mac firefox.. its working fine on windows
+</p><p>kindly help me
+</p>",privacy-and-security_1;desktop;mac;,firefox,privacy-and-security,en-US,"",yelji
+1274252,2019-12-04 05:48:56 -0800,2019-12-04T05:48:56Z,"I have no sound on my G560 in Firefox using Youtube, Netflix, Amazon Prime, Facebook...","<p>I got new Logitech G560 speakers, with USB connection to my computer, and they work like a charm. Except for Firefox. No matter which page, Youtube, Facebook, Netflix, Amazon Prime, Twitter... no sound for videos. Firefox is quiet. If I check my sound settings, the bar for sound input is not even moving, seems like Firefox is just not recognising or forwarding any sound to my USB G560 speakers.
+</p><p>On the other hand, everything works in Google Chrome and sound is brilliant. The problem just seems to be with Firefox. I disabled all audio devices, especially my old audio-out where I had my old speakers. I updated the drivers for Realtek HD Audio (even though I am sure I do not need them for the G560) and also updated again driver for the G560 as well as the Logitech G Hub. Firefox is also the latest version.
+</p><p>But nothing. Only thing happening is after trying to often to load a video in Firefox to get sound, and checking my sound settings, I get an error message saying the audio enhancements are not working properly and asking me if I wanna disable them. If I click yes, it solves the issue and Firefox is forwarding sound to my G560.
+</p><p>Now I thought I can disable any sound enhancements in general in WIndows 8.1... but no chance. I cannot find any setting for that. No matter where I search, it seems only Windows 10 gives that option. There is also no sound enhancement in G Hub or when checkin the system control for devices. Re-Installing the G560 drivers does not change anything.
+</p><p>So if I wanna have any sound in Firefox I am depending on the error message popping up... which happens only rarely. But that can't be the solution :( It seems to me the problem is with Firefox, in the way it handles the sound channel or content or whatever... and does not recognize my G560 via USB as speaker system. Even though it is the only one set active in my system.
+</p><p>I am really looking for any help and input to solve this please... !
+</p>",firefox-710;desktop;fix-problems;windows-81;,firefox,fix-problems,en-US,"",stefan.edlinger1
+1274251,2019-12-04 05:36:23 -0800,2019-12-04T07:26:36Z,Each time that I update Firefox I loose my Tabs on bottom of  window page (userChromeCSS doesn't work). Please tell me why Firefox don't set it as an option.,"<p>userChromeCSS doesn't work anymore on version71.0 (64-bit)
+</p><pre>#TabsToolbar {
+  position: fixed;
+  bottom: -0.5em;
+  width: 100%;
+  }
+  #tabbrowser-tabs { width: 96%; }
+  #content-deck { margin-bottom: 2.5em; }
+</pre>",tabs;firefox-710;desktop;windows-10;,firefox,tabs,en-US,1270613;,fabiusgido
+1274249,2019-12-04 05:01:44 -0800,2019-12-04T05:01:44Z,Firefox Gaming Browser? Sometime?,"<p>Will be?
+</p>",firefox-710;other;desktop;windows-10;,firefox,other,en-US,"",htcbazsi
+1274248,2019-12-04 04:54:10 -0800,2019-12-04T05:19:06Z,"Firefox won't start, can't work out why","<p>Having some trouble with Firefox and I'm at my wits end on how to fix it. Clicking the Firefox icon in Windows 10 (whether that's in the Start menu, the taskbar or the app itself in Program Files) won't launch Firefox. The blue loading spinner appears briefly next to the pointer, then disappears. Sometimes a Firefox process appears in Task Manager then instantly disappears, but sometimes it doesn't. Here's what I've tried so far:
+</p><p>- Restarting
+- Reinstalling
+- Deleting my Firefox profile and all Firefox app files
+- Launching in safe mode by holding shift
+- Launching in safe mode by adding the ""-safe-mode"" comment
+- Running as administrator
+- Checking it's not being blocked by antivirus
+- Loading the Firefox profile manager by typing ""firefox.exe -P"" in the run dialog box. This does the same as trying to load Firefox - nothing happens
+</p><p>I can't think what else to do. It may be a coincidence, but my primary monitor died, I restarted the PC and then Firefox wouldn't work. I can't see how it could be related, but who knows.
+</p><p>Anyway, any help would be greatly appreciated!
+</p>",desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1270597;1270600;,alexblake2
+1274247,2019-12-04 04:54:05 -0800,2019-12-04T04:54:05Z,"""clear history when firefox closes"" was enabled automatically. and all my data was removed!","<p>""clear history when firefox closes"" was enabled automatically (idk why!) and so all my data was removed!
+how can i recover them? (history, user/pass and tabs)
+</p>",tabs;firefox-710;desktop;windows-10;,firefox,tabs,en-US,"",shahab.shahali
+1274245,2019-12-04 04:40:13 -0800,2019-12-04T06:15:33Z,Quick way to search through browsing history,"<p>This is in some way only a quality of life feature (request?). Is there a quicker way for searching through your browsing history than going to the actual browsing history window and searching through it using the search bar? 
+I'm looking for something similar to when you enter ""%"" in the search bar to search through your opened tabs or ""?"" to ""go into google mode"" (or whatever search engine you have set up).
+</p><p>Is there something like that in Firefox?
+</p>",tips;firefox-700;desktop;windows-10;,firefox,tips,en-US,1270603;,benno.grimm
+1274244,2019-12-04 04:33:11 -0800,2019-12-04T05:14:18Z,When will support end for Windows 7 ?,"<p>I do know Microsoft extended support ends on Jan. 14, 2020.  I'd like to know if anyone knows if there has been a date set for Windows 7 support to end.
+</p>",firefox-710;other;desktop;windows-7;,firefox,other,en-US,1270599;,hgw53t
+1274240,2019-12-04 03:21:17 -0800,2019-12-04T03:41:02Z,login field show logins form all sites if name is the same,"<p>I am an admin for hunderds of websites.
+I log in to them using ""admin"" as login name.
+Since today I get a list of all the logins with that name from all the
+sites when i want to enter my login.
+It used to be just one login: the one for that site, and after that the
+right password.
+</p><p>Please correct this, or maybe you can show me how to turn this off.
+</p><p>In the past I only had to push the down-arrow button in the login field
+to enter the login, then do tab tot get to the password field and there
+the password was and I could log in.
+Now I have to type ""admin"" while being distracted by all the hundreds of
+unwanted suggestions.
+</p><p>This can be a handy feature but not for me, it was working perfectly.
+</p><p>This seems only to happen on new sites where I add a password, and keeps
+acting that way on the new site.
+</p>",privacy-and-security_1;firefox-710;desktop;linux;,firefox,privacy-and-security,en-US,1270586;,d3296730
+1274239,2019-12-04 02:42:09 -0800,2019-12-04T02:42:09Z,Password suggestions displays multiple entries of the same login with a date next to it,"<p>Password suggestions displays multiple entries of the same login with a date next to it! This is a problem. Is there a way to fix this? It started with version 71 of firefox on windows 10.
+</p>",bookmarks;firefox-710;desktop;windows-10;,firefox,bookmarks,en-US,"",zanxion72
+1274238,2019-12-04 01:40:46 -0800,2019-12-04T03:53:02Z,Log in shows me even saved password it isn't from that page,"<p>Why at the latest firefox 71.0 version when i try to log in to a site it shows me even saved acc it isn't for that site?
+Look the picture and you understand what i mean.
+</p><p>Can i disable that?
+</p>",firefox-710;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,1270588;,fits79
+1274236,2019-12-04 01:15:30 -0800,2019-12-04T01:15:30Z,There is a serious problem with the bookmark manager of Firefox,"<p>When clicking any of the last three or four items in the right pane at the bottom of the list, the properties comes up covering them. It is a hell of a problem when trying to move a few items to folders that are last in that list.
+Step 1: Go to the last item in the list.
+Step 2: Click on it.
+</p>",bookmarks;firefox-700;desktop;windows-10;,firefox,bookmarks,en-US,"",zanxion72
+1274235,2019-12-04 01:05:46 -0800,2019-12-04T01:05:46Z,Webcam (Logitech) working intermittently in version 65 or higher,"<p>Since version 65 or any higher build and even nightly builds, the webcam usually does not work. Trying 20 times it will only work for 1 time. The other times, the orange recording icon is on but the screen is blank. You can see the webcam starting half a second and then stops. This is with multiple types of Logitech webcams. I've tried to disable all security settings, disable hardware acceleration but none of this works. The webcams worked fine in lower builds. All is fine in Google Chome. Webcam works immediately so this issue is definitely a Firefox problem. I've tried multiple machines all loaded with Windows 10 or Windows Server 2012 R2 and no plugins.
+Can you guys help?
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US,"",wouter2
+1274232,2019-12-03 23:50:11 -0800,2019-12-04T00:05:38Z,New icons at address bar that keep coming back,"<p>Since one week there are some changes in the address bar.
+Suddenly there is a menu ""page actions"", and a magnification icon.
+And a reader view button.
+</p><p>What scares me is that these changes just suddenly happen, not with an upgrade.
+How can this happen?
+Does Firefox check somewhere online?
+</p><p>And they keep coming back! I have no control over them!
+That is what scares me.
+</p><p>While these are nice additions, I do not want them.
+I want to tab to the next filed directly.
+</p><p>I try to get rid of those things but no matter what I do they come back.
+How can I shut these down for good?
+</p><p>I have been a Firfox user since the beginning and I love it!
+</p><p><br>
+Any help would be appreciated.
+</p>",firefox-710;customize;desktop;linux;,firefox,customize,en-US,1270577;,d3296730
+1274231,2019-12-03 23:46:30 -0800,2019-12-03T23:46:30Z,Abas não são restauradas após fechar o firefox (mesmo com a opção de restaurar ligada).,"<p>Instalei o windows num novo SSD e instalei o Firefox. 
+Fiz o login na minha conta Firefox e tudo estava ocorrendo bem até que eu instalei o Kaspersky e ele começou a bloquear o Sync do Firefox. 
+Tive que desligar a proteção do Kaspersky e reinstalar o Firefox para que o mesmo voltasse a funcionar.
+Após isso o Firefox voltou a funcionar, mas se eu faço o login no Sync ele não salva mais meus históricos e abas.
+Tentei desinstalar o Firefox diversas vezes e continuava dando o erro mesmo não estando logado no Sync.
+Então desinstalei o Firefox e apaguei a pasta ""Mozilla"" de dentro da pasta Roaming. 
+Após isso consegui fazer com que o Firefox restaurasse as abas quando fechado. Porém ao fazer o login no Sync o problema retorna. 
+</p><p>Já tentei desconectar o dispositvo do Sync também porém não funciona.
+</p>",sync;desktop;windows-10;,firefox,sync,pt-BR,"",caioviniciuscoradin
+1274230,2019-12-03 23:30:55 -0800,2019-12-03T23:30:55Z,Hi. Facebook Call icons are not loading on the screen and the call is not connecting to the user I want to call.,"<p>As said, Facebook ccall was ok a month ago, but recently last week, Facebook call isn't working. When I call some1 on facebook, a new pop-up window will appear with the calls icon(mute, hang up..), but now, nothing is appearing on the screen. Only the person's profile picture is appearing and thats it. Any fix?
+</p>",firefox-710;websites;desktop;windows-7;,firefox,websites,en-US,"",bhavconhye
+1274229,2019-12-03 23:24:18 -0800,2019-12-04T03:27:47Z,firefox won't sync and dumped all my passwords and preferences,"<p>Regrettably, I updated firefox on my computer. It wiped out all my preferences , passwords, and bookmarks. When I tried to sync them back from my phone, the phone (with both wifi and mobile data) wouldn't connect to firefox login, though it has no problem getting to other places on the internet. It also told me I had cookies turned off, even though I didn't. I checked three times.
+</p><p>Is there some way to retrieve the lost data so I can transfer it to a decent browser and get rid of FF forever? Thanks.
+</p>",download-and-install_1;firefox-710;desktop;windows-10;,firefox,download-and-install,en-US,1270578;1270584;1270585;,crashedluxury
+1274228,2019-12-03 23:16:01 -0800,2019-12-03T23:16:01Z,foreignObject styling not working,"<p>I don't know if this is the only style that doesn't work.
+</p><p>I used this code from MDN to test it :
+</p><p><a href=""https://codepen.io/Supersudo/pen/MWYYeba"" rel=""nofollow"">https://codepen.io/Supersudo/pen/MWYYeba</a>
+</p><p>&lt;svg viewBox=""0 0 200 200"" xmlns=""<a href=""http://www.w3.org/2000/svg"" rel=""nofollow"">http://www.w3.org/2000/svg</a>""&gt;
+</p><pre> &lt;style&gt;
+   .test {
+     color: white;
+     font: 18px serif;
+     height: 100px;
+     overflow: auto;
+   }
+ &lt;/style&gt;
+ &lt;polygon points=""5,5 195,10 185,185 10,195"" /&gt;
+ &lt;foreignObject x=""20"" y=""20"" width=""160"" height=""160"" style=""border: 10px solid blue""&gt;
+</pre>
+    <div class=""test"">
+<pre>     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+</pre>
+    </div>
+<pre> &lt;/foreignObject&gt;
+</pre>
+<p>&lt;/svg&gt;
+</p><p>Firefox doesn't display the blue border around the div while chromium does.
+</p>",websites;firefox-700;desktop;linux;,firefox,websites,en-US,"",henshin
+1274227,2019-12-03 23:00:05 -0800,2019-12-03T23:34:04Z,Firefox crashed and reopened completely different. No saved book marks. No saved passwords. How do I restore?,"<p>Did they COMPLETELY redo Firefox and not bother to warn us? ""Alert! Save out your bookmarks"" It looks totally different and I now have to log into a Firefox account?!? and select a profile?!?
+</p>",bookmarks;desktop;escalate;dataloss;,firefox,bookmarks,en-US,1270572;1270575;,bradgeurin
+1274226,2019-12-03 22:51:47 -0800,2019-12-03T22:51:47Z,Cannot play any Videos from below Link but youtube Works,"<p>Hi there
+</p><p>i cannot play any Stream video from this <a href=""https://www.hotstar.com/in/movies/languages/tamil"" rel=""nofollow"">https://www.hotstar.com/in/movies/languages/tamil</a>
+</p><p>but you tube works. movies from that site used to work just couple of days is been not working and iam getting error on Web Dev -&gt; Console but i don't know what they are
+</p><p>i tired Safe Mode tired Disabling Firewall &amp; Anti Virus tired other FF Version all same but same link videos are working fine on Edge and Chrome
+</p><p>WEB DEV ---&gt; Console 
+</p><p>Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at <a href=""https://secure-media.hotstar.com/web-assets/prod/seo/watch_page.json"" rel=""nofollow"">https://secure-media.hotstar.com/web-assets/prod/seo/watch_page.json</a>. (Reason: CORS request did not succeed).
+Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at <a href=""https://persona.hotstar.com/v1/users/345bf688762c49e9b8e34608ee5a4b3c/trays/watchlist?meta=true&amp;limit=200"" rel=""nofollow"">https://persona.hotstar.com/v1/users/345bf688762c49e9b8e34608ee5a4b3c/trays/watchlist?meta=true&amp;limit=200</a>. (Reason: CORS request did not succeed). 2
+Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at <a href=""https://segment.hotstar.com/production/getusersegment?c12Id=…45bf688762c49e9b8e34608ee5a4b3c&amp;platform=web&amp;data_asn=133296"" rel=""nofollow"">https://segment.hotstar.com/production/getusersegment?c12Id=…45bf688762c49e9b8e34608ee5a4b3c&amp;platform=web&amp;data_asn=133296</a>. (Reason: CORS request did not succeed). 2
+TypeError: e.map is not a function common-chunk-main.0.255339115adcbfcea422.js:1:425831
+Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at <a href=""https://persona.hotstar.com/v1/users/345bf688762c49e9b8e3460…b3c/preferences/continue-watching?item_id=1260013705&amp;size=20"" rel=""nofollow"">https://persona.hotstar.com/v1/users/345bf688762c49e9b8e3460…b3c/preferences/continue-watching?item_id=1260013705&amp;size=20</a>. (Reason: CORS request did not succeed).
+Error while fetching Continue watching tray from persona 
+Object { httpStatus: -1, isError: true, error: TypeError, errorType: ""network"" }
+main.7ed840a0652ca49d75b7.js:1:15563
+Failed to parse Continue watching tray from persona:  
+Object {  }
+main.7ed840a0652ca49d75b7.js:1:15563
+Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at <a href=""https://persona.hotstar.com/v1/users/345bf688762c49e9b8e3460…b3c/preferences/continue-watching?item_id=1260013705&amp;size=20"" rel=""nofollow"">https://persona.hotstar.com/v1/users/345bf688762c49e9b8e3460…b3c/preferences/continue-watching?item_id=1260013705&amp;size=20</a>. (Reason: CORS request did not succeed).
+An invalid or illegal string was specified main.7ed840a0652ca49d75b7.js:1:15563
+The script from “<a href=""https://secure-media.hotstar.com/segment-sdk/prod/bifrost.min.js”"" rel=""nofollow"">https://secure-media.hotstar.com/segment-sdk/prod/bifrost.min.js”</a> was loaded even though its MIME type (“text/html”) is not a valid JavaScript MIME type. watch
+Loading failed for the &lt;script&gt; with source “<a href=""https://secure-media.hotstar.com/segment-sdk/prod/bifrost.min.js”"" rel=""nofollow"">https://secure-media.hotstar.com/segment-sdk/prod/bifrost.min.js”</a>. watch:1:1
+The resource from “<a href=""https://analytics.twitter.com/i/adsct?p_id=Twitter&amp;p_user_id…star.com%2Fin%2Fmovies%2Fsabash-gowtham%2F1260013705%2Fwatch”"" rel=""nofollow"">https://analytics.twitter.com/i/adsct?p_id=Twitter&amp;p_user_id…star.com%2Fin%2Fmovies%2Fsabash-gowtham%2F1260013705%2Fwatch”</a> was blocked due to MIME type (“text/html”) mismatch (X-Content-Type-Options: nosniff). watch
+Loading failed for the &lt;script&gt; with source “<a href=""https://analytics.twitter.com/i/adsct?p_id=Twitter&amp;p_user_id…star.com%2Fin%2Fmovies%2Fsabash-gowtham%2F1260013705%2Fwatch”"" rel=""nofollow"">https://analytics.twitter.com/i/adsct?p_id=Twitter&amp;p_user_id…star.com%2Fin%2Fmovies%2Fsabash-gowtham%2F1260013705%2Fwatch”</a>. watch:1:1
+An invalid or illegal string was specified main.7ed840a0652ca49d75b7.js:1:15563
+</p>",firefox-700;firefox-7001;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",kishan16
+1274225,2019-12-03 22:01:37 -0800,2019-12-04T07:23:57Z,I cant see well the site forums.thesims.com,"<p>It look bad formatted, with really bad aspect. The owners say than are aware of the problem, but as the odd is than it happen with Chrome and Firefox, but it looks well using Safari or Edge, I wanted to ask here if there is something we can do from the Firefox browser
+</p><p>PD: at the time to write this, seem the problem with Chrome is solved, only appear with Firefox
+This is a thread at EA Answers HQ where they said there was a problem with Firefox and Chrome
+<a href=""https://answers.ea.com/t5/Other-The-Sims-Games/What-s-going-on-with-thesims-com-forums/td-p/8496282"" rel=""nofollow"">https://answers.ea.com/t5/Other-The-Sims-Games/What-s-going-on-with-thesims-com-forums/td-p/8496282</a>
+</p>",firefox-710;websites;desktop;windows-10;,firefox,websites,en-US,1270566;1270567;1270571;1270611;,leo3487
+1274224,2019-12-03 20:45:30 -0800,2019-12-03T20:46:50Z,Firefox Update Settings | Auto-update checking,"<p>Per Firefox guidance there is an option to toggle on an option that would not would not prompt to update. The option box though is not an option in preferences (See below).
+</p><p>Did this option once exist, but it is no longer available and no one bothered to up date the trouble shoot guide? 
+</p><p>If so, why does it not still exist? 
+</p><p>Can it be brought back?
+</p><p>If not, is there some backdoor way to shut it off? 
+</p><p>Thank you kindly
+</p><p>Firefox occasionally checks to see if any updates are available for itself and for your search engines. To disable these checks:
+</p><pre>   Click the menu button Fx57Menu and select Preferences.
+   In the General panel, scroll down to the Firefox Updates section.
+   Check Never check for updates (not recommended) and uncheck Automatically update search engines.
+   Close the about:preferences page. Any changes you've made will automatically be saved.
+</pre>",firefox-680;customize;desktop;mac-os;,firefox,customize,en-US,1270556;,andrea.beadles
+1274221,2019-12-03 20:23:34 -0800,2019-12-03T20:56:07Z,my BOOKMARKS toolbar and my START button and lower actionbar have disappeared,"<p>NOT   new and improved
+</p>",bookmarks;firefox-710;desktop;windows-10;needsinfo;,firefox,bookmarks,en-US,1270554;1270555;1270557;1270558;,themanwithnoname
+1274219,2019-12-03 20:11:03 -0800,2019-12-03T21:14:50Z,"sub-pages from our nextdoor webpage do not display, watching the ststus in the lower right looks lime the should load and display. this is on my Macbook","<p>On our Nextdoor webpage <a href=""https://nextdoor.com/"" rel=""nofollow"">https://nextdoor.com/</a> (social media type), sub-pages do not display. The main page loads, but the links I click do not. I see the status in the lower left looking like it is loading, but it does not display.  This happens on my Macbook Pro , bit works fine on my iMac and in Safari on my MacBook Pro. What setting is messed up?  If I go to other sites, it works just fine?
+</p>",firefox-710;desktop;fix-problems;,firefox,fix-problems,en-US,1270561;,decmcinco
+1274218,2019-12-03 20:00:14 -0800,2019-12-03T20:00:14Z,"A opção ""reabrir aba"" está indisponível, tanto pelo atalho (crtl+shift+T), quanto pela opção de cliclar com o botão direito do mouse sobre uma aba ativa.","<p>Fiz uma instalação do WIndows 10 64 bits num SSD novo, baixei o FIrefox do site oficial.
+</p>",tabs;firefox-710;desktop;windows-10;,firefox,tabs,pt-BR,"",grilus7
+1274217,2019-12-03 19:58:21 -0800,2019-12-03T21:15:40Z,Firefox tabs still fail to load after leaving them open a while. FIX THIS.,"<p>Tabs FAIL to load after a while of leaving them open. Hope this issue is fixed soon.
+</p>",firefox-710;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1270562;,Angel_ex_624
+1274212,2019-12-03 18:31:30 -0800,2019-12-04T04:04:47Z,Poor compatibility in certain websites especially with pop up.,"<p>Example, Dell support chat will not appear after filling up and sending the chat request.  At the end have to use Chrome, happened today.  For any similar instance that doesn't work or act weird in Firefox, switch to Chrome will solve everything.
+I just hate Chrome for the difficult to use UI and bookmark compared to Firefox and most importantly, no separate searchbox.
+</p>",websites;firefox-700;desktop;windows-10;,firefox,websites,en-US,1270545;1270547;1270569;,iieeann
