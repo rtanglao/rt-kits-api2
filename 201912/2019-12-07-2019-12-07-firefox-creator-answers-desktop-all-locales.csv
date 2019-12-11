@@ -1,0 +1,151 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1274551,2019-12-07 15:59:22 -0800,2019-12-07T16:18:59Z,Multiple login at same website,"<p>For managing transport fare cards, we have multiple logins for the same web address,  the user names are the card number.
+Haven't logged in for about 3 years after moving to rural. 
+1.  I can only see 1 saved ""login &amp; password"" in about:logins, for that address.  (should be 2)
+</p><pre>              (Have an issue with resetting password for other account)
+</pre>
+<p>2. Trying to reset password for second account jumps to login page (with first account details auto-fill)
+3. Entering username for second account inserts password from first account.
+Back in 2016 I am sure it was all working ok,  (assuming accurate neural memory)
+</p><p>Q. Please confirm if FF saved logins works ok with multiple accounts for same web address.
+</p>",privacy-and-security_1;firefox-710;desktop;windows-7;,firefox,privacy-and-security,en-US,1271651;,tonigau
+1274550,2019-12-07 15:46:04 -0800,2019-12-09T15:23:03Z,Does the latest update have issue with switching between one tab and another?,"<p>I think Firefox updated a day or so ago on my computer. Since then, when switching between tabs there are times when it takes several seconds to go to the tab I click on, and Firefox is locked up while I wait for the switch. Is this a known issue, and if so when might it be fixed?
+</p>",firefox-710;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,1272078;1272169;,Marklayne
+1274548,2019-12-07 14:41:07 -0800,2019-12-09T07:14:54Z,"Oculus rift s does not play sound when click on ""enter vr"" button","<p>If I am browsing a firefox web page in oculus rift s that has ""enter vr"" button the sound works while in headset.. after i push the button and go ""into"" the video .. I no longer get sound .. I have rebooted, updated and tried multiple sites..
+</p>",firefox-710;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1271704;1271981;1271992;,ktl1
+1274547,2019-12-07 14:13:49 -0800,2019-12-10T17:58:33Z,"OS reinstall on one machine, removed bookmarks from all machines","<p>I re-installed my OS on a machine.  Signed into firefox, and all my bookmarks are missing.  Look at my other machines, and my phone, and all of their bookmarks are missing.  
+</p><p>I did not change my account password.  I changed nothing on the other machines, but it synced the new install's blank(well, the Getting started) bookmark set.  WTF?!  There's 5 years of bookmarks missing now.
+</p>",firefox-710;sync;desktop;linux;,firefox,sync,en-US,1271624;1272510;,pclark36
+1274546,2019-12-07 13:41:28 -0800,2019-12-09T20:01:04Z,Why does my new Mac Firefox make me log into Firefox account every time I open it?,"<p>Every time I start Firefox on my new Macbook, I have to login to my ""Firefox Account"" to get my bookmarks, passwords, and preferences. On my old Macbook Firefox is logged in whenever I open it. How do I fix this?
+</p>",firefox-710;sync;desktop;mac-os;,firefox,sync,en-US,1271870;1271871;1271984;1272083;1272102;1272249;1272252;,suhligford
+1274545,2019-12-07 13:33:13 -0800,2019-12-07T15:29:50Z,Picture in Picture Toggle,"<p>Discovered this when playing video in IMDb site.
+</p><p>When playing video in IMDb site the small blue rectangle that slides out when you hover over it is centred on the middle of the right hand edge of the video play back window. This is exactly where the right hand play next video white arrow &gt; is situated as well. When you wish to play the next video it picks up Firefox new Picture in Picture toggle instead of the next video arrow &gt;.
+</p>",firefox-710;customize;desktop;mac-os;,firefox,customize,en-US,1271627;1271639;,galactic1
+1274543,2019-12-07 12:01:51 -0800,2019-12-07T16:40:20Z,How do I install Firefox in a different drive/volume on Windows 10? Support pages are inaccurate.,"<p>Attempting to install Firefox on my D drive.
+</p><p>Tried to follow these instructions: <a href=""https://support.mozilla.org/en-US/kb/custom-installation-firefox-on-windows"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/custom-installation-firefox-on-windows</a>
+</p><p>However, they are inaccurate. The Firefox installer does not give you any options for a custom install, it just installs. I tried to uninstall and reinstall, but then it just gives you the option to reinstall. I had to hunt down three different Mozilla folders and delete them to clear out the installation properly, then tried to reinstall, but it still does not give any option to custom install.
+</p>",download-and-install_1;desktop;windows-10;,firefox,download-and-install,en-US,1271593;1271594;1271656;,cdpautsch
+1274542,2019-12-07 11:49:36 -0800,2019-12-07T22:44:33Z,Session restore fails when using multiple profiles,"<p>We use several FF profiles, one for each family member, on the same computer, usually they are open at the same time. Now if FF crashes for some reason or there is a power outage, sometimes session restore only works for one profile that is restarted first, while the others lose all the tabs that were open last time. Now I have a feeling that this is much more likely to happen if the browser was recently updated (it happened several times on the first restart after the update).
+I reckon that this might have something to do with the session restore only restoring one of the opened windows (which, as I understand, is now fixed).
+In each of the profiles the automatic session restore is set on.
+</p>",firefox-710;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,1271685;1271693;,andrei.smolensky
+1274541,2019-12-07 11:11:38 -0800,2019-12-09T06:46:41Z,How can you recover data belonging to extensions?,"<p>Background: My computer was acting up and, going into task manager, I brazenly exited out of some of the processes of Firefox thinking it might help. Obviously it didn't help and I'm sure at this point I just need to reinstall because it's basically been slowing my computer to a halt every time I've tried to use it since then, but weirdly enough, it completely messed up my extensions too*, even though nothing else regarding settings nor my profile was affected. 
+</p><p>I'm fine manually reinstalling the extensions, especially considering I can carry over bookmarks and history anyway, but I must have had thousands of elements blocked on uBlock, all of which are gone, and there's a lot of styles that I don't know if I'd be able to find again as well. If there's some way to retrieve the data related to these extensions if it still exists somewhere, like the aforementioned blocked elements and styles, or scripts on Tampermonkey, or even settings related to the extensions- maybe they're all stored in similar places- then I'd really like to be able to do that. It would be fine just to be able to copy and paste the items back manually again. Even if I can't actually put it back in, it would be nice to be able to retrieve the files where they are so at least it's not wiped out on a reinstall. I realize that it's possible that one of these extensions is causing an issue, but they certainly weren't before this happened (I doubt what I did was actually an issue exacerbated by the extensions and as long as I don't do the same thing again I'd think it would be fine) and either way, even if I don't even use the extensions again, I'd just like to have the data there.
+</p>
+<ul><li>The extensions themselves aren't uninstalled. Some work normally, some don't, but notably, every time I start Firefox, anything that's stored related to the extension, whether it be settings or just certain specifications, is gone. The toolbar drop-down menus open consistently. For instance, uBlock not only won't actually bring up its element blocker, but it also says it has zero elements blocked since install. Stylus also doesn't work, and all my styles have vanished. Tampermonkey worked running a script on Youtube, but once again, on startup, the script was gone.
+</li></ul>",other;desktop;windows-7;,firefox,other,en-US,1271688;1271689;1271859;1271877;1271885;1271975;,skyward.sean
+1274539,2019-12-07 10:20:37 -0800,2019-12-08T06:35:15Z,Spam problems,"<p>Odd... Ever since I gave two email addresses to Firefox email hacked site I've had an unprecedented amount of Spam... I decided to delete an email then checked again. Automatically I received even more Spam to my main email account. Only Firefox had both email addresses as one was an alias.
+HAS FIREFOX BEEN HACKED or something more sinister for Firefox?
+</p>",other;desktop;escalate;spam;,firefox,other,en-US,1271659;1271669;1271740;,mccsean
+1274536,2019-12-07 09:03:41 -0800,2019-12-07T10:32:45Z,Can't make firefox store my profiles in a folder inside its own,"<p>Title sums up most of it. I want Firefox to store my profiles in a folder inside its own. but I can't.
+there is no user.js, location cannot be changed from within FF about:profiles nor any of its other ""about"" pages (WTF?) and the Wizard removes the folder immediately as I start to type a name for the Profile.
+</p><p>The Firefox is a brand new installation that I'm trying to turn Portable, so I did not install or save anything yet.
+</p>",firefox-710;customize;desktop;,firefox,customize,en-US,1271535;1271571;,Archezuli
+1274535,2019-12-07 08:56:21 -0800,2019-12-07T08:56:21Z,"Versão 71.0 do Mozila anda travando algumas vezes, além da lentidão!","<p>Essa nova versão anda travando algumas vezes, ao abrir abas, carregar paginas, etc.
+</p>",firefox-710;desktop;fix-problems;windows-10;,firefox,fix-problems,pt-BR,"",brendelluis123
+1274534,2019-12-07 08:50:51 -0800,2019-12-07T08:50:51Z,Unable to open files because an unknown error occurred.,"<p>Firefox 72.0b3 (32-bit)
+</p><p>Ever since (I believe) Firefox 71 or 72, downloads with an application associated have been failing with this message in the Downloads window:
+</p><p>C:\Users\User\Downloads\Ant Videos\white_smith.zip could not be opened, because an unknown error occurred.
+Try saving to disk first and then opening the file.
+</p><p>This happens whenever I download OR try to open files that will be automatically opened by helper application e.g. Windows Explorer, Winrar.
+</p>",desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,"",sean_roberts
+1274533,2019-12-07 08:49:12 -0800,2019-12-07T09:32:05Z,Yesterday Firefox started to immediately crash on startup,"<p>Like the Title says, Firefox started to crash on startup. When I try to start Firefox I get the windows massage ""Firefox stopped working"" with the following details:
+</p><p>Problemsignatur:
+</p><pre> Problemereignisname:	APPCRASH
+ Anwendungsname:	firefox.exe
+ Anwendungsversion:	71.0.0.7275
+ Anwendungszeitstempel:	5de4f320
+ Fehlermodulname:	StackHash_8867
+ Fehlermodulversion:	0.0.0.0
+ Fehlermodulzeitstempel:	00000000
+ Ausnahmecode:	c0000005
+ Ausnahmeoffset:	000000003722012a
+ Betriebsystemversion:	6.1.7601.2.1.0.256.1
+ Gebietsschema-ID:	1031
+ Zusatzinformation 1:	8867
+ Zusatzinformation 2:	886729e84bb05c15f1d466676a664448
+ Zusatzinformation 3:	c433
+ Zusatzinformation 4:	c4330bc0c0f3791a31bfa79ebbc414a6
+</pre>
+<p>I used Firefox for Years without Problem and Have no idea why it doesn't work anymore. Removing and reinstalling Firefox didn't help.
+</p>",desktop;fix-problems;windows-7;bug1590430;comodo;comodo71;comodoproblem;notafirefoxproblem;,firefox,fix-problems,en-US,1271537;1271540;,sallythecat
+1274529,2019-12-07 08:25:17 -0800,2019-12-07T08:25:17Z,streaming url is shown while movie is playing,"<p>Hi,
+</p><p>when watching videos from <a href=""https://vidsrc.me/"" rel=""nofollow"">https://vidsrc.me/</a> (this is not a direct link to any streaming content)
+the url where the data is comming from is shown on the lower left screen when the movie ís im fullscreen.
+</p><p>is this a firefox setting or is the javascript player driving me crazy?
+</p>",websites;firefox-700;desktop;linux;,firefox,websites,en-US,"",commercials24
+1274526,2019-12-07 07:31:37 -0800,2019-12-08T09:44:42Z,"""New tab"" in bookmark toolbar does not open new tab.  Instead it blanks the current tab with the new tab page. How to fix?","<p>I purchased a new computer (Lenovo Ideapad 540S) with Windows 10 OS.  Reinstalled Firefox.  My bookmark toolbar has a ""New Tab"" Icon.  In my old computer, clicking ""new tab"" would open a new tab and display the new tab page.  Now, clicking the New Tab icon creates a new tab page on the page that I am starting from.  In other words -- no new tab opens, but the current page I am looking at becomes a new tab page.  I still get a new tab if i click the ""+"" sign in the tabs and if I right click on the New Tab icon and and select ""open in new tab"" but I thought the New Tab Icon was supposed to .. you know ... open a new tab.
+</p>",tabs;firefox-710;desktop;windows-10;,firefox,tabs,en-US,1271539;1271775;,PaulRosenzweig
+1274525,2019-12-07 07:04:20 -0800,2019-12-09T10:38:07Z,"In Firefox for Mac, how can I reduce the sensitivity of the appearance of the Menu Bar when in full screen mode?","<p>When I push the mouse to the top of the screen to change tabs, it immediately brings up both the Menu bar and the grey bar along the top of Firefox - blocking off the tabs I want to select.
+</p><p>This feels too sensitive and I am not making a deliberate extra push to bring this up - is there a way of making it harder to appear?
+</p>",firefox-700;other;desktop;mac-os;,firefox,other,en-US,1272072;,chrishann1994
+1274523,2019-12-07 06:51:56 -0800,2019-12-10T22:10:01Z,Firefox 71 changed my toolbar arrangement,"<p>My Tabs toolbar used to be under my Links toolbar. It is now above the Address toolbar.
+</p><p>How do I put my Tabs toolbar back where I want it (not where Firefox arbitrarily decided to put it)?
+</p><p>Alternately, How do I go back to FireFox 70.0.1?
+</p><p>System: Windows 8.1, 64-bit
+</p><pre>              FireFox 71, 64-bit 
+</pre>
+<p>Note: My laptop (Windows 8.1, 64-bit) has Firefox 70.0.1 (but wants me to ""update"" (sic)). It has the tool bars in my preferred order. I'm not about to ""update"" until I know how to fix FireFox 71.
+</p>",tabs;firefox-710;desktop;windows-81;,firefox,tabs,en-US,1271515;1271542;1271577;1272563;1272567;,AIVAS1701
+1274520,2019-12-07 06:23:02 -0800,2019-12-07T11:23:08Z,After I have upgraded to 68.3.0esr FF is not able to play videos in Facebook and WhatsApp,"<p>Indeed that's all
+</p>",firefox-680;other;desktop;linux;,firefox,other,en-US,1271587;,koulikoff
+1274518,2019-12-07 05:00:55 -0800,2019-12-10T12:37:50Z,url search bar drop down list,"<p>How can I restore the search bar drop down list and current search engine icon as it was up to FF version 56
+I never upgraded because of this missing convenient feature for multilingual users 
+besides this I hate tabs
+</p>",firefox-550;firefox-5501;customize;desktop;mac-os;,firefox,customize,en-US,1271566;1271597;1271634;1271653;1271732;1271763;1271937;1271979;1271998;1272162;1272168;1272211;1272220;1272221;1272235;1272245;1272261;1272307;1272322;1272380;1272391;1272411;,macssam
+1274516,2019-12-07 04:34:45 -0800,2019-12-07T04:34:45Z,Firefox latest update version 71.0 brokes a few add-ons,"<p>so I had to update to latest version of the Firefox web-browser and as of sudden some of my extensions in my Firefox web browser version 71.0 are no longer working , others add-ones are errors out and becoming unusable and I really not like that because of latest Firefox update were been pushed to the users .
+</p><p>I am using another web-browser which is based on Firefox web browser . I use the latest version of that web-browser and I had no any problems with all extensions are already installed ! in meanwhile how do I can to resolve this if it can be fix or not just lets see how we can go with :)
+</p>",firefox-710;customize;desktop;windows-10;,firefox,customize,en-US,"",gameon
+1274513,2019-12-07 02:57:14 -0800,2019-12-07T03:29:54Z,"why have you only got the ( X ) to close the site, up on the top of the page !","<p>like the old browser there was a ( - ) &amp; box &amp; ( x ). but on this browser there is just an x up on the top right of the page i can,t drop the page to my taskbar
+</p>",firefox-710;websites;desktop;windows-10;,firefox,websites,en-US,1271500;,suburbanman7
+1274512,2019-12-07 02:41:24 -0800,2019-12-07T04:28:58Z,Google maps directions has stopped working with Firefox ver71,"<p>Since firefox upgraded to ver 71 the directions will no longer work Sorry, we could not calculate directions from ? to ? but still works ok in Microsoft Edge.
+</p>",firefox-710;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1271505;,stevek1149
+1274511,2019-12-07 02:32:03 -0800,2019-12-09T03:37:36Z,Unknown certificate issuer on new Firefox profile on Windows 10,"<p>Using 64-bit Firefox on a Windows 10 system (version 1909, OS Build 18363.476), there is a site which works fine when using an old profile but which for news profiles gives a “Did Not Connect: Potential Security Issue” message with error code SEC_ERROR_UNKNOWN_ISSUER.
+</p><p>Steps to reproduce:
+</p><p>1. Visit <a href=""https://www.bancosantander.es/"" rel=""nofollow"">https://www.bancosantander.es/</a>
+</p><p>2. Click on the top-right red square with a lock icon and the text “Acceso clientes” / “Accés clients”
+</p><p>A frame with a login form should appear but instead an error page shows up (the certificate is for <a href=""http://particulares.bancosantander.es"" rel=""nofollow"">particulares.bancosantander.es</a> and the issuer CN Entrust Certification Authority - L1M; if necessary I can paste the about:certificate string).
+</p><p>The profiles that work were created on previous builds of both Firefox and Windows. On the aforementioned Windows version, all tested Firefox builds (stable 71.0.0 and unbranded builds reaching back to Firefox 68.0.1) do not work (the profiles might have been created earlier but I don't know where to get earlier builds which won't require installing).
+</p><p>What could be the problem, and how could it be fixed?
+</p>",firefox-710;other;desktop;windows-10;,firefox,other,en-US,1271595;1271756;1271932;,gonhidi
+1274510,2019-12-07 01:13:06 -0800,2019-12-07T10:42:08Z,Lost closed close,"<p>Normally when I close three windows with a number of tabs, they open up without any problem. Sometimes I open one of the closed windows by opening recently closed windows. This time nothing comes up. And the recently closed windows (and tabs) is empty. Also, Bing has become my home page, which I would never chose myself. It happen 7th December 2019. 
+</p><p>Any Idea what casuses this. It is very anoying, since I cant remember all websites I visited or rather saved. 
+</p><p>Chris, Sweden
+</p>",firefox-700;other;desktop;windows-10;,firefox,other,en-US,1271484;1271512;1271575;,chrissehansen
+1274508,2019-12-07 00:15:15 -0800,2019-12-07T16:48:34Z,DONT USE FIREFOWX SYNC IN PUBLIC PLACE,"<p>ITS NOT SAFE ANY MORE
+ON ""DISCONNECT"" FROM YOUR ACCOUNT FIREFOX DO NOT DELETE PASSWORDS BOOKMARKS AND ETC THEY REMAINS.
+NOTE:
+""Firefox will disconnect from your account but won’t delete any of your browsing data on this device.""
+</p><p>AND CLEANING HISTORY, CASH AND ETC MANUALLY - DO NOT DELETING PASS AND  OTHER DATA. THEY REMAINS.
+</p>",privacy-and-security_1;firefox-710;desktop;windows-10;,firefox,privacy-and-security,en-US,1271478;1271481;1271482;1271492;1271509;1271548;1271555;1271561;1271573;1271658;,umindaugas
+1274505,2019-12-06 22:04:16 -0800,2019-12-06T22:38:57Z,www.loginprodx.att.net will not completely open to allow login to Yahoo Mail,"<p>Since the latest update Firefox 71 I have been unable to login to my Yahoo Mail. I have tried everything I can think of to troubleshoot the problem with no success. It has been a while since this started and would like to get into my email. I am running the latest version of Windows 10. Thank you for your assistance with this matter.
+</p>",firefox-710;websites;desktop;windows-10;,firefox,websites,en-US,1271472;,katwoman12
+1274504,2019-12-06 21:52:51 -0800,2019-12-07T19:22:03Z,Un complemento para Firefox no descargado de la tienda oficial... ¿puede llevar malware o virus?,"<p>Hola
+Hay un gestor de descargas llamado JDownloader que me recomienda usar un complemento de su programa en Firefox para resolver captchas. Es un fichero de extensión XPI, pero veo que en el caso de Firefox me obliga a descargarlo desde su web, mientras que para Chrome o para Opera me lleva a la tienda oficial de estos navegadores.
+Mi pregunta es ¿sería seguro descargar este complemento y usarlo, si no viene de la tienda de Firefox?
+Os dejo el enlace al complemento:
+<a href=""https://extensions.jdownloader.org/firefox.xpi"" rel=""nofollow"">https://extensions.jdownloader.org/firefox.xpi</a>
+</p><p>¿Si lo instalo se podría colar un virus en mi ordenador?
+¿Hay forma de analizar si esto lleva virus o no?
+</p><p>Saludos
+</p>",firefox-710;customize;desktop;windows-10;,firefox,customize,es,1271632;1271673;,mrmister23
+1274503,2019-12-06 19:59:47 -0800,2019-12-07T16:29:24Z,WHAT IS THE UPDATE FOR 71.0 ON DISCONNECT AND DELETE ALL BROWSING DATA FROM PUBLIC ---- COMPUTERS SINCE THE UPDATE DOES NOT ---- ADDRESS THIS,"<p><em>Edited by a moderator due to language. See the <a href=""https://support.mozilla.org/en-US/kb/forum-rules-and-guidelines"" rel=""nofollow"">Forum Rules &amp; Guidelines</a> .</em>
+</p><p><br>
+<a href=""https://support.mozilla.org/en-US/kb/remove-synced-device-firefox-accounts"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/remove-synced-device-firefox-accounts</a>
+</p>",firefox-710;other;desktop;windows-10;,firefox,other,en-US,1271452;1271461;1271463;1271464;1271606;1271629;1271654;,Fieldservice1
+1274502,2019-12-06 19:44:11 -0800,2019-12-07T02:24:49Z,Lost My Previous Sessions opening a link from Outlook; OH NO!,"<p>I had 2 Firefox browsers that had a bunch of tabs open.  I mistakenly clicked a link in Outlook that opened Firefox for that webpage.  I quickly closed it from the toolbar, realizing I might lose all the other tabs, and I did lose them.  I had at least 14 in one, 16 in another, and is there any way I can go back and retrieve them?  Does Firefox keep any backups of open tabs so I can get to them?  I had so many open, there's no way I can remember which ones they were, because I multitask like crazy.  Now, I'm afraid to use it at all, just in case the more I do, the more the previous sessions will be lost.  YIKES!  I just moved, got my computer back up and running, and now this.  I could chew my own arm off for this.  Can anybody out there help me?
+</p>",firefox-700;other;desktop;windows-7;needsinfo;,firefox,other,en-US,1271470;1271471;1271479;1271494;,KingRay
+1274501,2019-12-06 19:41:06 -0800,2019-12-07T01:16:46Z,Do I need to have an special Antivirus with Firefox? If so Recommendation.,"<p>Not sure which Antivirus to get,or if I need with Firefox.
+</p>",privacy-and-security_1;firefox-710;desktop;windows-10;,firefox,privacy-and-security,en-US,1271451;1271460;1271483;,peterschmitz132
+1274500,2019-12-06 19:38:54 -0800,2019-12-10T17:51:30Z,Why won't LastPass extension install after it was disabled with FF update to vers. 71?,"<p>LastPass was installed and running until Firefox automatically upgraded to ver. 71 and now it's been disabled. Even though LastPass is a ""recommended"" extension, when I try to re-install from Mozilla I get the message ""an unexpected error occurred during installation"" (see attached file). LP users report the same problem on their site but it's clearly a Firefox 71 problem (LP works fine will all my other browsers).
+</p>",firefox-710;customize;desktop;mac-os;,firefox,customize,en-US,1271498;1271905;1272132;1272258;1272452;1272507;,laurie.nyc
+1274499,2019-12-06 18:43:40 -0800,2019-12-07T14:06:03Z,Mouse movement or mouse scolling in Firefox crashes my computer (BSOD) daily.,"<p>Firefox is crashing (BSOD) my computer (PC with Win7x64) daily, during mouse movement or during auto-scrolling after clicking the middle mouse button. It usually happens at least once per day, and has been happening for weeks. FF, Windows and my mouse driver are up to date. I have tested memory many times (using Memtest86) and my hard drive. I have no crashes except in Firefox during mouse activity. 
+</p><p>The BSOD reports vary. Recent ones: Bad Pool Caller (019 and 0C2), PFN List Corrupt (04E), Memory Management Error (01A), ??? (07E), System Service Exception (033). The only consistent thing is using the mouse within Firefox.
+</p>",firefox-710;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,1271549;1271621;,SE-Tundra
+1274497,2019-12-06 16:28:58 -0800,2019-12-06T16:28:58Z,"While I am playing a full screen online game, FF keeps exiting fullscreen whenever the cursor comes close to the upper edge.","<p>Result: the view changes a lot, slowing down the game to boot. VERY annoying. Is there a fix or addon to keep fullscreen until I myself decide to turn it off?
+</p>",firefox-710;other;desktop;windows-10;,firefox,other,en-US,"",zayuta
+1274496,2019-12-06 16:10:56 -0800,2019-12-07T07:02:26Z,On a fresh install of FF71 some page elements either don't display or flash on and off as the page is scrolled through,"<p>I recently re-imaged a Windows 7 Home Premium machine (service pack 1) I have the latest version of java installed, and a fresh install of FF 71. The Firefox install is set to ""factory"" defaults with no addons. Most (all?) web sites have one or more elements that either fail to load completely or flash on and off as I move the mouse or scroll through the page. On the affected computer this page fails to load almost entirely, I've written this question on a different machine, also running FF71 though this one is flawless.
+</p><p>Some pages, like Googles home page, will eventually stabilize and become usable (their logo is an element that is almost always an issue) but other sites like Bloomberg never seem to stabilize and any attempt to scroll or navigate is like watching a bad light show.
+</p>",firefox-710;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,1271411;1271414;1271518;,a-marshal
+1274495,2019-12-06 16:07:29 -0800,2019-12-07T12:50:37Z,Stop autofill on email address,"<p>When I log into my webmail, a drop-down shows my email address.  How do I stop that from happening?
+</p>",firefox-710;other;desktop;windows-7;,firefox,other,en-US,1271466;1271567;,mrshvd3
