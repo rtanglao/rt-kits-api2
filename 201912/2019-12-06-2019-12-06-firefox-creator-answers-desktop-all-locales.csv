@@ -1,0 +1,433 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1274494,2019-12-06 15:55:38 -0800,2019-12-06T20:06:36Z,Update To FF 71 Moved Tabs Above Address Bar How To Move Them Back?,"<p>Got updated to FF71 and my Tabs which I had moved under address bar got moved back above the address bar.  (Had moved them under by creating userChrome.css file which no longer works)  Is there anyway I can get the tabs again to display to under the address bar?  It's just so confusing with the tabs on top.  I appreciate any help!
+</p>",firefox-710;other;desktop;windows-10;,firefox,other,en-US,1271439;1271453;,fvavrek
+1274493,2019-12-06 14:46:35 -0800,2019-12-06T18:45:54Z,Hacker using my browser on iMac -history full of searches and sites I did not go to. How to clean house?,"<p>The majority of the sites on today's history are attempts to log in to a past employer, attempted Gmail admin log ins, the employers ticketing platform, searches for flights, visits to graphic novel sites, etc..NONE OF WHICH ARE ME! I though this was supposed to be a secure browser on an iMac? WTF is going on and how can I stop it?
+</p>",other;firefox-700;firefox-7001;desktop;mac-os-x-1010;,firefox,other,en-US,1271409;1271434;1271440;1271441;,enpetersen23
+1274491,2019-12-06 14:18:29 -0800,2019-12-06T17:42:16Z,amazon video not playing keep getting Digital Rights Error,"<p>i can not find any way to solve
+</p>",firefox-700;customize;desktop;firefox-7001;linux;,firefox,customize,en-US,1271378;1271426;,roninbniemerg
+1274490,2019-12-06 13:56:53 -0800,2019-12-10T11:43:33Z,Problem with enabling two-step authentication for Firefox,"<p>I have tried to enable two-step authentication for Firefox using Authy 2-factor Authentication app for several times, but to no avail.
+Prior to trying to enable it for Firefox, I succesfully enabled two-factor authentication for my Facebook, Google and Microsoft accounts.
+After trying it for Firefox, I also did it for my PayPal account, so the Authy app doesn't seem to be the problem here.
+I tried typing the six numbers with and without space in between and multiple times in two consecutive days, bot nothing seems to work.  I read the QR code succesfully and added Firefox on Authy, but the code just always seems to be incorrect (I'm not sure how to translate it in english, I am using Firefox in Finnish, see the attached image). I censored all the codes in the image.
+</p><p>I would really like to get this to work, as two-step authentication seems to be a good way to make my account a lot more secure.
+</p>",privacy-and-security_1;firefox-710;desktop;windows-10;,firefox,privacy-and-security,en-US,1271467;1271787;1271836;1271955;1272174;1272228;1272398;,daveruuth
+1274489,2019-12-06 13:54:52 -0800,2019-12-06T14:59:42Z,Can't Log In to SSA Website,"<p>About six months ago, I posted here <a href=""https://support.mozilla.org/en-US/questions/1265504"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1265504</a> b/c I was unable to log into the AT&amp;T website.  Seems others had the same issue but on various other wireless service sites and for various reasons - mine ended up being that either AT&amp;T or UBlock had made some changes and I was forced to turn off UBlock at least for the log-in page.   Later, I ended up having to kill both UBlock and AdBlock on another provider's website or the system would not recognize that I had scheduled a payment.
+</p><p>Now I find that I cannot log into the Social Security Administration's website.  I started off by pausing AdBlock with no luck.  I then turned off UBlock - no help.  Turned both ad blockers OFF for the site - no luck.  I then went into Options and tweaked various settings, reloading tabs if that was required, otherwise I relaunched the browser before trying to log in to the SSA site again.
+</p><p>When I first experienced an issue attempting to log in on the SSA on 20 November, I had FF vs 70.0.1.  Yesterday, FF started nagging me to upgrade to 71.0 - which I did so today before attempting again to get logged in to the SSA site.  I was hoping that would fix the problem....
+</p><p>I do not visit the SSA website often, but I had never had any log-in issue until 20 November.  While on the phone with a SSA site support rep on 04 December, I expressed that I felt my blocking of tracking cookies and 3rd party cookies should not be the issue - the rep agreed.  And just FYI, the rep also agreed that my ad blockers should not have been an issue.  Reluctantly, I went to MS Edge - I was able to log in.   I am not well-versed in MS Edge's settings/options, but I do know that advanced settings/options are only available while signed in to a MS account.  I neither trust nor use Edge (or IE for that matter) and do not have a MS account, so I had no intention of creating one just to see how to lock down and make that browser more secure - if that's possible.
+</p><p>I have checked the post ""Fix login issues on websites that require a username and password.""
+	*Options&gt;Privacy &amp; Security&gt;Cookies and Site Data&gt;Manage Permissions&gt;<a href=""https://secure.ssa.gov"" rel=""nofollow"">https://secure.ssa.gov</a> -  ALLOW
+	*FF is (and always has been) set to clear history each time the browser is closed, so as I expected, I found nothing in Library&gt;History&gt;Show All History, and so could clear nothing
+	*FF is (and always has been) set to clear cookies and cache each time the browser is closed, but I followed the Library&gt;History&gt;Clear Recent History&gt;Time Range:Everything and hit the ""Clear Now"" button anyway
+	*Add-ons and security settings tweaked as advised above, to include reducing ""Enhanced Tracking Protection"" down to only 'Standard.'
+	*I did not check for corrupt cookie files as I prefer to leave this as a last resort.  However, I do not use the 'saved log ins' feature or use a master password - I get the impression that is what would be affected if I followed the provisions outlined, and so may not apply to my issue.  Right?
+</p><p>All that said... does anyone have any idea why I cannot log in to the SSA site using FF?
+</p>",firefox-710;websites;desktop;windows-10;,firefox,websites,en-US,1271393;,FitAintBrkDntFxIt
+1274488,2019-12-06 13:49:53 -0800,2019-12-07T13:37:37Z,Trying to transfer my FF profile from old computer to this one.  Nothing in your help pages is working.  The file is not corrupt.  Any help will be appreciated.,"<p>I have done everything that is in the support answers, but to no avail.  When I open FF in my jalopy (10 yr old computer), all my current bookmarks, and history for the past 5 years are still there.  After copying the profile, and the entire Mozilla folder (separate attempts), and over-copying the folder in my new computer, there is no change; the files only go back to when I first installed FF on it.  None of your support answers say anything about whether to copy the jalopy files into the local, or roaming folders, so I copied it into both.  Still no difference.
+</p><p>In a related migration/replace problem, I cannot sync my new computer with the old, even though they're both in the same account name.  The jalopy and new computer names are both recognized in the jalopy, but the new computer doesn't pick up the old computer name.   This was the first thing I tried to reconcile the two machines.  I am extremely frustrated, and at my wits end dealing with this problem.  Any reasonable assistance and solutions are appreciated.  Thank you.
+</p><p>P.S.  If there is a response, will I receive an email or message on my FF account, or do I have to read through 800 instances to find the answer?
+</p>",download-and-install_1;firefox-710;desktop;windows-10;,firefox,download-and-install,en-US,1271404;1271418;1271437;1271438;1271442;1271445;1271552;1271608;,mnosera
+1274487,2019-12-06 13:49:44 -0800,2019-12-06T13:59:02Z,Does Firefox manage the priority of processes in Windows 10 ?,"<p>As Firefox often responds slow to my actions on my Compaq Presario CQ5303NL I have tried solving this by raising the priority of some of the 8 to 10 firefox.exe processes from Normal to High (with 3 Firefox windows and about 20 tabs open). This is done with the Task Manager.
+However the last month every 10 to 20 minutes the priority settings are reversed and about four firefox.exe processes are then set to Low priority at regular time intervals. This also seems to result in slow response to mouseclicks.
+Are you aware of this phenomenon? Is this something Firefox does by itself, or is this intervention coming from Windows 10.
+I notice that when I put explorer.exe in high priority, this lasts till shutdown of the computer, as with other manageble processes.
+</p><p>This is not a serious problem. It's more questioning what Windows is doing with Firefox. (memory is 6GB)
+</p>",firefox-710;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1271375;,w.combrink
+1274486,2019-12-06 13:32:45 -0800,2019-12-07T05:59:07Z,Boa tarde meu Sync parou de funcionar e esta aparecendo tudo em branco... O que pode ser?,"<p>Olhei no Sync em um outro pc e ele esta em branco, e meu pc anterior foi formatado entao nao tenho acesso a dele mais, o que posso fazer?
+</p>",firefox-710;sync;desktop;windows-7;,firefox,sync,pt-BR,1271397;1271421;1271422;1271513;,rjy15
+1274485,2019-12-06 13:23:47 -0800,2019-12-06T17:14:49Z,FF 71 again broke tabs and menu bars!,"<p>As in the topic, FF updated broke everything. Fortunately, I managed to get it somewhat working again but there are new problems. My menu bar now is under bookmarks and some weird empty bar showed up under my tabs. HOW TO FIX IT?! HELP!
+</p><p>my userChrome.css config
+</p><p>/* Firefox Quantum userChrome.css tweaks ********************************************************/
+/* code mostly taken from 'Classic Theme Restorer' &amp; 'Classic Toolbar Buttons' add-ons **********/
+/* Github: <a href=""https://github.com/aris-t2/customcssforfx"" rel=""nofollow"">https://github.com/aris-t2/customcssforfx</a> ********************************************/
+/************************************************************************************************/
+</p><p>/************************************************************************************************/
+/* Custom CSS for Firefox 60+ *******************************************************************/
+/* version 2.4.0 ********************************************************************************/
+/************************************************************************************************/
+</p><p>/*************************************************************************************************
+</p><p><br>
+</p>
+<ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li>/
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+</li></ul>
+<p>/************************************************************************************************/
+/* CONFIGURATION FILES - edit target files to change general values *****************************/
+/************************************************************************************************/
+</p><p>/* GENERAL VARIABLES ****************************************************************************/
+/* [!] set global variables for font and tab size options and more inside target file ***********/
+@import ""./config/general_variables.css""; /**/
+</p><p>/* COLOR VARIABLES FOR DEFAULT BROWSER THEME ONLY - MAIN UI - [only use one at a time] **********/
+/* [!] set own colors for tabs &amp; toolbars inside 'color_variables.css' or use available presets */
+/* [!] 'about:config &gt; ui.systemUsesDarkTheme &gt; 0' might be required in some cases **************/
+/* [!] enabled 'menubar_color.css' and 'statusbar_color.css' might be required in some cases ****/
+@import ""./config/color_variables.css""; /**/  /* &lt;- default 'grey' colors */
+/* @import ""./config/color_variables_aero.css""; /**/  /* &lt;- 'AeroBlue' colors (Win 7 Aero) */
+/* @import ""./config/color_variables_classic-grey.css""; /**/  /* &lt;- 'classic grey' colors (Win Classic) */
+/* @import ""./config/color_variables_fx3.css""; /**/  /* &lt;- 'Firefox 3-like' blueish colors */
+/* @import ""./config/color_variables_transparent.css""; /**/  /* &lt;- (semi-)'transparent' colors */
+/* @import ""./config/color_variables_aeroglass.css""; /**/  /* &lt;- 'AeroGlass' colors / Win10+Glass8 fix can be found in 'toolbars' area */
+/* @import ""./config/color_variables_deved.css""; /**/  /* &lt;- based on 'Developer Edition' colors */
+/* @import ""./config/color_variables_noia4_grey.css""; /**/  /* &lt;- based on 'Noia 4 themes' grey colors */
+/* @import ""./config/color_variables_noia4_lightgrey.css""; /**/  /* &lt;- based on 'Noia 4 themes' lightgrey colors */
+/* @import ""./config/color_variables_noia4_dark.css""; /**/  /* &lt;- based on 'Noia 4 themes' dark colors */
+</p><p>/* Darker ""Dark"" default theme - [only use one at a time] ***************************************/
+/* @import ""./css/toolbars/default_dark_theme_darker.css""; /**/
+/* @import ""./css/toolbars/default_dark_theme_darker_v2.css""; /**/
+</p><p>/* CUSTOM SCROLLBARS VARIABLES (Firefox 63+ only) - EXPERIMENTAL ********************************/
+/* [!] Might not work on every page! This issue is for Mozilla to solve. ************************/
+/* [!] not compatible with custom scrollbar JavaScipt userChrome scripts ************************/
+/* [!] custom size values only compatible with 'web content' scrollbars at the moment ***********/
+/* [!] more info inside 'custom_scrollbar_appearance.css' file **********************************/
+/* @import ""./config/custom_scrollbar_appearance.css""; /**/		/* &lt;--- EXPERIMENTAL */
+</p><p><br>
+/************************************************************************************************/
+/* TOOLBAR BUTTONS ******************************************************************************/
+/************************************************************************************************/
+</p><p>/* navigation toolbar buttons appearance - [only use one at a time] *****************************/
+@import ""./css/buttons/buttons_on_navbar_classic_appearance.css""; /**/
+/* @import ""./css/buttons/buttons_on_navbar_classic_appearance_v2.css""; /**/
+/* @import ""./css/buttons/buttons_on_navbar_windows_classic_theme_appearance.css""; /**/
+/* @import ""./css/buttons/buttons_on_navbar_glass_appearance.css"";			/* &lt;--- good for Dark themes */
+/* @import ""./css/buttons/buttons_on_navbar_osx_appearance.css""; /**/
+</p><p>/* navigation toolbar buttons - button roundness (edit file to set different roundness) *********/
+/* @import ""./css/buttons/buttons_on_navbar_button_roundness.css""; /**/
+</p><p>/* squared buttons / button size - [only use one at a time] *************************************/
+/* ""rectangular shape"" - normal size ************************************************************/
+/* @import ""./css/buttons/buttons_on_navbar_squared_buttons.css""; /**/
+/* ""normal shape"" - large size (huge 48x48px buttons with 36x36px icons) ************************/
+/* [!] not compatible with 'custom icon' options ************************************************/
+/* [!] not compatible with 'custom back &amp; forward buttons' appearance options *******************/
+/* [!] not compatible with 'text mode' option ***************************************************/
+/* [!] partly compatible with 'icons+text' option, if in 'compact mode' *************************/
+/* @import ""./css/buttons/buttons_on_navbar_huge_48px_size.css""; /
+</p>",tabs;firefox-710;desktop;windows-81;,firefox,tabs,en-US,1271379;1271402;1271417;,spioh72
+1274484,2019-12-06 13:03:38 -0800,2019-12-06T13:03:38Z,"Bookmarks have subfolders. Most open to the left showing contents, two do not. What's different?","<p>My bookmarks list contains subfolders by topic. Most of these open but 2 do not ... I don't know why. These two don't look any different but the rest open back onto the screen to the left to reveal content whereas the other two just stay put. I've verified the content and can get to them in other ways. What's up with that?
+</p>",bookmarks;firefox-710;desktop;,firefox,bookmarks,en-US,"",kgp11
+1274483,2019-12-06 12:53:19 -0800,2019-12-06T22:43:55Z,Network tab in devtools goes blank so frequently in 70.1 and 71,"<p>The Network tab in devtools goes blank so frequently in so many sites. I don't know if this is the problem of my own or a bug. 
+</p><p><a href=""https://i.loli.net/2019/12/07/GiLCMqDrk9vxfUd.png"" rel=""nofollow"">https://i.loli.net/2019/12/07/GiLCMqDrk9vxfUd.png</a>
+</p><p>I'm not sure the triggers of the bug. but several conditions when the tab turns blank:
+</p><p>typing in the filtering input
+</p>",firefox-710;other;desktop;mac-os;,firefox,other,en-US,1271473;,raylee.bio
+1274482,2019-12-06 12:43:35 -0800,2019-12-06T12:43:35Z,Delete / Ignore,"<p>Delete this post. Problem was solved in settings
+</p>",firefox-700;customize;desktop;,firefox,customize,en-US,"",idontknowwhattoputt
+1274481,2019-12-06 12:41:06 -0800,2019-12-06T15:12:00Z,Is there a way to change the tabs' font to BOLD?,"<p>Hi all,
+Is there a way in about:config to change the tab font to be bold? Or to change it to a font that is automatically bold (like Aharoni, for ex.)?
+Thanks!  
+PS, if this requires a css file, I will have a LOT more questions, as I have never written one of those and being somewhat elderly, have never taken a computer course.
+</p>",firefox-710;customize;desktop;windows-7;,firefox,customize,en-US,1271364;1271385;1271392;1271398;1271399;,Anaya
+1274480,2019-12-06 12:24:15 -0800,2019-12-06T12:50:58Z,"Firefox opening .aspx with ""in-browser"" pdf reader instead of installed reader","<p>My work just updated my computers. On the old computers, if I download a .aspx file from a website (something I do frequently for my job) the file would open in my installed pdf reader (Foxit PhantomPDF - Version:  9.2.0.9297). On the new computers, the .aspx file opens in the Firefox ""in-browser"" pdf reader. The filetype .pdf is set to automatically open in Foxit, but there is no .aspx filetype available in the applications list of Firefox preferences. Does anyone know a away to force firefox to open a certain filetype (like .aspx) with a certain program?
+</p><p>For reference, my old computers were Lenovos. I had a tower running windows 7 and a laptop running windows 10. Both behaved correctly where the .aspx file would open automatically (or at least ask) in Foxit. The new computers are Dells. Again a tower and a laptop. Both are running windows 10 and both are behaving the same way where .aspx files open in the firefox ""in-browser"" pdf reader.
+</p>",firefox-710;customize;desktop;windows-10;,firefox,customize,en-US,1271352;1271355;,nlandis
+1274478,2019-12-06 12:15:10 -0800,2019-12-06T15:07:14Z,Just Read The Details,"<p>When I pull up Firefox Via The Shortcut It Automatically Crashes And Won't Let Me Go To Safe Mode And The Cmd Prompt That Was Recommended sends Me To A Crash Report Here it is if this helps Crash ID: bp-7e63d373-4797-479f-beaf-5a9230191206
+</p>",desktop;fix-problems;windows-10;firefox-710;bug_1;,firefox,fix-problems,en-US,1271394;1271395;,Taylords22
+1274477,2019-12-06 11:55:59 -0800,2019-12-06T18:49:30Z,Get the current URL with JavaScript?,"<p>All I want is to get the website URL. Not the URL as taken from a link. On the page loading I need to be able to grab the full, current URL <a href=""https://bestboxinggloves.net"" rel=""nofollow"">https://bestboxinggloves.net</a> of the website and set it as a variable to do with as I please.
+</p>","",firefox,websites,en-US,1271334;1271341;1271430;1271443;,emilynoah918
+1274476,2019-12-06 11:48:10 -0800,2019-12-06T13:49:53Z,"How to disable ""recent highlights"" in History/Bookmark Menu","<p>How can I disable the ""recent highlights"" showing on my History, Bookmark menu.  I have gone into settings/options, unchecked the Highlights box, but it still shows sites I have recently visited.  So frustrating!  Why can't I control this?
+</p>",firefox-710;customize;desktop;windows-10;,firefox,customize,en-US,1271336;1271372;,hedder68
+1274474,2019-12-06 11:20:11 -0800,2019-12-06T12:15:32Z,Google search and google maps are redirected to yahoo,"<p>I have run MalwareBytes and Microsoft Security Search, both found nothing.  On  y Firefox home page ""srchoperatetool"" came up but I can not find how to uninstall/delete/remove it.  I have removed all add ons.
+</p>",firefox-710;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1271319;1271327;1271328;1271344;,2bduggan
+1274473,2019-12-06 11:01:30 -0800,2019-12-06T18:10:33Z,How do I change what button opens Firefox?,"<p>I play games often and as a result the escape key is a button that is used frequently. This morning it gave me some issues as it was also opening my browser (Firefox). I don't know why, it's never happened before, and I can't seem to find it in the options or the support guides. Maybe I just missed it and I would simply like to know how to not have any buttons open the browser.
+</p>",firefox-710;customize;desktop;windows-10;,firefox,customize,en-US,1271324;1271433;,maximillianj9
+1274472,2019-12-06 10:50:10 -0800,2019-12-06T17:10:00Z,"how to stop all tabs? ""Offline mode"" does not stop connection attempts","<p>tell me who knows, how to stop all tabs? Even when I enable the ""offline mode"",  tabs with heavy javascript continue trying to load, consuming CPU resources. I want they to stop immideately. I tried different extensions, but results are unsatisfactory. Does anybody know some trick?
+My goal is to find a method to flush all javascript structures in RAM. I explored about:memory, and tried the vmmap.exe (process memory analyzer) from the Sysinternals Suite, but I have not succeeded so far.
+Auto unload tab -- is not a solution. For example I clicked on links and opened 30 tabs in background. PC starts working very slow, Now I want to stop all them, and to read the loaded information (webpages). How to do it? I think it is the weakest side of Firefox. Needed to abrupt all attempts to make network connection, after the ""offline mode"" is enabled.
+I need something to stop javascript's attempts to connect, to calm it down. I want to start read webpages already loaded, and javascript occupies CPU. To kill threads in the Process Manager is not a way to do at all, Auto-unload also, I want to read those webpages.  I have enough of RAM, it is not used more then a half. 
+Many years ago, when there was HTML4, I used for a little the Maxton browser. It had a button to stop all pages. All similiar Firefox extensions do not act effectively like that.
+the issue not in scarcity of RAM, but in a badly design of browser's architecture, that javascript occupies users' PCs.
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US,1271330;1271333;1271335;1271338;1271410;1271415;,clayten.braylan
+1274471,2019-12-06 10:20:47 -0800,2019-12-06T17:46:42Z,"When signing on to Gmail, I have to go through dual authentication.  Are there privacy/cookies settings I can set so that Gmail remembers me?","<p>I recently switched to Firefox from Chrome.  Gmail is now putting me through dual authentication.  I don't mind signing on with userid/password, but would like to set up Firefox so that Gmail doesn't ask for dual authentication.  Is there a way to do this?
+</p>",privacy-and-security_1;firefox-710;desktop;windows-7;,firefox,privacy-and-security,en-US,1271353;1271377;1271380;1271427;,wayne.eisner
+1274470,2019-12-06 09:58:12 -0800,2019-12-06T15:10:06Z,"Why do i get the error SSL_ERROR_BAD_MAC_ALERT / secure connection failed on various sites, but not all the time?","<p>I get the attached error seemingly randomly when i go to certain vendor webpages like <a href=""http://automationdirect.com"" rel=""nofollow"">automationdirect.com</a> and <a href=""http://seeedstudio.com"" rel=""nofollow"">seeedstudio.com</a>.  I can not find anything online as to why this might be happening. it is a work computer with ESET Endpoint security.
+</p><p>The try again button rarely works, i need to close firefox completely and reload the webpage to fix it.
+</p>",firefox-710;other;desktop;windows-10;,firefox,other,en-US,1271396;,allan.cramer
+1274468,2019-12-06 09:55:47 -0800,2019-12-06T11:10:35Z,Facebook Tab - No Back Button,"<p>I'll explain this as best I can.
+</p><p>Example:
+</p><p>I search for a politician by they name. I find in the search that they have a Facebook Page. When I click on the FB Link and go to FB I am UNABLE to use the Back Button to go back to my search results.
+</p><p>I use Duck Duck Go as my search engine.
+</p><p>This is just weird and it needs to stop. :)
+</p>",firefox-710;websites;desktop;mac-os;,firefox,websites,en-US,1271300;1271312;,17
+1274466,2019-12-06 09:45:13 -0800,2019-12-06T10:45:54Z,flash with firefox,"<p>it tell me to go down to the bottom of screen to these setting to the right side bottom of the page where it says blocking flash setting but can noit
+</p>",firefox-700;other;desktop;linux;,firefox,other,en-US,1271306;,I39shaclarke
+1274465,2019-12-06 09:35:20 -0800,2019-12-06T09:36:41Z,How can I set Firefox as default in Windows 10?,"<p>Firefox does not show up as an app in Windows 10 Home Version 1809
+</p>",firefox-710;other;desktop;windows-10;,firefox,other,en-US,1271280;1271281;,panstett
+1274464,2019-12-06 09:28:19 -0800,2019-12-06T09:38:28Z,"Repeatedly says to close the open firefox before I can compete install, but there is none open","<p>I stopped the AV, I deleted all old files for Firefox, there is no other firefox open or even installed, but the new one wont' install.
+</p>",download-and-install_1;desktop;windows-10;download-and-install;,firefox,download-and-install,en-US,1271282;,kazrenpirate
+1274462,2019-12-06 09:15:20 -0800,2019-12-06T10:33:23Z,Why can't i restore my default search engines?,"<p>My Firefox is broken. It keeps making me use yahoo and it won't let me reset the default search engines , the button is grey won't let me click it. It keeps switching my default search engine to something else and i don't know why it first started when i didn't mean to download something i thought i deleted it but it will not stop popping up and making me use safe finder and yahoo. My restore default search engine button won't work since i can't click it , now I'm just left with mobzilla support engine because i tried to delete the search engine that keeps popping up.
+</p>",firefox-710;customize;desktop;mac-os;,firefox,customize,en-US,1271283;1271303;,superdud55
+1274461,2019-12-06 09:10:23 -0800,2019-12-06T10:50:52Z,I constantly get a verification error if I want to verificate my account.,"<p>See the attached screenshot. This text is constantly being received when I click on the button in the verification e-mail.
+</p>",customize;desktop;,firefox,customize,en-US,1271308;,VictorQuint
+1274456,2019-12-06 08:49:28 -0800,2019-12-06T09:08:58Z,"For each new firefox session, i can't access gmail at all for about 10-15 minutes. Other google sites/services available.","<p>For about six months now on my work computer, every time I open a new firefox session, I can't access gmail at all. The page will not load in any way. Google calendar, google search, docs, etc. all load just fine. It takes up to 20 minutes before, randomly, the page begins to load.
+</p>",firefox-710;websites;desktop;windows-10;,firefox,websites,en-US,1271276;,kasa05
+1274455,2019-12-06 08:34:33 -0800,2019-12-06T08:41:25Z,"Back button dropdown delay setting, where ?","<p>When I click the Back button, and there are several items in the dropdown history list, seems that I have to hold the left mouse button down for some pre-determined interval before the whole dropdown list is presented.  
+</p><p>Before this interval transpires, the button appears pressed, but no dropdown list is presented.
+</p><p>Is there a configuration variable that sets this minimum time to hold the button down, before the dropdown list is displayed ?
+</p><p>If not, is there some other method to have the dropdown list displayed sooner, if not immediately ?
+</p><p>This is Firefox 7.0, Windows 7 x64
+</p>",firefox-710;customize;desktop;windows-7;,firefox,customize,en-US,1271264;,keith20mm
+1274453,2019-12-06 08:32:36 -0800,2019-12-09T00:34:10Z,"NOt able to browse amazon, wikipedia.","<p>I am not able to open Wikipedia, amazon, primevideo and other similar websites. it says ""Did Not Connect: Potential Security Issue"". Using 71.0 (64-bit) on win10.
+</p>",firefox-710;websites;desktop;windows-10;,firefox,websites,en-US,1271261;1271302;1271913;,vaibhav1goyal
+1274451,2019-12-06 08:03:35 -0800,2019-12-07T14:21:54Z,Version 71 FF Won't Run,"<p>Ever since my first ever use of FireFox the setting to ""update"" has been set to ""Check for updates but let you choose to install them"".
+</p><p>Yesterday I clicked to accept the latest update (to 71.0 I think) at which point the programme simply crashed without warning.
+</p><p>I went through various processes to try and resurrect FF, but without success --- FireFox would not run.
+</p><p>I eventually resorted to installing Version 65.0 but, despite the update settings being set as above, Version 71 kept installing and making FF a ""non-starter"" again.
+</p><p>I made an alteration to the ""about:config"" which seems to have stopped the automatic updating, albeit the ""FF Icon"" still wants to function as ""Updater"" and I get a message (when started) saying FF is unable to update to the latest version - ""click here to download etc.,"" which of course I don't do and FF continues to perform as expected - albeit 65 and not 71.
+</p><p>Is there a problem with Version 71 and (possible) Win 7 64 bit ?
+</p><p>How can I reconfigure the ""FF Icon"" to simply start the programme (version 65) in the normal way and not get involved with it wanting to update all the time?
+</p><p>Another peculiarity that has arisen is that, when I try to change the Default language from American English to British English I receive a message saying FF cannot change as it is not online. (Version 65 and it is definitely online)
+</p><p>I have carried out system scans for Viruses etc., perform really in-depth un-installations of FF, and no new applications have recently been installed.
+</p>",fix-problems;firefox-6502;desktop;firefox-650;windows-7;bug1590430;comodo;comodo71;notafirefoxproblem;comodoproblem;,firefox,fix-problems,en-US,1271262;1271263;1271285;1271289;1271322;1271346;1271371;1271386;1271625;,ian_sd57llg
+1274450,2019-12-06 07:52:59 -0800,2019-12-08T15:52:14Z,Firefox updated   and it took my tabs off the bottom and above address bar,"<p>Dang these updates that do this. how to move tabs back below address bar?  I know many people are tired of this problem!
+</p>",tabs;firefox-710;desktop;windows-10;,firefox,tabs,en-US,1271268;1271277;1271318;1271347;1271391;1271447;1271458;1271607;1271609;1271612;1271626;1271637;1271640;1271645;1271646;1271647;1271648;1271649;1271652;1271657;1271660;1271661;1271662;1271663;1271664;1271665;1271666;1271667;1271668;1271671;1271708;1271845;1271849;1271855;,tfinniii
+1274449,2019-12-06 07:43:12 -0800,2019-12-06T12:35:57Z,DOH not resolving web site,"<p>I have found that while using DOH, FF is not able to resolve for a web site ""<a href=""http://www.pbssystems.com"" rel=""nofollow"">http://www.pbssystems.com</a>"" The TRR result enclosed show that DOH is active but Cloudflare is not resolving. this was done in the YYZ, Toronto,Canad area.
+</p><p>Can anyone provide any diagnostic to further test the failure to resolve this web site?
+</p>",websites;firefox-700;desktop;mac-os;,firefox,websites,en-US,1271256;1271266;1271269;1271297;1271351;,mace2
+1274447,2019-12-06 07:23:46 -0800,2019-12-06T14:42:46Z,Amazon.com main page drop-down for departments is double spaced.,"<p>Other browsers show departments in this drop-down single spaced.
+See screen capture for sample.
+</p>",websites;firefox-700;firefox-7001;desktop;windows-10;,firefox,websites,en-US,1271275;1271383;,MisterT99
+1274444,2019-12-06 07:03:55 -0800,2019-12-06T07:03:55Z,"After updating Firefox to the current version, I can no longer install Mcafee WebAdvisor.  It does install on Chrome and Edge.","<p>After Firefox update, I lost Mcafee Webadvisor, which was working fine before the update.  Now I can not install Webadvisor getting the same error message repeatedly:  Sorry, looks like we're having issues. Please try again.
+I tried numerous times with the same message.  Did 2 refreshes of Firefox with no luck.  Webadvisor is working in Chrome and Edge.
+Dell 8930 XPS
+64 GB Ram
+</p>",firefox-710;customize;desktop;windows-10;,firefox,customize,en-US,"",minimallet
+1274442,2019-12-06 06:15:59 -0800,2019-12-09T06:26:33Z,After the update to 71.0 version of Firefox it is not possible to get to jira website. 400 error is visible. Anyone know how to fix this?,"<p>It appears that Jira is not working correctly after the update of Firefox. After generating new certificates the same error occures. It is possible to use jira on other browsers. 
+Please see attached screenshots
+</p>",privacy-and-security_1;firefox-710;desktop;windows-10;needsinfo;,firefox,privacy-and-security,en-US,1271316;1271911;1271970;,krzysztof.gzyl
+1274441,2019-12-06 06:07:38 -0800,2019-12-08T00:56:40Z,Website information is not stored,"<p>I have been using a website where I've inputted data, Zip/Post codes &amp; this has been stored for future use.
+But recently I ""Cleared History, Cookies/cache, &amp; as expected the stored data was deleted.
+But now I go into the same web site, enter the Zip/Post code data &amp; it is not stored
+I'm using F.Fox version 71.0
+What is the problem/solution?
+</p>",firefox-710;cookies;desktop;windows-10;,firefox,cookies,en-US,1271326;1271343;1271350;1271358;1271432;1271480;1271520;1271585;1271590;1271687;1271705;,johnoo
+1274439,2019-12-06 05:59:00 -0800,2019-12-06T05:59:00Z,Firefox Issues opening jpgs and PDF files,"<p>When I try to open the file CREME VISGAE LAVANDE .jpg for example, Firefox will open 4 tabs in a new window. Each tab, is the document name divided by ""websites"" like this:
+</p><p>Tab 1: file:///C:/Users/amorera/AppData/Local/Temp/CREME
+Tab 2: <a href=""http://www.visgae.com/"" rel=""nofollow"">http://www.visgae.com/</a>
+Tab 3: <a href=""http://ww8.lavande.com/"" rel=""nofollow"">http://ww8.lavande.com/</a>
+Tab 4: http://www..jpg/
+</p><p>The image won't show in Firefox as it usually did some hours ago. I tried a Cookies/Cache cleaning process, didn't work. Restarting w/o add on, didn't work.
+</p><p>I had to, open the file containing the download and open the image using the windows tool. 
+</p><p>With PDFs, every time I download an file,  it will show an error message saying that the file couldn't be found. Same as before, only manually opening from windows will work
+</p>",firefox-680;other;desktop;windows-10;,firefox,other,en-US,"",amorera
+1274438,2019-12-06 05:57:57 -0800,2019-12-06T05:57:57Z,View all open windows in separate visible tabs?,"<p>Presently when I open a new window Firefox opens it in the same tab.  This causes new windows to hidden in,  or hidden behind,  a single tab on the far left side of the tab bar.  I don't want this.  I want to view all windows as separate  tabs displayed left to right across the tab bar.  There is probably simple preference setting to accomplish this but I can't find it.  Maybe there is another setting or an extension that prevents what I want to do.  Anyway I hope someone can help.  Searching through my History trying to find a web page I want to return to is driving me crazy!
+</p>",firefox-700;customize;desktop;windows-10;,firefox,customize,en-US,"",orandhome
+1274437,2019-12-06 05:47:01 -0800,2019-12-06T05:47:01Z,"Periodically the Firefox title bar turns transparent, and tabs are unresponsive","<p>Periodically the title bar becomes transparent and the tabs are not responsive. 
+I am on FireFox 71.0 64 bit.
+Only restarting the browser fixes the issue for a while - interestingly, Thunderbird also shows this odd behavior.
+Any ideas would be appreciated.
+</p>",firefox-710;desktop;fix-problems;windows-81;,firefox,fix-problems,en-US,"",Macgyver16502
+1274436,2019-12-06 05:38:50 -0800,2019-12-06T05:38:50Z,Folders with bookmarks on the bookmarks toolbar pop up on another screen?,"<p>Using Firefox 71.0 (and previous), my bookmarks stored in folders on the Bookmarks Toolbar open up on another ddisplay than where Firefox is. I have to go to the opened meny on the other screen and select the  bookmark there. 
+This problem came with a resent update, but has been working nicely for several years before that.
+</p>",bookmarks;firefox-710;desktop;mac-os;,firefox,bookmarks,en-US,"",Tor.Onshus
+1274434,2019-12-06 05:31:31 -0800,2019-12-06T06:23:34Z,"We have a Sectigo Limited Signed Certificate for one of our websites, but the Certificate is not trusted on new browsers.","<p>As per the above, the Certificate is valid an is trusted on other browsers, but is displaying a warning with Firefox users.
+</p><p>Please let me know should you require more information.
+</p>",privacy-and-security_1;firefox-700;desktop;windows-10;,firefox,privacy-and-security,en-US,1271230;,graeme.young
+1274432,2019-12-06 04:35:13 -0800,2019-12-06T05:02:10Z,firefox screenshots roadmap,"<p>Is there a roadmap somewhere for Firefox Screenshots? I'd like to see how Mozilla intends to enhance this feature in future releases.
+</p><p>Thanks
+</p>",firefox-710;other;desktop;windows-7;,firefox,other,en-US,1271215;1271220;,BlazingReynard
+1274431,2019-12-06 03:32:34 -0800,2019-12-08T05:45:08Z,Firefox cannot sync between Windows and Linux/Mac,"<p>I have several devices which run different systems. Whenever I sync in Firefox, Linux Firefox always syncs with other Linux firefox or Mac Firefox. Windows systems would have another set of bookmarks and user data. My windows devices cannot sync with firefox on other systems.
+Here's part of my error-sync-1575631489638.txt
+</p><p>1575631489410	Services.Common.RESTRequest	DEBUG	POST <a href=""https://oauth.firefox.com.cn/v1/authorization"" rel=""nofollow"">https://oauth.firefox.com.cn/v1/authorization</a> 200
+1575631489411	FirefoxAccounts	DEBUG	_updateAccountData with items: [""oauthTokens""]
+1575631489411	FirefoxAccounts	DEBUG	writing plain storage: [""email"",""sessionToken"",""uid"",""verified"",""device"",""oauthTokens"",""profileCache""]
+1575631489411	FirefoxAccounts	TRACE	starting write of json user data: [""email"",""sessionToken"",""uid"",""verified"",""device"",""oauthTokens"",""profileCache""]
+1575631489416	FirefoxAccounts	TRACE	finished write of json user data - took: 5
+1575631489416	FirefoxAccounts	DEBUG	writing secure storage: [""kSync"",""kXCS"",""kExtSync"",""kExtKbHash""]
+1575631489416	FirefoxAccounts	TRACE	starting write of user data to the login manager
+1575631489427	FirefoxAccounts	TRACE	finished write of user data to the login manager
+1575631489628	Sync.Status	DEBUG	Status for engine extension-storage: error.engine.reason.unknown_fail
+1575631489628	Sync.Status	DEBUG	Status.service: success.status_ok =&gt; error.sync.failed_partial
+1575631489628	Sync.ErrorHandler	DEBUG	extension-storage failed: Error: HTTP 401 Unauthorized: Missing Authorization Token (Please authenticate yourself to use this endpoint.)(resource://services-common/kinto-http-client.js:2771:5) JS Stack trace: ServerResponse@kinto-http-client.js:2771:5
+processResponse@kinto-http-client.js:2925:13
+1575631489629	Sync.Doctor	INFO	Skipping check of prefs - disabled via preferences
+1575631489629	Sync.Doctor	INFO	Skipping check of passwords - disabled via preferences
+1575631489629	Sync.Doctor	INFO	Skipping check of tabs - disabled via preferences
+1575631489629	Sync.Doctor	INFO	Skipping check of bookmarks - disabled via preferences
+1575631489629	Sync.Doctor	INFO	Skipping check of addons - disabled via preferences
+1575631489629	Sync.Doctor	INFO	Skipping check of forms - disabled via preferences
+1575631489629	Sync.Doctor	INFO	Skipping check of history - disabled via preferences
+1575631489629	Sync.Doctor	INFO	Skipping check of extension-storage - disabled via preferences
+1575631489629	Sync.Doctor	INFO	Skipping validation: no engines qualify
+1575631489630	Sync.Synchronizer	INFO	Sync completed at 2019-12-06 19:24:49 after 0.77 secs.
+1575631489630	Sync.Declined	DEBUG	Handling remote declined: []
+1575631489630	Sync.Declined	DEBUG	Handling local declined: []
+1575631489631	Sync.Declined	DEBUG	Declined changed? false
+1575631489631	Sync.Service	INFO	No change to declined engines. Not reuploading meta/global.
+1575631489631	Sync.ErrorHandler	ERROR	Some engines did not sync correctly.
+1575631489632	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=schedule)
+</p>",firefox-700;sync;desktop;linux;escalate;syncerr;malware;,firefox,sync,en-US,1271214;1271221;1271222;1271225;1271255;1271431;1271456;1271457;1271737;,mr.chenyuqing
+1274430,2019-12-06 03:09:07 -0800,2019-12-06T03:09:07Z,"I am having trouble logging in to my Synology NAS - ""You are not authorized to use this service.""","<p>This is a recent change - I never used to have a problem logging in with Firefox. I can log in with MS Edge without a problem
+</p>",firefox-710;other;desktop;windows-10;,firefox,other,en-US,"",caromanin
+1274427,2019-12-06 01:46:26 -0800,2019-12-06T11:55:00Z,"Delete all password, bookmarks and other information when Sign off from Firefox 71.0","<p>On previous Firefox version, when I Sign Out my Sync account the browser ask if want to  ""Remove Firefox Sync Data""  or "" Remove Other Private Data"" like in this page (<a href=""https://support.mozilla.org/en-US/kb/remove-synced-device-firefox-accounts"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/remove-synced-device-firefox-accounts</a>) but on the 71.0 don't ask me not...
+</p>",firefox-710;sync;desktop;mac-os;,firefox,sync,en-US,1271331;,carlosafsantana
+1274426,2019-12-06 01:09:18 -0800,2019-12-07T02:30:40Z,Cambiar correo electrónico asociado a la cuenta Sync,"<p>HOla a todos,
+</p><p>quisiera saber si es posible cambiar la cuenta de correo electrónico asociada a mi cuenta actual de Sync, ya que la que tengo en uso dejará de existir próximamente. ¿O bien es posible eliminar la cuenta Sync sin más? ¿Se perdería el historial, marcadores y demás? Gracias.
+</p>",firefox-700;sync;desktop;linux;,firefox,sync,es,1271360;1271495;,Siochana
+1274423,2019-12-06 00:43:03 -0800,2019-12-06T06:16:03Z,Unable to add website to camera permissions in Settings,"<p>When tyring to add a website to ""Settings - Camera Permissions"", I type the name of the website in the ""Search Web Site"" field, and hit Enter, but nothing happens. I'm Using Firefox 71.0 on Windows 10 Pro 1903 on a Lenovo Thinkpad T480. I have my camera access allowed in Settings.
+</p>",firefox-710;customize;desktop;,firefox,customize,en-US,1271229;,chipbaps
+1274422,2019-12-06 00:39:05 -0800,2019-12-06T05:04:33Z,Search engines keep changing,"<p>Hi, I keep deleting my search engine list in settings as I just want one, 'DuckDuckGo' to be used. But after a day or two Firefox keep adding others to my list and all of a sudden I'm using Yahoo again. This is SO frustrating. Why won't it just stay as I need it to be?
+</p>",firefox-700;customize;desktop;firefox-7001;mac-os;,firefox,customize,en-US,1271211;1271223;,ewajeds
+1274421,2019-12-06 00:33:26 -0800,2019-12-06T12:22:30Z,How to get rid of saved logins that don't belong to site I'm trying to login?,"<p>I have multiple saved logins for single page and I can choose right account before login from list Firefox is displaying.
+</p><p>It was working perfectly (if site had single login saved it was auto-filled, if multiple - I could choose login from list).
+</p><p>But now Firefox is displaying logins that don't belong to site I'm in - how to get rid of that?
+</p>",firefox-710;customize;desktop;windows-10;,firefox,customize,en-US,1271345;,ilona.snepste
+1274420,2019-12-06 00:13:36 -0800,2019-12-06T01:23:33Z,VPN is not working in in firefox.,"<p>i use cyberghost free VPN.  i tired other vpns too . all of a sudden no vpns are working in firefox.Please help
+</p>",firefox-710;customize;desktop;windows-10;,firefox,customize,en-US,1271175;1271193;,vishnudivakarjan24
+1274418,2019-12-05 23:12:25 -0800,2019-12-10T06:58:37Z,Mozilla doesn't load images when you visit a webpage for the first time,"<p>Hey folks!
+I have a problem with browser or cache when visiting a page of my website for the first time.
+Ctrl + F5 does solve the problem, but it still may cause poor UX on the website.
+Attached image shows how it looks.
+</p><p>I don't know about homepage, but if u visit any category you will see the problem <a href=""https://wildproofgear.com/"" rel=""nofollow"">https://wildproofgear.com/</a>
+</p>",firefox-700;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1271169;1271170;1271176;1271218;1271233;1271254;1271260;1271301;1272317;,paulblair931
+1274417,2019-12-05 22:47:27 -0800,2019-12-05T22:50:05Z,Mods please delete accident double post,"<p>Mods please delete this thread there was a ton of lag posting and when I hit post button again it posted but it had 2 so please remove this one as can't find a delete option.
+</p>","",firefox,customize,en-US,1271158;,scottish2
+1274416,2019-12-05 22:46:38 -0800,2019-12-08T15:52:01Z,Tabs on Bottom,"<p>Hi
+</p><p>Running Firefox 71.0 (64 bit)
+</p><p>Well seems Firefox has been messing this up again.
+</p><p>Anyone have the new work around solution to get my tabs back on the bottom again. They were fine this morning then shut down and went out to lunch and when I came back they were back on the top again after months of being where I wanted them below my bookmark bar.
+</p><p>Thoughts on this?
+</p><p>Thanks
+Dave
+</p>",firefox-710;customize;desktop;windows-10;,firefox,customize,en-US,1271232;1271420;1271459;1271476;1271616;1271631;1271642;1271774;1271831;1271832;1271837;1271844;,scottish2
+1274414,2019-12-05 21:47:54 -0800,2019-12-06T12:32:29Z,"When I'm asked for my Master Pasword on my Windows computer/Firefox browser, I enter the correct password, but it's not being accepted.","<p>When I need to use a website for which Firefox has a login stored, the usual box comes up asking for my Master Password.  But it won't accepted my Master Password when I enter it.  And it won't let me cancel the box/request for Master Password.  I know my password well as I use it on a daily basis.  Nonetheless, I tried entering it into the popup box 6 times, and it's still not being accepted.  Why has Firefox suddenly stopped accepting my Master Password.  I am in desperate need of accessing several websites today that require logins that have been stored on Firefox.
+</p>",firefox-710;other;desktop;windows-10;,firefox,other,en-US,1271348;,catherine.rzecki
+1274411,2019-12-05 18:06:05 -0800,2019-12-06T00:27:16Z,Version 71.0 crashes.  Older versions working.,"<p>After update firefox 71.0 crashes.  I try with 72.0b2, it also falls. 
+Version 70.0 started with no errors.
+</p><p><br>
+Windows message after crash:
+Сигнатура проблемы:
+</p><pre> Имя события проблемы:	APPCRASH
+ Имя приложения:	firefox.exe
+ Версия приложения:	72.0.0.7276
+ Отметка времени приложения:	5de6846d
+ Имя модуля с ошибкой:	StackHash_312e
+ Версия модуля с ошибкой:	0.0.0.0
+ Отметка времени модуля с ошибкой:	00000000
+ Код исключения:	c0000005
+ Смещение исключения:	000000006fff150a
+ Версия ОС:	6.1.7601.2.1.0.768.2
+ Код языка:	1049
+ Дополнительные сведения 1:	312e
+ Дополнительные сведения 2:	312e0f649e68df8b8010198c924de691
+ Дополнительные сведения 3:	869b
+ Дополнительные сведения 4:	869b2a0d94a3dc98cd01b46adf84db4c
+</pre>",desktop;fix-problems;,firefox,fix-problems,en-US,1271129;1271179;,ksvs82
+1274410,2019-12-05 17:58:56 -0800,2019-12-05T22:10:52Z,Why does Firefox alphabetize my Bookmark Toolbar automatically whenever I start up the program?,"<p>Question pretty much sums it up. If I move the bookmarks on the toolbar around, they will stay like that until I shut down my computer and open Firefox the next time I log on.
+</p>",bookmarks;firefox-700;firefox-7001;desktop;windows-10;,firefox,bookmarks,en-US,1271132;1271151;,anbegin21
+1274409,2019-12-05 17:36:22 -0800,2019-12-06T17:28:59Z,Stop displaying DRM message,"<p>I have DRM disabled. I do not want a bright yellow message box notifying me that there is DRM-controlled content in a page constantly appearing even when dismissed.  I do not even see an about:config entry.
+</p>",firefox-700;customize;desktop;linux;,firefox,customize,en-US,1271094;1271423;,crankygoat
+1274407,2019-12-05 17:28:45 -0800,2019-12-05T21:22:06Z,Firefox will not start,"<p>I cannot get Firefox to start.  I have uninstalled, restarted my computer and then reinstalled and it still will not work.  When I click on the icon, a process will show up in Task Manager, but disappear within 2 seconds.  I cannot try any of the fixes that requires Firefox to be open.
+</p>",desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,1271099;1271112;1271121;1271138;,kaidi
+1274406,2019-12-05 17:13:33 -0800,2019-12-05T18:13:21Z,Videoes from Facebook no longer download when I click download,"<p>I used to be able to download videoes from my facebook but after I installed windows media player I can't. The video goes full screen instead with no way to download (from what I can tell). I uninstalled windows media player but am still having the same issue. I tried refreshing firefox but it didn't help. I can't find what's causing this issue. I've attached an image of the video playing after I picked download.
+</p>",firefox-710;customize;desktop;windows-10;,firefox,customize,en-US,1271095;1271103;,ZEROMZ
+1274405,2019-12-05 16:31:41 -0800,2019-12-10T18:29:11Z,Crashing crashing crashing.  Tried all instructions.  Deleted all folders.  Uninstalled. Rebooted and then reinstalled.  NADA.,"<p>Problem signature:
+</p><pre> Problem Event Name:	APPCRASH
+ Application Name:	firefox.exe
+ Application Version:	71.0.0.7275
+ Application Timestamp:	5de4f320
+ Fault Module Name:	firefox.exe
+ Fault Module Version:	71.0.0.7275
+ Fault Module Timestamp:	5de4f320
+ Exception Code:	c0000005
+ Exception Offset:	0000000000011579
+ OS Version:	6.1.7601.2.1.0.256.48
+ Locale ID:	1033
+ Additional Information 1:	2544
+ Additional Information 2:	25449d3bb174a5a3235cd4834357e789
+ Additional Information 3:	20d4
+ Additional Information 4:	20d46540fac115652f26a3af0f46a187
+</pre>",desktop;fix-problems;escalate;download-and-install;,firefox,fix-problems,en-US,1271084;1271178;1271248;1271298;1271340;1271361;1271412;1272313;1272494;1272519;,Deeeee
