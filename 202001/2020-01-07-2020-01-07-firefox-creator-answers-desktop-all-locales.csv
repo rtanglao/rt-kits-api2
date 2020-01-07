@@ -1,0 +1,180 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1276688,2020-01-07 10:29:09 -0800,2020-01-07T10:29:09Z,"Hello, is it possible to deactivate Javascript for background tabs?","<p>I'd like the html and css code to remain the same, just stop Javascript.
+</p><p>Optionally I'd like Javascript to continue running when I get back to the page.
+</p><p>A button to stop/pause Javascript on foreground pages would also be nice.
+</p><p>I'm fine with any solution suggestions, be it about:config or an extension, etc.
+</p><p>Thank you!
+</p>",tips;firefox-720;desktop;linux;,firefox,tips,en-US,"",Unrealshade
+1276686,2020-01-07 10:18:46 -0800,2020-01-07T10:18:46Z,Correr OneTab automaticamente cada x tiempo,"<p>Hay forma de que OneTab (o cualquier otro add-on) que necesite interacción corra automáticamente cada cierto tiempo?
+</p>",firefox-710;customize;desktop;linux;,firefox,customize,es,"",maniat1k
+1276685,2020-01-07 10:13:48 -0800,2020-01-07T10:13:48Z,the default file manager for downloads folder and open containing folder changed,"<p>Using Ubuntu 19.10. I recently installed the kde plasma desktop as an option so I could log off and then log in to a user I created specifically to use the KDE Plasma desktop and applications. While in Ubuntu using Gnome as the default desktop all other browsers, Chrome, Brave, Opera etc use Nautilus to open the containing folder as they should since Nautilus is the default inode/directory setting and the default file manager for Gnome. Firefox however for reasons only known to God and hopefully you guys, has chosen to use Dolphin instead of Nautilus. I always have the option of just using a different browser as my default which I may wind up doing if you can't or won't fix your issue but I am hoping it is something simple I can do on my end. Any suggestions?
+</p>",other;desktop;,firefox,other,en-US,"",bjb1959
+1276684,2020-01-07 10:09:36 -0800,2020-01-07T10:09:36Z,"You Tube videos won't play in my Firefox (but in Safari, for example, they do)","<p>I cannot play practiacally any You Tube videos in Firefox, although they work fine in Safari. I just get this error message: ""Video ei ole käytettävissä. Videon käyttöä on rajoitettu. Yritä kirjautua sisään G Suite ‑tilillä."" Means roughly ""the video is not available. Access to video has been restricted. Try to login using your G suite account"". 
+</p><p>I have tried clearing the cache, deleting cookies, disabling ""use hardware acceleration"", as adviced in some earlier comments I found regarding this problem. None of that seems to help.
+</p>",firefox-720;desktop;fix-problems;mac-os;,firefox,fix-problems,fi,"",marja.alkio
+1276683,2020-01-07 10:09:16 -0800,2020-01-07T10:09:16Z,Why are double windows opening in Firefox when clicking on a link?,"<p>Every time I click a link, Firefox opens two (2) windows. One with the URL link and one just with my FF home page. And fixes with easy to follow steps? Happens with both my MacBook Air, the old one and the new one. Both are running OS Catalina V10.15.2
+</p><p>Thank you!
+</p>",firefox-710;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,"",time2sit
+1276679,2020-01-07 09:04:20 -0800,2020-01-07T10:11:57Z,I need to share Bookmarks Toolbar with all users on a computer in an academic setting.,"<p>I work at a university and have laptop computers that multiple students use, and I want them all to be able to access various preset bookmarks that they will need on the Bookmarks Toolbar. I used to be able to set it up with one account and then save the settings to the default user account. In the latest versions of Firefox, this no longer works. Any ideas?
+</p>",bookmarks;firefox-710;desktop;windows-10;,firefox,bookmarks,en-US,1279057;1279062;,rcepko
+1276677,2020-01-07 08:42:05 -0800,2020-01-07T08:42:05Z,Firefox does not print the entire page - tried all suggestions - please alternate solutions,"<p>Fire fox will not print out the entire page. I adjusted the settings as per the support tech web pages but to no avail.
+</p><p>When I print out an IE or chrome the page print out correctly.
+</p><p>Are there any solutions that you have that you can suggest to me to fix this error because I’m almost at the point of switching out a fire fox and using either chrome or Internet Explorer
+</p><p>Appreciate your help and cooperation
+</p><p>Thomas Fallon
+</p>",desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",tomlufallon
+1276672,2020-01-07 07:30:14 -0800,2020-01-07T07:30:14Z,"when I log in into my account to update my addons it shows me the sentence "" {""detail"":""You do not have permission to perform this action.""}","<p>I could not to log in to my account.
+</p>",customize;desktop;,firefox,customize,en-US,"",ali_nasiri
+1276668,2020-01-07 06:42:12 -0800,2020-01-07T06:42:12Z,Not able to Routing audio to devices in Firefox,"<p>I'm using multiple audio devices same time. Also using Voicemeteer and Audio Router. Firefox not allow routing audio to another devices. I know windows 10 doing own routing since 2018 but as I am using some program for work which still I need to be on windows 7. Firefox's routing capability not working since v63 is annoying me.
+</p>",firefox-710;customize;desktop;windows-7;,firefox,customize,en-US,"",ozzymanborn
+1276666,2020-01-07 06:32:45 -0800,2020-01-07T06:59:15Z,How can I delete a Firefox account that I'm locked out of?,"<p>I want to use the email address from my old Firefox account for my new Firefox account
+I don’t have a recovery code and the account I wish to delete doesn’t show on my authenticator app
+</p>",firefox-710;other;desktop;windows-10;,firefox,other,en-US,1279024;,Colin10
+1276665,2020-01-07 06:17:42 -0800,2020-01-07T06:18:35Z,mozilla é  seguro,"<p><br>
+</p>",privacy-and-security_1;desktop;,firefox,privacy-and-security,pt-BR,1279017;,claudimircrestani2017
+1276664,2020-01-07 06:11:50 -0800,2020-01-07T06:11:50Z,O web.whatsapp.com no meu pc parou de funcionar. Já reinstalei o Firefox e continuo sem acesso ao Whatsapp. O que fazer?,"<p>Simplesmente parou. Não foram alteradas as configurações do PC. Na verdade, não tenho acesso ao Whatsapp em nenhum PC através do Firefox.
+</p>",firefox-710;desktop;fix-problems;,firefox,fix-problems,pt-BR,"",acaguiar956
+1276662,2020-01-07 04:06:10 -0800,2020-01-07T09:58:22Z,"After selecting PDFs to view, PDF pane disappears. How do you recall it? (Using W10)","<p>After selecting PDFs to view, PDF pane and tabs can disappears. How do you recall it?
+</p><p>Is there a button on FF?
+</p><p>Why does it not show in Windows task bar?
+</p><p><br>
+</p><pre>(Using W10, FF 71)
+</pre>",firefox-710;other;desktop;windows-10;,firefox,other,en-US,1279025;1279049;1279061;,robinndi
+1276659,2020-01-07 03:04:43 -0800,2020-01-07T05:10:35Z,Kde je podpora k české verzi Seamonkey?,"<p>Já vím, že je zde Firefox, omlouvám se, ale prostě nemohu najít, kde bych našel české fórum nebo českou podporu k Seamonkey. Mohl by mne někdo nasměrovat správným směrem?
+Konkrétně se mi ve Facebooku někdy před Vánoci přestaly zobrazovat obrázky. Zakázal jsem všechny doplňky (karta ""rozšíření""), vzhled mám výchozí,  stále se mi nezobrazují ve FB obrázky. Když se přepnu na čistý profil, tak se mi ve FB obrázky zobrazují. Takže jsem se chtěl poradit s jinými uživateli SM, v čem by mohl být problém. Ale nemohu nikde najít žádné české fórum SM ani českou podporu SM.
+</p>",firefox-520;other;desktop;windows-7;,firefox,other,cs,1278975;1278978;1278992;1278994;,luper
+1276656,2020-01-07 02:33:38 -0800,2020-01-07T10:28:50Z,Menu key on keyboard vs Right mouse button,"<p>Hi,
+</p><p>I found that RMB (right mouse button) context menu and Menu Key (located between alt and ctrl) are different (see attached images).
+</p><p>There are some websites that change the context menu that is visible under right mouse button. When I am writing a lot I use context menu button instead (for example for spelling corrections). In some cases the keyboard button shows the default (useless) context menu. 
+</p><p>How to set the menu key to display the same context menu as right mouse button? Or maybe there is a shortcut key to display the correct context menu?
+</p>",firefox-710;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1279065;,test5
+1276654,2020-01-07 01:59:52 -0800,2020-01-07T01:59:52Z,Restore synced / lost android tabs ?,"<p>Hello,
+</p><p>I removed firefox from my old android phone installed it on my new one.
+Strangely, I can see my old device in ""Devices &amp; apps"" here
+<a href=""https://accounts.firefox.com/settings/clients"" rel=""nofollow"">https://accounts.firefox.com/settings/clients</a>
+but I can't see any of my old phone's synced tabs. 
+Are they lost? how to recover them ?
+</p><p>Thank you VERY much for the help
+</p>",firefox-710;sync;desktop;android;,firefox,sync,en-US,"",farouk.ke
+1276653,2020-01-07 01:59:43 -0800,2020-01-07T05:04:45Z,Firefox blocks google font due strict privacy settings,"<p>I am developing a WordPress website with Muli (Google font) as body font. It now appears that if Firefox privacy settings are set to strict, Muli will be blocked. Is there a way to prevent this? I mean by adding code.
+</p>",firefox-710;websites;desktop;mac-os;,firefox,websites,en-US,1278991;,hans27
+1276651,2020-01-07 00:36:15 -0800,2020-01-07T00:36:15Z,Firefox is having problems to open any Wikipedia.org page. How can I overcome this problem?,"<p>When I try to open any page on <a href=""http://wikipedia.org"" rel=""nofollow"">wikipedia.org</a>, like <a href=""https://pt.wikipedia.org/wiki/Elizabeth_Short"" rel=""nofollow"">https://pt.wikipedia.org/wiki/Elizabeth_Short</a>, I am redirected to the page <a href=""https://pt.wikipedia.org/sec-warning"" rel=""nofollow"">https://pt.wikipedia.org/sec-warning</a>.
+</p><p>This is a problem only to Firefox. I have Chrome, Opera, Edge and they all open wikipedia correctly.
+</p><p>I tried to reset Firefox, did not work.
+I tried to uninstall and reinstall Firefox and it did not work.
+I uninstalled the Avast and it did not work.
+</p><p>Things you must know:
+I am not using any proxy.
+I am in a home network.
+Windows 10 Pro x64 Version 1909 Compilation 18363.535
+My computer date and time is correct.
+</p>",firefox-710;desktop;fix-problems;windows-10;,firefox,fix-problems,pt-BR,"",jhonnatan.guedes
+1276650,2020-01-07 00:31:04 -0800,2020-01-07T00:31:04Z,Bookmarks keep syncing wrong,"<p>I've been using Firefox on my desktop, laptop and Android Mobile for months without issue. Recently i swapped to a new phone and for some reason the bookmarks on my desktop and laptop are getting jumbled/deleted (see attached pics)
+</p><p>To try solve this I exported my bookmarks to a .json file, then manually deleted all bookmarks on all my devices, ran a manual sync on all devices then completely uninstalled and deleted appdata/cache files. 
+</p><p>I then re-installed using a fresh download from Mozilla, signed in and imported my bookmarks from the json file.
+</p><p>for a full day my bookmarks stayed intact, I then installed firefox on my phone and within an hour my desktop bookmarks became jumbled again.
+</p><p>Am I missing something here?
+</p>",bookmarks;firefox-710;desktop;windows-10;,firefox,bookmarks,en-US,"",gary49
+1276649,2020-01-07 00:24:04 -0800,2020-01-07T07:26:42Z,How to hide address bar in firefox 62.0.3 (32-bit),"<p>How to hide address bar in firefox 62.0.3 (32-bit).
+</p>",firefox-620;other;desktop;windows-81;,firefox,other,en-US,1279028;1279030;,anandmangal1003
+1276647,2020-01-06 23:50:21 -0800,2020-01-07T01:31:12Z,Firefox crashing every time I pull a tab to a new screen.  Running 4 screens on linux mint currently.,"<p>AdapterDeviceID: GeForce GT 730/PCIe/SSE2
+AdapterDriverVendor: nvidia/unknown
+AdapterDriverVersion: 384.130.0.0
+AdapterVendorID: 0x10de
+Add-ons: formautofill%<a href=""http://40mozilla.org"" rel=""nofollow"">40mozilla.org</a>:1.0,screenshots%<a href=""http://40mozilla.org"" rel=""nofollow"">40mozilla.org</a>:39.0.0,webcompat%<a href=""http://40mozilla.org"" rel=""nofollow"">40mozilla.org</a>:6.4.0,default-theme%<a href=""http://40mozilla.org"" rel=""nofollow"">40mozilla.org</a>:1.0,yahoo%<a href=""http://40search.mozilla.org"" rel=""nofollow"">40search.mozilla.org</a>:1.0,startpage%<a href=""http://40search.mozilla.org"" rel=""nofollow"">40search.mozilla.org</a>:1.0,duckduckgo%<a href=""http://40search.mozilla.org"" rel=""nofollow"">40search.mozilla.org</a>:1.0,twitter%<a href=""http://40search.mozilla.org"" rel=""nofollow"">40search.mozilla.org</a>:1.0,wikipedia%<a href=""http://40search.mozilla.org"" rel=""nofollow"">40search.mozilla.org</a>:1.0,langpack-en-CA%<a href=""http://40firefox.mozilla.org"" rel=""nofollow"">40firefox.mozilla.org</a>:71.0buildid20191202093317,langpack-en-GB%<a href=""http://40firefox.mozilla.org"" rel=""nofollow"">40firefox.mozilla.org</a>:71.0buildid20191202093317
+BuildID: 20191202093317
+ContentSandboxCapabilities: 119
+ContentSandboxCapable: 1
+ContentSandboxLevel: 4
+CrashTime: 1578383239
+DOMIPCEnabled: 1
+EventLoopNestingLevel: 1
+FramePoisonBase: 9223372036600930304
+FramePoisonSize: 4096
+InstallTime: 1578380611
+IsWayland: 0
+IsWaylandDRM: 0
+MozCrashReason: Request 141.8: BadWindow (invalid Window parameter); 3 requests ago
+Notes: Linux Mint 18.3 SylviaFP(D00-L1000-W00000000-T000) WR? WR- OMTP? OMTP+3 Request 141.8: BadWindow (invalid Window parameter); 3 requests ago
+ProductID: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+ProductName: Firefox
+ReleaseChannel: release
+SafeMode: 0
+SecondsSinceLastCrash: 616
+StartupCrash: 0
+StartupTime: 1578383178
+TelemetryEnvironment: {""build"":{""applicationId"":""{ec8030f7-c20a-464f-9b0e-13a3a9e97384}"",""applicationName"":""Firefox"",""architecture"":""x86-64"",""buildId"":""20191202093317"",""version"":""71.0"",""vendor"":""Mozilla"",""displayVersion"":""71.0"",""platformVersion"":""71.0"",""xpcomAbi"":""x86_64-gcc3"",""updaterAvailable"":false},""partner"":{""distributionId"":""mint"",""distributionVersion"":""1.0"",""partnerId"":null,""distributor"":null,""distributorChannel"":null,""partnerNames"":[""mint ""]},""system"":{""memoryMB"":12011,""virtualMaxMB"":null,""cpu"":{""count"":4,""cores"":4,""vendor"":""GenuineIntel"",""family"":6,""model"":26,""stepping"":5,""l2cacheKB"":256,""l3cacheKB"":8192,""speedMHz"":null,""extensions"":[""hasMMX"",""hasSSE"",""hasSSE2"",""hasSSE3"",""hasSSSE3"",""hasSSE4_1"",""hasSSE4_2""]},""os"":{""name"":""Linux"",""version"":""4.10.0-38-generic"",""locale"":""en-US""},""hdd"":{""profile"":{""model"":null,""revision"":null,""type"":null},""binary"":{""model"":null,""revision"":null,""type"":null},""system"":{""model"":null,""revision"":null,""type"":null}},""gfx"":{""D2DEnabled"":null,""DWriteEnabled"":null,""ContentBackend"":""Skia"",""Headless"":false,""adapters"":[{""description"":""GeForce GT 730/PCIe/SSE2"",""vendorID"":""0x10de"",""deviceID"":""GeForce GT 730/PCIe/SSE2"",""subsysID"":null,""RAM"":null,""driver"":null,""driverVendor"":""nvidia/unknown"",""driverVersion"":""384.130.0.0"",""driverDate"":null,""GPUActive"":true}],""monitors"":[{""screenWidth"":2100,""screenHeight"":1680}],""features"":{""compositor"":""basic"",""gpuProcess"":{""status"":""unavailable""},""wrQualified"":{""status"":""blacklisted""},""webrender"":{""status"":""opt-in""}}},""appleModelId"":null},""settings"":{""blocklistEnabled"":true,""e10sEnabled"":true,""e10sMultiProcesses"":8,""telemetryEnabled"":false,""locale"":""en-US"",""intl"":{""requestedLocales"":[""en-US""],""availableLocales"":[""en-US"",""en-CA"",""en-GB""],""appLocales"":[""en-US"",""en-CA"",""en-GB"",""und""],""systemLocales"":[""en-US""],""regionalPrefsLocales"":[""en-US""],""acceptLanguages"":[""en-US"",""en""]},""update"":{""channel"":""release"",""enabled"":true,""autoDownload"":false},""userPrefs"":{""browser.cache.disk.capacity"":1048576,""browser.search.region"":""US"",""browser.search.widget.inNavBar"":false},""sandbox"":{""effectiveContentProcessLevel"":4},""addonCompatibilityCheckEnabled"":true,""isDefaultBrowser"":true,""defaultSearchEngine"":""other-Google"",""defaultSearchEngineData"":{""loadPath"":""[https]<a href=""http://www.linuxmint.com/google.xml"" rel=""nofollow"">www.linuxmint.com/google.xml</a>"",""name"":""Google"",""origin"":""verified"",""submissionURL"":""<a href=""http://www.google.com/search?q="" rel=""nofollow"">http://www.google.com/search?q=</a>""},""searchCohort"":""nov17-2""},""profile"":{""creationDate"":18268,""firstUseDate"":18268},""addons"":{""activeAddons"":{""formautofill@mozilla.org"":{""version"":""1.0"",""scope"":1,""type"":""extension"",""updateDay"":18242,""isSystem"":true,""isWebExtension"":true,""multiprocessCompatible"":true,""blocklisted"":false,""description"":null,""name"":""Form Autofill"",""userDisabled"":false,""appDisabled"":false,""foreignInstall"":false,""hasBinaryComponents"":false,""installDay"":18242},""screenshots@mozilla.org"":{""version"":""39.0.0"",""scope"":1,""type"":""extension"",""updateDay"":18242,""isSystem"":true,""isWebExtension"":true,""multiprocessCompatible"":true,""blocklisted"":false,""description"":""Take clips and screenshots from the Web and save them temporarily or permanently."",""name"":""Firefox Screenshots"",""userDisabled"":false,""appDisabled"":false,""foreignInstall"":false,""hasBinaryComponents"":false,""installDay"":18242},""webcompat@mozilla.org"":{""version"":""6.4.0"",""scope"":1,""type"":""extension"",""updateDay"":18242,""isSystem"":true,""isWebExtension"":true,""multiprocessCompatible"":true,""blocklisted"":false,""description"":""Urgent post-release fixes for web compatibility."",""name"":""Web Compat"",""userDisabled"":false,""appDisabled"":false,""foreignInstall"":false,""hasBinaryComponents"":false,""installDay"":18242}},""theme"":{""id"":""default-theme@mozilla.org"",""blocklisted"":false,""description"":""A theme with the operating system color scheme."",""name"":""Default"",""userDisabled"":false,""appDisabled"":false,""version"":""1.0"",""scope"":4,""foreignInstall"":false,""hasBinaryComponents"":false,""installDay"":18268,""updateDay"":null},""activePlugins"":[{""name"":""Shockwave Flash"",""version"":""32.0.0.303"",""description"":""Shockwave Flash 32.0 r0"",""blocklisted"":false,""disabled"":false,""clicktoplay"":true,""mimeTypes"":[""application/x-shockwave-flash"",""application/futuresplash""],""updateDay"":18222}],""activeGMPlugins"":{""gmp-gmpopenh264"":{""version"":""1.8.1.1"",""userDisabled"":false,""applyBackgroundUpdates"":1}}},""experiments"":{""new-bookmark-sync-study-release-70"":{""branch"":""active"",""type"":""normandy-prefrollout"",""enrollmentId"":""ab57ab78-7454-4acf-8392-e914440731b1""},""searchCohort"":{""branch"":""nov17-2""}}}
+ThreadIdNameMapping: 7797:""Gecko_IOThread"",7798:""JS Watchdog"",7799:""JS Helper"",7802:""JS Helper"",7800:""JS Helper"",7803:""Timer"",7804:""Netlink Monitor"",7801:""JS Helper"",7805:""Socket Thread"",7810:""Cache2 I/O"",7811:""Cookie"",7814:""GMPThread"",7815:""Worker Launcher"",7816:""SoftwareVsyncThread"",7817:""Compositor"",7818:""ImgDecoder #1"",7819:""ImageIO"",7820:""ImageBridgeChild"",7821:""IPDL Background"",7822:""DOM Worker"",7824:""QuotaManager IO"",7828:""StyleThread#2"",7826:""StyleThread#0"",7827:""StyleThread#1"",7829:""Breakpad Server"",7836:""FS Broker 7832"",7837:""ProcessHangMon"",7856:""DataStorage"",7857:""DNS Resolver #1"",7861:""Cache I/O"",7862:""HTML5 Parser"",7863:""mozStorage #1"",7864:""URL Classifier"",7865:""Classifier Update"",7866:""DNS Resolver #2"",7867:""DNS Resolver #3"",7868:""DOM Worker"",7870:""mozStorage #2"",7871:""mozStorage #3"",7872:""DOM Worker"",7889:""localStorage DB"",7890:""mozStorage #4"",7891:""mozStorage #5"",7909:""FS Broker 7905"",7922:""StreamTrans #4"",7937:""DOM Worker"",7940:""BgFileSaver"",7943:""DOM File"",7945:""BackgroundThreadPool #1"",7949:""mozStorage #6"",7955:""FS Broker 7951"",7972:""SSL Cert #4"",7975:""mozStorage #7"",7976:""ImgDecoder #2"",7977:""ImgDecoder #3"",8013:""FS Broker 8009"",8038:""mozStorage #8"",8051:""FS Broker 8041"",8075:""FS Broker 8071"",8146:""FS Broker 8142"",8157:""HTTP Handler Background"",
+Throttleable: 1
+URL: about:newtab
+UptimeTS: 61.35916748
+Vendor: Mozilla
+Version: 71.0
+useragent_locale: en-US
+</p><p>This report also contains technical information about the state of the application when it crashed.
+</p>",firefox-710;desktop;fix-problems;linux;,firefox,fix-problems,en-US,1278957;,sumfattytuna
+1276644,2020-01-06 22:53:13 -0800,2020-01-06T22:53:13Z,Abrir en gmail automaticamente mi cuenta,"<p>Buenas, 
+</p><p>quiero abrir mi cuenta gmail automaticamente en mi navegador de firefox sin tener que selecionar la contraseña
+</p>",privacy-and-security_1;firefox-710;desktop;mac-os;,firefox,privacy-and-security,es,"",osquiki
+1276643,2020-01-06 22:50:31 -0800,2020-01-07T01:43:45Z,disable the no proxies in autoconfig,"<p>Hi All
+</p><p>i want to disable the no proxy for firefox 
+so i follow the instruction from <a href=""https://www.youtube.com/watch?v=_O1b48jDg7o"" rel=""nofollow"">https://www.youtube.com/watch?v=_O1b48jDg7o</a> 
+i have created a firefoxconfig.cfg with configuration below :
+</p><p>lockpref(""network.proxy.no_proxies"", ""localhost, 127.0.0.1"",""*.server.local"");
+lockpref(""network.proxy.share_proxy_settings"", true);
+lockpref(""network.proxy.type"", 5);
+</p><p>the firefoxconfig.cfg stored in C:\Program Files\Mozilla Firefox
+</p><p>then i created another js with configuration below in C:\Program Files\Mozilla Firefox\defaults\pref
+</p><p>pref(""general.config.obscure_value"", 0);
+pref(""general.config.filename"", ""firefoxconfig.cfg"");
+</p><p>but the no proxy is still allowed to use instead of disabled as shown in the youtube video
+</p><p>any improvement needed ? kindly advise
+</p>",firefox-710;other;desktop;windows-10;,firefox,other,en-US,1278961;,yvery
+1276641,2020-01-06 21:32:01 -0800,2020-01-07T07:30:39Z,Can anyone confirm a change to firefox after 1/4/2020 that would affect java applets?,"<p>my ups thermal printer uses a java applet as I understand it. It last worked Friday Jan 3 2020. Now it will not print. Chrome works.
+This is a vista machine so both browsers are legacy. This is why I  need to know if some kind of change was sent  out on Jan 4-6?
+</p>",firefox-520;other;desktop;windows-vista;,firefox,other,en-US,1279031;,info1299
+1276639,2020-01-06 20:25:03 -0800,2020-01-07T01:34:13Z,how to recover deleted browsing history,"<p>A cleanup script deleted my browsing history from Firefox Mozilla browser 71.0 (64-bit) on Windows-10-Home.
+</p><p>I'm trying to run the data recovery software <a href=""https://www.minitool.com/data-recovery-software/"" rel=""nofollow"">https://www.minitool.com/data-recovery-software/</a> to see if it can recover deleted data.
+</p><p>I looked at this folder but it doesn't have any places.sqlite file within its subfolders C:\Users\&lt;username&gt;AppData\Local\Mozilla
+There is a places.sqlite in C:\Users\&lt;username&gt;AppData\Roaming\Mozilla but it seems it contains history after the deletion.
+</p><p>What's the difference between the cache2 directory and places.sqlite?
+C:\Users\{user}\AppData\Local\Mozilla\Firefox\Profiles\{profile folder}\cache2
+</p><p>Which file is supposed to contain the history? 
+What file should I look for in the recovered data and where do I copy it to in my current system?
+</p>",firefox-710;other;desktop;windows-10;,firefox,other,en-US,1278950;1278952;1278953;1278958;1278959;,jm.kahn
+1276638,2020-01-06 20:11:09 -0800,2020-01-07T01:59:13Z,firefox stopped requesting proxy authentication,"<p>Hello, Usually when i open my firefox browser after having entered my proxy in the settings, the proxy authentication comes up then i enter the authentication details to be able to access the sites through the proxy. I have not altered any settings, then all of a sudden the authentication page does not come up anymore. I have uninstalled the firefox and reinstalled, and also restored my pc to a previous date when it worked, but all to no avail. Please anyone know can help?
+</p>",tips;desktop;,firefox,tips,en-US,1278963;,smithlinks85
+1276637,2020-01-06 19:22:24 -0800,2020-01-06T19:33:01Z,libxul.so on-disk corruption observed on 2 different platforms,"<p>I'm not sure I would have believed this if I hadn't seen it with my own eyes.
+</p><p>Symptom: One day, out of nowhere and not pursuant to any user-initiated Firefox installation, configuration or plugin change, a deterministic set of websites begins to crash tabs immediately on page load.  Reloading the same website always results in another immediate crash.  If the website at a particular URL crashes a tab, it will never load or reload, because it will always crash the tab it is in.  Websites not in the set of websites which crash a tab are unaffected.  Restarting Firefox does not fix the problem - the same sites crash tabs after restart.  Disabling ASLR does not fix the problem.
+</p><p>I first observed this on a Mac OS X laptop (Macbook Pro 2017) running up-to-date Firefox versions at the time.  This happened three times in the last six months.  As I did not have time to investigate at the time, and observed that merely reinstalling Firefox from upstream archives cleared the problem, I moved on.
+</p><p>Starting yesterday, I began to observe this on my up-to-date x86-64 Ubuntu Eoan laptop:
+</p><p>/var/log/syslog.1:Jan  5 18:19:56 achpee kernel: [3642722.464002] Web Content[17741]: segfault at 3 ip 00007f6881995024 sp 00007ffd2548d010 error 6 in <a href=""http://libxul.so"" rel=""nofollow"">libxul.so</a>[7f687d5ad000+4665000]
+</p><p>/var/log/syslog.1:Jan  5 18:20:40 achpee kernel: [3642765.713880] Web Content[18209]: segfault at 3 ip 00007f2f71605024 sp 00007fff08ecc490 error 6 in <a href=""http://libxul.so"" rel=""nofollow"">libxul.so</a>[7f2f6d21d000+4665000]
+</p><p>/var/log/syslog.1:Jan  5 18:20:53 achpee kernel: [3642778.682450] Web Content[18253]: segfault at 3 ip 00007f46d16fd024 sp 00007ffdf062b6e0 error 6 in <a href=""http://libxul.so"" rel=""nofollow"">libxul.so</a>[7f46cd315000+4665000]
+</p><p>/var/log/syslog.1:Jan  5 21:18:29 achpee kernel: [3653435.096133] Web Content[27212]: segfault at 3 ip 00007f081696d024 sp 00007ffd774ee3e0 error 6 in <a href=""http://libxul.so"" rel=""nofollow"">libxul.so</a>[7f0812585000+4665000]
+</p><p>/var/log/syslog.1:Jan  5 21:19:52 achpee kernel: [3653518.422883] Web Content[28191]: segfault at 3 ip 00007faa3c23d024 sp 
+00007ffe1e89e1c0 error 6 in <a href=""http://libxul.so"" rel=""nofollow"">libxul.so</a>[7faa37e55000+4665000]
+</p><p>No mitigation I attempted worked until I remembered reinstallation.  On a Linux box?  Seriously?  Follow me (in the attachment, since this forum doesn't support markdown or any sane way of formatting).
+</p><p>By all appearances, a 64-bit word in the middle of the libxul binary was altered by some process which did not affect its mtime.  Since Firefox apparently does not validate its components on startup or at any other time, this went undetected and resulted in that code crashing the process whenever it was reached.
+</p><p>I have to say this is a bit disconcerting because I have no explanation at all for this - the package on the machine where I did the investigation was installed in a routine automatic update weeks ago and only yesterday began to exhibit the described symptoms.  Perhaps it was corrupted (by CPU heat? memory? disk firmware? cosmic ray?  No MCE events have been logged) when it was written out, and I happened not to visit a website which reached the corrupted code until yesterday.  That seems unlikely since the crash has happened very frequently since yesterday on a variety of websites:
+</p><p>$ sudo zgrep libxul /var/log/kern.log | wc -l
+</p><p>32
+</p><p>There is a prior bug report describing a similar experience here: <a href=""https://trac.torproject.org/projects/tor/ticket/20100"" rel=""nofollow"">https://trac.torproject.org/projects/tor/ticket/20100</a>
+For what it's worth, a coworker on another team at my company also ran into these symptoms and mitigated it on his corporate laptop simply by reinstalling.
+</p><p>Is there a way to mine the automated crash reporter data to see if this is an emerging trend of some kind?
+</p>",firefox-710;desktop;fix-problems;linux;,firefox,fix-problems,en-US,1278926;,nemesis2
+1276636,2020-01-06 18:42:53 -0800,2020-01-07T00:08:21Z,why doesn't firefox support html5,"<p>I have done everything suggested in the last two years to try and get videos working again.  I hjave NO extensions, the videos do not work in safe mode, I've downloaded and installed all of the recommended libraries.  And please stop referring me to youtube's video checker, as it says everything is perfect, but still nothing works.
+</p>",firefox-680;websites;desktop;linux;,firefox,websites,en-US,1278948;,dvdmaven
+1276635,2020-01-06 18:29:57 -0800,2020-01-06T19:06:28Z,Phishing screen freezes Firefox,"<p>Using Firefox, my cursor opened this link [I have removed the htt to make it dead] and my Firefox froze.  It displayed an obvious 
+phishing screen telling me to call 'Microsoft'
+</p><p>ps://enhypostatize.xyz/en/?search=%FD6%24%FC%81%9BMC%D9%B2%01%EF%D1gN%EE%89~u%5E&amp;list=200000#0
+</p><p>So, I rebooted since I couldn't close FF.  Opened FF again.  It brought up the same link and froze again.  Used Edge to google tips, opened FF in 
+FF safe mode, and that lost the links.
+</p><p>Reopened FF and viewed history where I found the bad link many times.  Removed it from history.
+</p><p>So my questions are these?
+</p><p>It seems this bad link works by making a search run in a loop, effectively freezing your browser.  Is that right?
+</p><p>and...
+</p><p>Is there a better way to solve the problem than what I did?
+</p>",firefox-710;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1278922;,Justaguy06
+1276631,2020-01-06 16:28:26 -0800,2020-01-07T00:04:33Z,"Just installed firefox 71. The about:preferences#privacy section appears missing, the back button and address bar cannot be operated except via drop menus. Fix?","<p>Using a new KDE 5 / Linux platform.  Permissions check out okay.  Download came from distro repository, PCLinuxOS.
+</p>",firefox-710;other;desktop;linux;,firefox,other,en-US,1278946;,fisherlance
