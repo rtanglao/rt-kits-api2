@@ -1,17 +1,54 @@
 id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1276709,2020-01-07 15:50:52 -0800,2020-01-07T16:32:57Z,FF72 tabs overlay bookmark toolbar,"<p>I have my tabs below all the toolbars. Ver 71 stuffed my Tab prefs until I figured out how to edit userChrome to move them back where I had them. Ver 72 now pushes them up so the tabs overlay the bookmark toolbar. ( It almost seems like the background area is ""locked"" and won't expand vertically). Does NE1 else have this issue? Is there a fix?
+</p>",other;firefox-720;desktop;windows-7;,firefox,other,en-US,1279154;,demian_temp88
+1276708,2020-01-07 15:43:22 -0800,2020-01-07T15:43:22Z,"version 72 - since install takes memory after a few errors, have to restart to use due to low memory, ONLY since 72 upgrade","<p>windows 10 16gig
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",slbest.ta
+1276707,2020-01-07 15:27:13 -0800,2020-01-07T15:53:03Z,McAfee extensions disabled,"<p>Firefox was updated to version 72 and has disabled the McAfee Secure Search and WebAdvisor extensions. It also disabled theFacebook Container extension but by reinstalling it that was fixed. I can't reinstall the McAfee externsions as they were installed as part of another package. The extensions are working in other browsers.
+</p>",firefox-720;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,1279149;,demented.gibbon
+1276705,2020-01-07 14:49:03 -0800,2020-01-07T14:49:03Z,fix background color,"<p>Using Options&gt;Colors&gt;I changed the background to ""Black"" and left the font ""White"", which was the default. I wanted ONLY the BLANK homepage black. I have a dark theme made by MaDonna. Immediately something altered, FF blinked (so to speak) and next ALL pages are a black background, including ALL webpages.  Using FF instructions, I got back to a white blank homepage, but all the webpages have remained black.  I've tried every combination (shown on your instruction page) to get back to a ""white"" background on the webpages. The ""Always,"" ""Never,"" only on ?? themes, clearing cache, returning to defaults, &amp; I can still change the BLANK HOMEPAGE to either black or white, but nothing changes the webpages back to their normal views - white backgrounds. The only thing I haven't done is remove all cookies, because I truly do not want to do that.
+</p>",firefox-710;customize;desktop;windows-10;,firefox,customize,en-US,"",acartriana
+1276704,2020-01-07 14:46:15 -0800,2020-01-07T17:03:34Z,Old bookmarks I deleted months ago just reappeared back in my browser.,"<p>Hi, I always use Sync for all my devices. I haven't done any major change in any device and suddenly today many dozens of bookmarks I deleted I believe at least 4-6 months ago have been synced back in my laptop (macOS 10.15.2) . After requesting a Sync in my Android device I have them also now in there.
+</p><p>This created back folders I had deleted as well as duplicates and overall messing with my current bookmark organization. Any clue of how I can revert back and what could have caused it?
+</p>",bookmarks;firefox-710;desktop;,firefox,bookmarks,en-US,1279156;1279160;,zavorio
+1276701,2020-01-07 14:22:05 -0800,2020-01-07T14:40:35Z,No top sites on home page,"<p>New install of Firefox does not have top sites on the new tab page even though it is checked (4 rows) on the options page.
+Please help.
+</p>",customize;desktop;firefox-720;windows-7;,firefox,customize,en-US,1279144;,SuperZ06
+1276699,2020-01-07 14:18:07 -0800,2020-01-07T14:18:07Z,"I want the sliderbar to stand out, currently its light grey on light grey.","<p>The pic I attached is greatly magnified. Usually its impossible to see the sliderbar unless I get close to the screen and squint, or roll the mouse wheel in hopes I will catch a glimpse of the slider. Is there any way to change the little slider to black or red or blue, or any color or shade that is not almost identical to the slider bar background? Thanks
+</p>",firefox-700;customize;desktop;linux;,firefox,customize,en-US,"",masonroberts88
+1276697,2020-01-07 13:55:48 -0800,2020-01-07T16:52:40Z,want tabs below bookmarks toolbar (again),"<p>just updated to 7.2, and now my userchrome.css has broken ""again"".....
+</p><p>l cant do tabbed browsing like this as only the selected tab is accessable, anything else l click just accesses my bookmarks toolbar... why does Mozilla keep on breaking this? why cant they give us an option to change the location above or below like before..
+</p>",tabs;firefox-720;desktop;windows-10;userchromecss;unsupported-modifications;,firefox,tabs,en-US,1279158;,mbpcole
+1276693,2020-01-07 11:46:00 -0800,2020-01-07T11:46:00Z,can't use a signature pad on surface tablet,"<p>Im using Firefox on a surface tablet running windows 10 pro.  My webpage has a signature block - when I try to sign with my finger the page just scrolls and the signature pad will not accept the input - the signature pad works fine if I use the keyboard touchpad, but if I use the screen in tablet it will not work - how can I correct this?
+</p>",websites;desktop;,firefox,websites,en-US,"",maxwell800
+1276692,2020-01-07 11:37:19 -0800,2020-01-07T12:08:02Z,keep getting a message that say web page is slowing you down  stop or wait,"<p>almost any web page from email to google to facebook and I get this yellow band that says a web page is slowing you down  today when I click stop by the time I get back to the place I was typing the message is back
+</p>",firefox-710;desktop;fix-problems;windows-10;website;slowness;,firefox,fix-problems,en-US,1279094;,jscoby
+1276691,2020-01-07 11:10:45 -0800,2020-01-07T11:59:08Z,Battlefield 4 battlelog battlescreen blocked by FireFox. Chrome has a load unsafe scripts option and this allows it to work. How do I do this in Firefox?,"<p>I can not play Battlefield 4 with the Battlescreen showing in Battlelog anymore
+<a href=""https://battlelog.battlefield.com/bf4/battlescreen/show/"" rel=""nofollow"">https://battlelog.battlefield.com/bf4/battlescreen/show/</a>
+I can get to ""Loading Battlescrenn"" but that is all.
+i can get it to work in Chrome (ugh) by uising the ""load unsafe scripts option""
+I've tried the NoScript plugi9n but it doesn't help.
+</p>",privacy-and-security_1;firefox-720;desktop;windows-10;,firefox,privacy-and-security,en-US,1279088;,djp2018
+1276690,2020-01-07 10:49:56 -0800,2020-01-07T13:41:59Z,Firefox log out me of my Google account,"<p>Hello,
+When I open Firefox browser, I am logged out of my Google account, when I connect to this one, I close Firefox browser and I reopen Firefox, I am  logged out. So I would like to know how stay connected to my Google account even after closing and reopenning Firefox browser.
+I got this problem from I changed my computer, it's maybe a setting that I don't change.
+I hope you can help me.
+Thanks.
+</p>",websites;firefox-720;desktop;windows-10;,firefox,websites,en-US,1279092;1279096;1279102;1279122;,kylian.chapon
+1276689,2020-01-07 10:41:16 -0800,2020-01-07T11:47:13Z,Anyone have an update for Tabs on the bottom for version 72?,"<p>I had the userChrome.css update done for 65, then 71 and now with version 72, the tab bar and bookmarks bar merge into one line. Looking for an update to fix it as the issue is beyond my abilities.
+</p>",tabs;firefox-720;desktop;windows-10;userchromecss;unsupported-modifications;,firefox,tabs,en-US,1279085;,olds97_lss
 1276688,2020-01-07 10:29:09 -0800,2020-01-07T10:29:09Z,"Hello, is it possible to deactivate Javascript for background tabs?","<p>I'd like the html and css code to remain the same, just stop Javascript.
 </p><p>Optionally I'd like Javascript to continue running when I get back to the page.
 </p><p>A button to stop/pause Javascript on foreground pages would also be nice.
 </p><p>I'm fine with any solution suggestions, be it about:config or an extension, etc.
 </p><p>Thank you!
-</p>",tips;firefox-720;desktop;linux;,firefox,tips,en-US,"",Unrealshade
+</p>",tips;firefox-720;desktop;linux;feature;performance;,firefox,tips,en-US,"",Unrealshade
 1276686,2020-01-07 10:18:46 -0800,2020-01-07T10:18:46Z,Correr OneTab automaticamente cada x tiempo,"<p>Hay forma de que OneTab (o cualquier otro add-on) que necesite interacción corra automáticamente cada cierto tiempo?
 </p>",firefox-710;customize;desktop;linux;,firefox,customize,es,"",maniat1k
 1276685,2020-01-07 10:13:48 -0800,2020-01-07T10:13:48Z,the default file manager for downloads folder and open containing folder changed,"<p>Using Ubuntu 19.10. I recently installed the kde plasma desktop as an option so I could log off and then log in to a user I created specifically to use the KDE Plasma desktop and applications. While in Ubuntu using Gnome as the default desktop all other browsers, Chrome, Brave, Opera etc use Nautilus to open the containing folder as they should since Nautilus is the default inode/directory setting and the default file manager for Gnome. Firefox however for reasons only known to God and hopefully you guys, has chosen to use Dolphin instead of Nautilus. I always have the option of just using a different browser as my default which I may wind up doing if you can't or won't fix your issue but I am hoping it is something simple I can do on my end. Any suggestions?
 </p>",other;desktop;,firefox,other,en-US,"",bjb1959
 1276684,2020-01-07 10:09:36 -0800,2020-01-07T10:09:36Z,"You Tube videos won't play in my Firefox (but in Safari, for example, they do)","<p>I cannot play practiacally any You Tube videos in Firefox, although they work fine in Safari. I just get this error message: ""Video ei ole käytettävissä. Videon käyttöä on rajoitettu. Yritä kirjautua sisään G Suite ‑tilillä."" Means roughly ""the video is not available. Access to video has been restricted. Try to login using your G suite account"". 
 </p><p>I have tried clearing the cache, deleting cookies, disabling ""use hardware acceleration"", as adviced in some earlier comments I found regarding this problem. None of that seems to help.
-</p>",firefox-720;desktop;fix-problems;mac-os;,firefox,fix-problems,fi,"",marja.alkio
+</p>",firefox-720;desktop;fix-problems;mac-os;website;,firefox,fix-problems,fi,"",marja.alkio
 1276683,2020-01-07 10:09:16 -0800,2020-01-07T10:09:16Z,Why are double windows opening in Firefox when clicking on a link?,"<p>Every time I click a link, Firefox opens two (2) windows. One with the URL link and one just with my FF home page. And fixes with easy to follow steps? Happens with both my MacBook Air, the old one and the new one. Both are running OS Catalina V10.15.2
 </p><p>Thank you!
 </p>",firefox-710;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,"",time2sit
@@ -32,8 +69,8 @@ I don’t have a recovery code and the account I wish to delete doesn’t show o
 </p>",firefox-710;other;desktop;windows-10;,firefox,other,en-US,1279024;,Colin10
 1276665,2020-01-07 06:17:42 -0800,2020-01-07T06:18:35Z,mozilla é  seguro,"<p><br>
 </p>",privacy-and-security_1;desktop;,firefox,privacy-and-security,pt-BR,1279017;,claudimircrestani2017
-1276664,2020-01-07 06:11:50 -0800,2020-01-07T06:11:50Z,O web.whatsapp.com no meu pc parou de funcionar. Já reinstalei o Firefox e continuo sem acesso ao Whatsapp. O que fazer?,"<p>Simplesmente parou. Não foram alteradas as configurações do PC. Na verdade, não tenho acesso ao Whatsapp em nenhum PC através do Firefox.
-</p>",firefox-710;desktop;fix-problems;,firefox,fix-problems,pt-BR,"",acaguiar956
+1276664,2020-01-07 06:11:50 -0800,2020-01-07T12:41:47Z,O web.whatsapp.com no meu pc parou de funcionar. Já reinstalei o Firefox e continuo sem acesso ao Whatsapp. O que fazer?,"<p>Simplesmente parou. Não foram alteradas as configurações do PC. Na verdade, não tenho acesso ao Whatsapp em nenhum PC através do Firefox.
+</p>",firefox-710;desktop;fix-problems;,firefox,fix-problems,pt-BR,1279105;,acaguiar956
 1276662,2020-01-07 04:06:10 -0800,2020-01-07T09:58:22Z,"After selecting PDFs to view, PDF pane disappears. How do you recall it? (Using W10)","<p>After selecting PDFs to view, PDF pane and tabs can disappears. How do you recall it?
 </p><p>Is there a button on FF?
 </p><p>Why does it not show in Windows task bar?
@@ -55,10 +92,10 @@ Strangely, I can see my old device in ""Devices &amp; apps"" here
 but I can't see any of my old phone's synced tabs. 
 Are they lost? how to recover them ?
 </p><p>Thank you VERY much for the help
-</p>",firefox-710;sync;desktop;android;,firefox,sync,en-US,"",farouk.ke
+</p>",firefox-710;sync;desktop;android;syncdata;,firefox,sync,en-US,"",farouk.ke
 1276653,2020-01-07 01:59:43 -0800,2020-01-07T05:04:45Z,Firefox blocks google font due strict privacy settings,"<p>I am developing a WordPress website with Muli (Google font) as body font. It now appears that if Firefox privacy settings are set to strict, Muli will be blocked. Is there a way to prevent this? I mean by adding code.
 </p>",firefox-710;websites;desktop;mac-os;,firefox,websites,en-US,1278991;,hans27
-1276651,2020-01-07 00:36:15 -0800,2020-01-07T00:36:15Z,Firefox is having problems to open any Wikipedia.org page. How can I overcome this problem?,"<p>When I try to open any page on <a href=""http://wikipedia.org"" rel=""nofollow"">wikipedia.org</a>, like <a href=""https://pt.wikipedia.org/wiki/Elizabeth_Short"" rel=""nofollow"">https://pt.wikipedia.org/wiki/Elizabeth_Short</a>, I am redirected to the page <a href=""https://pt.wikipedia.org/sec-warning"" rel=""nofollow"">https://pt.wikipedia.org/sec-warning</a>.
+1276651,2020-01-07 00:36:15 -0800,2020-01-07T13:51:07Z,Firefox is having problems to open any Wikipedia.org page. How can I overcome this problem?,"<p>When I try to open any page on <a href=""http://wikipedia.org"" rel=""nofollow"">wikipedia.org</a>, like <a href=""https://pt.wikipedia.org/wiki/Elizabeth_Short"" rel=""nofollow"">https://pt.wikipedia.org/wiki/Elizabeth_Short</a>, I am redirected to the page <a href=""https://pt.wikipedia.org/sec-warning"" rel=""nofollow"">https://pt.wikipedia.org/sec-warning</a>.
 </p><p>This is a problem only to Firefox. I have Chrome, Opera, Edge and they all open wikipedia correctly.
 </p><p>I tried to reset Firefox, did not work.
 I tried to uninstall and reinstall Firefox and it did not work.
@@ -68,15 +105,15 @@ I am not using any proxy.
 I am in a home network.
 Windows 10 Pro x64 Version 1909 Compilation 18363.535
 My computer date and time is correct.
-</p>",firefox-710;desktop;fix-problems;windows-10;,firefox,fix-problems,pt-BR,"",jhonnatan.guedes
+</p>",firefox-710;desktop;fix-problems;windows-10;website;,firefox,fix-problems,en-US,1279129;,jhonnatan.guedes
 1276650,2020-01-07 00:31:04 -0800,2020-01-07T00:31:04Z,Bookmarks keep syncing wrong,"<p>I've been using Firefox on my desktop, laptop and Android Mobile for months without issue. Recently i swapped to a new phone and for some reason the bookmarks on my desktop and laptop are getting jumbled/deleted (see attached pics)
 </p><p>To try solve this I exported my bookmarks to a .json file, then manually deleted all bookmarks on all my devices, ran a manual sync on all devices then completely uninstalled and deleted appdata/cache files. 
 </p><p>I then re-installed using a fresh download from Mozilla, signed in and imported my bookmarks from the json file.
 </p><p>for a full day my bookmarks stayed intact, I then installed firefox on my phone and within an hour my desktop bookmarks became jumbled again.
 </p><p>Am I missing something here?
-</p>",bookmarks;firefox-710;desktop;windows-10;,firefox,bookmarks,en-US,"",gary49
+</p>",bookmarks;firefox-710;desktop;windows-10;sync;syncdata;,firefox,bookmarks,en-US,"",gary49
 1276649,2020-01-07 00:24:04 -0800,2020-01-07T07:26:42Z,How to hide address bar in firefox 62.0.3 (32-bit),"<p>How to hide address bar in firefox 62.0.3 (32-bit).
-</p>",firefox-620;other;desktop;windows-81;,firefox,other,en-US,1279028;1279030;,anandmangal1003
+</p>",firefox-620;other;desktop;windows-81;userchromecss;unsupported-modifications;,firefox,other,en-US,1279028;1279030;,anandmangal1003
 1276647,2020-01-06 23:50:21 -0800,2020-01-07T01:31:12Z,Firefox crashing every time I pull a tab to a new screen.  Running 4 screens on linux mint currently.,"<p>AdapterDeviceID: GeForce GT 730/PCIe/SSE2
 AdapterDriverVendor: nvidia/unknown
 AdapterDriverVersion: 384.130.0.0
@@ -113,9 +150,9 @@ Version: 71.0
 useragent_locale: en-US
 </p><p>This report also contains technical information about the state of the application when it crashed.
 </p>",firefox-710;desktop;fix-problems;linux;,firefox,fix-problems,en-US,1278957;,sumfattytuna
-1276644,2020-01-06 22:53:13 -0800,2020-01-06T22:53:13Z,Abrir en gmail automaticamente mi cuenta,"<p>Buenas, 
+1276644,2020-01-06 22:53:13 -0800,2020-01-07T13:42:39Z,Abrir en gmail automaticamente mi cuenta,"<p>Buenas, 
 </p><p>quiero abrir mi cuenta gmail automaticamente en mi navegador de firefox sin tener que selecionar la contraseña
-</p>",privacy-and-security_1;firefox-710;desktop;mac-os;,firefox,privacy-and-security,es,"",osquiki
+</p>",privacy-and-security_1;firefox-710;desktop;mac-os;,firefox,privacy-and-security,es,1279123;,osquiki
 1276643,2020-01-06 22:50:31 -0800,2020-01-07T01:43:45Z,disable the no proxies in autoconfig,"<p>Hi All
 </p><p>i want to disable the no proxy for firefox 
 so i follow the instruction from <a href=""https://www.youtube.com/watch?v=_O1b48jDg7o"" rel=""nofollow"">https://www.youtube.com/watch?v=_O1b48jDg7o</a> 
@@ -175,6 +212,6 @@ FF safe mode, and that lost the links.
 </p><p>It seems this bad link works by making a search run in a loop, effectively freezing your browser.  Is that right?
 </p><p>and...
 </p><p>Is there a better way to solve the problem than what I did?
-</p>",firefox-710;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1278922;,Justaguy06
-1276631,2020-01-06 16:28:26 -0800,2020-01-07T00:04:33Z,"Just installed firefox 71. The about:preferences#privacy section appears missing, the back button and address bar cannot be operated except via drop menus. Fix?","<p>Using a new KDE 5 / Linux platform.  Permissions check out okay.  Download came from distro repository, PCLinuxOS.
-</p>",firefox-710;other;desktop;linux;,firefox,other,en-US,1278946;,fisherlance
+</p>",firefox-710;desktop;fix-problems;windows-10;evil-traps;,firefox,fix-problems,en-US,1278922;,Justaguy06
+1276631,2020-01-06 16:28:26 -0800,2020-01-07T17:27:20Z,"Just installed firefox 71. The about:preferences#privacy section appears missing, the back button and address bar cannot be operated except via drop menus. Fix?","<p>Using a new KDE 5 / Linux platform.  Permissions check out okay.  Download came from distro repository, PCLinuxOS.
+</p>",firefox-710;other;desktop;linux;,firefox,other,en-US,1278946;1279162;,fisherlance
