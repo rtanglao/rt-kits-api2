@@ -1,5 +1,124 @@
 id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1276757,2020-01-08 07:25:28 -0800,2020-01-08T07:25:28Z,"Keep getting this error message: The current operation on ""inbox"" did not succeed. The mail server for...responded: unrecognized command:ID.","<p>Keep getting this error message. The current operation on ""inbox"" (or other folder) did not succeed. The mail server for (my e-mail address) responded: Unrecognized command:ID.
+I have checked, and double checked my server settings and they are correct. I haven't had any issues with Thunderbird until I changed from POP3 to IMAP. Not sure if these errors began after a Thunderbird update, but I regularly check and install the latest updates. Thanks in advance for any suggestions.
+Forgot to mention that some e-mails don't come in timely; sometimes even up to a day late.
+</p>",firefox-710;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",pennypincher
+1276756,2020-01-08 07:24:52 -0800,2020-01-08T07:24:52Z,Why doesn't a protocol prefix appears on my site address?,"<p>I have a web site <a href=""http://bobgatto.com"" rel=""nofollow"">bobgatto.com</a>. when I enter the domain name just as <a href=""http://bobgatto.com"" rel=""nofollow"">bobgatto.com</a> ans press enter, the site appears as it should. However, no https:// is attached to the name in the address bar and an icon of a lock with a red slash through it is at the left of the name.
+</p><p>Now I believe there should be an https:// because my web host set my up with a free SSL. I checked the cPanel and the SSL status is active. I even tried to reinstall the SSL certificates and keys, clearing cache memory, but I'm still getting the same results.
+</p><p>Can anyone out there help?
+</p><p>Thanks,
+</p><p>Bob Gatto
+</p>",websites;firefox-720;desktop;windows-10;,firefox,websites,en-US,"",bgatt64
+1276754,2020-01-08 06:57:03 -0800,2020-01-08T06:57:03Z,LATEST UPDATE SCREWED UP PRINTER SETTINGS!,"<p>THE LATEST UPDATE SCREWED UP THE PRINTER SETTINGS IT IS HUGE PRINT AND IS CUTTING OFF THE PRINT ON THE RIGHT MARGIN!!! I TRIED REINSTALLING JAVA. THAT DIDN'T WORK. I TRIED THE TROUBLESHOOTING THE JAVA FILE INSTRUCTIONS AND THAT DIDN'T WORK!!! FIX IT!!! ARRRRRRgggg!! STOP SCREWING WITH MY PRINTING!
+</p>",other;firefox-720;desktop;windows-10;regression;printing;,firefox,other,en-US,"",malf3d
+1276747,2020-01-08 05:10:36 -0800,2020-01-08T05:10:36Z,No guarda las pestañas de mi sesion cada vez que abro firefox,"<p>Buenos dias,
+Yo venia usando firefox perfectamente hasta el dia de hoy que cuando lo abri no estaban mis pestañas guardadas, ni sicronizadas. Esto no me molesta tanto, sino que apesar de tener la configuracion para que me restaure las pestañas de la sesion. Sigue cerrandome todo cada vez que abro y cierro el navegador.
+Probe reinstalar y esto funciona. Pero cuando sincronizo mi cuenta, vuelve el problema.
+</p><p>Me gustaria saber por que me puede estar pasando esto.. 
+</p><p>Muchas gracias
+</p>",tabs;firefox-720;desktop;windows-10;,firefox,tabs,es,"",sebas_22_loco
+1276745,2020-01-08 05:02:55 -0800,2020-01-08T06:44:49Z,lockwise stuck in light theme,"<p>I have my browser in dark mode, but lockwise is stuck in light mode.  this isn't an issue in other instances of the browser I've installed.
+</p>",other;desktop;windows-10;,firefox,other,en-US,1279254;,Tichy
+1276744,2020-01-08 04:43:24 -0800,2020-01-08T04:43:56Z,sync account,"<p>Hi I'm trying to sync my Google account in my Firefox and Gmail all together how do I do that
+</p>",sync;desktop;,firefox,sync,en-US,1279225;,anthonycasarino3
+1276740,2020-01-08 03:13:33 -0800,2020-01-08T05:43:27Z,Registry entry of Firefox is not updated,"<p>I had Firefox 69 in my machine and updated the latest firefox version 72 through auto-update. After installation i restarted the Browser and also the machine but it seems the firefox is not updated completely. The file version of firefox.exe has updated but in control panel the version still remains as Firefox 69. What should i do to fix this.
+</p>",download-and-install_1;desktop;,firefox,download-and-install,en-US,1279232;1279235;,kuttimagk211296
+1276737,2020-01-08 02:46:49 -0800,2020-01-08T02:46:49Z,.msi installtion fails to install with SCCM,"<p>I noticed that since version FF 70+ version the installation fails in a task sequence with error 0x80004005. What especially interesting is, after i deploy a new computer (new windows, settings etc.) i come to this multiple installation step, and only FF fails. After I cancel the task sequence, I go into windows and Firefox is happily waiting me on the desktop!
+</p><p>I think it is got to do with the detection method because the detection method is set to look for .msi product code and when i run a powershell command ""Get-WmiObject Win32_Product | sort name | Format-Table IdentifyingNumber, Name, LocalPackage -AutoSize"" on a freshly deployed PC I get all of the .msi codes but Firefoxe's. Can somebody from the dev team check this?
+</p><p>Thank you
+</p>",download-and-install_1;firefox-710;desktop;windows-10;,firefox,download-and-install,en-US,"",atomic.delta
+1276734,2020-01-08 02:23:31 -0800,2020-01-08T02:23:31Z,"captive portal detection fails with redirect from detectportal.firefox.com to mymodem.modem, which does not resolve","<p>My Firefox Developer Edition just required manual help to upgrade to 73.0b2 because the auto-upgrade failed.  Not sure if that is important.
+All new tabs and windows had the ""You have to connect to the internet"" captive-portal bar across the top, but I'm on a home network without captive portal.  Clicking the ""go to login page"" button went to a ""can't find that page"" error page.
+</p><p>I tried curl from the command-line of my Mac (10.15.2) and got this:
+</p><p>% curl -v <a href=""http://detectportal.firefox.com/success.txt"" rel=""nofollow"">http://detectportal.firefox.com/success.txt</a>
+</p>
+<ul><li>   Trying 2600:1415:1c00::17c0:6c92...
+</li><li> TCP_NODELAY set
+</li><li> Connected to <a href=""http://detectportal.firefox.com"" rel=""nofollow"">detectportal.firefox.com</a> (2600:1415:1c00::17c0:6c92) port 80 (#0)
+</li></ul>
+<p>&gt; GET /success.txt HTTP/1.1
+&gt; Host: <a href=""http://detectportal.firefox.com"" rel=""nofollow"">detectportal.firefox.com</a>
+&gt; User-Agent: curl/7.64.1
+&gt; Accept: */*
+&gt; 
+&lt; HTTP/1.1 302 Moved Temporarily
+&lt; Server: nginx
+&lt; Date: Wed, 08 Jan 2020 10:07:46 GMT
+&lt; Content-Type: text/html
+&lt; Content-Length: 154
+&lt; Connection: keep-alive
+&lt; Location: http://mymodem.modem
+&lt; X-Frame-Options: SAMEORIGIN
+&lt; Content-Security-Policy: default-src 'self';script-src 'self' 'unsafe-eval' 'unsafe-inline';style-src 'self' 'unsafe-inline'
+&lt; Cache-Control: public, max-age=31536000
+&lt; 
+
+&lt;title&gt;302 Found&lt;/title&gt;
+
+</p><center><h1>302 Found</h1></center>
+<hr><center>nginx</center>
+
+
+<p></p>
+<ul><li> Connection #0 to host <a href=""http://detectportal.firefox.com"" rel=""nofollow"">detectportal.firefox.com</a> left intact
+</li><li> Closing connection 0
+</li></ul>
+<p>I'm prepared to believe that this is ISP-related, rather than Firefox, but on the off-chance that it's somehow down to a misconfiguration of the captive-portal detection servers right now, I thought that I'd report it here.
+</p><p>I've stopped this from happening by setting about:config  network.captive-portal-service.enabled to false, but would ideally prefer that this not recur on the next profile reset.
+</p>",firefox-730;beta;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,"",areilly1
+1276733,2020-01-08 01:45:44 -0800,2020-01-08T01:45:44Z,Firefox connection to localhost domains is sporadic when there is no internet connection,"<p>I quite often do development work on the train, and disable wifi on my laptop. When I've done this, I quite often have to refresh a localhost domain several times before Firefox loads it correctly. It will either say it can't connect, or will load the page without any CSS. A further refresh will work, but this process always continues. Works fine in Chrome.
+</p><p>I'd appreciate any pointers to fixing this! Thanks
+</p>",firefox-710;desktop;fix-problems;,firefox,fix-problems,en-US,"",ben34
+1276732,2020-01-08 01:43:29 -0800,2020-01-08T01:43:29Z,"Opening default mail client (Thunderbird) via links opens a dialoque box in IE, and results in a crash of both firefox and IE","<p>I am using firefox as default web browser and Thunderbird as default mail client on a Windows 7 system (and have been doing so for many years). Lately, when I click on an embedded email link, such as an email address displayed on a website, rather than opening Thunderbird directly, internet explorer opens a dialogue box and asks me to confirm to open Thunderbird, which then results in a crash, as IE continues to open the dialogue box several times at once. The result is that both firefox freezes and IE crashes, and the entire operation is not successful.
+</p><p>Please note that I did not change any settings manually, and I do not use IE for any operations.
+</p>",firefox-710;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,"",julia.kropeit
+1276731,2020-01-08 01:35:48 -0800,2020-01-08T03:45:17Z,"Not disclosed ""Google Apps"" in the Firefox browser in the upper right corner. In other browsers: Google Chrome, Microsoft Edge - opens normally. Firefox reinsta","<p>additional picture
+</p>",other;firefox-720;desktop;windows-10;website;,firefox,other,en-US,1279200;1279215;,kovka1961
+1276729,2020-01-08 01:24:30 -0800,2020-01-08T03:33:02Z,"Not disclosed ""Google Apps"" in the Firefox browser in the upper right corner. In other browsers: Google Chrome, Microsoft Edge - opens normally. Firefox reinsta","<p>Windows 10 64 bit
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,1279210;,kovka1961
+1276727,2020-01-08 01:14:50 -0800,2020-01-08T01:14:50Z,auto scrolling when a page load,"<p>When i open a new page firefox start to auto scroll the page, i try to reinstall firefox, and open it in safe mode but the problem is still here.
+</p>",firefox-710;desktop;fix-problems;linux;,firefox,fix-problems,en-US,"",giacco9722
+1276726,2020-01-08 00:27:22 -0800,2020-01-08T00:27:22Z,Getting double resonse for all form submission req. in firefoe browser in version 71.0 on https://,"<p>Hi Team,
+In my live Site, facing an issue only on Firefox browser, all from submission request generate the double response. Due to this it is showing wrong message like data is already exist in the system. This issue comes when we apply SSL means if site is running on https: then it show the issue. On http:// its working fine.
+Note: Its working fine in the old version of Firefox version 54.0
+Quick response awaited
+Thanks in adv.
+</p>",firefox-540;websites;desktop;escalate;developer;,firefox,websites,en-US,"",vikas.goyat
+1276725,2020-01-08 00:14:23 -0800,2020-01-08T04:02:55Z,Unable To Save Passwords,"<p>I'm trying to save passwords for a couple of websites I'm using on Firefox, but if I go into the settings menu, and try to click the option to save/remember passwords, it appears to be greyed out, and I'm unable to click it at all?
+</p>",firefox-600;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US,1279194;1279196;1279219;,hsherman
+1276721,2020-01-07 21:51:59 -0800,2020-01-08T04:04:09Z,flickering password drop-down during page load,"<p>When I load a page and I immediately click the form fields for password in order to select one of my previously-saved passwords, the drop-down keep flicking. I notice that the flickering happens for about 2-3 seconds until the entire page has finished loading. I notice it SPECIFICALLY flickers whenever the bottom of the page is showing that an element is loading.
+</p>
+<ul><li> This started happening after I downloaded Beta version 71.x. 
+</li><li> It is doing it now up until the latest Beta version.
+</li><li> It never did it before. 
+</li><li> I tested the glitch with add-ons disabled and it still occurred.
+</li><li> I have Windows 7
+</li><li> It's happening on both of my computers. And whenever I have had both my computers have a Firefox glitch, it usually isn't on my end.
+</li></ul>",firefox-720;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,1279195;1279213;1279220;,kkiely1
+1276720,2020-01-07 21:37:38 -0800,2020-01-07T21:37:38Z,No sound,"<p>After replacing the sound card with the built-in discrete Asus Xonar DX, the sound stopped reproducing. It does not work only in Firefox.
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",bra82
+1276719,2020-01-07 20:52:10 -0800,2020-01-08T07:12:26Z,cant install  or bring up Firefox. Crashes right away.  Windows 7 64 bit. It used to work for years. But now get Appcrash in Stackhash_eee5,"<p>version 72 
+</p><pre>Problem Event Name:	APPCRASH
+ Application Name:	firefox.exe
+ Application Version:	72.0.0.7307
+ Application Timestamp:	5e0f809e
+ Fault Module Name:	StackHash_eee5
+ Fault Module Version:	0.0.0.0
+ Fault Module Timestamp:	00000000
+ Exception Code:	c0000005
+ Exception Offset:	0000000037c5012a
+ OS Version:	6.1.7601.2.1.0.256.1
+ Locale ID:	1033
+ Additional Information 1:	eee5
+ Additional Information 2:	eee586027b99985fb3f84a8fb6e57bb9
+ Additional Information 3:	52ba
+ Additional Information 4:	52bafa9bec3b3212ed76087781705344
+</pre>",download-and-install_1;firefox-710;desktop;windows-7;bug1590430;,firefox,download-and-install,en-US,1279173;1279201;1279223;1279241;1279257;,telebob
+1276718,2020-01-07 20:21:53 -0800,2020-01-07T20:59:38Z,why do i keep getting duplicate bookmwarks?,"<p>for some reason my Bookmarks keep duplicating
+</p>",bookmarks;firefox-710;desktop;windows-10;,firefox,bookmarks,en-US,1279174;,dancequeen
+1276717,2020-01-07 20:18:26 -0800,2020-01-08T05:06:46Z,Firefox EXTREMELY slow,"<p>One of the most pronounced issues in Firefox is that it takes five minutes to write a sentence of an email in an AOL. It freezes intermittently. I open Edge - and it's lightning fast.
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,1279175;1279229;,C4chrt
 1276714,2020-01-07 18:37:01 -0800,2020-01-07T18:37:01Z,Nueva pestaña de youtube,"<p>En versiones anteriores de Mozilla Firefox, podria abrir nuevas pestañas de youtube pero haciendo que empezaran la reproduccion automatica al seleccionarlas, con la version 72 no puedo hacerlo, existe alguna forma de  volver a tener esta opcion?.
 </p>",tabs;firefox-720;desktop;windows-10;,firefox,tabs,es,"",jackal34568
 1276712,2020-01-07 17:12:14 -0800,2020-01-07T17:12:14Z,"How do you ""easily"" put tabs back on bottom using firefox 72?  Thanks!","<p>I've tried the instructions/answers for firefox 65+ and firefox 71 to no avail.  Thank you!
-</p>",tabs;firefox-720;desktop;windows-10;,firefox,tabs,en-US,"",fireside
+</p>",tabs;firefox-720;desktop;windows-10;userchromecss;unsupported-modifications;,firefox,tabs,en-US,"",fireside
