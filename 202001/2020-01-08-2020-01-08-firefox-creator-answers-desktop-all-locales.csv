@@ -1,33 +1,167 @@
 id,created,updated,title,content,tags,product,topic,locale,answers,creator
-1276757,2020-01-08 07:25:28 -0800,2020-01-08T07:25:28Z,"Keep getting this error message: The current operation on ""inbox"" did not succeed. The mail server for...responded: unrecognized command:ID.","<p>Keep getting this error message. The current operation on ""inbox"" (or other folder) did not succeed. The mail server for (my e-mail address) responded: Unrecognized command:ID.
-I have checked, and double checked my server settings and they are correct. I haven't had any issues with Thunderbird until I changed from POP3 to IMAP. Not sure if these errors began after a Thunderbird update, but I regularly check and install the latest updates. Thanks in advance for any suggestions.
-Forgot to mention that some e-mails don't come in timely; sometimes even up to a day late.
-</p>",firefox-710;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",pennypincher
-1276756,2020-01-08 07:24:52 -0800,2020-01-08T07:24:52Z,Why doesn't a protocol prefix appears on my site address?,"<p>I have a web site <a href=""http://bobgatto.com"" rel=""nofollow"">bobgatto.com</a>. when I enter the domain name just as <a href=""http://bobgatto.com"" rel=""nofollow"">bobgatto.com</a> ans press enter, the site appears as it should. However, no https:// is attached to the name in the address bar and an icon of a lock with a red slash through it is at the left of the name.
+1276806,2020-01-08 15:45:49 -0800,2020-01-08T15:45:49Z,Latest version (72.0.1) opens all windows on the built-in screen even if another screen is set as the OS default.,"<p>latest version (72.0.1) opens all windows on the built-in laptop screen even if another screen is set as the OS default. This did not happen in v72.0.0, so it was a bug introduced in 72.0.1
+</p><p>Anyone else seeing this behaviour?
+</p>",firefox-720;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,"",steve.demott
+1276795,2020-01-08 13:09:48 -0800,2020-01-08T15:01:33Z,Why doesn't Firefox provide the option of tabs below menu bar?,"<p>Firefox keeps changing what is necessary in the userChrome.css file in order to place tabs below the Menu and Bookmark toolbars. Because of this, there are so many different versions of the code that must be added to that file that it has become virtually impossible to keep up with it.
+</p><p>It would be so much simpler for users if the Tabs below Menu/Bookmark toolbar option was again made an option. Failing that, would someone please publish the code currently necessary to accomplish this with Firefox 72.01.
+</p>",tabs;firefox-720;desktop;windows-81;,firefox,tabs,en-US,1279409;1279414;,Ulysses41
+1276793,2020-01-08 12:51:39 -0800,2020-01-08T19:15:11Z,Firefox is a corrupt organization. Here is why,"<p>While back, firefox users got outraged due to bookmakrs comment section was removed.
+Users were no longer able to write comments for their bookmarks.
+Firefox said that websites accessing bookmarks, could  also read comments which could contain personal information such as logins and passwords etc.
+</p><p>For that reason FIrefox team decided to force users ditch comment section.
+</p><p>The problem here is not the comments but the fact that bookmarks are accessible to other websites.
+Firefox is not just allowing but had implemented an API for websites to access bookmarks.
+This was done so that websites can crawl your bookmarks and push ads based on what they find.
+It may also be a government imposed function. Either one.
+</p><p>So now that thousands of users personal information was exposed to unknown websites accessing their bookmakrs, firefox resolved this with ""taking feature away"" ? instead of ""remove bookmakrs reading by websites"" ?
+</p><p>WTF ?
+I have no words to describe this moral corruption. They purposly created a function that allows websites to access your bookmarks comments. After enough information was shared they decided to pull the plug to make them selves look good as ""we care about your privacy"" ?
+What the hell are you talking about ?
+YOu care about my privacy ? STOP websites from reading my bookmarks !!!!!!!!!!!
+Websites should have NO access to ANYTHING. They should not know what browser i have, they should not know what bookmarks i have.
+</p>",bookmarks;firefox-710;desktop;windows-10;,firefox,bookmarks,en-US,1279390;1279405;1279408;1279423;1279474;,tonycstech
+1276791,2020-01-08 12:28:43 -0800,2020-01-08T15:47:47Z,I can't sync across devices,"<p>Hi
+</p><p>I have recently switched to using Firefox across my three devices - my Dell XPS13 laptop, my Surface Go tablet and my Samsung S10 phone. I have the same Firefox account set up on all three devices but I cannot get the devices to sync. All three are listed under 'my devices' on all three accounts, but the tablet and phone seem to share one setup and my Dell laptop seems to be entirely separate. I cannot get my laptop to sync with my other two devices at all. Neither can I get Lockwise to sync (which is particularly frustrating).
+</p><p>I've tried disconnecting devices, logging out, deleting my account and starting again, but nothing seems to work.
+</p><p>Any ideas please??
+</p><p>Many thanks
+</p><p>Tom
+</p>",firefox-710;sync;desktop;windows-10;,firefox,sync,en-US,1279430;,callahantom5
+1276789,2020-01-08 12:15:09 -0800,2020-01-08T17:08:55Z,Saving Payment methods,"<p>How can I get Firefox to save payment methods? I have a login, but cannot save any payment methods.
+</p>",firefox-710;other;desktop;windows-10;,firefox,other,en-US,1279444;1279448;,jsalemi1
+1276787,2020-01-08 12:07:55 -0800,2020-01-08T15:11:56Z,Web pages get stuck on 'Looking up...' and cycle through a lot of unrelated pages,"<p>Hello,
+</p><p>My Firefox browser (72.0, 64-bit, Win8.1) became slower at loading pages with the previous update, and I've noticed that it's caused by the same problem on each page to varying degrees. I'll click on a page to load it, then the black 'finding' dot on the tab will bobble about a bit, then it turns to the blue 'connecting' dot and keeps loading for minutes. At the bottom left the page will say 'Looking up...' and will start off with the right or at least a reasonable address, such as <a href=""http://www.google.com"" rel=""nofollow"">www.google.com</a> etc, but then it will keep going and come up with a load of random pages that all seem connected with adverts, tracking or monitoring. For example, looking up '<a href=""http://www.ikea.com"" rel=""nofollow"">www.ikea.com</a>' took 4 minutes 23 seconds from entering it to it loading fully. In that time covered the following:
+</p><p>Looking up <a href=""http://www.ikea.com"" rel=""nofollow"">www.ikea.com</a>
+Looking up <a href=""http://fonts.googleapis.com"" rel=""nofollow"">fonts.googleapis.com</a>
+Looking up <a href=""http://www.googletagmanager.com"" rel=""nofollow"">www.googletagmanager.com</a>
+Looking up <a href=""http://www.facebook.com"" rel=""nofollow"">www.facebook.com</a>
+Read <a href=""http://s.salecycle.com"" rel=""nofollow"">s.salecycle.com</a>
+Looking up <a href=""http://www.facebook.com"" rel=""nofollow"">www.facebook.com</a>
+Looking up (numbers and letters).cloudfront.net
+Looking up <a href=""http://www.google-analytics.com"" rel=""nofollow"">www.google-analytics.com</a>
+TLS handshake with <a href=""http://i.salecycle.com"" rel=""nofollow"">i.salecycle.com</a>
+Sending <a href=""http://i.salecycle.com"" rel=""nofollow"">i.salecycle.com</a>
+Looking up <a href=""http://www.google-analytics.com"" rel=""nofollow"">www.google-analytics.com</a>
+Waiting for <a href=""http://www.google-analytics.com"" rel=""nofollow"">www.google-analytics.com</a>
+</p><p>I don't have this problem with anything else connected to the network - I tested the WiFi connection just now on my Xbox and got 35.73, 34.31 and 35.94mb/s, but trying to load <a href=""http://broadbandspeedchecker.co.uk"" rel=""nofollow"">broadbandspeedchecker.co.uk</a> on Firefox took 16m 13s just to load the page, and it's not even got near to starting the test. In that time I tried to write down all the pages it listed as looking up, waiting for, reading or TLS handshake with..., and have 44 different addresses that it was cycling through (probably more as some were very rapid) including:
+</p><p><a href=""http://us.creative.com"" rel=""nofollow"">us.creative.com</a>
+<a href=""http://cdn.cabla.to"" rel=""nofollow"">cdn.cabla.to</a>
+<a href=""http://ap.lijit.com"" rel=""nofollow"">ap.lijit.com</a>
+<a href=""http://fw.adsafeprotected.com"" rel=""nofollow"">fw.adsafeprotected.com</a>
+<a href=""http://secure.adnxs.com"" rel=""nofollow"">secure.adnxs.com</a>
+<a href=""http://pc.moatads.com"" rel=""nofollow"">pc.moatads.com</a>
+<a href=""http://ws.sessioncam.com"" rel=""nofollow"">ws.sessioncam.com</a>
+<a href=""http://sync.tidaltv.com"" rel=""nofollow"">sync.tidaltv.com</a>
+</p><p>Pages on my phone are loading normally within a second or two. Unfortunately I'm having to write this on my phone because Mozilla Help won't let me log in because of 'unexpected error' which I think is it timing out. I've done a full Malwarebytes scan and a full Bullguard scan with no hits, full adwcleaner with nothing, I've reset Firefox, deleted the cache and cookies and have Tracking set to Strict and still no joy. 
+</p><p>Can anyone suggest what is wrong and what I can do to fix it?
+</p>",websites;desktop;firefox-720;windows-81;escalate;,firefox,websites,en-US,1279358;1279386;1279417;,spikelovesmetal
+1276786,2020-01-08 12:03:16 -0800,2020-01-08T12:31:22Z,Prevent firefox to restore tabs after crash 2 (now on Arch Linux),"<p>I swear to god Im this close to loosing my shit...
+I asked this before for my Xubuntu machine, now Im on Arch Linunx and have the same f*ing problem again:
+</p><p>When I shutdown my pc without closing anything properly, including firefox. I wish that would will start the next time without restoring anything automatically like any sane person could expect.
+Now it isnt doing that despite the very promissing configuration you can find below. 
+Please, please, please someone ginve me a hint here Im loosing my patience and go back to chrome again. 
+(Im also curious why the scrolling on Linux is complete shit since like 10 years and every f*ing time I install new I have to do the same tweaks again)
+</p><p>In about:config I have set:
+browser.sessionstore.max_resumed_crashes 0
+browser.sessionstore.resume_from_crash false
+browser.sessionstore.resuming_after_os_restart false
+browser.sessionstore.resume_session_once false
+</p><p>In preferences I have disabled to restore session
+</p>",firefox-710;desktop;fix-problems;,firefox,fix-problems,en-US,1279364;,bgi.inbox
+1276785,2020-01-08 11:40:28 -0800,2020-01-08T14:07:53Z,create default bookmarks for new linux users,"<p>I'm using Ubuntu OS, and I would like to create a new set of default bookmarks
+So when new Linux users are created, they will get the default bookmarks without the need of imports or account syncs.
+How can I do it?
+</p>",bookmarks;firefox-710;desktop;,firefox,bookmarks,en-US,1279403;,ehabarman
+1276784,2020-01-08 11:16:26 -0800,2020-01-08T14:27:27Z,Use multiple bookmark files,"<p>I have a lot of bookmarks and I would like to divide them into some smaller files and be able to use them in separate sessions. For example, I am interested in several broad subjects and at different times I might want to see the bookmarks on one or another. I already have folders. Is there a way that I can 1) separate this large set of bookmarks into  one or more ""sets,"" and 2) have access one or another ""set?""
+</p><p>Thank you!
+</p>",bookmarks;desktop;,firefox,bookmarks,en-US,1279351;1279398;1279406;,Texan100
+1276782,2020-01-08 11:05:13 -0800,2020-01-08T11:05:13Z,¿Cómo puedo cambiar la fuente tipográfica o el tamaño de esta en la barra de marcadores y en la barra de menú?,"<p>Ha buscado por todos lados alguna opción para modificar la fuente o al menos el tamaño de la tipografía utilizada en la barra de marcadores y barra de menú de Firefox, pero no encuentro. Me incomoda el tamaño que tiene cuando el sistema está configurado a 96ppp ¿Hay alguna forma de hacerlo sin tener que forzar la tipografía a 72ppp?
+Gracias.
+</p>",other;desktop;linux;,firefox,other,es,"",mauricio_adonis
+1276775,2020-01-08 09:48:27 -0800,2020-01-08T13:48:35Z,tabs on bottom release 72.0.1,"<p>New release has put the tabs over top of the bookmarks toolbar. Is there an updated .css file for this.
+</p>",customize;desktop;firefox-720;windows-7;,firefox,customize,en-US,1279292;1279389;1279396;,jdevlin
+1276772,2020-01-08 09:25:12 -0800,2020-01-08T14:05:08Z,Firefox logs me out & deletes my preferences every time I leave the program,"<p>Hey folks,
+I just installed Firefox last week and really want it to work for me (ditching Chrome...).
+BUT, 2 things are happening and really testing my patience:
+1.  it logs me out of my account every time I x out the Firefox window or if my Mac goes to sleep (so every morning I come back I'm logged out)
+2. even after I log in, it restores my bookmarks but not my preferences (so bookmarks toolbar doesn't show up, passwords that I saved don't auto-fill, etc.)
+</p><p>Basic info:
+I run HighSierra 10.13.4
+I have tried the ""resfresh firefox"" thing
+I have my account syncing with my iphone
+The only extensions I have is ""save to feedly board"". I did have clockify installed but it keeps getting ditched again, so I gave up for now.
+</p><p>Any suggestions for how to fix this?
+(I am not a mac pro - please explain so I little kid could understand it too ;)
+</p><p>Thanks lots,
+Anne
+</p>",firefox-710;other;desktop;,firefox,other,en-US,1279382;1279402;,as.astieger
+1276770,2020-01-08 09:22:28 -0800,2020-01-08T11:10:50Z,"When opening PDFs with spaces in the filename, firefox attempts to open each space delimited portion of the file name in a separate tab. The pdf can't be viewed","<p>When viewing a PDF with spaces in the file name, such as ""Week 1 day 2.pdf"", Firefox attempts to load each space delimited portion in a separate tab. The file mentioned previously is thus separated so that the first tab is addressed to ""file:///C:/Users/eugen/AppData/Local/Temp/Week"", the second is addressed to ""http://0.0.0.1/"", what ""1"" automatically changes to when entered into the address bar, the third is addressed to <a href=""http://www.day.com/"" rel=""nofollow"">http://www.day.com/</a>, and the fourth to ""http://www.2-2.pdf/"". None of which load anything.
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1279320;1279327;,eugene.j.tyler
+1276769,2020-01-08 09:19:02 -0800,2020-01-08T18:01:10Z,"please fix access to this website, it work fine with other browsers,https://retiree.aon.com/arhe/arhelogin.aspx?&URL=/home.aspx","<p>website log in does not display properly go to it and you will see what i mean
+<a href=""https://retiree.aon.com/arhe/arhelogin.aspx?&amp;URL=/home.aspx"" rel=""nofollow"">https://retiree.aon.com/arhe/arhelogin.aspx?&amp;URL=/home.aspx</a>
+</p>",websites;firefox-720;desktop;windows-10;,firefox,websites,en-US,1279324;1279407;1279421;1279451;,jgbittar
+1276768,2020-01-08 08:56:26 -0800,2020-01-08T13:43:00Z,Tab titles and close button missing (Firefox 72),"<p>I had an update to Firefox 72 today which required messing around with the Chrome.css code again to get my tabs back below the searchbar. I followed the advice on this page: <a href=""https://support.mozilla.org/en-US/questions/1274416?page=2"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1274416?page=2</a> , but the format of the tabs is now a complete mess. As the image below shows, text is set awkwardly below the page icon rather than in-line, or set below view if it's over a certain length. The closs button is also set slightly above, rather than in-line with text and is missing altogether depending on the length of text. This is also the case when I remove the .CSS code to reset the tabs to above the searchbar. Any help would be much appreciated.
+</p>",tabs;firefox-720;desktop;windows-10;,firefox,tabs,en-US,1279318;1279326;1279332;1279372;1279395;,sarafan_warrior
+1276767,2020-01-08 08:50:25 -0800,2020-01-08T18:40:34Z,address bar turned black,"<p>after the last update my address bar turned black. If I use the search bar,that too turned balck
+</p>",customize;desktop;firefox-720;windows-10;,firefox,customize,en-US,1279462;,mixed_nuts42
+1276766,2020-01-08 08:48:41 -0800,2020-01-08T11:11:52Z,"FF 72. After the last update, the active tab began to go beyond the tab bar.","<p>I have a screenshot.
+</p><p>I saw the question and it seemed to me similar, but there is a lot of code and I don’t know what exactly is needed in my case - <a href=""https://support.mozilla.org/ru/questions/1274416#answer-1279083"" rel=""nofollow"">https://support.mozilla.org/ru/questions/1274416#answer-1279083</a>
+</p><p>In my userChrome.css I use only this:
+</p>
+<hr>
+<pre>#navigator-toolbox {
+  display: flex;
+  flex-direction: column;
+}
+
+#titlebar {
+  order: 2;
+}</pre>
+<hr>
+<p>to move tabs to bottom.
+</p>",customize;desktop;firefox-720;windows-7;,firefox,customize,en-US,1279328;,booya
+1276765,2020-01-08 08:30:48 -0800,2020-01-08T08:30:48Z,Firefox 71 and latest builds halt if COMODO Antivirus/Firewall is installed,"<p>Firefox process halts if COMODO products installed (neither in safe-mode).
+It is not the IseGuard64 dll issue: Internet Security Essentials by COMODO is not installed.
+</p><p>Anything else?
+</p>",desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",gabriele.scibilia
+1276764,2020-01-08 08:17:32 -0800,2020-01-08T08:31:21Z,"""Open New Window"" not working on taskbar icon Right-Click Menu","<p>Also no good from Start screen icon. Open New Tab same problem
+File | Open Window &amp; Tab both ok, Ctrl-N ok
+US Win 10 Home 1909; Fully updated; Firefox File | New Window has N underlined
+New install / or start screen icon, File | Open &amp; Ctrl-N ok
+New PC right out of the box.  Acer Desktop
+Default install said ""Firefox for Acer"" in Options - taskbar icon issue first found
+Installed from Firefox website (without uninstall), now just says Firefox 72.0 updates current, no ""Acer"", same problem
+FF Safe mode / no add-ons same problem -- Trying to avoid Refresh &amp; reload all add-ons
+Right-click works everywhere else.
+</p>",customize;desktop;firefox-720;windows-10;,firefox,customize,en-US,1279270;1279275;1279279;,dk56
+1276763,2020-01-08 08:06:43 -0800,2020-01-08T14:00:00Z,How to recover a deleted profile in Windows 7 after the Recycle Bin has been emptied?,"<p>I used Recuva to recover the Recycle Bin files, most of which are recoverable as it was emptied recently, but I don't know which are Firefox files.  I think .json are and a few others I recognize but it looks like there are thousands of files here and I don't want to recover everything as my hard drive will be filled.  
+</p><p>And how do I prevent my (small) C drive from filling up in the Users area?  I have the browser installed on D drive but I can't remember if I attempted to install it as a portable installation.  I think that might prevent the Users area filling up on C driver or would it fill up on a portable install?  I don't even know if Mozilla offers a portable install.  I just hate it when software scatters files all over the place.  I want everything Firefox related in one folder.   Most of the time software is like a filing system where you place your carefully organized papers into a tray and its shot out spewing the contents all over the room.
+</p>",other;desktop;windows-7;,firefox,other,en-US,1279285;1279300;1279311;1279321;1279322;1279399;,moz2u
+1276762,2020-01-08 08:05:44 -0800,2020-01-08T12:32:48Z,"Firefox Developer Edition (version 73.0b2, 64-bit) - Autoplay persists despite turning it off via options...","<p>So I was looking at a Facebook group this morning and saw something that was posted in the group's feed that decided to autoplay on it's own despite ""Block Audio and Video"" being the default within the ""Settings - Autoplay"" screen.
+</p><p>I don't understand why this is constantly an issue with Firefox. Every single time, every update, every install, it always and continually becomes an issue with websites that I visit with Firefox. Even a completely fresh install with that above-mentioned setting, it's still an issue--nothing to do with customization of any kind, it's just that Firefox isn't doing what it's supposed to do.
+</p><p>What's going on here with this? Why isn't Firefox able to stop autoplay of videos within Facebook? I shouldn't have to rely on website settings to turn something like that off when it's the browser that allows the playback. I'm clearly missing something (I guess) so I'd appreciate if someone can shine some light on this because it's infuriating.
+</p>",firefox-730;beta;customize;desktop;windows-10;,firefox,customize,en-US,1279354;1279368;,Wolf_22
+1276756,2020-01-08 07:24:52 -0800,2020-01-08T07:43:28Z,Why doesn't a protocol prefix appears on my site address?,"<p>I have a web site <a href=""http://bobgatto.com"" rel=""nofollow"">bobgatto.com</a>. when I enter the domain name just as <a href=""http://bobgatto.com"" rel=""nofollow"">bobgatto.com</a> ans press enter, the site appears as it should. However, no https:// is attached to the name in the address bar and an icon of a lock with a red slash through it is at the left of the name.
 </p><p>Now I believe there should be an https:// because my web host set my up with a free SSL. I checked the cPanel and the SSL status is active. I even tried to reinstall the SSL certificates and keys, clearing cache memory, but I'm still getting the same results.
 </p><p>Can anyone out there help?
 </p><p>Thanks,
 </p><p>Bob Gatto
-</p>",websites;firefox-720;desktop;windows-10;,firefox,websites,en-US,"",bgatt64
-1276754,2020-01-08 06:57:03 -0800,2020-01-08T06:57:03Z,LATEST UPDATE SCREWED UP PRINTER SETTINGS!,"<p>THE LATEST UPDATE SCREWED UP THE PRINTER SETTINGS IT IS HUGE PRINT AND IS CUTTING OFF THE PRINT ON THE RIGHT MARGIN!!! I TRIED REINSTALLING JAVA. THAT DIDN'T WORK. I TRIED THE TROUBLESHOOTING THE JAVA FILE INSTRUCTIONS AND THAT DIDN'T WORK!!! FIX IT!!! ARRRRRRgggg!! STOP SCREWING WITH MY PRINTING!
-</p>",other;firefox-720;desktop;windows-10;regression;printing;,firefox,other,en-US,"",malf3d
+</p>",websites;firefox-720;desktop;windows-10;,firefox,websites,en-US,1279263;,bgatt64
+1276754,2020-01-08 06:57:03 -0800,2020-01-08T13:07:40Z,LATEST UPDATE SCREWED UP PRINTER SETTINGS!,"<p>THE LATEST UPDATE SCREWED UP THE PRINTER SETTINGS IT IS HUGE PRINT AND IS CUTTING OFF THE PRINT ON THE RIGHT MARGIN!!! I TRIED REINSTALLING JAVA. THAT DIDN'T WORK. I TRIED THE TROUBLESHOOTING THE JAVA FILE INSTRUCTIONS AND THAT DIDN'T WORK!!! FIX IT!!! ARRRRRRgggg!! STOP SCREWING WITH MY PRINTING!
+</p>",other;firefox-720;desktop;windows-10;regression;printing;needsinfo;,firefox,other,en-US,1279350;1279385;,malf3d
 1276747,2020-01-08 05:10:36 -0800,2020-01-08T05:10:36Z,No guarda las pestañas de mi sesion cada vez que abro firefox,"<p>Buenos dias,
 Yo venia usando firefox perfectamente hasta el dia de hoy que cuando lo abri no estaban mis pestañas guardadas, ni sicronizadas. Esto no me molesta tanto, sino que apesar de tener la configuracion para que me restaure las pestañas de la sesion. Sigue cerrandome todo cada vez que abro y cierro el navegador.
 Probe reinstalar y esto funciona. Pero cuando sincronizo mi cuenta, vuelve el problema.
 </p><p>Me gustaria saber por que me puede estar pasando esto.. 
 </p><p>Muchas gracias
 </p>",tabs;firefox-720;desktop;windows-10;,firefox,tabs,es,"",sebas_22_loco
-1276745,2020-01-08 05:02:55 -0800,2020-01-08T06:44:49Z,lockwise stuck in light theme,"<p>I have my browser in dark mode, but lockwise is stuck in light mode.  this isn't an issue in other instances of the browser I've installed.
-</p>",other;desktop;windows-10;,firefox,other,en-US,1279254;,Tichy
+1276745,2020-01-08 05:02:55 -0800,2020-01-08T16:31:30Z,lockwise stuck in light theme,"<p>I have my browser in dark mode, but lockwise is stuck in light mode.  this isn't an issue in other instances of the browser I've installed.
+</p>",other;desktop;windows-10;,firefox,other,en-US,1279254;1279267;1279441;,Tichy
 1276744,2020-01-08 04:43:24 -0800,2020-01-08T04:43:56Z,sync account,"<p>Hi I'm trying to sync my Google account in my Firefox and Gmail all together how do I do that
 </p>",sync;desktop;,firefox,sync,en-US,1279225;,anthonycasarino3
 1276740,2020-01-08 03:13:33 -0800,2020-01-08T05:43:27Z,Registry entry of Firefox is not updated,"<p>I had Firefox 69 in my machine and updated the latest firefox version 72 through auto-update. After installation i restarted the Browser and also the machine but it seems the firefox is not updated completely. The file version of firefox.exe has updated but in control panel the version still remains as Firefox 69. What should i do to fix this.
 </p>",download-and-install_1;desktop;,firefox,download-and-install,en-US,1279232;1279235;,kuttimagk211296
-1276737,2020-01-08 02:46:49 -0800,2020-01-08T02:46:49Z,.msi installtion fails to install with SCCM,"<p>I noticed that since version FF 70+ version the installation fails in a task sequence with error 0x80004005. What especially interesting is, after i deploy a new computer (new windows, settings etc.) i come to this multiple installation step, and only FF fails. After I cancel the task sequence, I go into windows and Firefox is happily waiting me on the desktop!
-</p><p>I think it is got to do with the detection method because the detection method is set to look for .msi product code and when i run a powershell command ""Get-WmiObject Win32_Product | sort name | Format-Table IdentifyingNumber, Name, LocalPackage -AutoSize"" on a freshly deployed PC I get all of the .msi codes but Firefoxe's. Can somebody from the dev team check this?
-</p><p>Thank you
-</p>",download-and-install_1;firefox-710;desktop;windows-10;,firefox,download-and-install,en-US,"",atomic.delta
-1276734,2020-01-08 02:23:31 -0800,2020-01-08T02:23:31Z,"captive portal detection fails with redirect from detectportal.firefox.com to mymodem.modem, which does not resolve","<p>My Firefox Developer Edition just required manual help to upgrade to 73.0b2 because the auto-upgrade failed.  Not sure if that is important.
+1276734,2020-01-08 02:23:31 -0800,2020-01-08T11:33:32Z,"captive portal detection fails with redirect from detectportal.firefox.com to mymodem.modem, which does not resolve","<p>My Firefox Developer Edition just required manual help to upgrade to 73.0b2 because the auto-upgrade failed.  Not sure if that is important.
 All new tabs and windows had the ""You have to connect to the internet"" captive-portal bar across the top, but I'm on a home network without captive portal.  Clicking the ""go to login page"" button went to a ""can't find that page"" error page.
 </p><p>I tried curl from the command-line of my Mac (10.15.2) and got this:
 </p><p>% curl -v <a href=""http://detectportal.firefox.com/success.txt"" rel=""nofollow"">http://detectportal.firefox.com/success.txt</a>
@@ -65,15 +199,15 @@ All new tabs and windows had the ""You have to connect to the internet"" captive
 </li></ul>
 <p>I'm prepared to believe that this is ISP-related, rather than Firefox, but on the off-chance that it's somehow down to a misconfiguration of the captive-portal detection servers right now, I thought that I'd report it here.
 </p><p>I've stopped this from happening by setting about:config  network.captive-portal-service.enabled to false, but would ideally prefer that this not recur on the next profile reset.
-</p>",firefox-730;beta;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,"",areilly1
+</p>",firefox-730;beta;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,1279335;,areilly1
 1276733,2020-01-08 01:45:44 -0800,2020-01-08T01:45:44Z,Firefox connection to localhost domains is sporadic when there is no internet connection,"<p>I quite often do development work on the train, and disable wifi on my laptop. When I've done this, I quite often have to refresh a localhost domain several times before Firefox loads it correctly. It will either say it can't connect, or will load the page without any CSS. A further refresh will work, but this process always continues. Works fine in Chrome.
 </p><p>I'd appreciate any pointers to fixing this! Thanks
 </p>",firefox-710;desktop;fix-problems;,firefox,fix-problems,en-US,"",ben34
 1276732,2020-01-08 01:43:29 -0800,2020-01-08T01:43:29Z,"Opening default mail client (Thunderbird) via links opens a dialoque box in IE, and results in a crash of both firefox and IE","<p>I am using firefox as default web browser and Thunderbird as default mail client on a Windows 7 system (and have been doing so for many years). Lately, when I click on an embedded email link, such as an email address displayed on a website, rather than opening Thunderbird directly, internet explorer opens a dialogue box and asks me to confirm to open Thunderbird, which then results in a crash, as IE continues to open the dialogue box several times at once. The result is that both firefox freezes and IE crashes, and the entire operation is not successful.
 </p><p>Please note that I did not change any settings manually, and I do not use IE for any operations.
 </p>",firefox-710;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,"",julia.kropeit
-1276731,2020-01-08 01:35:48 -0800,2020-01-08T03:45:17Z,"Not disclosed ""Google Apps"" in the Firefox browser in the upper right corner. In other browsers: Google Chrome, Microsoft Edge - opens normally. Firefox reinsta","<p>additional picture
-</p>",other;firefox-720;desktop;windows-10;website;,firefox,other,en-US,1279200;1279215;,kovka1961
+1276731,2020-01-08 01:35:48 -0800,2020-01-08T15:40:20Z,"Not disclosed ""Google Apps"" in the Firefox browser in the upper right corner. In other browsers: Google Chrome, Microsoft Edge - opens normally. Firefox reinsta","<p>additional picture
+</p>",other;firefox-720;desktop;windows-10;website;,firefox,other,en-US,1279200;1279215;1279295;1279307;1279330;1279337;1279340;1279346;1279349;1279359;1279371;1279379;1279380;1279383;1279388;1279413;1279418;1279426;,kovka1961
 1276729,2020-01-08 01:24:30 -0800,2020-01-08T03:33:02Z,"Not disclosed ""Google Apps"" in the Firefox browser in the upper right corner. In other browsers: Google Chrome, Microsoft Edge - opens normally. Firefox reinsta","<p>Windows 10 64 bit
 </p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,1279210;,kovka1961
 1276727,2020-01-08 01:14:50 -0800,2020-01-08T01:14:50Z,auto scrolling when a page load,"<p>When i open a new page firefox start to auto scroll the page, i try to reinstall firefox, and open it in safe mode but the problem is still here.
@@ -114,11 +248,11 @@ Thanks in adv.
  Additional Information 3:	52ba
  Additional Information 4:	52bafa9bec3b3212ed76087781705344
 </pre>",download-and-install_1;firefox-710;desktop;windows-7;bug1590430;,firefox,download-and-install,en-US,1279173;1279201;1279223;1279241;1279257;,telebob
-1276718,2020-01-07 20:21:53 -0800,2020-01-07T20:59:38Z,why do i keep getting duplicate bookmwarks?,"<p>for some reason my Bookmarks keep duplicating
-</p>",bookmarks;firefox-710;desktop;windows-10;,firefox,bookmarks,en-US,1279174;,dancequeen
+1276718,2020-01-07 20:21:53 -0800,2020-01-08T19:31:06Z,why do i keep getting duplicate bookmwarks?,"<p>for some reason my Bookmarks keep duplicating
+</p>",bookmarks;firefox-710;desktop;windows-10;,firefox,bookmarks,en-US,1279174;1279428;1279478;,dancequeen
 1276717,2020-01-07 20:18:26 -0800,2020-01-08T05:06:46Z,Firefox EXTREMELY slow,"<p>One of the most pronounced issues in Firefox is that it takes five minutes to write a sentence of an email in an AOL. It freezes intermittently. I open Edge - and it's lightning fast.
 </p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,1279175;1279229;,C4chrt
 1276714,2020-01-07 18:37:01 -0800,2020-01-07T18:37:01Z,Nueva pestaña de youtube,"<p>En versiones anteriores de Mozilla Firefox, podria abrir nuevas pestañas de youtube pero haciendo que empezaran la reproduccion automatica al seleccionarlas, con la version 72 no puedo hacerlo, existe alguna forma de  volver a tener esta opcion?.
 </p>",tabs;firefox-720;desktop;windows-10;,firefox,tabs,es,"",jackal34568
-1276712,2020-01-07 17:12:14 -0800,2020-01-07T17:12:14Z,"How do you ""easily"" put tabs back on bottom using firefox 72?  Thanks!","<p>I've tried the instructions/answers for firefox 65+ and firefox 71 to no avail.  Thank you!
-</p>",tabs;firefox-720;desktop;windows-10;userchromecss;unsupported-modifications;,firefox,tabs,en-US,"",fireside
+1276712,2020-01-07 17:12:14 -0800,2020-01-08T08:19:35Z,"How do you ""easily"" put tabs back on bottom using firefox 72?  Thanks!","<p>I've tried the instructions/answers for firefox 65+ and firefox 71 to no avail.  Thank you!
+</p>",tabs;firefox-720;desktop;windows-10;userchromecss;unsupported-modifications;,firefox,tabs,en-US,1279262;1279266;1279269;,fireside
