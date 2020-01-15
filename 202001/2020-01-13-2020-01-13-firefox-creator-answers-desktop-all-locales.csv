@@ -1,0 +1,175 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1277254,2020-01-13 15:41:18 -0800,2020-01-14T05:12:12Z,"The ABC News website is not downloading properly on MacOs 10.13.6, using Firefox 72.0.1 (there are large white stretches between content)","<p>the <a href=""http://abcnews.com"" rel=""nofollow"">abcnews.com</a> website downloads with large stretches of blank white screen. I have not see this with other websites. I have included a screenshot example. This started right after the most recent update......  Thanks!
+</p>",websites;firefox-720;desktop;firefox-7201;mac-os;,firefox,websites,en-US,1280770;1280869;1280878;,swartz5339
+1277252,2020-01-13 14:52:52 -0800,2020-01-14T11:14:38Z,Keep getting logged out,"<p>Firefox for Mac logs me out every time I sleep my computer. I have went to history in settings and unchecked cache and cookies but it still logs me out. It is working fine on my pc but just wont work on Mac.
+</p>",cookies;firefox-720;desktop;mac-os;escalate;cookiesproblem;login;,firefox,cookies,en-US,1280745;1280749;1280766;1280848;1280968;1280973;,mthendersonjr
+1277250,2020-01-13 14:40:10 -0800,2020-01-14T14:13:31Z,Firefox randomly does not receive certificate from websites I run.  SEC_ERROR_OCSP_MALFORMED_RESPONSE is the error.,"<p>Good Afternoon, 
+</p><p>I run a few docker containers that I have a reverse proxy setup with ""letsencrypt"" on some subdomains I own.  Randomly, FF (both mobile and desktop) refuses to load those pages and returns a ""SEC_ERROR_OCSP_MALFORMED_RESPONSE"" error.  I'm also not able to pull up the certificate at all.  FF will randomly work just perfect with these sites however.  
+</p><p>Also, when FF is unable to open these sites, every other browser I tried is able to.  Other browsers that worked, IE, Edge, Safari, Samsung Browser, Chrome, Safari on IOS.I already tried to start FF in safe mode, to no avail. 
+</p><p>I was also able to use this website: "" <a href=""https://check-your-website.server-daten.de"" rel=""nofollow"">https://check-your-website.server-daten.de</a>"" to check the certificate status, and everything came back green. 
+</p>
+<ul><li><ul><li>Edit** I will add that I've deleted all the site data, gone through every single useful google result page as well.  My system date and time is also correct, as is the server I run. 
+</li></ul>
+</li></ul>
+<p>Any help is appreciated.  Thank you!
+</p>",websites;firefox-720;desktop;windows-10;escalate;certificates;ocsp;,firefox,websites,en-US,1280746;1280780;1280787;1280789;1281004;1281041;1281044;,colt2
+1277246,2020-01-13 14:10:19 -0800,2020-01-14T00:27:16Z,Sorry. We’ve locked your account. The confirmation email we sent to ben@******.ca was returned and we’ve locked your account to protect your Firefox data,"<p>My company email wass temporarily disabled when I tried to get into my account. The email must have bounced or something and I got this message.
+If support sees this please unlock my account. Further correspondence will probably be necessary in private so I don't reveal my email.
+</p>",firefox-720;desktop;sync;windows-10;,firefox,sync,en-US,1280836;1280842;,benp1
+1277245,2020-01-13 14:06:29 -0800,2020-01-13T14:48:21Z,"Server Error in '/' Application. Runtime Error Description: An exception occurred while processing your request. Additionally, another exception occurred while","<p>This error message keeps coming up when I use the old way to access that particular web site. No error message on Chrome. I can get to it another way but why the error message.
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1280741;,pegheunemann
+1277244,2020-01-13 14:05:44 -0800,2020-01-13T14:05:44Z,"After updating the browser to version 72.0, there were problems with audio codecs: the browser can not play some .ogg-files.","<p>Hi. After updating the browser to version 72.0, there were problems with audio codecs: the browser can not play some .ogg-files. For an example: <a href=""http://edapskov.ru/temp/photo_sound.ogg"" rel=""nofollow"">http://edapskov.ru/temp/photo_sound.ogg</a>   Previous versions of the browser and other browsers do not have this problem.
+</p>",fix-problems;firefox-720;desktop;firefox-7201;windows-7;,firefox,fix-problems,en-US,"",edapskov
+1277242,2020-01-13 13:45:53 -0800,2020-01-13T13:45:53Z,I did create new sign-in as stated in e-mail.  However I.P. address is wrong.  Is this a hack?,"<p>E-mail from Firefox Accounts verifying ""New Sign-in"".  Yes, I made that change, but the I.P. address shown in the e-mail isn't mine and doesn't resemble any one I've ever seen.  What's up?
+</p>",privacy-and-security_1;firefox-720;desktop;windows-10;escalate;,firefox,privacy-and-security,en-US,"",rixroberts
+1277240,2020-01-13 13:22:31 -0800,2020-01-13T13:22:31Z,How to Handoff webpages to iOS?,"<p>I read that Firefox 65 introduces Handoff for macOS and iOS.
+</p><p>When I have safari open on macOS I can pick up browsing on my iOS device, and vice versa. 
+</p><p>When I have Firefox open in macOS I am not offered to pick it up on my phone. 
+</p><p>To me this currently equals no support for Handoff. Since it’s allegedly supported, how do I make this work?
+</p><p>Please note that this question is not about Firefox sync, and that sync is not a viable workaround considering that it’s usually lagging behind by several hours, making it near useless.
+</p>",other;desktop;,firefox,other,en-US,"",onetimename
+1277236,2020-01-13 13:02:23 -0800,2020-01-13T13:02:23Z,Firefox not supported by Google Books.,"<p><a href=""https://play.google.com/books/reader?id=mf93BgAAQBAJ&amp;hl=en_AU"" rel=""nofollow"">https://play.google.com/books/reader?id=mf93BgAAQBAJ&amp;hl=en_AU</a> - It says This book contains content that is not yet supported in your browser. I've reported it to <a href=""https://qsurvey.mozilla.com/s3/FirefoxInput/"" rel=""nofollow"">https://qsurvey.mozilla.com/s3/FirefoxInput/</a>
+</p><p>Actualy doesn't work in latest version of Google Chrome neither?
+</p><p>What else can I do?
+</p>",websites;firefox-720;desktop;windows-10;,firefox,websites,en-US,"",darrynw.au
+1277235,2020-01-13 12:51:13 -0800,2020-01-13T15:00:21Z,"ONE OF MY BANK ACCOUNTS IS BEING BLOCKED, BUT I CAN GET TO THE BANK OTHER ACCT","<p>I BANK AT EECU. I CAN GO UNDER ONE OF MY USSER NAMES FOR ONE OF MY ACCTS. FIREFOX IS BLOCKING MY OTHER USSER NAME FROM BEING USED. THIS JUST STARTED, HAVE USED BEFORE WITH NO PROBLEM. I HAVE TO GET TO MY ACCOUNTS, DO I HAVE TO CHANGE TO A BETTER  BROWSWER
+</p>",customize;desktop;firefox-720;windows-10;,firefox,customize,en-US,1280748;,DLSTEVENSON
+1277234,2020-01-13 12:45:44 -0800,2020-01-13T12:45:44Z,Mousewheehl scroll breaks after using infinite scroll on Logitech MX Master,"<p>Basically, if scrolling up and down quickly with my MX Master mouse, sometimes Firefox (and I stress only firefox) stops responding to mousewheel inputs when the window is active. By this I mean that if another window is open and not fullscreen, and just hover over the firefox window and scroll, the webpage will scroll fine, however making firefox the active window stops it from working again.
+</p><p>Restarting/reconnecting the mouse does not solve the problem.
+</p><p>Restarting firefox also does not solve the problem. 
+</p><p>Disabling/removing plugins/addons has no effect.
+</p><p>The only way I've found to fix it is by resetting firefox completely.
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,"",alexpcunliffe
+1277232,2020-01-13 12:35:18 -0800,2020-01-14T18:36:58Z,Google Maps no me funciona bien en Mozilla Firefox desde hace un tiempo,"<p>La pantalla pasa a negro a los pocos segundos de abrirlo, solo me funciona con complementos desactivados y tambien funciona bien en Crome o con Explorer
+</p>",firefox-720;desktop;fix-problems;windows-7;,firefox,fix-problems,es,1280733;1280855;1281086;,jcmedinaf
+1277231,2020-01-13 12:34:39 -0800,2020-01-13T12:34:39Z,Opening link from other software in tab,"<p>When another software tries to open a link, instead of opening in a new tab in my current windows, I get the message: 
+Firefox is already running, but is not responding. To open a new window, you must first close the existing Firefox process, or restart your system.
+</p><p>What can I do to be able to just click on link and have them opened ?
+</p>",firefox-710;other;desktop;linux;,firefox,other,en-US,"",Arthur_Rainbow
+1277229,2020-01-13 11:59:10 -0800,2020-01-13T11:59:10Z,All logins and passwords gone from Lockwise,"<p>Used saved logins/passwords last week. Now today they are all gone. Nothing. Nada. How do I get them back?
+</p>",privacy-and-security_1;firefox-720;desktop;windows-7;,firefox,privacy-and-security,en-US,"",sheilamacomber
+1277228,2020-01-13 11:05:10 -0800,2020-01-13T11:05:10Z,"Can't get back on my firefox browser, how do I do this?","<p>Installed newest version of Firefox, but can't get back to my home page of FF where I have every thing set up. When selecting FF it takes me to a page that wants me to down load the latest version of FF. How can I solve this?
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,"",Jayesin1st
+1277227,2020-01-13 11:02:13 -0800,2020-01-13T11:02:13Z,Keep videos playing in the background,"<p>(No research done.) Is there a setting, a value, that can be added in the config. so that Fx doesn't pause videos if you shift view to another tab? I.e. to disable the now default behaviour.
+</p><p>A couple versions ago this was changed, perhaps to increase performance, so that only sound would continue if a user shifts to another tab. In my experience it didn't work well; it took quite some time for the video to resume after returning to the tab, and now, in more recent versions, it simply doesn't start again (play/pause button doesn't work and I have to refresh the page).
+</p><p>Mozilla has been busy adding features; how about maintain a working browser.
+</p><p>Am I supposed to install an add-on to get something that worked earlier (to keep videos playing in the background)?
+</p>",firefox-720;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,"",atria
+1277222,2020-01-13 10:20:30 -0800,2020-01-13T12:19:55Z,I have a new mac and now firefox won't open zoom.com or facebook,"<p>It takes me to the zoom sign in page but when I click sign  in nothing happens   For facebook it takes me to a FB page but then it is entirely blank
+</p>",download-and-install_1;firefox-720;desktop;mac-os;,firefox,download-and-install,en-US,1280674;1280702;1280719;,cookingohio2000
+1277221,2020-01-13 10:16:35 -0800,2020-01-14T15:44:08Z,Surface Book 2 - FF hangs or crashes,"<p>When I navigate to <a href=""http://www.pcmag.com"" rel=""nofollow"">www.pcmag.com</a> on my Surface Book 2. FF will hang or crash. I do not have this problem with other browsers on my laptop. Is this a known bug or do I need to update something.
+</p><p>I am running the latest FF version with default settings, the only add-on is BitWarden.
+</p>",other;firefox-720;desktop;windows-10;surfacebook2;escalate;cpu;slowness-and-hanging;,firefox,other,en-US,1280676;1280682;1280709;1280716;1280721;1280725;1280743;1281012;1281060;,oscarclavel
+1277220,2020-01-13 10:16:06 -0800,2020-01-13T10:29:26Z,How do I get a website to load the most current info instead of yesterdays' info when I click on one of my bookmarks?,"<p>I recently had to reload windows to get rid of a Chrome nuisance popup. Now when I click on something like my  USA Today crossword puzzle bookmark,  the puzzle won't load. I have to enter the website manually, search for crossword and then I can get the most recent puzzle. If I don't go through this scenario each time I either get nothing or I get yesterdays puzzle. This didn't happen before I reinstalled windows and by extension firefox.
+</p>",bookmarks;firefox-720;desktop;windows-7;,firefox,bookmarks,en-US,1280677;,haze_pa
+1277216,2020-01-13 09:46:10 -0800,2020-01-13T18:06:48Z,Firefox is setting a DNS override in all machines to 127.0.0.1 I can't find a way to stop this.  It is over riding DNS software I want to use.  This seems new.,"<p>Firefox is setting a fixed DNS override in all machines to 127.0.0.1 I can't find a way to stop this.  It is over riding DNS software I want to use.  
+</p><p>One AV program recognizes this (probably incorrectly) as a DNS:highjack and it I remove it it resets Firefox to a blank slate and I start over w/ re-syncing and reloading favorites etc and the DNS setting is put back in place.
+</p><p>I want my DNS settings to stay at automatic.
+</p>",privacy-and-security_1;firefox-720;desktop;windows-10;,firefox,privacy-and-security,en-US,1280779;,newportironman
+1277215,2020-01-13 09:37:46 -0800,2020-01-13T14:30:25Z,I cannot get .txt files to Preview in Firefox since updating to 72.0.1.,"<p>I have always been able to open a txt file from a website and have it preview in the browser. Now I get the dialog to Save or open with. This change happened recently, I believe in update 72.0.1. Txt is not an option in the Applications list so I can't choose what to do.
+</p>",firefox-7201;customize;desktop;firefox-720;windows-10;needsinfo;,firefox,customize,en-US,1280666;1280669;1280739;,keith_muir
+1277212,2020-01-13 08:56:43 -0800,2020-01-13T08:56:43Z,Firefox no longer opens docx files since update last week,"<p>I updated Firefox last week and since then am unable to open .docx files from Firefox. I have checked my Firefox settings, as well as my settings via Control Panel (using Windows 7). The dialog box opens up asking me which program to use, I browse and select Word, but then get the error message ""this file could not be found."" (I didn't have to do any of this pre-update.) Note that .docx files will still SAVE to my downloads, and when I then click on them from the downloads list I am able to open them. They open fine in Chrome.
+</p>",firefox-720;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,"",elaton
+1277211,2020-01-13 08:40:40 -0800,2020-01-13T08:40:40Z,"script to import IE user settings, passwords, and favorites into firefox","<p>We are thinking of a way to migrate all of our users in our organization from IE to firefox. We would like to move as much IE user data over as we can. Is there a script or some type of documentation that could go through and grab the IE data and import it directly into firefox without any user interaction?
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,"",richard_lenius
+1277209,2020-01-13 08:23:16 -0800,2020-01-13T10:38:54Z,Why is firefox is not saving traking protection exceptions?,"<p>today i reinstalled firefox after a fresh window installation and noticed that whenever i disable the tracking protection for a site (facebook for example) it add the exception to the list but after i close the app and open it again, all the exceptions are gone
+</p>",privacy-and-security_1;firefox-720;desktop;windows-10;,firefox,privacy-and-security,en-US,1280680;,s.masa1
+1277206,2020-01-13 07:48:18 -0800,2020-01-13T07:48:18Z,Kaspersky Safe Money and Password Manager not working after latest Firefox update,"<p>The extension for Kaspersky Password Manager is enabled but Firefox does not acknowledge that PM is installed on my computer so the website sign in doesn't work.  Also, the extension for Kaspersky Protection is enabled but Safe Money does not load with protected window.  These applications work with no issues on Microsoft Edge and I'd rather use Firefox.
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,"",kempa
+1277205,2020-01-13 07:16:20 -0800,2020-01-13T07:47:08Z,"I have auto-update switched on, yet number of websites like Youtube show ""you use outdated browser"" and make browsing difficult.","<p>As mentioned above, I have automatic update option switched On in settings and in setting version of my Firefox is written as 72.0.1 64-bytes and claimed to be latest version (some terms might be off I am not sure how they translate to English)... Yet number of Websites like Youtube, Deviantart or even function like reCAPTCHA claims that I am using outdated version making browsing more difficult to me in various ways, I did receive several messages about my browser being updated and forced Update few times, but problem does persist for LONG while despite that... what's going on really?
+</p>",other;firefox-720;desktop;firefox-7201;windows-7;,firefox,other,en-US,1280621;1280626;,kreyn
+1277204,2020-01-13 07:08:46 -0800,2020-01-13T07:08:46Z,"when i choose work offline from file menu, firefox continues online surfing for a long time","<p>hi. when i choose work offline from file menu, it does not drop all connections immediately (which it always did before updating to 71.0.1) and i can continue to surf online at least for three or four minutes until it completely disconnects from internet. i have this problem since i have updated from version 64.0,0 to 71.0.1 on Win10 32-bit desktop. any solution?
+</p>",firefox-710;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",kandeloos
+1277203,2020-01-13 07:05:54 -0800,2020-01-13T07:50:44Z,Как удалить вирус www.windowsxlive.net ?,"<p>Virus <a href=""http://www.windowsxlive.net"" rel=""nofollow"">www.windowsxlive.net</a> once on the computer changes the home page in the browser. Cannot be removed by antivirus software. Removes the check box for opening the previous session. Does not disappear after reinstalling. This makes it impossible to work with the browser.
+</p>",privacy-and-security_1;desktop;windows-10;malware;escalate;,firefox,privacy-and-security,en-US,1280627;,andy601
+1277201,2020-01-13 06:47:19 -0800,2020-01-13T08:22:19Z,How do I stay logged in after restarting My IMac,"<p>When I restart my IMac it logs me out of Firefox and I have to log back in and start over.
+</p>",firefox-670;other;desktop;mac-os;,firefox,other,en-US,1280629;1280637;1280639;,patgilbertx
+1277200,2020-01-13 06:36:50 -0800,2020-01-13T06:36:50Z,"""... Verify the switch you are using"" error message when opening .eml in Microsoft Outlook 2016","<p>Click on an .eml-file 
+</p><p>Dialog opens which asks me if I want to Open or Save the file.
+</p><p>I choose to open the file, but first I click on the Browse button to choose Outlook as the program to open with. (image 1, 2, in swedish)
+</p><p>Click Ok.
+</p><p>Outlook tries to start, but can't, and gives the error message ""The command line argument is not valid. Verify the switch you are using."" (image 3, in swedish)
+</p><p>In other browsers (Edge, Chrome), the same file (from same page and link) opens in Outlook with no problem. 
+Mime-type is set to message/rfc822.
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",ylvamendes
+1277199,2020-01-13 06:33:21 -0800,2020-01-14T12:24:21Z,How do I prevent the Enhanced Protection dialog from showing?,"<p>The following dialog is causing my automated tests to fail in Browserstack. My hope is that this behavior can be disabled using the browsers **about:config** page. Does anyone know if it is possible to disable this dialog?
+</p><p>Thanks!
+</p>",privacy-and-security_1;firefox-710;desktop;windows-10;,firefox,privacy-and-security,en-US,1280612;1280665;1280996;,everett1
+1277197,2020-01-13 05:58:27 -0800,2020-01-13T07:55:58Z,Mhy account remains active but I get nothing but a blank shell when I try to login.,"<p>It's as if Firefox has ceased to exist. No AOL default browser, no icons for newspapers or for Add-ons, like Evernote, page blocker.
+</p>",download-and-install_1;firefox-720;desktop;windows-10;,firefox,download-and-install,en-US,1280630;,tbarksdl
+1277196,2020-01-13 05:52:05 -0800,2020-01-13T16:20:41Z,Always restore last session,"<p>I have read many of forum threats of how to configure opening last session each time browser opens. None of them works.
+</p><p>I want to have all same tabs from the last session each time I open Firefox again. It is very normal behavior in our days. Why should I close them if I work in several of them?
+</p><p>So, this option is not included in standard Firefox configuration. I see option ""Preferences-&gt;Startup-&gt;Restore last session"". I check this option, turning of Firefox. Then trying to open some tabs, closing Firefox, opening again and no tabs left! So no idea what this option is for, because it doesn't restoring opened tabs in the last session.
+</p><p>How to make it work? It would be excellent!
+</p>",tabs;firefox-720;desktop;mac-os;,firefox,tabs,en-US,1280609;1280761;,sukys.gediminas
+1277189,2020-01-13 04:32:05 -0800,2020-01-13T08:00:17Z,Feature request: authorisation,"<p>I am  pissed off to login every site i use. Is it posable to login to Firefox once and then be login to all sites automatically?
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,1280631;,sporitus
+1277188,2020-01-13 04:28:18 -0800,2020-01-13T10:25:22Z,Firefox Headless ---Screenshot not working for local HTML files,"<p>I'm unable to generate a screenshot of a local HTML file using Firefox's (v60.9.0) [headless mode][1]
+</p><p>Here's the command I'm using:
+</p><pre>   ""C:\Program Files (x86)\Mozilla Firefox\firefox.exe"" -P AJ --screenshot test.png ""file:///C:/html_export.html""
+</pre>
+<p>I've tried with and without a profile and with different numbers of slashes after file. There are no errors in the command line - it just doesn't generate an output. 
+</p><p>This command works fine when I substitute the file:// with an external website like:
+</p><pre>   ""C:\Program Files (x86)\Mozilla Firefox\firefox.exe"" -P AJ --screenshot test.png <a href=""http://google.com"" rel=""nofollow"">google.com</a>
+</pre>
+<p>Could it be related to the [redirect bug mentioned here][2]?
+</p><p>Any help is appreciated! Perhaps theres a way to turn on output verbosity for --headless mode?
+</p><pre> [1]: <a href=""https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Headless_mode"" rel=""nofollow"">https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Headless_mode</a>
+ [2]: <a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=1546062"" rel=""nofollow"">https://bugzilla.mozilla.org/show_bug.cgi?id=1546062</a>
+</pre>",firefox-600;desktop;tips;windows-10;escalate;,firefox,tips,en-US,1280673;,ajkrell
+1277187,2020-01-13 04:25:48 -0800,2020-01-13T05:23:42Z,Hello. My browser has crashes every time,"<p>id from: bp-d8f26150-6885-4fac-88d0-5678d0200113
+</p><p>When i try to open any sites. Ill send you iD in details. Ill tried to strat broweser in safe mode, try to reset all setting and extentions. Nothing was help.
+</p>",desktop;fix-problems;firefox-7201;windows-10;crash;,firefox,fix-problems,en-US,1280596;,natalya.terenteva
+1277184,2020-01-13 02:44:07 -0800,2020-01-14T21:49:49Z,How can I stay login from same account but different ip address in firefox,"<p>I am using one account on two different ip address, one is in office, and same account is in home, so I can get all my tabs history and bookmarks, but issue is, I had to login on daily basis, which is not user friendly, for the experiment i tried google chrome, It asked only one time login information, and it didn't ask again, this same thing I am expecting with Firefox, is there any step that I am missing, or any trick for this thing.
+</p>",firefox-720;desktop;sync;windows-10;needsinfo;,firefox,sync,en-US,1280633;1281112;,Zubair.Designer
+1277181,2020-01-13 02:07:27 -0800,2020-01-13T08:10:08Z,Is it YouTube or Firefox problem? When click on Thumbnail on YouTube it won't work.,"<p>On YouTube when I click on video Thumbnail it won't open even try several times. However, if I right click on video and open in new window then I can play.
+I wonder if this is a Firefox problem or YouTube?
+</p><p>PS: Firefox, Windows 10 and drivers are updated
+</p>",websites;firefox-720;desktop;windows-10;,firefox,websites,en-US,1280634;,Ari94
+1277180,2020-01-13 01:23:31 -0800,2020-01-13T08:12:22Z,The Firefox Window does not open,"<p>My Mozilla Firefox browser does not open when I click on the icon. When I reinstall Firefox it does open, but it happens too often and I do not want to reinstall Firefox over and over.
+</p>",other;firefox-720;desktop;firefox-7201;windows-10;,firefox,other,en-US,1280635;1280636;,richardvangelder
+1277179,2020-01-13 01:15:02 -0800,2020-01-13T01:53:49Z,An about:config setting is locked and cannot be unlocked,"<p>Dear Firefox-Users,
+</p><p>I ask for you help to unlock a locked about:config setting.
+</p><p>I am on Microsoft Windows 10. I have this locked setting in about:config
+</p><pre>   Prefercence Name signon.rememberSignons
+   Status locked
+   Type boolean
+   Value false
+</pre>
+<p>and want to change it. I looked for the origin of the setting and decided to delete those files:
+</p><pre>* C:/Users/myuser/AppData/Local/Downloaded Apps/Firefox/autoupd/App/Firefox/mozilla.cfg
+* C:/Users/myuser/AppData/Local/Downloaded Apps/Firefox/autoupd/App/Firefox64/mozilla.cfg
+* C:/Users/myuser/AppData/Local/Mozilla/Firefox/Profiles/3fz35m4h.default/cache2/entries/A7076C7AD824717724F23B6C27CC5519300AEFB3
+* C:/Users/myuser/AppData/Local/Mozilla/Firefox/Profiles/3fz35m4h.default/cache2/entries/*
+* C:/Users/myuser/AppData/Local/Mozilla/Firefox/Profiles/3fz35m4h.default/startupCache/*
+</pre>
+<p>Some of those (mozilla.cfg;cache2/enctries/) files contained the value
+</p><pre>   lockPref(""signon.rememberSignons"", false);
+</pre>
+<p>.
+</p><p>I am not able to alter the setting signon.rememberSignons; It is still locked. There are no Microsoft Group Policies in enforcement; What holds the setting in locked state?
+</p>",firefox-680;customize;desktop;windows-10;,firefox,customize,en-US,1280567;,marcus.poller
+1277178,2020-01-13 00:49:07 -0800,2020-01-13T06:26:08Z,Why i am not able to access a particular website!!,"<p>The website is <a href=""http://www.moodle.vitbhopal.ac.in"" rel=""nofollow"">www.moodle.vitbhopal.ac.in</a>. When i try to access it i am not able to get into that website. It says the connection is not private or secure. Please help me to get rid of this problem. I need to access it. Thank You
+</p>",websites;desktop;,firefox,websites,en-US,1280559;1280560;1280564;1280579;1280588;1280590;,saha.nabarun15
+1277175,2020-01-12 22:01:35 -0800,2020-01-13T12:14:11Z,How can I fix minimize?,"<p>My minimize doesn't work in Firefox. It does work in safe mode however.
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1280542;1280547;1280548;1280554;1280566;1280570;1280573;1280574;1280576;1280577;1280586;1280587;1280591;1280685;1280691;1280693;1280695;1280701;1280715;,gbeasau
+1277174,2020-01-12 22:00:04 -0800,2020-01-12T23:42:54Z,I have tried suggested fixes and Firefox keeps crashing. It doesn't crash at start up but after a little while.,"<p>It started a few days ago and I have no idea why. This is the latest crash report: bp-f55a66cb-de45-4bc1-b846-3a31b0200113 and the one before: bp-ac95dabd-2b43-42e7-b348-00f4a0200113
+Can anyone help please??
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1280549;1280550;1280551;,danidownunder
+1277172,2020-01-12 19:40:52 -0800,2020-01-14T21:05:34Z,I am on a Mac. I change the browser from default to Google in the Firefox Preferences and it keeps on changing back to default when I re-boot Firefox. HELP!,"<p>I tried a short routine involving the about:addons page, but there is no Yahoo! item on the addons page that I found on your help forums from people who were having a similar problem with Yahoo.
+</p>",firefox-7201;customize;desktop;firefox-720;mac-os;needsinfo;,firefox,customize,en-US,1280552;1281090;1281108;,rkeleher
+1277168,2020-01-12 18:23:52 -0800,2020-01-13T11:18:59Z,"Files are not renaming with (1) with default ""save files to"" option ticked","<p>I have been a frequent user of both Mozilla Firefox &amp; Google Chrome.
+</p><p>From previous Firefox versions, when the default option in ""Save Files To""; every downloaded item will automatically save in the destination folder without prompt of asking where to save and even rename duplicate filenames with (1) just like Google Chrome.
+</p><p>I have browsed previous (archived) threads from this community and it seems it has worked for people from the date prior to November 2019.
+</p><p>Perhaps this problem has reoccurred after v.70.
+</p>",tips;firefox-720;desktop;windows-10;,firefox,tips,en-US,1280686;1280690;,jimsonv
+1277166,2020-01-12 18:09:31 -0800,2020-01-12T18:09:31Z,"Typing new title in Bookmarks always reverts to ""New Folder"": can fix ""once only"" by ""Refresh"" then repeats ""new Folder"" next time","<p>All plug ins turned off all extensions off, Google Sync turned off.
+Still can't get ""New Folder"" blocking any attempt to type a new title.
+Grrrrr
+</p>",bookmarks;firefox-720;desktop;windows-10;,firefox,bookmarks,en-US,"",hommedespere
+1277163,2020-01-12 16:40:56 -0800,2020-01-13T10:05:41Z,my computer died but the ssd survived....how can I transfer bookmarld to a new computer?,"<p>I removed my ssd from my Win 7 pro computer and inserted it into an external case.  If I plug it into my new Win 10 computer, I can see all my Firefox files - including bookmarks folders - see attached.  But the files are all in JSONLZ4 files.  I'm now lost.  Can anyone tell be how to load these onto my new Win 10 computer?
+</p>",bookmarks;firefox-720;desktop;firefox-7201;,firefox,bookmarks,en-US,1280510;1280610;1280663;,FXProglJr
+1277161,2020-01-12 16:34:08 -0800,2020-01-12T19:29:02Z,turn off download bell,"<p>72.0.1 (64-bit)  bell sounds when download complete, how to turn off / disable the dam bell !!!!
+</p>",customize;desktop;firefox-720;linux;,firefox,customize,en-US,1280505;1280514;,danost
+1277159,2020-01-12 16:09:22 -0800,2020-01-12T16:55:21Z,Last week there was a button in the upper right menu that blocked all images from loading--from all websites.  It was very useful.  Now it is gone.,"<p>Not really more details than this.  It was in the Windows version of Firefox and not in the Android app.  Since I currently have v72, must have been some version prior to 72.
+</p>",customize;desktop;firefox-720;windows-10;,firefox,customize,en-US,1280482;1280483;1280488;,mfb11
