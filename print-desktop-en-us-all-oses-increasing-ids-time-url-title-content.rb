@@ -81,7 +81,7 @@ if csv
           "(https://support.mozilla.org/en-US/questions/firefox?tagged="+ t + ")" + ";"
         end  
         tags_markdown = ";" if tags_markdown == ""
-        slice_str = row_array[4].tr("\n","")[80,-1]
+        slice_str = row_array[4].tr("\n","")[80..-1]
         slice_str = " " if slice_str.nil?
         f.puts(
           sprintf("%d |[%s](%s) |%s |<details><summary>%s</summary>%s</details> |%s\n", 
