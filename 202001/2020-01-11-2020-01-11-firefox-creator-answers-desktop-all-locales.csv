@@ -1,0 +1,179 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1277087,2020-01-11 15:05:32 -0800,2020-01-12T14:54:01Z,"Windows 7 firewall keeps blocking Firefox, and Thunderbird","<p>I have followed your instructions on getting Windows Firewall to allow Firefox and Thunderbird access to the internet, but after going to Control Panel, etc, to Add a program, I select Firefox and Thunderbird, click OK, then click on Firefox or Thunderbird and I get the Win Firewall message asking to allow or not allow, I click ""Allow"" then the message keeps appearing asking the same. I go to Control panel, etc, Add Program AGAIN, and both programs are not in the list. No matter how many times I select and allow the programs in the Add Program window, as soon as I click OK, they disappear from the list.
+</p>",firefox-710;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,1280202;1280216;1280243;1280473;,michael.hopkins
+1277083,2020-01-11 13:55:37 -0800,2020-01-13T22:15:12Z,Firefox crashes,"<p>Firefox crashes on opening with immediate werfault.exe.
+I upgraded from Win 7 to Win 10 32-bit with upgrade that preserved files &amp; programs.
+Everything works but firefox.
+I've tried uninstall/install, uninstall &amp; extensive removal of all remaining mozilla/firefox files and cleaned registry with regedit all relevant instances of firefox. then reinstalled but still failed in the same way.
+</p>",desktop;fix-problems;windows-10;crash;escalate;firefox-710;,firefox,fix-problems,en-US,1280203;1280204;1280240;1280242;1280255;1280260;1280411;1280439;1280457;1280471;1280481;1280747;1280756;1280794;1280806;1280819;,rebob71
+1277081,2020-01-11 12:57:36 -0800,2020-01-11T12:57:36Z,"Msn Presidental poll only works if it the very first tab to be opened. Same with ""go.cnn.com"". This is a recent issue only. And it all works with Microsoft Edge","<p>This began only a few weeks ago. Before that they both worked. But, now neither will work if they aren't the very first tab opened after starting Firefox. They both work in Microsoft Edge but I prefer Firefox. Please help.
+</p>",websites;firefox-720;desktop;firefox-7201;windows-10;,firefox,websites,en-US,"",floydgg
+1277079,2020-01-11 12:46:23 -0800,2020-01-11T20:30:44Z,"my Downloads folder is set (to Downloads), but FF always downloads to my user home directory","<p>It's been happening for weeks if not months
+72.0.1 (64-bit)
+Ubuntu
+</p>",customize;desktop;firefox-720;linux;,firefox,customize,en-US,1280251;,kerryoco
+1277077,2020-01-11 11:37:59 -0800,2020-01-11T12:23:20Z,"Is there a security issue with Firefox version 72 for Win 10?  If so, How and when will it be resolved?","<p>Is there a security issue with Firefox version 72 for Win 10?  If so, How and when will it be resolved?
+</p>",other;desktop;,firefox,other,en-US,1280160;1280166;,david.a.sohn
+1277076,2020-01-11 11:20:50 -0800,2020-01-13T11:25:40Z,"Cannot change search engine selection, no matter what I select, it says it's using google, but, the result is a YAHOO result.","<p>I open a new window, and it says, ""Google Search"". So I type in a search item, the result comes back from YAHOO search. I have tried several times, without success, to change it, or remove YAHOO Search engine. Yahoo doesn't appear in the engine selections, and google does. I select it, save, restart, and BOOM... I get Yahoo rsults from the google search....
+What gives?
+</p><p>Thanks...
+</p>",other;firefox-720;desktop;firefox-7201;windows-7;,firefox,other,en-US,1280206;1280208;1280215;1280222;1280236;1280429;1280442;1280694;,kimcurrier
+1277075,2020-01-11 10:56:03 -0800,2020-01-12T05:39:54Z,"Unable to change Japanese font, changes in ""Languages and Appearance"" not reflected.","<p>Hello,
+</p><p>I noticed a few hours ago that my Google search in Japanese was now displayed in an ugly font I have no memory of (could not identify it, attached a screenshot just in case).
+</p><p>I tried to change my settings for Japanese in Languages and Appearance, but no matter what, this unknown font remains the apparent default on sites such as SUMO and <a href=""http://google.com"" rel=""nofollow"">google.com</a>.
+</p><p>I just refreshed Firefox to no avail.
+</p><p>Am I not looking in the right place?
+</p>",customize;desktop;firefox-720;windows-7;,firefox,customize,en-US,1280164;1280340;,portematthieu
+1277074,2020-01-11 10:32:53 -0800,2020-01-13T08:46:21Z,google maps not showing minor roads,"<p>A while ago Google maps developed a fault. Only main roads and some places are visible.  If I switch to satellite view, the roads are there, but not when switching back to Map view.  All the minor roadlines disappear.  Recently I noticed a similar fault on another website, where faint lines indicating button places also disappeared or are very faint.
+Has Firefox changed how it renders lines/ colours?  If so, can I find a way to tell the system to show these features?
+</p><p>Alternatively, is the fault with how Google outputs its data?
+</p><p>Attached are 2 versions of a map, one in normal view (no roads) and one in enquiry mode (lots of roads visible as gaps in the data)
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1280232;1280288;1280377;1280645;,cvhorie
+1277073,2020-01-11 10:29:57 -0800,2020-01-11T21:25:58Z,Firefox does not close when logging off to open another entity.,"<p>EXAMPLE: Using HOTMAIL and log off.  Then open Facebook and must log off of Firefox before Facebook opens.
+</p>",other;firefox-720;desktop;windows-7;,firefox,other,en-US,1280207;1280245;1280259;,ADV1962
+1277071,2020-01-11 09:52:21 -0800,2020-01-13T08:58:39Z,google calendar sometimes does not render in firefox,"<p>I have Firefox 72.0.1 (64-bit) as default browser.  I use Google calendar, and Firefox sometimes gives me a mostly empty page, and sometimes works as expected.  Chrome always renders the calendar correctly.
+</p>",websites;firefox-720;desktop;firefox-7201;windows-10;,firefox,websites,en-US,1280229;1280248;1280607;1280650;,rwk2095
+1277069,2020-01-11 09:36:24 -0800,2020-01-11T09:36:24Z,How to fix double (2) Firefox windows opening when clicking on a link,"<p>I cannot find a MacOS Catalina 10.15.2 fix for this problem. Have reset, reinstalled, and.... does anyone have a fix I can try?
+</p>",other;firefox-720;desktop;firefox-7201;mac-os;,firefox,other,en-US,"",time2sit
+1277068,2020-01-11 09:34:10 -0800,2020-01-11T15:24:16Z,"Firefox will only let me resize the window a little bit at the time, but in safemode it works (fresh install)","<p>when i try to resize the window by draging the boarders it wil only lett me do a little bit at the time, but in safemode it works just fine and i have not installed anny addons yet. have reinstalled it two times now and deleted the appdata folder but noting works? any help is appreciated
+</p><p>its only o firefox the problem occures btw
+</p>",customize;desktop;firefox-720;windows-10;,firefox,customize,en-US,1280145;1280162;1280200;,wowsg97
+1277066,2020-01-11 08:34:23 -0800,2020-01-11T21:56:51Z,No reaction/no information/no error when clicking an HTTPS link that has not been authorized by proxy or host not responding,"<p>Hello, 
+Our company uses a proxy in whitelisting mode. 
+Until recently, clicking any HTTPS link unauthorized by proxy (403 by Squid) would result in an unambiguous error page informing the user that the connection was refused (if needed, they can open a corporate page showing the most recent hostnames blocked from their machine and request authorization).
+</p><p>Now, when clicking an unauthorized link (403 by Squid proxy) in FF, nothing happens. The GUI simply stales as nothing happened. 
+To reproduce:
+1. Configure FF with an HTTP proxy (squid) in deny by default.
+2. Open duckduckgo, search something, and click on any https link that has not been whitelisted in the proxy.
+3. After the click, nothing happens -&gt; no error, no information message, nothing.
+(in the dev tools -&gt; network tab, one can see a 403 status.)
+</p><p>This also happens when browsing websites: if the website includes a link to another website that is not whitelisted, nothing happens, the user is not informed that the host could not be reached.
+</p><p>This seems like a mechanism has been broken, as FF always used to inform the user of the host not responding with an error page.
+</p><p>Thanks for reading,
+sb3k
+</p>",firefox-720;desktop;fix-problems;windows-81;,firefox,fix-problems,en-US,1280116;1280269;,mozilla.org8
+1277065,2020-01-11 07:50:52 -0800,2020-01-11T09:51:32Z,Congrats! You’re using the latest version of Firefox. why all the updates,"<p>why all the updates
+</p>",other;firefox-720;desktop;windows-7;needsinfo;,firefox,other,en-US,1280118;1280124;1280127;,mackdv1st
+1277064,2020-01-11 07:47:04 -0800,2020-01-14T01:21:56Z,having to login every session,"<p>I have to login to firefox every time I close my macbook air down - how do I stop this?
+I have a 2019 macbook air and use the latest firefox.
+</p>",privacy-and-security_1;firefox-720;desktop;mac-os;escalate;,firefox,privacy-and-security,en-US,1280112;1280114;1280142;1280157;1280158;1280165;1280849;1280850;,Jradcliffe
+1277063,2020-01-11 07:38:27 -0800,2020-01-11T12:39:51Z,How can I change the background color of the Firefox top menu bar on Windows 10?,"<p>I have upgraded to Windows 10, and now the Firefox top menu bar background is dark purple and hard to see.
+</p><p>The webpages all look fine and proper.  This is the background color behind the ""File Edit View History Bookmarks Tools Help"" bar.
+</p><p>All my other Windows programs are light blue.  See attachment.
+</p><p>Thanks!
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,1280133;1280170;,kb6kcp
+1277062,2020-01-11 07:26:10 -0800,2020-01-11T16:41:35Z,"Bookmarks not autosaved in profile folder, Win10?","<p>When the ""browser.bookmarks.autoExportHTML"" setting in about:config is changed to True, the current bookmarks are supposed to be saved to bookmarks.html in the active profile folder each time FF is closed.
+I, however, just upgraded to Windows 10, and even though this setting was changed, no such file is saved.
+I've seen no reports of this capability changing under Win10. Should I report this as a bug?
+dL
+</p>",bookmarks;firefox-720;desktop;windows-10;,firefox,bookmarks,en-US,1280219;,Dale_Latimer
+1277060,2020-01-11 07:13:44 -0800,2020-01-11T07:13:44Z,Firefox ate my all RAM upon opening the browser. What's going on here? Help!!!,"<p>Today, when I clicked Firefox, it automatically updated to the latest version i.e. Firefox 73.0. Problem begins form here. Suddenly my CPU usage went high and Window Task Manager show CPU usage above 90% and two Firefox processes uses 27-29 CPUs.
+</p><p>My 2GB RAM's usage reaches at highest.
+</p><p>When I tried to close everything, nothing works. So I closed browser forcefully by ending process tree from Task Manager.
+</p><p>Without opening a single link, it ate my all memory. Then How can I browse? Please Help!
+</p>",other;mobile;,firefox,fix-problems,en-US,"",pika10singh
+1277056,2020-01-11 06:30:46 -0800,2020-01-11T06:52:39Z,How to disable TLS 1.0 and 1.1 support which Firefox did in recent update but I accidentally enabled it while visiting a site,"<p>I know Firefox disabled TLS 1.0 and 1.1 support in recent update. But while visiting site with TLS 1.0 support, Firefox asked me to enable it. I accidentally clicked to enable it. But now I want to disable it again. How to do that?
+</p>",privacy-and-security_1;firefox-730;beta;desktop;windows-10;,firefox,privacy-and-security,en-US,1280091;,langalia.kartik
+1277053,2020-01-11 05:48:20 -0800,2020-01-12T13:15:52Z,"Profile in User Library is not being created in the new 72.0 & 72.01 - error message appears even after new, clean installation Mac is on Catalina 10.15.2 (19C5","<p>Firefox 72.0 deleted and a new new version of Firefox installed 72.01 - both this and 72.0 suffered from the same problem in that the library profile file 'Firefox can't find the file at jar:file:///Users/steve_switzer/Library/Application Support/Firefox/Profiles/0fyb29ph.default/extensions/langpack-en-GB@firefox.mozilla.org.xpi!/browser/chrome/en-GB/locale/branding/browserconfig.properties.' cannot be found, don't exist and are not properly created when the 64 bit vwersion of Firefox is installed - Mac is on macOS Catalina 10.15.2 (19C57)
+Can't seem to fix and get rid of this error 
+Help Please
+</p><p>SteveS
+</p><p><em>[Personal information removed by moderator. Please read <a href=""/en-US/kb/forum-rules-and-guidelines"" rel=""nofollow"">Forum rules and guidelines</a>, thanks.]</em>
+</p>",fix-problems;firefox-720;desktop;firefox-7201;mac-os;,firefox,fix-problems,en-US,1280270;1280444;1280452;,steve.switzer
+1277050,2020-01-11 05:24:33 -0800,2020-01-13T15:03:06Z,Background Vimeo video will only load in private window,"<p>I have looked through all ""Fix common audio and video issues"" posts to no avail.
+</p><p>I have a Vimeo video file which is loaded into the background of a web page as a simple HTML video element with all inline properties set to allow it to run - muted, playsline, autoplay. 
+</p><p>It works fine on all other browsers, and even on a private window in Firefox (72.0.1) but absolutely will not load in a normal Firefox window. It fails with a 403 HTTP error, and I just cannot see why.
+</p><p>The URL is <a href=""https://dancersvscancer.co.uk/"" rel=""nofollow"">https://dancersvscancer.co.uk/</a> - it's a simple website for charity event in February.
+</p><p>Any ideas? I'd be grateful for the help.
+</p>",fix-problems;firefox-720;desktop;firefox-7201;mac-os;,firefox,fix-problems,en-US,1280227;1280325;1280380;1280402;1280406;1280443;1280446;1280460;1280696;1280705;1280708;1280713;1280726;1280738;1280740;1280744;1280751;,raffjones
+1277048,2020-01-11 04:16:25 -0800,2020-01-11T05:52:37Z,"When starting Firefox, I only get an empty ""New Tab"" window. Firefox does not show the homepage I set in the configuration.","<p>When I start Firefox, he does not show my homepage that I set in the configuration. Instead he show's me a white page ""New Tab"". I need to click on the ""Firefox Home Page"" icon to go to my homepage. (<a href=""http://www.google.com"" rel=""nofollow"">www.google.com</a>) I happen everytime I start Firefox. 
+Thanks for answers.
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1280060;1280080;,fluppes123
+1277047,2020-01-11 03:57:40 -0800,2020-01-11T08:22:00Z,"Hi there, help please?! Firefox has stopped saving & editing bookmarks. Thank you :)","<p>(follows a Time Machine, back-up install to &amp; from a Mac using Catalina? Have refreshed Firefox, Shut down/started Mac &amp; usung FF 72.0.1 (64-bit)
+</p>",bookmarks;firefox-720;desktop;,firefox,bookmarks,en-US,1280048;1280081;1280090;1280111;,amreuben
+1277045,2020-01-11 03:18:15 -0800,2020-01-11T13:08:24Z,Where are the options for where I want to locate my downloaded files?,"<p>I want to change the location of where my files are downloaded,
+</p>",download-and-install_1;desktop;,firefox,download-and-install,en-US,1280036;1280181;,bajacyn1
+1277043,2020-01-11 02:57:50 -0800,2020-01-11T06:40:43Z,"Downloaded the latest Firefox version, Bookmarks all gone, tried Restoring, previous bookmark back-ups don't appear on list.","<p>Downloaded the latest Firefox update - Jan 11 2020. My Bookmarks were all gone. Tried to use Restore to get them Imported back in but the only date on the ""Backup"" list was the date of the update, with no bookmarks. How do I recover the bookmarks? Why were they removed?
+</p>",bookmarks;firefox-720;desktop;windows-10;,firefox,bookmarks,en-US,1280085;1280089;,allan_moorhead
+1277040,2020-01-11 02:11:20 -0800,2020-01-11T22:32:35Z,"Won't save or download kindle books to my kindle for pc default\ I have tried to reset this default many times,","<p>It does not work and sync does not work either
+</p>",other;firefox-720;desktop;firefox-7201;windows-10;,firefox,other,en-US,1280271;,dragonlady99
+1277039,2020-01-11 01:12:29 -0800,2020-01-11T01:12:29Z,Why does creation of a new websocket stall for up to a minute?,"<p>I made a websocket client that reconnects automatically after 1 second at WebSocket.onclose(). I do not have the server running, so that I can see what will happen if a client disconnects to network issues, going offline, etc. For the first ten or so connections, Firefox 72 behaves as expected, but then it starts stalling new websocket creations. Eventually the stall peaks at about 1 minute, but two connections are attempted before each stall.
+</p><p>I don't see how this is rational behavior. I don't want a user who disconnects from my server (e.g. leaves WiFi) to have to wait up to a minute to reconnect. Even a refresh or close tab and reopen will not get an immediate websocket connection attempt. The only way to get an immediate attempt is to close Firefox entirely and reopen.
+</p><p>I also don't understand the policy of websockets using an increasing timeout (up to a few minutes or more) for several reconnection attempts while in the OPEN state. Thankfully there is an obvious workaround which is to implement manual ping/pong with close on timeout.
+</p><p>I suppose I could make some HTTP requests to see if the server is up and then create a websocket but that seems just ugly.
+</p><p>On Chromium, the maximum timeout is only a few seconds and through the entire timeout Chromium is still making tcp SYN attempts several times per second.
+</p><p>Reproduce:
+- client.js: <a href=""https://pastebin.com/NP7iWbEg"" rel=""nofollow"">https://pastebin.com/NP7iWbEg</a>
+- client.html: <a href=""https://pastebin.com/BzxDP3EZ"" rel=""nofollow"">https://pastebin.com/BzxDP3EZ</a>
+</p><p>1) Put client.js and client.html into a directory and open client.html in Firefox 72.
+2) (optional) Do the same but with Chromium.
+</p>",other;firefox-720;desktop;linux;,firefox,other,en-US,"",anole3623
+1277038,2020-01-11 01:03:08 -0800,2020-01-12T00:40:02Z,PayPal checkout popup window loads indefinitely; cannot make a payment,"<p>When using the ""Checkout with PayPal"" button on websites the PayPal popup window appears however it's impossible to progress to the checkout.
+</p><p>When OneTouch is activated, the text 'Securely logging you in...' appears overlayed with the spinning wheel in the popup window. This continues indefinitely.
+</p><p>When this is not activated the window doesn't progress further after entering the email as prompted by the window and pressing Next.
+</p><p>It's possible to login to PayPal in a separate tab however that doesn't influence the popup behaviour.
+</p><p><br>
+Looking at the console in the popup there are a few 'Unable to find window by ref window.js:148:14' errors.
+</p><p>In the 'host' window where the popup was called from the console displays the 'Failed to execute ‘postMessage’ on ‘DOMWindow’: The target origin provided (‘<a href=""https://www.paypal.com"" rel=""nofollow"">https://www.paypal.com</a>’) does not match the recipient window’s origin (‘<a href=""https://www.paypal.com"" rel=""nofollow"">https://www.paypal.com</a>’).' error.
+</p><p><br>
+I believe this could be a recent issue because I was able to make several payments last month with all settings the same.
+I have a separate user.js file that I keep my settings in (I can send it over if required). These settings have not been changed since the file has been created.
+</p><p><br>
+The following actions have been tried and didn't improve the situation:
+</p><p>- refreshing the current profile
+</p><p>- disabling all addins
+</p><p>- adding <a href=""http://paypal.com"" rel=""nofollow"">paypal.com</a> into exclusions for 'Block pop-up windows' and Enhanced Tracking Protection
+</p><p>- cleaning History and cookies
+</p><p><br>
+I then launched Firefox with a separate 'clean' profile and was able to make the payment successfully. Sure enough, importing my user.js file broke PayPal. I went through the settings commenting them out by groups.
+</p><p>The following setting was causing the issue:
+</p><p>user_pref(""privacy.firstparty.isolate"", true);
+</p><p>Setting it to 'false' made the PayPal popup window work correctly again.
+</p><p>Thought that this would be helpful for anyone experiencing similar issues. Cheers.
+</p>",websites;firefox-720;desktop;windows-10;,firefox,websites,en-US,1280225;1280286;,lupagamidho
+1277037,2020-01-10 23:32:43 -0800,2020-01-11T04:08:51Z,is the older version of FF limited by winxp vulnerable to the zero-day attack?,"<p>i don't even know what version i have. i am guessing 56. unable to upgrade, tried multiple times.
+</p>",firefox-520;other;desktop;windows-xp;,firefox,other,en-US,1280052;,toomtoom
+1277036,2020-01-10 21:27:00 -0800,2020-01-12T14:45:42Z,Why won't Firefox open at all?,"<p>Firefox updated yesterday and ever since then it will not open at all. I am running the latest macOS on a MacBook Air. It just bounces on the Dock once then doesn't open at all. I have tried uninstalling and reinstalling AND I even tried to downgrade back to 70.0.1 and it STILL didn't work. It won't even open in Safe Mode.
+</p>",other;desktop;escalate;download-and-install;macos-1015;,firefox,other,en-US,1280002;1280456;1280469;,kanegaroo89
+1277034,2020-01-10 20:31:51 -0800,2020-01-10T20:31:51Z,Why isn't history from my iPhone 8 not syncing to my primary Firefox browser on my laptop:,"<p>I believe it was after I updated Firefox on my laptop that my iPhone no longer was able to upload its history to my laptop.
+</p>",firefox-720;desktop;sync;windows-10;,firefox,sync,en-US,"",glennent
+1277033,2020-01-10 19:29:02 -0800,2020-01-11T10:11:30Z,"FitBit: Clicking Fitbit Settings icon gives ""internal server problem.""  Ok with other browsers...","<p>When I log into FitBit and have the dashboard displayed,  I click on the gear and then ""Settings.""  Immediately I get ""We're experiencing an internal server problem. Please try again later or contact support.""  Not so.  Works with IE.  I use the ""Settings"" option to download my FitBit data once a month.  Last month it worked fine.  I installed the latest Firefox version this month and am on version 72.0.1 64 bit.  I am still running Windows 7 but have had no issues related to that so far.  Seems odd that this problem occurred just after the latest release was installed.  I have no other issues with Firefox.  No other changes have been made to Firefox other than the upgrade to 72.0.1.  I looked through the forums but could find no information on this problem nor were there any similar problems.  I also went through the FAQ's and found no solutions that made any sense in relationship to the problem I am experiencing.  Am out of ideas now.  Thanks for any help that is offered...
+</p>",other;firefox-720;desktop;windows-7;,firefox,other,en-US,1280000;1280119;1280132;,lefty2c9
+1277032,2020-01-10 19:03:33 -0800,2020-01-10T20:40:52Z,I want to turn off dark mode but your solution doesn/t work for me,"<p>I want to turn off dark mode (Firefox ver. 72.0.12  windows10).
+you say that I have to do the following:
+</p><pre>Type about:config into the address bar, press Enter and accept the warning. Now right click on any entry &gt; New &gt; Integer, and enter ui.systemUsesDarkTheme &gt; OK, then in the next box, enter 0 (that's a zero) &gt; OK.
+
+Problem is that after accepting the warning I only can choose &lt;Show All&gt; and then I get a list of settings.
+</pre>
+<p>But on none of the lines / entries  I van click rightSo I cant insert a new entry as requested.
+</p><p>Please advice.
+</p>",firefox-7201;customize;desktop;firefox-720;windows-10;,firefox,customize,en-US,1279964;1279985;,hans31
+1277031,2020-01-10 19:00:46 -0800,2020-01-10T20:35:55Z,Can't access Wikipedia/Wikimedia websites anymore (TLS VERSION ISSUE),"<p>So Wikipedia is blocking my browser for a while now (whenever I try to access any links it redirect me to <a href=""https://en.wikipedia.org/sec-warning"" rel=""nofollow"">https://en.wikipedia.org/sec-warning</a> ), previously I was able to solve this issue on my own by setting the security.tls.version.min to 3 on the about:config page but now the problem returned and I don't know why or how to fix it. PLEASE HELP!
+</p>",websites;firefox-720;desktop;windows-10;,firefox,websites,en-US,1279981;,ednilson.quiuma
+1277030,2020-01-10 18:22:17 -0800,2020-01-11T17:06:35Z,my godaddy business website does not load my instagram business feed in firefox desktop.,"<p>the instagram feed loads in firefox for ios and in other web browsers, desktop and mobile devices.  i've spoke to godaddy and it appears to be a firefox issue.  can anyone help?
+</p>",websites;firefox-720;desktop;windows-10;escalate;,firefox,websites,en-US,1279955;1279997;1280073;1280223;,suarez.aleida
+1277029,2020-01-10 18:01:06 -0800,2020-01-10T20:36:59Z,how do I talk to a human being at mozilla,"<p>I am typing this on Microsoft Edge browser.
+</p><p>I am getting angrier and angrier.  I allowed Firefox to ""update"" my browser.  The result is that my browser will no longer connect to the internet.  Edge, Internet Explorer, and Chrome can all connect to the internet.  Firefox cannot.
+</p><p>I have rebooted my computer. I have looked through the HELP stuff. There is ZERO way to connect to a HUMAN BEING and I am PISSED.  I have work to do.  There are other browsers that obviously work, but Firefox has all of my bookmarks, with logon credentials.  
+</p><p>I do NOT want to migrate to another browser but it is looking like my only choice.  If I have to do that I will uninstall Firefox and spread the word.
+</p><p>I am sorry to sound like a dick but you have really screwed me over.
+</p><p>FIX THIS
+</p>",other;desktop;needsinfo;escalate;,firefox,other,en-US,1279953;1279982;,bfichthorn
+1277028,2020-01-10 17:57:04 -0800,2020-01-10T17:57:04Z,Why is my browser in 2 different languages and I can't change it to just one language?,"<p><em>duplicate of <a href=""https://support.mozilla.org/en-US/questions/1277027"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1277027</a> - locking</em>
+</p><p>Most of my browser is in English, but some parts of it is in Chinese for some reason. How can I change the entire browser to be in English only?
+</p>",other;firefox-720;desktop;mac-os;,firefox,other,en-US,"",anonymous98168
+1277027,2020-01-10 17:56:16 -0800,2020-01-10T18:39:12Z,Why is my browser in 2 different languages and I can't change it to just one language?,"<p>Most of the browser is in English, but some parts are in Chinese for some reason.
+</p>",other;firefox-720;desktop;mac-os;,firefox,other,en-US,1279951;1279958;,anonymous98168
+1277023,2020-01-10 16:31:21 -0800,2020-01-10T21:44:49Z,25 separate Mozilla Firefox instances in the Windows Mixer.,"<p>Why does FireFox do this? I only have three tabs open but there is 25 separate Mozilla Firefox instances in the Windows Mixer. 
+</p><p>The only way to clear this is to reboot  my computer.
+Firefox 72.0.1
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1279999;,bellingham_bob
+1277022,2020-01-10 16:12:26 -0800,2020-01-10T16:12:26Z,"Firefox 72 spasms: windows chrome and HTML content rendering spastic, hangs but not in ""Not Responding"" state","<p>After updating to Firefox 72 I am seeing these problems:
+</p><p>1) Hangs, and does not respond to keyboard or mouse. Windows does not say that FF is in a ""Not Responding"" state. I can switch to different FF windows, but not tabs. 
+</p><p>2) Sometimes it hang, and render spasticaly like in the screen capture:
+<a href=""https://imgur.com/a/oN3FeFd"" rel=""nofollow"">https://imgur.com/a/oN3FeFd</a>
+</p><p>These issues usually last for a few seconds and happens a few times an hour. 
+I have tried refreshing Firefox as described here: 
+<a href=""https://support.mozilla.org/en-US/kb/refresh-firefox-reset-add-ons-and-settings"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/refresh-firefox-reset-add-ons-and-settings</a>
+</p><p>Firefox is my primary browser.
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",iamphi
