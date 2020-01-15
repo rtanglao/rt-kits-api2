@@ -69,8 +69,8 @@ if csv
     logger.debug 'markdown filename:' + FILENAME
     open(FILENAME, 'w') do |f|
       f.puts "Number of questions:" + sorted_array.length.to_s + "\n\n"
-      f.puts "id | created | Title | Content | Tags |"
-      f.puts "--- | --- | --- | --- | --- |"
+      f.puts "| id | created | Title | Content | Tags |"
+      f.puts "| --- | --- | --- | --- | --- |"
       sorted_array.each do |row_array|
         tags_array = row_array[5].split(';')
         logger.debug "tags_array" + tags_array.to_s
@@ -84,13 +84,13 @@ if csv
         slice_str = row_array[4].tr("\n","")[80..-1]
         if slice_str.nil?
           f.puts(
-            sprintf("%d |[%s](%s) |%s |%s |%s|\n", 
+            sprintf("| %d | [%s](%s) | %s |  %s |%s|\n", 
             row_array[0], row_array[1],
             row_array[2], row_array[3].tr("\n","")[0..79],row_array[4].tr("\n","")[0..79], 
           tags_markdown))
         else
           f.puts(
-          sprintf("%d |[%s](%s) |%s |<details><summary>%s</summary>%s</details> |%s|\n", 
+          sprintf("| %d | [%s](%s) | %s |<details><summary>%s</summary>%s</details> |%s|\n", 
             row_array[0], row_array[1],
             row_array[2], row_array[3].tr("\n","")[0..79],row_array[4].tr("\n","")[0..79],
             slice_str, 
