@@ -1,0 +1,248 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1277017,2020-01-10 15:17:42 -0800,2020-01-11T14:42:36Z,Bookmark backup size difference? What Data got lost?,"<p>I just got a new SSD and did a clean Ubuntu 19.10 install.
+Before deleting the old system I did a backup of my Firefox (71) bookmarks to a JSON file.
+That JSON file has a size of 6.4 MB. 
+</p><p>Now on the new install (FF 72.0.1) I restored my bookmarks from that JSON file.
+But when I did my daily bookmark backup shortly after, the new JSON file only has 5.5 MB.
+</p><p>How come the 0.9 MB difference? 
+How can I tell what data was lost in the process?
+</p>",bookmarks;desktop;needsinfo;,firefox,bookmarks,en-US,1279966;1279993;1280041;1280082;1280147;1280156;1280167;1280191;1280194;1280197;,blabot
+1277016,2020-01-10 15:03:28 -0800,2020-01-12T10:18:21Z,How can I import a cvs file into my logins? Ver 72 deleted half of my logins when installed,"<p>When ver 72.0 installed/updated, it deleted about half of my saved logins and passwords. I have a cvs excel file of the old and new ones combined. How can I import that data into FF?
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,1279984;1280214;1280249;1280403;,Pandreasen
+1277013,2020-01-10 14:05:02 -0800,2020-01-10T23:47:59Z,roboform no longer working after update,"<p>I was just updated to 72.0.1 
+</p><p>Then, when I tried to login to roboform I was told I had to update.  I did that (now have 8.2.2 (64-bit)  Same problem, I am told I must upgrade (already did that).    The update itself was interesting.  I had to delete the addon from firefox and then restart firefox before I was able to download that latest roboform 
+</p><p>Thoughts?
+</p>",other;firefox-720;desktop;firefox-7201;,firefox,other,en-US,1280014;,jwhitt12
+1277010,2020-01-10 12:44:29 -0800,2020-01-10T20:59:14Z,javascript not working on facebook and tvguide webs after update,"<p>I Updated to 72.0.1 this morning and when I go to the TVguide and facebook pages both report that javasript needs to be enabled. I checked about:config and it is enabled there. I have the identical problem and my homebrew desktop PC and a HP laptop. Win 10 pro and norton 360 on both.
+</p>",fix-problems;firefox-720;desktop;firefox-7201;windows-10;,firefox,fix-problems,en-US,1279990;,doug.a.johnson
+1277009,2020-01-10 12:23:37 -0800,2020-01-10T12:23:37Z,Is there a feature or way to use regex or wildcards to blacklist sites from asking to save login credentials?,"<p>When developing/testing web applications I find it a nuisance to be constantly asked to save login credentials for locally hosted web applications.
+</p><p>What I've done so far...
+Preferences -&gt; Privacy &amp; Security -&gt; Logins &amp; Passwords -&gt; Exceptions
+Then I've added my localhost addresses I use, but it seems there is no way to use wild cards or regex...  for EXAMPLE:
+</p><p>http://localhost:*
+</p><p>If this is not a feature, I would humbly suggest it as I feel that it would give a good number of users added control over their browsing experience without having to shut off features entirely.
+</p>",firefox-690;privacy-and-security_1;desktop;linux;,firefox,privacy-and-security,en-US,"",jacques.troussard
+1277008,2020-01-10 12:18:42 -0800,2020-01-10T21:24:42Z,How can I make Firefox show found search terms more clearly?,"<p>When I search for something, I sometimes can't see an instance of that search term, although Firestorm acts as if it's showing it. (How) can I make Firefox show the matches it finds more clearly?
+</p>",tips;firefox-720;desktop;firefox-7201;mac-os;,firefox,tips,en-US,1279995;,bert4
+1277007,2020-01-10 12:08:25 -0800,2020-01-10T12:08:25Z,Rendering Issues after creation of a new Windows User account,"<p>Hi,
+for some reason after I created a new user account I'am getting weird rendering issues with Firefox (V.72.0.1)  at random times and sites. I've already reinstalled Firefox... Deleted all of the directorys of FF after I uninstalled it but without any luck. At the time these issues occurred I was always on the latest Driver version of Nvidia for the 2080Ti and the latest version of Windows 10. Any idea what could be causing these issues? Thanks in advance.
+</p><p>Plugins:
+uBlock Origin
+LastPass
+</p><p>Hardware:
+i7 6700k
+MSI GeForce RTX 2080 Ti GAMING X TRIO
+16GB 2133MHz RAM
+</p><p>Screenshots:
+<a href=""https://i.imgur.com/QhdK8hZ.jpg"" rel=""nofollow"">https://i.imgur.com/QhdK8hZ.jpg</a>
+<a href=""https://i.imgur.com/0zi7YyY.jpg"" rel=""nofollow"">https://i.imgur.com/0zi7YyY.jpg</a>
+<a href=""https://i.imgur.com/soYRBAt.jpg"" rel=""nofollow"">https://i.imgur.com/soYRBAt.jpg</a>
+</p><p>Greetings
+Jan
+</p>",websites;firefox-720;desktop;firefox-7201;windows-10;,firefox,websites,en-US,"",d1083168+firefoxsync
+1277006,2020-01-10 12:00:31 -0800,2020-01-14T14:37:25Z,In Linux Mint can I disable the search dropdown in the urlbar?,"<p>Hello - I am running the latest Mint/FFx 71 and  I am typing an address in the urlbar and it suggest a site or search with a drop down just below the urlbar. I have turned off search suggestions. Tried disabling all of the urlbar items in about:config and even created a userAcccount.css file in a chrome folder in my user profile. Nothing seems to work.
+</p><p>Is there a way to disable this?
+</p>",firefox-680;websites;desktop;,firefox,websites,en-US,1279996;1280123;1280257;1280395;1280525;1280820;1280892;1281051;,henryspr1
+1277005,2020-01-10 11:42:51 -0800,2020-01-10T11:44:10Z,"Latest version of Firefox is generating audio click from Instant Teleseminar to NDI Scan Converter, Chrome OK","<p>I've been using Firefox to produce Instant Teleseminar (ITS) shows for the last couple of months and haven't had any audio clicks coming from the callers. Last nights show had massive audio clicks and some distortions where the callers could barely be understood. Firefox version is 72.0.1 (64-bit). 
+</p><p>I use an i5 and/or I7 6 core computer to send the audio from the remote caller through NewTek NDI Scan Converter as a source to my TriCaster.
+I also use these servers to send Zoom to the TriCaster. Neither Zoom nor ITS running on Chrome have the audio clicks.
+</p><p>The clicks are typically manifested by audio drops or audio bit rate mis-matches. All systems use 16 bit 48 kHz.
+</p><p>Any help appreciated as I'd like to continue using FF as my browser of choice.
+</p><p>Thanks,
+Rob
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1279903;,swn1938
+1277004,2020-01-10 11:41:19 -0800,2020-01-11T19:13:19Z,"FF ESR seems to change the basic look of some web pages, how can i stop that?","<p>FF ESR (on Pi 4) seems to change the basic look of some web pages.
+I assume its FFs fault cuz the Pi native browser chromium doesn't do it.
+</p><p>Screenshots:
+I don't even see a different web address for google, but it's different.
+I only get mobile wikipedia pages.
+That's not what I expected when I opened amazon.
+</p><p>Is there an option in about:config (?) to stop this madness?
+</p>",firefox-600;websites;desktop;,firefox,websites,en-US,1280139;1280141;1280178;1280244;,turval
+1277003,2020-01-10 11:30:26 -0800,2020-01-10T17:59:34Z,How do I change the default firefox icon for website shortcuts placed on the desktop? It looks so ugly!,"<p>How do I do this? I don't want to change the icon everytime I drag a website shortcut to the desktop from firefox. How do I make it permanent?
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,1279946;,rajnarayanan2020
+1277000,2020-01-10 10:59:49 -0800,2020-01-10T11:38:21Z,"I can not play video content on face book unless add ons are disabled, worked ok untill update 72.0.1 was installed","<p>The video is pixelate when in normal mode, they look good in safe mode or with addons disabled.
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1279900;,resacchet
+1276999,2020-01-10 10:55:22 -0800,2020-01-10T16:53:35Z,update squeezing bars,"<p>Have tabs on bottom and update 72.0.1(64bit) has moved top of tab that is open  into edge of address bar. just wondering about this?
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,1279930;,tfinniii
+1276998,2020-01-10 10:48:41 -0800,2020-01-12T03:31:44Z,Mozilla Crash Reporter has been appearing intermittently and now cannot open Firefox at all,"<p>Initially the Crash Reporter window would open occasionally, but clicking on ‘Try Again’ opened the programme. Now it will not open at all. I’ve completely unistalled the programme and installed the very latest version, but to no avail.
+</p><p>My crash ID isbp-cf98f93e-6ab7-4a52-bdf3-f0b940200110
+</p>",desktop;fix-problems;windows-10;firefox-7201;startup;crash;escalate;,firefox,fix-problems,en-US,1279913;1279914;1280034;1280079;1280298;1280306;1280330;,MikeP.
+1276997,2020-01-10 10:45:52 -0800,2020-01-10T10:45:52Z,"Encountering a ""libxcb error"" while trying to use browser","<p>OS: SLES 11.3 SP4
+firefox ver: 40.0.2 
+</p><p>I have already done the following:
+- run as administrator
+- run with safe-mode on
+- run with add-ons disabled
+- re-installed the browser
+- run without a profile
+</p><p>I can NOT upgrade the browser any higher on this machine. 
+</p><p>After manually launching the browser and attempting to navigate around various websites, I encounter the following libxcb error:
+</p><p>WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15679:21
+libxcb: WARNING! Program tries to unlock a connection without having acquired
+</p><pre>       a lock first, which indicates a programming error.
+</pre>
+<p><br>
+</p><pre>       There will be no further warnings about this issue.
+</pre>
+<p>libxcb: WARNING! Program tries to lock an already locked connection,
+</p><pre>       which indicates a programming error.
+       There will be no further warnings about this issue.
+</pre>
+<p>After I see that, I know that the next time I click on anything in the browser that runs javascript, the browser will freeze. When I click the x to close the browser it gives me a ""process not responding"" error and the option to terminate the application.
+</p>",firefox-680;desktop;fix-problems;linux;escalate;,firefox,fix-problems,en-US,"",prelator2
+1276995,2020-01-10 10:17:05 -0800,2020-01-14T15:40:03Z,does firefox have a plugin that can tell if a url link is safe to open?,"<p>I get plenty of links in my emails asking for this/that and other and to click on the link...
+I would like to know if there's  a plugin available to help determine if the link is safe to open....
+When I enter the question I get back 2600 help links but NONE relate to my question....I went thru 20 pages and stopped.
+</p>",customize;desktop;firefox-720;windows-81;,firefox,customize,en-US,1279915;1280638;1280667;1280670;1280720;1280998;1281058;,magnogreato
+1276994,2020-01-10 10:16:20 -0800,2020-01-10T11:51:37Z,can't find menu button,"<p>keyboard does not have the symbol for menu how can I get it to update?
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,1279905;,bobandaudreyzeller
+1276992,2020-01-10 10:01:44 -0800,2020-01-10T10:01:44Z,"Depois que instalei firefox no meu android eu perdi todo meu histórico de meses, como recuperar?","<p>Eu instalei o firefox em meu celular. E recentemente tinha atualizado tudo que precisava. E ainda assim acessei todo meu histórico de meses e meses. Quando sincronizei o celular com o PC - dias depois eu acessei no PC e só havia o histórico recente de buscas no celular. O que pode ter ocorrido? como posso recuperar?
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,pt-BR,"",floridoart
+1276991,2020-01-10 09:31:24 -0800,2020-01-11T13:15:39Z,Multiple instances of Firefox open since Update.,"<p>Firefox Updated on Jan 9th. My mouse started flickering and trying to select everything (without touching buttons). Had serious issues as a result.
+Now when I start Firefox (by clicking on Desktop Icon), MANY Windows open up with One Tab Per Window.
+</p>",fix-problems;firefox-720;desktop;firefox-7201;windows-10;,firefox,fix-problems,en-US,1280016;1280018;1280076;1280134;1280175;1280182;,chris.mowat
+1276990,2020-01-10 09:07:58 -0800,2020-01-13T15:48:01Z,"When printing, my tabs disappear and all I can do is close out the print preview with all open tabs.","<p>When ever print preview comes up, all the tabs that are open disappear.  The only option to get out of print preview is to use the X in the top right corner.  However, then it says that all tabs will be closed.  There is no way to get back to the open tabs without closing them all.
+</p><p>I have uninstalled firefox, removed all left over files and folders, and re-installed but the problem persists.
+</p>",tabs;firefox-720;desktop;windows-10;,firefox,tabs,en-US,1279931;1280649;1280651;1280757;,paul156
+1276989,2020-01-10 09:04:12 -0800,2020-01-10T09:40:41Z,Windows 7 PC will not uninstall old version (40) for the new one (70) to work. I know how to uninstall - it just refuses to do it!,"<p>Keep getting message (on opening Firefox) that I must close old version to use the new version. But I cannot uninstall the old version, so I can auto use the new version. The system ignores all my attempts to uninstall old version. Stumped.
+</p>",other;firefox-720;desktop;windows-7;,firefox,other,en-US,1279874;,Angela10551
+1276988,2020-01-10 08:49:21 -0800,2020-01-10T18:10:57Z,Window buttons are on the wrong side,"<p>The language that I chose to apply on firefox is written from the right to the left. Thus, firefox should be adjusted to that language. There is 1 problem. When applied on this right to left language, the tabs are from the right to the left, but also the window buttons.
+The picture attached describes best the issue.
+</p>",other;firefox-720;desktop;windows-81;,firefox,other,en-US,1279949;,maormaor743
+1276986,2020-01-10 08:19:26 -0800,2020-01-13T13:09:19Z,Web sites don't maintain preferences. I have refreshed and clean installed.,"<p>I have to reset preferences on web sites every time I open Firefox. It also suddenly quits. I have Mac System 10.13 and the latest Firefox Version 72.0.1.
+</p>",websites;firefox-720;desktop;mac-os;,firefox,websites,en-US,1279944;1280731;,sharmacc1
+1276985,2020-01-10 08:15:48 -0800,2020-01-14T13:35:31Z,Remove Space Below Tab Bar,"<p>id like to remove this space, i have a userchrome file
+</p>",customize;desktop;firefox-720;mac-os;,firefox,customize,en-US,1279961;1280144;1280501;1280657;1280813;1280837;1280993;1281025;,tunesrcoolII
+1276982,2020-01-10 08:07:32 -0800,2020-01-14T11:42:58Z,Can't upload on Google Photos when using Firefox browser,"<p>I'm trying to upload photos on Google Photos (<a href=""http://photos.google.com"" rel=""nofollow"">photos.google.com</a>), but I always get an error message. I tried restarting my laptop, disabling add-ons, etc., nothing worked. I had to download Chrome again just to upload my photos. Please help, thank you.
+</p>",websites;firefox-720;desktop;windows-10;,firefox,websites,en-US,1280278;1280294;1280983;1280986;,carlamayocampo
+1276981,2020-01-10 07:49:31 -0800,2020-01-10T21:57:18Z,"feature of firefox ""Show tab previews in the Windows taskbar"" is not woking properly.","<p>when i do a setting for this but it is not working properly.
+the selected function is not working properly.
+</p>",tabs;firefox-720;desktop;firefox-7201;windows-10;needsinfo;,firefox,tabs,en-US,1279940;1279998;1280001;,vandanpandya444
+1276980,2020-01-10 07:15:34 -0800,2020-01-11T23:41:04Z,Casting to Chromecast?,"<p>To be honest I'm using Google Chrome just because I can cast any tab from it to my non smart TV via Google Chromecast.
+If Firefox release an update for that or add-on that will be it. 
+Please Mozilla - do something about it.
+Thanks
+</p>",customize;desktop;firefox-720;windows-10;,firefox,customize,en-US,1279849;1279852;1280277;,bgdxsokki
+1276978,2020-01-10 06:52:58 -0800,2020-01-10T15:11:24Z,How do I make my site http://www.empowr which is not secure private?,"<p>I need to make my site <a href=""http://www.empowr.com"" rel=""nofollow"">www.empowr.com</a> secure, I tried to give my site permissions, but still it does not become secure. I need firefox to guide me or make this site secure for. At the padlock of my empowr profile there is a redline going through the padlock.
+</p>",privacy-and-security_1;firefox-710;desktop;windows-10;,firefox,privacy-and-security,en-US,1279921;,sckamwi
+1276976,2020-01-10 06:00:47 -0800,2020-01-10T17:26:48Z,Google Calendar website is blank. How do I fix this?,"<p>Every time I go to google calendar, the page is blank. I have no idea how this started. I have the sidebar, but no content in the page, i.e. the main calendar with all the events. I've cleaned the cookies and cache and disabled all extensions, reinstalled firefox and nothing. This is super annoying. How do I fix this?
+</p>",websites;firefox-720;desktop;mac-os;,firefox,websites,en-US,1279935;,princeofilliterature
+1276975,2020-01-10 05:49:06 -0800,2020-01-10T11:42:13Z,Solucionar cuelgue en Firefox,"<p>En cualquier momento y sin importar la página suele congelarse unos instantes, paso a otra pestaña y al volver aparece en medio de la misma un símbolo como si estuviera cargando (ver imagen adjunta). Después de unos largos minutos la página vuelve a ser funcional, pero me gustaría saber qué puede estar ocasionándolo. 
+Esto sucede también navegando en forma incógnita. 
+Gracias por haber leído este problema. Si alguien también lo tiene, espero poder llegar a una solución en conjunto.
+</p>",firefox-720;desktop;fix-problems;windows-7;,firefox,fix-problems,es,1279902;,sunadokei.ai.nante
+1276974,2020-01-10 05:32:15 -0800,2020-01-10T08:09:42Z,Lost logons and passwords with Firefox update,"<p>Hi!
+</p><p>After an update of Firefox was performed I no longer have all my logons and password data available. I am running Win10 64-bit system. There was a folder created on my desktop labeled 'Old Firefox Data'. Is there a file in this folder that contains the logon info that I can copy to my current Firefox install?
+</p>",download-and-install_1;firefox-720;desktop;windows-10;,firefox,download-and-install,en-US,1279841;1279845;1279847;,mitch86
+1276973,2020-01-10 05:20:05 -0800,2020-01-10T06:25:31Z,How do the tabs stay in view at the top with updated version they disappear after a couple of seconds. Help!,"<p>can anyone tell me how to do this simply? Just updated Firefox, and they disappear. thanks
+</p>",tabs;firefox-720;desktop;firefox-7201;windows-7;,firefox,tabs,en-US,1279829;1279832;,floatysarah
+1276972,2020-01-10 05:15:09 -0800,2020-01-14T11:00:15Z,Bookmarks toolbar disappeared this morning (I believe since updating to v72).,"<p>I opened up firefox this morning to see the new tab page...empty? I soon realize the bookmarks toolbar has DISAPPEARED completely. My firefox got update to v72 last night so I think that may have something to do with it.
+</p><p>The list of what I've tried:
+</p><p>-Make sure it's there by going ""restore defaults"" in the customization tab.
+</p><p>-Making sure it's turned on (as you can see in the attached picture).
+</p><p>-Restarting firefox in safe mode.
+</p><p>-Restarting firefox with a new profile.
+</p><p>-Even restarting my computer just in case it has something to do with it.
+</p>",bookmarks;firefox-720;desktop;firefox-7201;windows-10;,firefox,bookmarks,en-US,1279828;1279922;1279991;1280681;1280684;1280699;1280706;1280958;1280967;,tadic.stefan98
+1276971,2020-01-10 05:14:30 -0800,2020-01-11T23:54:21Z,Why did firefox switch back to google default search after update?,"<p>I'm pretty handy with these computer-web thingies - was exctied to see the recent upgrade, but all of a sudden, all of my searches are being passed to Google - MASSIVE RED FLAG?!?!
+</p><p>I had all of my security dialled in very tight - removed Google, removed Twitter, removed Facebook, removed Amazon, set up containerized browsing to stop them all from talking to each other via ads, upgraded all security settings to give myself a nice, quiet interweb... 
+</p><p>Is there any way updates can respect (at least) the selected search engine from before the update, so as not to expose my data to the cartel?
+</p><p>Many thanks - I'm a big advocate for Moz://a and all the amazing things you do &lt;3
+</p>",customize;desktop;firefox-720;mac-os;,firefox,customize,en-US,1280280;,coos
+1276966,2020-01-10 04:46:52 -0800,2020-01-10T04:46:52Z,Print problems with only half of images printing,"<p>I use Ancestry uk for my family tree. Each person on the tree is depicted as a 'head' (male or female) with date of birth etc shown.When printing in firefox it only prints half the head and the title 'Ancestry@ is cropped. When I use Google Chrome to print, I don't have this problem. Is it a question of firefox settings?
+</p>",other;firefox-720;desktop;firefox-7201;windows-10;,firefox,other,en-US,"",bob.wilkins@talktalk.net
+1276964,2020-01-10 04:33:05 -0800,2020-01-11T14:01:14Z,Pantalla negra al abrir firefox,"<p>Pues eso, ayer funcionaba perfectamente. Pero hoy he encendido el ordenador y firefox se muestra con una pantalla negra. He probado ha reestablecerlo y nada. Lo unico que puedo hacer es iniciar con el modo seguro. Alfuna solución que esté pasando por alto? Dejo una captura de pantalla adjunta a continuación.
+</p>",firefox-720;desktop;fix-problems;windows-10;needsinfo;,firefox,fix-problems,es,1280193;,hugonotario29
+1276961,2020-01-10 04:05:20 -0800,2020-01-10T08:33:02Z,Does Clear Cache delete all my open tabs..?,"<p>I do a lot of technical browsing and have many tabs open I don't wish to lose. I have been told to clear my cache to totally refresh a photo hosting website (Photobucket) that is no longer working properly. I'm afraid if I do this I'll lose all my open tabs over 4 separate windows, let alone passwords.
+</p>",firefox-710;other;desktop;mac-os;,firefox,other,en-US,1279840;1279854;,PWAssociates
+1276959,2020-01-10 03:19:51 -0800,2020-01-10T06:39:54Z,Vložit,"<p>Zdravím.
+Od verze 72.0.1 zmizelo z kontextové nabídy ""Vložit"". Když použiji ctrl+v tak se vloží.
+Díky.
+</p>",other;firefox-720;desktop;windows-7;,firefox,other,cs,1279834;1279835;,danton33
+1276958,2020-01-10 03:10:32 -0800,2020-01-13T00:20:59Z,How to delay automatic updates ?,"<p>Hello,
+How to delay the installation of automatic updates by 15 days (for example) ?
+I'd like to avoid issues with new features in a business environment. I know ESR may be a solution but :
+- I can't switch from RR to ESR when I want due to the profiles issue (<a href=""https://support.mozilla.org/en-US/kb/dedicated-profiles-firefox-installation#w_what-happens-to-my-profile-if-i-downgrade-to-a-previous-version-of-firefox)"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/dedicated-profiles-firefox-installation#w_what-happens-to-my-profile-if-i-downgrade-to-a-previous-version-of-firefox)</a>.
+- Every new major version of ESR may contain features that break compatibility with my applications.
+Thanks in advance.
+</p>",firefox-680;other;desktop;windows-10;,firefox,other,en-US,1279822;1279827;1279856;1279873;1280541;,sroy1
+1276957,2020-01-10 02:42:20 -0800,2020-01-12T11:35:24Z,Pocket recommends only 3 articles (1 row) after update,"<p>Hi,
+after updating to 72.0 (or maybe 72.0.1) pocket only show me 3 articles in 1 row.
+In the settings i could adjust before the amount of rows - it's not possible anymore :(
+Any ideas?
+Thank you!
+</p>",other;firefox-720;desktop;windows-10;bug1608656;,firefox,other,en-US,1279820;1279859;1280128;1280424;1280427;,nbgcity
+1276956,2020-01-10 02:35:01 -0800,2020-01-12T20:53:05Z,"Why do this website ""https://unifi.com.my/SPA"" keep popping-up on my Firefox browser, I have tried various anti-virus & anti malware but they couldnt any proby","<p>-continue:) none of the anti-virus &amp; anti malware is able to detect this. The ""<a href=""https://unifi.com.my/SPA"" rel=""nofollow"">https://unifi.com.my/SPA</a>"" was not bookmark nor saved into my system. I suspect that it is a malware. Pls help!!! Thanks
+</p>",firefox-710;other;desktop;windows-10;,firefox,other,en-US,1279823;1280003;1280287;1280328;1280524;,xxmanreturns
+1276955,2020-01-10 00:49:04 -0800,2020-01-13T09:43:58Z,How to prevent Firefox to change the profile,"<p>We have created a specific profile for our need. (Switch off URL bar and options)
+After the first use of Firefox, the profile has been automatically changed. The behavior is hence not the expected one at the next use.
+Is there a way to keep the profile untouched?
+</p>",firefox-700;other;desktop;windows-10;,firefox,other,en-US,1280004;1280575;1280632;1280642;1280659;,thibaut.losso
+1276954,2020-01-10 00:42:02 -0800,2020-01-10T00:54:14Z,android and widnow sync but Mac os Catalina doens't sync,"<p>I signed in from a mac os Catalina and sync but no change on bookmark or history or anything. although i am selecting all the items to be synced
+</p>",firefox-720;desktop;sync;mac-os;,firefox,sync,en-US,1279805;,amrnabil5700
+1276953,2020-01-10 00:41:01 -0800,2020-01-10T05:21:17Z,Why my computer does not see a paid subscription?,"<p>IP 89.72.238.42
+Paid 119pln for a year subscription.
+Please resolve the problem.
+Best wishes 
+Malgorzata Strawinska
+</p>",other;desktop;,firefox,other,en-US,1279804;1279824;,gosiastrawinska
+1276952,2020-01-10 00:02:57 -0800,2020-01-10T10:42:05Z,Website chat boxes fail to load after Firefox 72.0.1 update.,"<p>After updating to Firefox 72.0.1, website chat boxes fail to load on <a href=""http://blogspot.com"" rel=""nofollow"">blogspot.com</a>. I've tried everything I can think of to solve problem, but nothing works. Any ideas?
+</p>",fix-problems;firefox-720;desktop;firefox-7201;windows-10;,firefox,fix-problems,en-US,1279802;1279882;1279894;,gerparker52
+1276951,2020-01-09 23:57:46 -0800,2020-01-10T00:04:59Z,Videos not playing,"<p>I'll start with the fact that I am using a brand new laptop. Open Youtube, click play, the ads will play just fine but when it comes to the actual video, all I get is the loading circle going round and round, if that.
+</p><p>Videos work in safe mode and on Chrome. Tried disabling add-ons (of which was Shockwave, Open H264 VideoCodec and Widevine Decryption Module), no change. Have reinstalled Flash, restarted multiple times, refreshed Firefox, all to no avail. I'm at my wits end as to why this is happening, especially when ads are playing just fine (typical).
+</p><p>I also seem to be having trouble with videos on Facebook
+</p>",websites;firefox-720;desktop;firefox-7201;windows-10;,firefox,websites,en-US,1279799;,back.in.onyx
+1276947,2020-01-09 23:07:56 -0800,2020-01-10T15:28:59Z,UK Gov certificate reported in Firefox but page works in other browsers,"<p>Hi
+I LOVE Firefox but recently it has put a ""Warning: Potential Security Risk Ahead"" block on a UK government based web site for Birth, Marriages and Deaths - <a href=""https://www.gro.gov.uk/gro/content/certificates/Login.asp"" rel=""nofollow"">https://www.gro.gov.uk/gro/content/certificates/Login.asp</a>. This link works in other browsers. Please advise.
+Thanks.
+</p>",fix-problems;firefox-720;desktop;firefox-7201;windows-10;,firefox,fix-problems,en-US,1279923;,n.fern
+1276945,2020-01-09 22:41:02 -0800,2020-01-09T22:41:02Z,Find bar disappears after F3 in Firefox 72.0.1 under Ubuntu 18.04,"<p>Under WIndows 8.1 the find bar behaves as described in <a href=""https://support.mozilla.org/en-US/kb/search-contents-current-page-text-or-links"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/search-contents-current-page-text-or-links</a>.  However, in Ubuntu 18.4, the find bar disappears after using F3, as if I had used Quick Find instead of Ctrl-F.  How can I get the find bar to stay visible?
+</p>",other;firefox-720;desktop;,firefox,other,en-US,"",rsbrux
+1276944,2020-01-09 22:09:34 -0800,2020-01-09T22:09:34Z,Firefox lags with native voice recognition on Windows 7,"<p>Browser answers at any mouse or keybord pressing with 1-5 seconds delay.
+Safe mode neither shutting down firewall/antivirus not hepls.
+Checked voice control with Opera, it works without any lags.
+</p>",fix-problems;firefox-720;desktop;firefox-7201;windows-7;,firefox,fix-problems,en-US,"",dmitkopt
+1276942,2020-01-09 22:04:46 -0800,2020-01-12T11:23:02Z,Bookmark sidebar is only showing up in the console window. How to restore original view?,"<p>The sidebar bookmark only displays on the console window. I want it to be showing on the normal browsing window instead. is something corrupted or has some settings been changed? Please help. Thank you!!
+</p>",bookmarks;firefox-720;desktop;windows-10;,firefox,bookmarks,en-US,1280281;1280383;1280412;1280423;,ed1981
+1276941,2020-01-09 20:43:26 -0800,2020-01-09T20:43:26Z,Miracast wireless display bug while playing full screen Youtube videos in Firefox.,"<p>When in Miracast wireless display mode and while playing YouTube videos in full screen mode, some of the videos are choppy or jerky.
+I tried two different adapters from two different companies and the problem still exist.
+I tried a MS Edge browser and the problem disappears.  
+</p><p>The problem has some thing to do with the drop down toolbar on top of the screen. 
+When the tool bar is pinned, the problem does not occur.
+When the tool bar is unpinned, the problem returns.
+</p><p>Again this only happens when playing YouTube videos in full screen mode and when the tool bar is unpinned.
+</p><p>Any help with this issue is appreciated.
+</p>",other;firefox-720;desktop;firefox-7201;,firefox,other,en-US,"",jorb
+1276940,2020-01-09 20:28:23 -0800,2020-01-09T20:28:23Z,Sporadic Video Playback in FF,"<p>I often use the Synology Surveillance Station app in FF and after updating FF to 72.0.1 64bit on my Win10 PC, playback has become difficult to watch. Both in live view and recorded view, the video will jump, stutter, freeze momentarily and occasionally a green and/or black video frame will be displayed.
+</p><p>YouTube and other videos play flawlessly, so I am not sure what the problem may be. It does not appear to be the Synology Surveillance Station app at fault here.
+</p><p>I did not have this issue prior to the FF update and if I open the same Synology app using Chrome, I do not have any issues with the playback of the video at all.
+</p><p>Has anyone else experienced this issue?
+</p><p>Are there any hidden settings I might try to mitigate this problem?
+</p><p>I have tried starting FF in safe mode, but the problem with video playback persists.
+</p><p>Thanks in advance for any help or information you may offer.
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",trumpy81
+1276938,2020-01-09 18:36:12 -0800,2020-01-09T18:36:12Z,Moving tab from one monitor to the other doesn't work if Discord is open.,"<p>I have a two monitor setup on my computer.  What I do is open firefox, load a second tab, and then move that tab to my second screen so that I have Firefox open on both.  However, if I were to move a tab to my other monitor while Discord is open on that screen, then the tab doesn't load into another window of Firefox and would instead reappear back to the original window.  I would  have to minimize Discord to get it out of the way before moving the tab to the other monitor and turn it into a secondary browser window.
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",Vannick
+1276937,2020-01-09 17:51:48 -0800,2020-01-10T20:12:02Z,Tabs on bottom only partially solved for FF 72.01,"<p>I had previously posted the ""Why doesn't Firefox provide the option of tabs below menu bar?"" at: 
+<a href=""https://support.mozilla.org/en-US/questions/1276795"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1276795</a>
+</p><p>I believed that the issue was solved by cor-el at <a href=""https://support.mozilla.org/en-US/questions/1274416#answer-1279083"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1274416#answer-1279083</a> 
+</p><p>However, I have since discovered that this fix does not work in Private Browsing mode. Tabs still overlap the bookmark toolbar as they did with regular browsing before applying the aforementioned fix.
+</p><p>Does anyone have a modification to the userChrome.css file or tabs-on-bottom.css file referred to earlier which will place tabs below the menu/bookmark toolbar when using Private Browsing as well?
+</p>",tabs;firefox-720;desktop;windows-81;,firefox,tabs,en-US,1279833;1279850;1279861;1279867;1279871;1279875;1279889;1279960;1279962;1279968;1279971;1279973;1279974;,Ulysses41
+1276936,2020-01-09 17:51:42 -0800,2020-01-09T17:51:42Z,Sporadic intrusive drop-down boxes while trying to click on games or other internet programs,"<p>See images below of the menu boxes that interfere with my use of Firefox. They seem to be designed for developers rather than end users. Sometimes I've had to force quit out of Firefox and start my use over from the beginning.
+</p>",firefox-720;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,"",cmaackster
+1276933,2020-01-09 17:14:56 -0800,2020-01-09T17:14:56Z,can't play farmville after last update,"<p>After the update on Jan 8 I can't play farmville on facebook <a href=""http://now.My"" rel=""nofollow"">now.My</a> farm loads just fine but it is behind the Inbox window.When I click the X to close the inbox my farm disappears and I am left with a white screen.Flash player is up to date and my farm plays just fine when I use Chrome browser and zygna support said it is a firefox problem.
+</p>",download-and-install_1;firefox-720;desktop;firefox-7201;windows-10;,firefox,download-and-install,en-US,"",pandanjer
+1276932,2020-01-09 17:11:48 -0800,2020-01-11T00:14:29Z,How do I know Certificates are authorized and not added by malware?,"<p>There are a lot of certificates on my computer, some from Taiwan, Hong Kong, and other countries.  Do you have a list of Certificates that I should have on my computer.
+</p>",other;firefox-720;desktop;windows-7;,firefox,other,en-US,1280013;1280020;,seniornurse63
+1276930,2020-01-09 16:46:24 -0800,2020-01-11T16:54:52Z,can't watch channel 4,"<p>I'm trying to watch shows on Channel 4  
+<a href=""https://www.channel4.com"" rel=""nofollow"">https://www.channel4.com</a>
+I get the message 'adblocker enabled'
+I have don't have adblocker, I have switched off advance tracking protection for this site, I don't have any other add ons that might affect this.
+I can watch on Safari.
+Any thoughts?
+Thanks!
+</p>",firefox-710;other;desktop;mac-os;,firefox,other,en-US,1279784;1280176;1280183;1280198;1280220;,martin101
