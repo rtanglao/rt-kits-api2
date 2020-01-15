@@ -84,13 +84,13 @@ if csv
         slice_str = row_array[4].tr("\n","")[80..-1]
         if slice_str.nil?
           f.puts(
-            sprintf("| [%d](%s]):%s | %s | %s | %s|\n", 
+            sprintf("| [%d](%s])<br>%s | %s | %s | %s|\n", 
             row_array[0], row_array[2],
             row_array[1], row_array[3].tr("\n","")[0..79],row_array[4].tr("\n","")[0..79], 
           tags_markdown))
         else
           f.puts(
-          sprintf("| [%d](%s):%s | %s |<details><summary>%s</summary>%s</details> | %s|\n", 
+          sprintf("| [%d](%s)<br>%s | %s |<details><summary>%s</summary>%s</details> | %s|\n", 
             row_array[0], row_array[2],
             row_array[1], row_array[3].tr("\n","")[0..79],row_array[4].tr("\n","")[0..79],
             slice_str, 
