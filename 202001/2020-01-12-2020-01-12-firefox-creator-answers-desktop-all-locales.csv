@@ -1,0 +1,104 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1277157,2020-01-12 14:53:35 -0800,2020-01-12T14:53:35Z,buttons are inactive on the same websites using multiple browsers,"<p>Since Jan. 8, 2020; after installing Rapid SCADA, some websites will not work as they did the day before. This is scripts not working after clicking on ""Login"" button for the website <a href=""https://myrealfoods.com/evr/index.php"" rel=""nofollow"">https://myrealfoods.com/evr/index.php</a> on Firefox, Opera, Opera Neon, and Brave.
+The website <a href=""https://tvlistings.zap2it.com/?aid=gapzap#"" rel=""nofollow"">https://tvlistings.zap2it.com/?aid=gapzap#</a> will not allow the drop-down menus (ALL Channels, Today, Now) to function.
+I deleted cookies, yet Google knows where I've been. I don't use any Google software as I believe they are the most evil monopoly.
+Do you have a guess as to what I need to get my browser to work again? Firefox is my default browser.
+</p>",firefox-720;desktop;fix-problems;windows-81;,firefox,fix-problems,en-US,"",joeh69661
+1277155,2020-01-12 13:55:51 -0800,2020-01-12T13:55:51Z,Why does firefox ask me how I want to open an ajax file when I try to log into youtube?,"<p>Today I was upgraded to the latest firefox.  I guess it deleted my youtube cookie because when I went to youtube I was asked to log in. When I clicked on the login button I got a dialog box asking me how I wanted to open an ajax file, presumably the script that youtube wanted firefox to run to handle the login process.
+What's up with that? Why didn't firefox run the script so I could log in?
+</p><p>Thanks for any help you can provide.
+Fred
+</p>",other;firefox-720;desktop;windows-7;,firefox,other,en-US,"",retiredatlast451
+1277151,2020-01-12 11:47:28 -0800,2020-01-12T11:47:28Z,Chrome tries to kill a running Firefox,"<p>With the latest Firefox running if I also start Chrome it tries to kill the Firefox task.  I see ""Firefox has stopped working"" dialogs 2 or 3 times in a row, but Firefox is not actually killed.
+</p><p>What on Earth is up with that?
+</p><p>How can it be prevented?
+</p>",firefox-710;other;desktop;windows-81;,firefox,other,en-US,"",rockney85881
+1277148,2020-01-12 11:09:00 -0800,2020-01-12T11:09:00Z,How to get different profiles to show as different entries on the Windows10 taskbar?,"<p>So I have 2 Chrome profiles, which exist as 2 different shortcuts on my taskbar, the same goes for my 2 Firefox profiles. However, when I open the 2 different Chrome profiles, their windows are attached to their respective shortcuts, while my Firefox windows they all go to the first shortcut. Attached image for visual representation of the problem.
+</p><p>Does anyone know what I need to do to get Firefox to separate out like Chrome?
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,"",ravagepipja
+1277147,2020-01-12 10:52:38 -0800,2020-01-13T06:48:09Z,Are pinned tabs supposed to be syncing across my devices?,"<p>I setup some pinned tabs on my work machine. Came home and installed Firefox but none of the pinned tabs showed up. Sync is turned on. I'm using macbook pro's in both locations.
+</p>",firefox-720;desktop;sync;mac-os;,firefox,sync,en-US,1280464;1280478;1280558;1280611;,dbmorley
+1277145,2020-01-12 10:06:38 -0800,2020-01-12T10:06:38Z,why does my firefox disappear from view after being minimized to the task bar,"<p>after being minimized I can't bring it back into view. My computer is set for a single display.  I click on firefox from the task bar and can't see my browser anywhere. This has been happening periodically for the last week.
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",skins3738
+1277143,2020-01-12 09:52:30 -0800,2020-01-12T09:53:04Z,OBS / Twitch,"<p>OBS does not see the browser during broadcast. I don’t want to broadcast Chrome. Before the update, everything was fine!
+</p>",privacy-and-security_1;firefox-720;desktop;windows-10;,firefox,privacy-and-security,en-US,1280398;,suckdick821
+1277142,2020-01-12 09:49:45 -0800,2020-01-12T09:49:45Z,Lockwise stuck on syncing,"<p>I changed few passwords in Mozilla Lockwise. Now when I open it on Android 10 it stucks forever ""syncing passwords......""
+So I cannot use it!!!!
+</p>",privacy-and-security_1;firefox-720;desktop;windows-10;,firefox,privacy-and-security,en-US,"",passegua
+1277139,2020-01-12 09:04:33 -0800,2020-01-12T09:24:27Z,Can I still safely use Firefox on Windows 7 after Windows 7 support stops?,"<p>Windows 7 will no longer be supported starting January 14, 2020 but that's what I run. Mostly I'm concerned about online security. Will I still be safe on Firefox after that date?
+</p>",privacy-and-security_1;firefox-720;desktop;windows-7;,firefox,privacy-and-security,en-US,1280388;1280390;,janfostermiiller
+1277136,2020-01-12 08:34:44 -0800,2020-01-12T18:52:09Z,Master Password Popup Terror,"<p>Recently i set up a master password, as it was advised to me in a security article. It says, my passwords can be easily retrieved if dont use a master pasword. So well then.
+</p><p>Now i get endless pop up to enter my master password whenever i start firefox. And cancelling the window doesnt even work, i get mandatory pop ups until i enter it.
+</p><p>So what to do now? I have recent firefox, so this one popular addon which seems to address it, doesnt work because it is not written in web assembly. Maybe there is a config for it?
+</p>",customize;desktop;firefox-720;windows-10;,firefox,customize,en-US,1280385;1280454;1280463;1280506;,firefox.foren
+1277134,2020-01-12 08:15:40 -0800,2020-01-12T08:15:40Z,bookmarks right click menu on macos 10.15.3 + multiple display problems,"<p>My desktop configuration has 3 displays: my macbook's LCD and two external LCDs.  If I have FF open on a screen other than the primary display, the bookmarks right click menu opens on the primary display instead of the display the browser is using.  (but it is still scaled for the FF display such that it appears to be too small on the primary display - i.e. my laptop's smaller LCD screen)
+</p>",fix-problems;firefox-720;desktop;firefox-7201;mac-os;,firefox,fix-problems,en-US,"",charles.eubanks
+1277133,2020-01-12 08:02:43 -0800,2020-01-13T10:37:19Z,"Why do I see the word ""off"" in my web browsing window for many sites?","<p>It's not there at the moment but it's annoying that I don't know what it refers to.
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,1280372;1280450;1280451;1280458;1280470;1280472;1280517;1280518;1280545;1280679;,tlshell
+1277131,2020-01-12 07:54:51 -0800,2020-01-12T08:54:38Z,"How to you move the imported  Chrome bookmarks listed as ""from google chrome"" so they all spread out on  the Firefox toolbar ? (on a mac)","<p>I imported the chrome bookmarks but they won't appear on the toolbar like they do in Chrome.  I don't want to have to click the ""From Google Chrome"" every time I want to go to a bookmark and want to see them on the toolbar like they looked on Chrome.  BTW I have a mac.  Thanks.
+</p>",download-and-install_1;firefox-720;desktop;mac-os;,firefox,download-and-install,en-US,1280373;1280375;1280382;,waaronson
+1277129,2020-01-12 07:45:08 -0800,2020-01-12T07:45:08Z,Videous on youtube freezes and lags in full screen mode.,"<p>I noticed, probably after the recent browser update, most videos will lag in full screen mode. The problem does not occur in Chrome, and when playing a video without full-screen. 
+</p><p>For example. I'm watching a lecture and the teacher is going back and forth. During that he will freeze and lag, the audio works fine, than it continues. I also noticed that the effect can easily be caused by rewinding back for a few seconds.
+</p><p>Not sure if this is a my laptop, youtub's or the firefox problem.
+</p>",firefox-720;desktop;fix-problems;,firefox,fix-problems,en-US,"",andreyw441
+1277127,2020-01-12 07:33:16 -0800,2020-01-14T10:54:23Z,how much work firfox done on increasing battery life?,"<p>I am using Firefox for 3 or more years and also followed the news. I see news about privacy or container things and that's why i am using FireFox. 
+But as a laptop and windows tablet user i never saw any new on that firfox team worked on increasing the battery life. I am very concern about that. See this benchmark firfox is always behind. I also see this in my laptop. 
+<a href=""https://www.digitaltrends.com/computing/web-browers-battery-life-tested/"" rel=""nofollow"">https://www.digitaltrends.com/computing/web-browers-battery-life-tested/</a>
+</p><p>Anything in future ?
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1280366;1280487;1280491;1280498;1280965;,rahmanshaber
+1277126,2020-01-12 07:28:06 -0800,2020-01-12T07:28:06Z,Why can I not see my bookmarks in 'Firefox Highlights'?,"<p>My new Window Tab is set to Firefox Home, my Home content is set to Firefox Highlights, and my Firefox Highlights content is set to display my Bookmarks ONLY, at least I assume that's what it means when I only put a check-mark into the 'Bookmarks' square.
+So why are my Bookmarks not displayed, why does Firefox want to keep track of my internet history, why is there no option like in other browsers like 'display a set of pages'?
+</p>",bookmarks;firefox-720;desktop;windows-10;,firefox,bookmarks,en-US,"",dnld42
+1277125,2020-01-12 07:18:05 -0800,2020-01-12T07:18:05Z,How to download Kindle books from Amazon,"<p>Don't want to use Amazon's app for reading books offline, Amazon's instructions for downloading/offline reading do not work, customer service does not have a solution so far.
+</p>",firefox-680;other;desktop;windows-10;,firefox,other,en-US,"",advn1
+1277124,2020-01-12 07:17:30 -0800,2020-01-13T12:24:34Z,How to find the folder containing a bookmark,"<p>I can easily find a bookmark by searching in the Library ""All bookmarks"" window. However, I cannot figure out how to see folder that contains that bookmark. In Safari there an optional column for folder and you can then right-click and get an option to open the folder. 
+</p><p>Is there a way to do this in Firefox?
+</p><p>-louie
+</p>",bookmarks;firefox-720;desktop;firefox-7201;mac-os;,firefox,bookmarks,en-US,1280368;1280374;1280376;1280384;1280440;1280616;1280619;1280643;1280723;,lsherwin
+1277118,2020-01-12 01:14:47 -0800,2020-01-12T23:22:24Z,"I wish to run a http site from an icon on my desktop, using a defined profile of firefox, but I don't know the format of the script to put into the particulahtp","<p>I wish to run a http site from an icon on my desktop, using a defined profile of firefox, but I don't know the format of the script to put into the properties box of the icon.  It just seems to default to a standard Firefox, not my profile of Firefox.
+Thanks
+</p>",customize;desktop;firefox-720;windows-10;,firefox,customize,en-US,1280314;1280331;1280508;1280546;,carman
+1277116,2020-01-12 00:52:56 -0800,2020-01-12T03:35:12Z,Videos on ESPN wont play please help.,"<p>I have the most up to date version of firefox running.  Can someone offer me some advice?  I tried to lookup what version of videos ESPN runs off of but couldn't find an answer.  Only thing that came up relevant with ""video playback ESPN"" was something about HTML5.  I tried the extension someone reccomended but it didnt work and my youtube videos were all messed up.
+</p>",websites;firefox-720;desktop;windows-10;,firefox,websites,en-US,1280332;,danielschomburg85
+1277113,2020-01-12 00:18:30 -0800,2020-01-12T12:45:43Z,bookmarks shortened in the side bookmark bar,"<p>so i had a rage moment and started going ham on my keyboard, and my bookmarks before that did this thing that when they were too long it said, for example, one of the bookmarks was named GitHub - notejs/node:gyp etc.: welllll... my bookmarks before the rage moment had it to say GitHub - node... and it was so much more easier because all of them did that! now though it lets me make the bookmark bar longer but it doesn't fix it. i did though notice if i turn off the upper bookmark bar (the one with the icons below the search bar) this problem is fixed, as it shortens the name of the bookmarks. i did have it on before my rage moment though so i wish this thing it had (shortening them with ...) wouldn't go away WITH the top bookmark bar on. plz help? i did search it up and can't find anything similiar to my problem, it was never like this. i'm considering reinstalling.
+</p>",bookmarks;firefox-720;desktop;firefox-7201;windows-10;,firefox,bookmarks,en-US,1280293;1280296;1280301;1280448;,thegatchacatto
+1277112,2020-01-11 23:28:30 -0800,2020-01-12T22:28:56Z,I have moved my files from Windows 7 computer to Windows 10 computer but only able to view pdf with Edge app how can I open with firefox viewer,"<p>I recently  migrated Firefox profiles and general files from Windows 7 computer to a new Windows 10 computer. However my Pdf files created on my old computer open up via the Edge app. on the new one. I want to use the Firefox viewer but am not even able to make the Firefox app. the default. Any suggestions anyone?
+</p>",firefox-710;other;desktop;windows-10;,firefox,other,en-US,1280292;1280297;1280317;1280319;1280526;1280528;1280529;1280530;1280534;1280535;,RIDOCK
+1277111,2020-01-11 23:12:58 -0800,2020-01-12T10:18:53Z,Firefox not supporting telugu fonts Os: Kali Linux version 60.8.0,"<p>Firefox not supporting telugu fonts Os: Kali Linux version 60.8.0
+</p>",firefox-600;other;desktop;linux;,firefox,other,en-US,1280401;,royashok629
+1277108,2020-01-11 22:44:07 -0800,2020-01-12T11:04:59Z,Version 72 is slow and buggy,"<p>After upgrading to 72 and then to 72.0.1 everything is slower than ever! Also when bookmarking, when creating a new bookmarks folder, you cannot give a name on it. It gets automatically names ""New Folder"".
+It sucks! It is the worst version of FF since quite a while, It has so many bugs, I will be posting one a day for a month!
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1280320;1280342;1280414;,zanxion72
+1277107,2020-01-11 22:35:31 -0800,2020-01-11T22:35:31Z,Firefox ignores my theme and the tab area goes white when I start a new session ever since version 70.,"<p>Ever since I updated to firefox 70, all of my desktop devices (windows, macos, and linux)  firefox will ignore my theme and display look like the image attached. The top bar will be correct for my theme for a small moment and then it will turn white along with the firefox start search thing, the search thing will go back to dark but the top bar will stay white. This happens with any theme installed and with all themes uninstalled on every device. The only way to fix this is to go and enable some other theme and switch back to the theme I want.
+</p><p>I know it shows me using nightly, I installed it today to try fixing the issue but it doesnt. This happens in the standard version of firefox (72.0.1 current) and has happened on every update since v70.
+</p>",firefox-730;beta;desktop;fix-problems;escalate;theme;linux;bug_1;,firefox,fix-problems,en-US,"",matthaigh27
+1277106,2020-01-11 22:31:22 -0800,2020-01-11T22:31:22Z,There is a blank window when external apps open Firefox to open a link.,"<p>If I do not have Firefox running and use a launcher like Alfred, Launchbar, etc. to open a link, it will open Firefox and open a window with the link. However, it will also open a blank window that it keeps in the background. If I turn on Session Restore and do the same thing, it will open the previous session and open the link from the launcher in a new tab of that session. However, it will still open the blank window in the background.
+</p><p>My question is how do I stop it from opening the blank window and only open the window/tab with the link from the launcher?
+</p>",tabs;firefox-720;desktop;macos-1015;,firefox,tabs,en-US,"",KyleEssary
+1277105,2020-01-11 20:44:29 -0800,2020-01-13T04:08:49Z,Clicking a link in Thunderbird no longer opens a new tab in Firefox,"<p>LinuxMint 18.3. Firefox 72.0.1 and Thunderbird 60.8.0 all 64 bit.  It was working not too long ago.  Regards ian.
+PS not sure what plugins I have other than french dictionaries.
+</p>",other;firefox-720;desktop;linux;,firefox,other,en-US,1280323;1280585;,stanley82
+1277104,2020-01-11 20:10:43 -0800,2020-01-14T07:58:22Z,"I accidentally press a hotkey, then the web page becomes smaller, and has empty space around it (I'll post a screenshot).","<p>Hi, I hope you're having a wonderful day, and I hope someone can help me with this.
+</p><p>3 days ago, I accidentally press a hotkey, then the web page becomes smaller, and has empty space around it (screenshot: <a href=""https://ibb.co/RQ74q3Z"" rel=""nofollow"">https://ibb.co/RQ74q3Z</a> ). I attached the screenshot below, too.
+This doesn't affect other web pages. When I open the same page from my other computer, it happens the same way.
+I tried [ctrl +] and [ctrl -], but it only changes the font size and doesn't make the space go away.
+</p><p>Thank you for your help.
+</p><p><br>
+<em>(fixed link - c)</em>
+</p>",customize;desktop;firefox-720;windows-10;,firefox,customize,en-US,1280261;1280262;1280338;1280341;1280413;1280428;1280434;1280504;1280507;1280509;1280532;1280896;1280909;,tiendat9395
+1277103,2020-01-11 20:09:25 -0800,2020-01-11T21:33:36Z,Firefox error,"<p>On my PC when trying to connect several sites I receive a message that the response telling me that the authenticity of the data received couldn't be verified this only happens on my PC I'm running Windows 7 pro can connect on my Android phone 
+</p>",privacy-and-security_1;desktop;windows-7;certificates;,firefox,privacy-and-security,en-US,1280263;,chalmersi
+1277101,2020-01-11 19:56:32 -0800,2020-01-11T19:56:32Z,Why is video quality is worse on Firefox 72 than Chrome 79?,"<p>When I stream Hulu on my laptop, the video quality is noticeably worse on Firefox than Chrome. I tried toggling settings (graphics acceleration) and turning-off plug-ins. The video is still much sharper on Chrome.
+</p>",other;firefox-720;desktop;firefox-7201;mac-os;,firefox,other,en-US,"",chiuwilliam
+1277097,2020-01-11 18:23:24 -0800,2020-01-11T18:23:24Z,Firefox won't resume after sleep mode in Windows 10,"<p>My Firefox doesn't like sleep mode.
+the problem we have is that when we wake up PC and want to open Firefox browser, the window doesn't expand, if I hoover the mouse over the icon Firefox I can see the window (page) but won't expand and it flashes a the page but can't open it. Somehow we managed to restore it yesterday, but it happened again.
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",mylibertad
+1277095,2020-01-11 16:55:29 -0800,2020-01-12T10:43:51Z,Firefox will not save to file for text files,"<p>When downloading files that are a generic text type (e.g. STEP file and others) they end up being displayed as text and there is no option to handle the files any differently. Resetting the download/application options as recommended on-line makes no difference.This used to work in the past but I can't be specific about which FIrefox version caused it to break.
+</p>",customize;desktop;firefox-720;windows-10;,firefox,customize,en-US,1280238;1280409;,dmacgreg
+1277092,2020-01-11 16:30:25 -0800,2020-01-11T17:57:36Z,Why is Update to 72.0.1 tabs constantly crash many times during the day,"<p>After recent update to 72.0 1 64 bit, my tabs crash multiple times during an online session. Most often when browsing YouTube. What can I do??
+</p>",tabs;firefox-720;desktop;,firefox,tabs,en-US,1280235;,wrgarrett45
+1277091,2020-01-11 16:02:10 -0800,2020-01-11T16:02:10Z,issue after enlarging firefox window,"<p>Hello
+</p><p>after the last update (72.0.1), when enlarging the firefox window the fill all the screen, there a little issue in the upper frame since my taskbar is in the upper side of my screen and it's tranparant, the upper frame surpasse the taskbar and since this last one is transparant I can realy see it and it's disturbing.
+I must not keep the window enlarged in order to not have the display issue but the windows keep moving sometimes cause it's not locked.
+</p><p>I didn't have the issue with the previous version.
+</p>",other;firefox-720;desktop;,firefox,other,en-US,"",x.smiley
