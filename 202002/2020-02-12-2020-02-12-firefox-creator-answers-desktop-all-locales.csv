@@ -1,0 +1,77 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1279582,2020-02-11 19:51:50 -0800,2020-02-11T19:51:50Z,What is there no Full Backup of FF vN before Upgrade to FF vN+1?  Upgrades often break FF.,"<p>There needs to be a way for users to revert to the previously installed version of FF with all add-ons, settings, etc. restored completedly the way they were before the upgrade trashed all customization or deleted/disabled all add-ons.
+</p><p>When an upgrade is available and I try it, I always(?) get a message saying that the Firefox Upgrade failed and that I should download and install the latest copy.  Can you guess why I now know to avoid that suggestion?
+</p><p>It takes way too much time to tweak the configuration of a frequently used program such as a Web broswer only to have the whole damn thing revert to stock settings whenever an upgrade comes along.
+</p><p>I can see why many settings or installed add-ons might not work if a particular upgrade involved many significant changes to FF, but users should be given the choice of not upgrading and never Syncing Firefox until they are sure that all the perceived bugs in the upgrade that break things they like as-is I like are fixed and that Syncing will not do more harm than good from their perspective.
+</p><p>Newer or allegedly ""improved"" is not automatically better in the eues of the owner/user.  Just look at the millions of people who have avoided downgrading their Windows 7 or 8 installtions to Windows 10.  The latter seems even more defective by design.
+</p><p>Why cannot FF be upgraded without breaking much of what users found good in the previous version, often due to their customizations?  I wonder if the upgrades could be done on a feature/function basis in most cases.  I certainly understand why the upgrade to FF Quantum had to be an all or nothing procedure...but EVERY upgrade since then?!?
+</p><p>Regards,
+TMG
+</p>",download-and-install_1;firefox-720;desktop;,firefox,download-and-install,en-US,"",tmarkgibson
+1279579,2020-02-11 19:05:41 -0800,2020-02-11T19:05:41Z,firefox provides an error message when starting,"<p>After doing an auto upgrade to Rel 73, firefox started but no windows would load., I uninstalled firefox and went to the Mozilla site and did a re-install.
+After the reinstall when I click on finish to start the program I get the following
+</p><pre>firefox.exe - Application Error. The application was unable to start correctly (oxc0000005)
+</pre>",download-and-install_1;desktop;,firefox,download-and-install,en-US,"",doowopper70
+1279577,2020-02-11 17:43:02 -0800,2020-02-11T18:42:47Z,Firefox updated just now and now won’t open web pages,"<p>This just happened.  I’ve tried trouble shooting including making sure my norton 360 wasn’t blocking it.   Nothing has worked and I can to find a help number or email for firefox
+</p>",customize;desktop;,firefox,customize,en-US,1289249;,12mrsfootdoc
+1279576,2020-02-11 17:43:01 -0800,2020-02-11T19:01:21Z,Firefox updated just now and now won’t open web pages,"<p>This just happened.  I’ve tried trouble shooting including making sure my norton 360 wasn’t blocking it.   Nothing has worked and I can to find a help number or email for firefox
+</p>",customize;desktop;,firefox,customize,en-US,1289252;1289253;1289260;,12mrsfootdoc
+1279574,2020-02-11 17:26:09 -0800,2020-02-11T19:27:12Z,"no longer have access to email. I was using ,y firefox account fine, but now after I log in you ask verification code which is sent to the old nonactive email.","<p>I was using firefox sync account wadahi@top<a href=""http://-mails.net"" rel=""nofollow"">-mails.net</a> just fine.  that email was deleted for non-use. No verification procedure was laid out anywhere in the agreement. Then firefox modified the agreement and now sends verification codes to that email, which I no longer have access to.
+I am able to login in my account using the login and password , however firefox now wont allow me to change the email to the new one to receive verification code. 
+I need access to my bookmarks and saved passwords NOW! Firefox had no rights to unilaterally change the agreement without notice to the customer. Firefox had no right to impose the verification email without letting the customer make sure his email can still recieve verification codes. Firefox failed to provide customer support because it doesnt even have a technical support email or phone number like a registered business should have.
+I lost access to my bookmarks and saved passwords because of negligence and reckleness of Firefox in failing to notify the customer to change the email to make sure the email can receive incoming emails and is current. I have the access to my firefox sync account, however it wont let me login without the verification code which is being sent to a nonactive email, used many years ago.
+</p><p>Suggested resolution: if you are a smart and relatively educated techncial support, you would realize that the same ip address would indicate that I am who I am and I should be allowed to change the email. However, firefox provided no technciall support and DID NOT EVEN HAVE A CONTACT EMAIL, while making significant profits from the customers and yet fails to provide technical support. 
+</p><p>I need access to my bookmarks NOW!
+</p>",firefox-730;sync;desktop;windows-10;,firefox,sync,en-US,1289266;,simon42
+1279573,2020-02-11 17:22:40 -0800,2020-02-11T18:08:28Z,Baja una copia fresca de Firefox,"<p>Hola comunidad, 
+</p><p>Quisiera saber como resolver el constante mensaje ""Baja una copia fresca de Firefox"" siendo que al consultar ya tengo instalada la última actualización (adjunto imagen). 
+</p><p>He probado eliminado la aplicación, volviendo a instalarla pero aún así continua apareciendo el mensaje que debe actualizar, incluso cuando tengo ya instalada la versión mas reciente. 
+</p><p>¿alguien mas con este problema?
+¿tiene solución?
+</p><p>Saludos y gracias por responder.
+</p>",firefox-7202;other;firefox-720;desktop;windows-10;,firefox,other,es,1289235;,sandoval.jorge.iturra
+1279572,2020-02-11 17:22:10 -0800,2020-02-11T19:39:45Z,"Firefox crashes, just installed 73, will not start with new profile or in safe mode","<p>As in title! code 1581462740
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US,1289220;1289262;1289263;1289270;1289271;,tom118
+1279571,2020-02-11 17:18:44 -0800,2020-02-11T17:18:44Z,My e mail on firefox comes in mixed order or reverse order/How does one correct to normal delivery with new on top & old below?thanks,"<p>The order on e mail is mixed on my Firefox /need new on top with older on bottom/thanks
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,"",gzorbas2
+1279570,2020-02-11 17:03:37 -0800,2020-02-11T19:08:58Z,"After install I have two versions of Firefox on Windows 10, one with bookmarks, one without. What should I do?","<p>Firefox did an automatic update and totalled my old Firefox, or so I thought.  I deleted Old Firefox.  I downloaded new Firefox.  Old Firefox reappeared with bookmarks, but New Firefox also appeared without bookmarks.  I am completely mystified as to what I should do.  Delete new Firefox and continue to use old Firefox? Or is there some way to install new Firefox and keep my old bookmarks on which I rely?  I find this unfortunate migration disturbing and am wondering what went wrong and what else is wrong with new Firefox and the migration process.  Thanks to anyone who can help me on this.
+</p>",download-and-install_1;firefox-730;desktop;windows-10;,firefox,download-and-install,en-US,1289215;1289228;1289229;1289231;1289233;1289234;1289236;1289240;1289245;1289248;1289250;1289257;1289259;1289264;,wmschur
+1279569,2020-02-11 16:20:19 -0800,2020-02-11T19:29:00Z,Firefox won't load google,"<p>So firefox will not let me search with Google, Bing, DuckDuckgo. But Baidu works.
+It is saying that it is a security issue. And thanks to google header which is strict transport security it will not load.
+This is the full error code
+</p><pre>   <a href=""https://www.google.com/search?client=firefox-b-d&amp;q=blah+blah+blah"" rel=""nofollow"">https://www.google.com/search?client=firefox-b-d&amp;q=blah+blah+blah</a>
+   
+   Peer's Certificate issuer is not recognised.
+   
+   HTTP Strict Transport Security: true
+   HTTP Public Key Pinning: true
+   
+   Certificate chain:
+   
+   -----BEGIN CERTIFICATE-----
+   MIIEbDCCA1SgAwIBAgIQFa+SxCvxRZAIAAAAACqy5DANBgkqhkiG9w0BAQsFADAi
+   MSAwHgYDVQQDExdNaWNyb3NvZnQgRmFtaWx5IFNhZmV0eTAeFw0yMDAxMjEwODE2
+   MzVaFw0yMDA0MTQwODE2MzVaMGgxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxp
+   Zm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRMwEQYDVQQKEwpHb29nbGUg
+   TExDMRcwFQYDVQQDEw53d3cuZ29vZ2xlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+   ggEPADCCAQoCggEBAN8dkDyiIYA9vjPY9pZwPzCeML1SmShqroJBLLrgJC0Z4VY5
+   IWuF24bU3WAd9HmFEujyJxb97WophVCVICocKGFi0aG5UUqIiGbEh8atTLfiiLIb
+   iiNcXkQPSFy5e5STIOtxMkAzWLMFY1pygxW1idzentRxdD1oWVrvvAcFSZCHHVGH
+   082jsZS0vqaak9P8lPnNj9UFemaFGPpOPXs1FGr19pepeK6NeVoF8E1vLY9BFWHN
+   64oKs0lCkqKXeBrjTiX8UrmdI78QtmlEEELPWRgvj0iYV/yhmV9mR8MPljbvsOUr
+   55LrEmXrFqYT5GiacBzbZTs1LUPCSdUr4SMJ5N8CAwEAAaOCAVYwggFSMAwGA1Ud
+   EwEB/wQCMAAwGQYDVR0RBBIwEIIOd3d3Lmdvb2dsZS5jb20wIQYDVR0gBBowGDAI
+   BgZngQwBAgIwDAYKKwYBBAHWeQIFAzCCAQIGCisGAQQB1nkCBAIEgfMEgfAA7gB1
+   ALIeBcyLos2KIE6HZvkruYolIGdr2vpw57JJUy3vi5BeAAABb8djq3QAAAQDAEYw
+   RAIgAKEqXW6ShwnAYzVPn0webAiLaHMA5sWQaoz9S3KuMu4CIFKaSXGjoVQQsbFY
+   BeGaNAavGhGgN36/jLtTTdP/N6DkAHUAXqdz+d9WwOe1Nkh90EngMnqRmgyEoRIS
+   hBh1loFxRVgAAAFvx2OrlAAABAMARjBEAiAerdJ+wqlsdSRh+RonxVaPszSmVALt
+   qS4bhFvJ6y293gIgQy1hHPLGcs8g+NOpD20+frIxjeGZA7iirJN8rBLJdPkwDQYJ
+   KoZIhvcNAQELBQADggEBAMr0MYiMnxQgg/ZgbJmgZqnAtsJT+WcFzvwzyWnwcKpo
+   +yR12mLOw1wVVcqwvlnKti7Dy2OrqiI/9Iq0IdUG/UfGHWygPkg6dJL+2gOzIzQZ
+   TsmYa1IFazFRjiKl4TP/Es0miVcz8q6KgFwmkM/IOfKNCgKk7KeLfJ2IMPZthxA2
+   YKif1t05BN1Jslfls6vssFNcmWvEn/Ix+3Z9fcjgNv5XkTqgvTGiD9CIzsxye3+G
+   57yk/dFWVylJ5zMEL8CyKJfJwsaRxaKqN3i5z/uKQSVkALW2R/8klNS7es/LKh9Z
+   ifW+RSq7r+BVbikAoALBztZvjgSZ6gO/EKFZE3mizo0=
+   -----END CERTIFICATE-----
+</pre>",firefox-730;websites;desktop;windows-81;,firefox,websites,en-US,1289219;1289237;1289247;1289251;1289261;1289267;1289268;,phoenixlight101
