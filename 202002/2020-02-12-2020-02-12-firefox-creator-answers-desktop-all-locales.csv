@@ -1,7 +1,60 @@
 id,created,updated,title,content,tags,product,topic,locale,answers,creator
-1279616,2020-02-12 06:16:15 -0800,2020-02-12T06:16:15Z,Alternative to Adobe Flash Player for FireFox 64 bits,"<p>We need to access a web site of the European Medicines Agency where graphs are only visible if the Adobe Flash Player is running.  This is no longer possible with FireFox 64 bits ... which forces us to use Edge (which we do not like)...  Since EMA may take a lot of time to convert its web sites for using HTML 5 and stop using Adobe Flash Player, we do need an alternative for FireFox ...  
+1279629,2020-02-12 08:06:54 -0800,2020-02-12T08:06:54Z,"Tried to install FF on Debian 10, can't update to the last version","<p>So I wanted to install latest version of FF on Debian 10, since it only comes with ESR version. I tried downloading the .tar files and creating a desktop shortcut, but it won't work, and I didn't know how to update it and since they release version 73 while I was trying with the previous version it started to collide and it didn't felt the good way (I'm a noob; pretty obvious). So I saw this reddit post(<a href=""https://www.reddit.com/r/debian/comments/86i20e/how_to_install_the_latest_firefox/)"" rel=""nofollow"">https://www.reddit.com/r/debian/comments/86i20e/how_to_install_the_latest_firefox/)</a>, which seemed good to me, I installed Debian unstable and now FF is on my desktop and such, but I can't update it to the last version. So I won't let me use my other profile (which was on version 73) and I have to use a regular one which I dislike a lot. How can I use latest FF version and update it as soon as a new version is released?
+</p><p>I'm using Gnome btw, here are the command lines from the reddit post:
+</p><p>edit the /etc/apt/sources.list file
+add deb <a href=""http://ftp.us.debian.org/debian/"" rel=""nofollow"">http://ftp.us.debian.org/debian/</a> unstable main contrib non-free
+sudo nano /etc/apt/preferences then paste this
+</p><p>Package: *
+Pin: release a=stable
+Pin-Priority: 900
+</p><p>Package: *
+Pin: release a=unstable
+Pin-Priority: 10
+sudo apt update
+sudo apt remove --purge firefox-esr
+sudo apt install -t unstable firefox
+</p>",download-and-install_1;firefox-680;desktop;linux;,firefox,download-and-install,en-US,"",95eaf6c2-21c7-4b73-aaab-753256893029
+1279627,2020-02-12 07:56:07 -0800,2020-02-12T07:56:07Z,"Updated Firefox it crashed then would not connect to internet, other browsers all OK, so deleted re installed but now I get error code Oxc0000005","<p>I was asked to update to the latest Firefox . Now It no longer allows me to access the internet ( My other browsers allowed me access to internet)  and all I get is a blank white page. Did a reset but no use so I uninstalled and re installed Firefox. Now at the end of the installation process all I get is error code Oxc 0000005. I have then removed my anti virus in case that was not allowing Firefox to work and then uninstalled and re installed Firefox but I still get the same error code Oxc0000005.  Windows 10 is up to date and Suggestions please
+</p>",download-and-install_1;desktop;bug1614885;,firefox,download-and-install,en-US,"",jon41
+1279626,2020-02-12 07:47:28 -0800,2020-02-12T07:47:28Z,firefox isn't saving my passwords correctly,"<p>Hi! Within the past month or so, Firefox login/password autosave has stopped working correctly. I want it to autosave most passwords, and it had been doing that fine. Then I noticed saved passwords were being rejected by sites, and when I clicked on 'view' to see what the saved password was that had been autofilled, it wouldn't be right. It would be a different login and password for a previous site. For instance, firefox was trying to autofill my college login with my personal email and a different password, not my .edu email. I haven't changed any behavior or gone into settings or done anything that seems likely to trigger this issue. Also can't find anything about it in search. Any ideas?
+</p>",firefox-690;privacy-and-security_1;desktop;firefox-6901;mac-os;,firefox,privacy-and-security,en-US,"",blivensperger
+1279625,2020-02-12 07:46:13 -0800,2020-02-12T07:46:13Z,Can not establish websocket connections with socks proxy,"<p>OS: MacOS 10.14.6
+</p><p>Firefox: nightly 75.0a1(20200211215452)
+</p><p>When I enabled socks proxy as system proxy and set firefox network settings to ""use system proxy settings"", A website like github using websocket can't establish connections and output these log.
+</p><p>And there is the log from about:networking. I saw something about socks4:127.0.0.1:1086, that is my socks proxy host, but mine is socks5. I tried to set firefox network settings to manual proxy configuration and specified socks proxy to a correct version, then websockets work.
+</p><p>I think that might be the problem. Could I continue to use system proxy settings and change the default socks version?
+</p>",websites;desktop;mac-os;,firefox,websites,en-US,"",gjq.uoiai
+1279624,2020-02-12 07:43:22 -0800,2020-02-12T07:43:22Z,a security error prevented  the resource from being loaded,"<p>H
+A Forum I use extensively suddenly started showing content layed out in a sort of linear fashion where everything was set onto a new line.
+I have used this forum for more than 18 years and this is the first time this has happened,
+The site is a respected one, and a search for 'MSDN Forum' would provide a link(s) to my problem site.
+After a LOT of work trying to find what has happened has resulted in my finding that scripts and CSS seem to be skipped from being loaded by Firefox reporting the error message I mention in the title. These errors are MANY thoughout the incoming data.
+I subsequently tried to pursue Mozilla articles on Mixed Content Blocking, which seems to say Ishould have an option to 'disable' Firefox security with respect to the above via clicking on the 'sheild' icon and follow through to where there is supposed to be am option to 'stop/disble' - but there is no such option here so I can't check if that option is a cause of my issue.
+This issue is very severe as it disable ALL of the needed buttons - such as Reply, Quote and Post New Question - for a Forum, that is indeed severe!
+Now, I don't know if this whole issue is a fault with either Microsoft (who seem to be serving faulty data, or, Firefox for being overly coseting)
+I attach an image showing a portion of the errors (they extend throughout the entire list).
+Patricularly, the line at the top saying the Style Sheet could not be loaded summarizes the whole issue. Is there any other way I can get to disable Firefox being overly protective - I do know how to use the About:Config etc., but lack the ability to find anything relevant to this issue in any of the content there.
+</p><p>A further snippet of information: amongst other things, I reinstalled Window 10 and used Edge immediately after install had completed - same issues (suggesting that either both browsers are overly protective, or that the issues stem from Microsoft). I have tried most/all of the things likely to be suggested here suxh as using Safe Mode, no Extensions etc.
+</p><p>To save readers from becoming bored with this long essay, I'll stop here - if further info needed, just ask.
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,"",leshayathome
+1279623,2020-02-12 07:37:49 -0800,2020-02-12T07:43:19Z,Firefox does not load any web pages; crashes on first run and won't allow me to click tools-options or restart in safe mode,"<p>Firefox has been working and stopped today.  It would not load any web pages; Chrome is also installed and is working.
+When I reinstall, I get an application error on the first run:
+""Application pop-up: firefox.exe - Application Error : The application was unable to start correctly (0xc0000022). Click OK to close the application. ""
+I cannot click Tools-Options; restart in safe mode or load any of the about:config; about:profile about:crashes etc
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US,1289402;,ross16
+1279622,2020-02-12 07:25:58 -0800,2020-02-12T07:25:58Z,Application Handler Broken,"<p>After opening a large number of tabs in rapid succession the application handler for Firefox no longer launches applications and either displays: 
+</p><p>Firefox doesn’t know how to open this address, because one of the following protocols ([Whatever the protocol is]) isn’t associated with any program or is not allowed in this context.
+</p><p>Or simply does nothing
+</p><p>This occurs in safe mode and after a refresh. Other browsers (Chrome, Edge  and Waterfox tested in this instance) but not Firefox previously I have got this working with a full uninstall and reinstall but it usually happens again after a few days
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,"",Norava
+1279621,2020-02-12 07:07:03 -0800,2020-02-12T07:07:03Z,"As of 73.0 (for Mac at least) I can't press the Clear Now button in the ""Clear Recent History..."" dialog box with the return key.","<p>After bringing up the ""Clear Recent History..."" dialog box, I always used to hit return to press the Clear Now button, but now that I've updated to 73.0, it doesn't accept the return key to dismiss it.
+</p>",firefox-730;other;desktop;mac-os;,firefox,other,en-US,"",mike238
+1279620,2020-02-12 06:46:00 -0800,2020-02-12T08:07:25Z,Pressing ctrl key on the keyboard prevents mouseUp events from happening,"<p>We are using react and listening to mouse events (up, down, move...). 
+While dragging with the mouse (So mouse down and then mouse move)  if we press the control key on a Mac keyboard and then release the mouse, the ""mouseUp"" event is not fired.
+</p>",firefox-680;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,1289383;1289385;1289410;,bouallegue.takwa
+1279616,2020-02-12 06:16:15 -0800,2020-02-12T08:10:42Z,Alternative to Adobe Flash Player for FireFox 64 bits,"<p>We need to access a web site of the European Medicines Agency where graphs are only visible if the Adobe Flash Player is running.  This is no longer possible with FireFox 64 bits ... which forces us to use Edge (which we do not like)...  Since EMA may take a lot of time to convert its web sites for using HTML 5 and stop using Adobe Flash Player, we do need an alternative for FireFox ...  
 Is there any that Mozilla would recommend ?
-</p>",customize;desktop;firefox-720;windows-10;,firefox,customize,en-US,"",ptulkens
+</p>",customize;desktop;firefox-720;windows-10;,firefox,customize,en-US,1289379;1289411;,ptulkens
 1279614,2020-02-12 05:56:23 -0800,2020-02-12T05:56:23Z,Configure pass-through authentication for Firefox on a Mac for a Windows domain user.,"<p>I am using a Macbook, but authenticating to a Windows domain with an AD account.  Is there a way to configure pass-through authentication in FF so that it will pass through my login credentials?  Will it work the same way on a Mac as it does on Windows?
 </p><p>Thanks.
 </p>",websites;desktop;firefox-650;,firefox,websites,en-US,"",jwilliams31
@@ -34,12 +87,12 @@ I have a feeling there must be a way for this and I'm just missing it
 </p>",desktop;fix-problems;,firefox,fix-problems,fi,"",josefiina
 1279603,2020-02-12 04:20:01 -0800,2020-02-12T04:20:01Z,74 beta 1 address bar no longer displays previous sites,"<p>74 beta 1 address bar no longer displays previous sites
 </p>",privacy-and-security_1;beta;desktop;firefox-740;windows-10;,firefox,privacy-and-security,en-US,"",chuck.grandgent
-1279602,2020-02-12 04:13:56 -0800,2020-02-12T06:05:39Z,Firefox stopped working on PC and Laptop,"<p>Firefox opened but nothing works.  Tried reset nothing.  Tried safe mode nothing.  Restart nothing.  The same thing is happening on my PC and Laptop.
-</p>",other;desktop;bug1614885;,firefox,other,en-US,1289352;1289358;1289360;1289370;,oldoakantiques
+1279602,2020-02-12 04:13:56 -0800,2020-02-12T07:26:24Z,Firefox stopped working on PC and Laptop,"<p>Firefox opened but nothing works.  Tried reset nothing.  Tried safe mode nothing.  Restart nothing.  The same thing is happening on my PC and Laptop.
+</p>",other;desktop;bug1614885;,firefox,other,en-US,1289352;1289358;1289360;1289370;1289388;1289392;,oldoakantiques
 1279601,2020-02-12 03:57:25 -0800,2020-02-12T04:13:47Z,New profile every single day?,"<p>Every morning, when I first turn on my computer, I a have to spend the first 5 minutes setting up my Firefox again because of a ""new profile"". I have to re-enable all of my add-ons and configure them as well. Why does this happen every single day and is there a way to prevent it? If not, then I'm done with this browser...such a colossal waste of time for something that I shouldn't have to do. I don't have to completely set up Chrome or Edge if they do an update...all of the pertinent stuff is brought forward.
 </p>",download-and-install_1;firefox-7202;firefox-720;desktop;mac-os;,firefox,download-and-install,en-US,1289346;,dblboinger
-1279600,2020-02-12 03:13:35 -0800,2020-02-12T03:13:35Z,screenshot  capabilty,"<p>Hello  i  have  firefox  v73.Today  i  noticed  when  take  a  screenshot  using  firefox's  built'in  capability  and  selecting  an  area  the  downloading  stuck.I  have  windows  10  built  1809
-</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,"",vasilsi
+1279600,2020-02-12 03:13:35 -0800,2020-02-12T07:53:15Z,screenshot  capabilty,"<p>Hello  i  have  firefox  v73.Today  i  noticed  when  take  a  screenshot  using  firefox's  built'in  capability  and  selecting  an  area  the  downloading  stuck.I  have  windows  10  built  1809
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1289381;1289404;,vasilsi
 1279599,2020-02-12 03:01:27 -0800,2020-02-12T03:32:08Z,How to view bookmarks in a tab like in Chrome?,"<p>Until recently it was possible by opening chrome://browser/content/places/places.xul and it was glitchy when it came to bookmark manipulation, but at least I could view the bookmarks... After today's update that URL leads to nowhere. Any other methods?
 </p>",bookmarks;firefox-730;desktop;windows-10;,firefox,bookmarks,en-US,1289340;,vitaliy.planetarium
 1279592,2020-02-12 01:12:08 -0800,2020-02-12T01:20:55Z,"cant open anything , cant connect internet, cant open option, etc","<p>cant open anything , cant connect internet, cant open option, etc
@@ -57,7 +110,7 @@ after reinstall, my firefox cant open anything, everthing blank
 </p>",fix-problems;desktop;firefox-650;windows-7;bug1614885;,firefox,fix-problems,en-US,1289314;1289322;1289323;1289329;1289344;1289351;1289354;1289355;,GEOn00b
 1279586,2020-02-11 20:05:14 -0800,2020-02-12T00:23:05Z,firefox 73 will not load webpages so can not access about:config or anything else. Other browsers work.,"<p>Windows 10. Upgraded, as recommended by Mozilla, to FF 73. Disastrous. Not one web page will load, including any involving Firefox; thus, suggestions to do blah blah via about:config, or ANYTHING ELSE INVOLVING ACCESSING A FIREFOX WEBPAGE is worthless, since Firefox 73 will not load any web page. I uninstalled. Installed 73. No help. I now have ""Old Firefox Data"" on desktop, but it is useless, since requires pasting to something in Firefox 73. What a diabolical Catch 22 or 23 or something.
 </p>",firefox-730;other;desktop;bug1614885;,firefox,other,en-US,1289318;,74buglady
-1279582,2020-02-11 19:51:50 -0800,2020-02-12T06:16:19Z,What is there no Full Backup of FF vN before Upgrade to FF vN+1?  Upgrades often break FF.,"<p>There needs to be a way for users to revert to the previously installed version of FF with all add-ons, settings, etc. restored completedly the way they were before the upgrade trashed all customization or deleted/disabled all add-ons.
+1279582,2020-02-11 19:51:50 -0800,2020-02-12T07:13:55Z,What is there no Full Backup of FF vN before Upgrade to FF vN+1?  Upgrades often break FF.,"<p>There needs to be a way for users to revert to the previously installed version of FF with all add-ons, settings, etc. restored completedly the way they were before the upgrade trashed all customization or deleted/disabled all add-ons.
 </p><p>When an upgrade is available and I try it, I always(?) get a message saying that the Firefox Upgrade failed and that I should download and install the latest copy.  Can you guess why I now know to avoid that suggestion?
 </p><p>It takes way too much time to tweak the configuration of a frequently used program such as a Web broswer only to have the whole damn thing revert to stock settings whenever an upgrade comes along.
 </p><p>I can see why many settings or installed add-ons might not work if a particular upgrade involved many significant changes to FF, but users should be given the choice of not upgrading and never Syncing Firefox until they are sure that all the perceived bugs in the upgrade that break things they like as-is I like are fixed and that Syncing will not do more harm than good from their perspective.
@@ -65,11 +118,11 @@ after reinstall, my firefox cant open anything, everthing blank
 </p><p>Why cannot FF be upgraded without breaking much of what users found good in the previous version, often due to their customizations?  I wonder if the upgrades could be done on a feature/function basis in most cases.  I certainly understand why the upgrade to FF Quantum had to be an all or nothing procedure...but EVERY upgrade since then?!?
 </p><p>Regards,
 TMG
-</p>",download-and-install_1;firefox-720;desktop;,firefox,download-and-install,en-US,1289284;1289345;1289372;,tmarkgibson
-1279579,2020-02-11 19:05:41 -0800,2020-02-12T06:31:21Z,firefox provides an error message when starting,"<p>After doing an auto upgrade to Rel 73, firefox started but no windows would load., I uninstalled firefox and went to the Mozilla site and did a re-install.
+</p>",download-and-install_1;firefox-720;desktop;,firefox,download-and-install,en-US,1289284;1289345;1289372;1289389;,tmarkgibson
+1279579,2020-02-11 19:05:41 -0800,2020-02-12T08:11:18Z,firefox provides an error message when starting,"<p>After doing an auto upgrade to Rel 73, firefox started but no windows would load., I uninstalled firefox and went to the Mozilla site and did a re-install.
 After the reinstall when I click on finish to start the program I get the following
 </p><pre>firefox.exe - Application Error. The application was unable to start correctly (oxc0000005)
-</pre>",download-and-install_1;desktop;bug1614885;,firefox,download-and-install,en-US,1289317;1289376;,doowopper70
+</pre>",download-and-install_1;desktop;bug1614885;,firefox,download-and-install,en-US,1289317;1289376;1289408;1289412;,doowopper70
 1279577,2020-02-11 17:43:02 -0800,2020-02-11T18:42:47Z,Firefox updated just now and now won’t open web pages,"<p>This just happened.  I’ve tried trouble shooting including making sure my norton 360 wasn’t blocking it.   Nothing has worked and I can to find a help number or email for firefox
 </p>",customize;desktop;,firefox,customize,en-US,1289249;,12mrsfootdoc
 1279576,2020-02-11 17:43:01 -0800,2020-02-12T00:36:26Z,Firefox updated just now and now won’t open web pages,"<p>This just happened.  I’ve tried trouble shooting including making sure my norton 360 wasn’t blocking it.   Nothing has worked and I can to find a help number or email for firefox
@@ -90,11 +143,11 @@ I lost access to my bookmarks and saved passwords because of negligence and reck
 </p>",firefox-7202;other;firefox-720;desktop;windows-10;,firefox,other,es,1289235;,sandoval.jorge.iturra
 1279572,2020-02-11 17:22:10 -0800,2020-02-11T20:49:44Z,"Firefox crashes, just installed 73, will not start with new profile or in safe mode","<p>As in title! code 1581462740
 </p>",desktop;fix-problems;,firefox,fix-problems,en-US,1289220;1289262;1289263;1289270;1289271;1289282;,tom118
-1279571,2020-02-11 17:18:44 -0800,2020-02-12T05:18:38Z,My e mail on firefox comes in mixed order or reverse order/How does one correct to normal delivery with new on top & old below?thanks,"<p>The order on e mail is mixed on my Firefox /need new on top with older on bottom/thanks
-</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1289347;1289364;,gzorbas2
+1279571,2020-02-11 17:18:44 -0800,2020-02-12T07:39:45Z,My e mail on firefox comes in mixed order or reverse order/How does one correct to normal delivery with new on top & old below?thanks,"<p>The order on e mail is mixed on my Firefox /need new on top with older on bottom/thanks
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1289347;1289364;1289399;,gzorbas2
 1279570,2020-02-11 17:03:37 -0800,2020-02-11T19:08:58Z,"After install I have two versions of Firefox on Windows 10, one with bookmarks, one without. What should I do?","<p>Firefox did an automatic update and totalled my old Firefox, or so I thought.  I deleted Old Firefox.  I downloaded new Firefox.  Old Firefox reappeared with bookmarks, but New Firefox also appeared without bookmarks.  I am completely mystified as to what I should do.  Delete new Firefox and continue to use old Firefox? Or is there some way to install new Firefox and keep my old bookmarks on which I rely?  I find this unfortunate migration disturbing and am wondering what went wrong and what else is wrong with new Firefox and the migration process.  Thanks to anyone who can help me on this.
 </p>",download-and-install_1;firefox-730;desktop;windows-10;,firefox,download-and-install,en-US,1289215;1289228;1289229;1289231;1289233;1289234;1289236;1289240;1289245;1289248;1289250;1289257;1289259;1289264;,wmschur
-1279569,2020-02-11 16:20:19 -0800,2020-02-11T19:29:00Z,Firefox won't load google,"<p>So firefox will not let me search with Google, Bing, DuckDuckgo. But Baidu works.
+1279569,2020-02-11 16:20:19 -0800,2020-02-12T07:58:24Z,Firefox won't load google,"<p>So firefox will not let me search with Google, Bing, DuckDuckgo. But Baidu works.
 It is saying that it is a security issue. And thanks to google header which is strict transport security it will not load.
 This is the full error code
 </p><pre>   <a href=""https://www.google.com/search?client=firefox-b-d&amp;q=blah+blah+blah"" rel=""nofollow"">https://www.google.com/search?client=firefox-b-d&amp;q=blah+blah+blah</a>
@@ -132,4 +185,4 @@ This is the full error code
    57yk/dFWVylJ5zMEL8CyKJfJwsaRxaKqN3i5z/uKQSVkALW2R/8klNS7es/LKh9Z
    ifW+RSq7r+BVbikAoALBztZvjgSZ6gO/EKFZE3mizo0=
    -----END CERTIFICATE-----
-</pre>",firefox-730;websites;desktop;windows-81;,firefox,websites,en-US,1289219;1289237;1289247;1289251;1289261;1289267;1289268;,phoenixlight101
+</pre>",firefox-730;websites;desktop;windows-81;,firefox,websites,en-US,1289219;1289237;1289247;1289251;1289261;1289267;1289268;1289396;1289403;1289406;,phoenixlight101
