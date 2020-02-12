@@ -1,0 +1,209 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1279567,2020-02-11 15:54:54 -0800,2020-02-11T17:10:50Z,Remove Mandatory end user UI update notifications for SoE users who CANNOT Update (72.0.1 32-bit),"<p>I've Firefox Browser, Delivered to me in a SoE. I have No (zero, nada none..) control over the rate at which the packaging team updates the Browser, or their competency in doing this.
+</p><p>Kudos to you for keeping me, the end user safe .. by way of updates even,  however Please Please PLEASE!!! provide the end user a means to stop the mandatory end user integration update pop up window whinge !!!! 
+</p><p>If I  can not control your development pace, the effective skill set of the packaging team, or the rate at which they can keep pace with your updates, then please by god , please allow me,  the end user to turn the update pop up window off, and make my browsing experience better! Maintain mandatory updates.. I don't care, nor can I control that...  either. However I do have my hands all over your end user UI.
+</p><p>I do not wish however to be reminded almost hourly how and how UN-responsive, or  crap my peers are. nor I do not want ""mandatory end user action"" UI update reminders every blinking minute an UI or email or system interface forces me to open another browser window... again some of which I have no control over.
+</p>",firefox-7201;customize;desktop;firefox-720;windows-10;,firefox,customize,en-US,1289207;1289213;,mccallum.rory
+1279566,2020-02-11 15:52:07 -0800,2020-02-11T17:31:33Z,Chrome saves a seperate profile for every website visited that cannot be deleted or stopped. Does Firefox do this? (this is not a cookie as such),"<p>This is a direct question as to whether Firefox saves any user NON DELETEABLE information. It appears Chrome does. These are not cookies or history as I know it. Presumably after Chrome has uploaded to a server somewhere it is then deleted or perhaps there is a timed or storage limit delete. The Chrome explanation is that ""it makes the user experience faster and better"". More likely is that google is increasingly being denied cookie &amp; tracking data because of privacy addons or public opinion, they have a new way to get most of the same information. They just call it a ""profile"" rather than a cookie.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1289223;,bernie4
+1279565,2020-02-11 15:15:40 -0800,2020-02-11T15:15:40Z,UPDATE 73.0 MAKES FIREFOX STOP WORKING. HAD TO DO SYSTEM RESTORE,"<p>I want to report that updating to version 73.0 today - Feb. 11, 2020, caused Firefox to stop working entirely. I could not find answers in Support and ended up doing a system restore on my laptop in order to go back to Version 72.0. Now Firefox is working again. Never had this problem with previous updates. IF THIS UPDATE HAS BUGS can someone please try to fix them?  Thank you!
+</p>",other;firefox-720;desktop;windows-7;,firefox,other,en-US,"",asusiq1
+1279564,2020-02-11 14:46:09 -0800,2020-02-11T16:45:08Z,Firefox Crash,"<p>Hello,
+</p><p><a href=""https://crash-stats.mozilla.org/report/index/cc1c1789-7eb4-4292-8282-4ef870200211"" rel=""nofollow"">https://crash-stats.mozilla.org/report/index/cc1c1789-7eb4-4292-8282-4ef870200211</a> <a href=""https://crash-stats.mozilla.org/report/index/5273728f-dea1-43fe-92bb-b88ba0200211"" rel=""nofollow"">https://crash-stats.mozilla.org/report/index/5273728f-dea1-43fe-92bb-b88ba0200211</a>
+</p><p>Firefox often sends a crash report. What are the reasons? What is the solution?
+</p><p>Thanks.
+</p>",firefox-7202;other;desktop;windows-10;,firefox,other,en-US,1289190;1289191;1289208;,2fan1kar
+1279562,2020-02-11 14:44:46 -0800,2020-02-11T14:44:46Z,Firefox Crash,"<p>Hello,
+</p><p><a href=""https://crash-stats.mozilla.org/report/index/cc1c1789-7eb4-4292-8282-4ef870200211"" rel=""nofollow"">https://crash-stats.mozilla.org/report/index/cc1c1789-7eb4-4292-8282-4ef870200211</a>
+<a href=""https://crash-stats.mozilla.org/report/index/5273728f-dea1-43fe-92bb-b88ba0200211"" rel=""nofollow"">https://crash-stats.mozilla.org/report/index/5273728f-dea1-43fe-92bb-b88ba0200211</a>
+</p><p>Firefox often sends a crash report. What are the reasons? What is the solution?
+</p><p>Thanks.
+</p>",firefox-7202;other;firefox-720;desktop;windows-10;,firefox,other,tr,"",2fan1kar
+1279560,2020-02-11 14:31:22 -0800,2020-02-11T15:13:56Z,"YouTube will not load - ""Secure Connection Failed"" Error","<p>YoueTube will not load in FireFox - it gives error:-
+</p>
+<hr>
+<p>Secure Connection Failed
+</p><p>An error occurred during a connection to <a href=""http://www.youtube.com"" rel=""nofollow"">www.youtube.com</a>. You are attempting to import a cert with the same issuer/serial as an existing cert, but that is not the same cert.
+</p><p>Error code: SEC_ERROR_REUSED_ISSUER_AND_SERIAL
+</p><pre>   The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.
+   Please contact the web site owners to inform them of this problem.
+</pre>
+<hr>
+<p>However, YouTube works OK in Chrome and IE11.
+</p><p>It used to work OK until recently. Are there some settings that require changing ?
+</p><p>The version is 72.0.2 (64-bit)
+</p><p>Regards,
+</p><p>Nick.
+</p>",websites;firefox-720;desktop;windows-7;,firefox,websites,en-US,1289186;1289192;1289194;,Moors_Walker
+1279559,2020-02-11 14:24:22 -0800,2020-02-11T14:54:46Z,How do I disable the redirect notice,"<p>For the last few days, every time I click on a Google Image I get the message:
+</p><p>Redirect Notice
+</p><pre>The previous page is sending you to &lt;the page I wanted to go to&gt;
+</pre>
+<pre>If you do not want to visit that page, you can return to the previous page.
+</pre>
+<p>This is fantastically annoying and appears to be limited to Firefox. Chrome doesn't do it, and I run both with a similar set of add-ons. I've seen suggestions to set accessibility.blockautorefresh to false in about:config. It is already set to false.
+</p>",privacy-and-security_1;firefox-720;desktop;windows-10;,firefox,privacy-and-security,en-US,1289187;1289189;,pjcamp
+1279558,2020-02-11 13:55:43 -0800,2020-02-11T14:14:07Z,Crashing after few minutes IDLE with reason: SpawnASCReleaseThread,"<p>Hello,
+here is my crash report:
+<a href=""https://crash-stats.mozilla.org/report/index/8bf4812a-348f-4add-8c89-506dd0200211#allthreads"" rel=""nofollow"">https://crash-stats.mozilla.org/report/index/8bf4812a-348f-4add-8c89-506dd0200211#allthreads</a>
+</p><p>For last couple months i've sent ~20 bug reports to Mozilla. Each time Firefox crashes after few minutes (sometimes 15-20 minutes) of being idle. Seems like problem with Audio Sound Calibration but i couldn't finds any solution in Internet.
+New profile didn't fix my problem, disabling hardware acceleration neither.
+Any ideas how this problem could be solved?
+Thanks
+</p>",firefox-720;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,1289171;1289176;,lastbutnotleast
+1279556,2020-02-11 12:28:03 -0800,2020-02-11T13:19:38Z,Is there any way to have the list of open windows be in some kind of order?,"<p>I cannot fathom why Firefox doesn't have the drop-down list of open windows/tabs, is in some kind of rational order.  This is crazy,  as it could easily be in either chronological or alphabetical order!  Hunting all over the list, every time I want to find a particular tab is hugely frustrating and time consuming...
+</p>",tabs;firefox-730;desktop;,firefox,tabs,en-US,1289137;1289142;1289155;,StevenCee
+1279555,2020-02-11 12:12:16 -0800,2020-02-11T12:39:29Z,IAM company us,"<p>Selare.requmant steel building
+</p>",websites;desktop;,firefox,websites,en-US,1289128;,sksteelfabs43
+1279553,2020-02-11 11:09:53 -0800,2020-02-11T14:53:52Z,Cannot set Firefox as default browser Windows 10,"<p>When I started Firefox on my laptop (Windows 10 1909) this morning, Firefox noted that it was not the default browser. I clicked Set as Default, was taken to Settings and there was no default browser listed. When I clicked the button to set the default, Firefox was not listed (only Chrome, IE and Edge were there). I installed 73.0 last week but have been using my desktop most of the time since so I'm not sure when this changed. Firefox does appear in the installed apps list and is working normally when I open it. Did Microsoft do something that prevents Firefox from being the default browser? Is there another mechanism I can use to make Firefox the default?
+</p><p>Thanks for any help anyone can give me.
+</p>",firefox-730;other;desktop;,firefox,other,en-US,1289141;1289150;1289154;1289163;1289178;1289182;1289188;,cschleter
+1279552,2020-02-11 10:55:42 -0800,2020-02-11T13:24:02Z,WYSIWYG,"<p>wysiwyg – when attempting to print online WSJ article, text at right margin gets cut off, despite what appears on the screen. In Chrome, the article prints correctly, except for the fact that (unlike in Firefox) if there is an ad block in the middle of the article Chrome will print a white space (say, about 3 inches in height) where ad appeared. Suggested fix – to delete print_printer – did not work. Second suggested fix – to edit prefs.js file did not work. My HP laptop’s resolution is 3840 x 2160 which may be part of the problem. Nevertheless in Chrome text prints correctly.
+</p>",firefox-7202;other;firefox-720;desktop;windows-10;,firefox,other,en-US,1289115;1289140;1289159;,cnastro
+1279551,2020-02-11 10:51:16 -0800,2020-02-11T11:33:26Z,Where is the adobe acrobat extension?,"<p>The Adobe Acrobat extension is not present.  Why?
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1289116;,mdhilliard
+1279550,2020-02-11 10:46:11 -0800,2020-02-11T14:00:21Z,"Website works in Chrome, IE, Safari, mobile. Broken in FF: Missing header, most images, broken span/div structures","<p>I get ""Skip to Content"" at the top of the web site.
+</p><p>Website is <a href=""https://simplexmerchantservices.com"" rel=""nofollow"">https://simplexmerchantservices.com</a>
+It's built using latest WP and Elementor Pro
+Using Cloudflare CDN
+It does not work for me or any of my employees in Firefox. I tried FF Safe Mode - no change.  
+FF ver 73.0 64-bit
+</p><p>Cache/Data cleared 
+New FF install
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1289145;1289172;,zorrik
+1279547,2020-02-11 09:39:13 -0800,2020-02-11T11:23:10Z,"firefox version 73 does not open right, stays in task bar but will not open on screen.  is there a fix yet? Win 10, zone alarm, 16 gb ram, 64 bit, dell 8700 xps","<p>firefox version 73 does not open right, stays in task bar but will not open on screen.  is there a fix yet? 
+Win 10, zone alarm, 16 gb ram, 64 bit, dell 8700 xps
+updated and also uninstalled it this morning because it would not work.  
+probably go back to version 71 which is downloaded in full on my pc 
+or use another browser.  
+FF 73 has ruined my day so far.
+</p>",other;desktop;,firefox,other,en-US,1289093;1289104;1289113;,ablstnlki12
+1279544,2020-02-11 09:19:32 -0800,2020-02-11T13:00:38Z,how do I find out if a download is legit?  I have two that won't let medo anything till I download them (jincloude and rangersover),"<p>Both take over and won't let me do anything. sometimes the even hide the log out button and I have to turn off the computer but cutting off the power.  I am 76 and don't understand these infernal machines   Thanks
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,1289146;1289148;,danpatch
+1279543,2020-02-11 09:16:17 -0800,2020-02-11T09:22:15Z,Why are there so many Firefox updates. I download one and then another will come again so after. Why?,"<p>This is almost more than weekly basis. Why so many updates in short period of time. Can there be that many changes in such a short time frame?
+</p>",firefox-710;other;desktop;windows-7;,firefox,other,en-US,1289076;,RyeSnake
+1279542,2020-02-11 08:43:12 -0800,2020-02-11T09:28:41Z,i am being blocked from accessing adult websites,"<p>i am getting this message today
+</p><p>Web Page Blocked!
+You have tried to access a web page which belongs to a category that is blocked.
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1289077;,amcatl
+1279540,2020-02-11 08:31:34 -0800,2020-02-11T10:39:33Z,"Delete ""Other Bookmarks"" which insists on repeating itself.","<p>At the end of my list of bookmarks is ""Other Bookmarks"" which has a subdirectories again and again ""Other Booksmarks"" It is EXTREMELY ANNOYING and I can't get rid of it. Please help me. 
+Larry
+</p>",bookmarks;firefox-720;desktop;firefox-7202;windows-10;,firefox,bookmarks,en-US,1289095;,lcullen
+1279539,2020-02-11 08:11:10 -0800,2020-02-11T08:11:10Z,firefox does not open PDF in Acrobat reader,"<p>We have customers that use Citrix published apps instead of Citrix Published Desktop. Everything was working fine. Previewing a file was done in Firefox and downloading a file would open it in Adobe Acrobat. Since the january update (we are allways at the latest version) files are only downloaded but not opened in Acrobat when I use FireFox as a published APP.  In IE everything works fine. When I do the same in a published desktop for this customer without altering the settings everything is working fine. I tried resetting the  application settings but to no avail. This customer is the only customer reporting this issue.
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US,"",jack.vandeur
+1279538,2020-02-11 08:04:46 -0800,2020-02-11T14:09:56Z,Getting the SVG document(contentDocument) using javascript inside the Object tag returns null,"<p>The following code work in Firefox v54, but stopped working on Firefox v68.4.1 (possibly earlier version as well).
+</p><p>index.html:
+&lt;body&gt;
+</p><p>&lt;object type=""image/svg+xml"" data=""test.svg"", id=""test_svg_id""&gt;    
+</p><pre>   Your browser doesn't support SVG
+&lt;/object&gt;
+</pre>
+<p>&lt;script type=""text/javascript"" src=""test.js""&gt;&lt;/script&gt; 
+</p><p>&lt;/body&gt;
+</p><p>javascript:
+function init() 
+{
+</p><pre> console.log(""init()"");
+</pre>
+<p>// Get the overall SVG defined in the Index HMTL page
+var svg_object = document.getElementById(""test_svg_id"");
+</p><p>// Get the SVG document inside the Object tag
+var svg_document = svg_object.contentDocument;
+}
+</p><p>Any idea why contentDocument is always null?
+</p>",firefox-680;websites;desktop;windows-7;,firefox,websites,en-US,1289149;1289156;1289160;1289161;1289162;1289168;1289170;1289177;,gbokth
+1279537,2020-02-11 07:54:10 -0800,2020-02-11T12:36:59Z,While logged into a secure site there are links to other secure sites that no longer work. Something blocking these links. It works in Google,"<p>I log into a secure site that grabs information from other secure sites which requires setting up passwords, authentication and ETC. Some these links need to be refreshed from time to time and requires an series of actions on my part to re-establish these automated links. The issue is when I try to re-establish the link, the first page will launch and then if I hit any key the link closes immediately. I think there is a security setting issue that is preventing me from making the appropriate re-linking procedures. Please note: This process work using Firefox at time however no longer works. I tried re-establish these links using Google and it worked. 
+</p><p>Any advice would be greatly appreciated.
+</p>",firefox-730;other;beta;desktop;windows-10;,firefox,other,en-US,1289064;1289069;1289139;,dennis.stoyak
+1279536,2020-02-11 07:23:55 -0800,2020-02-11T08:29:17Z,Help in Cleaning places.sqlite using SQLite queries/scripts,"<p>Hello, 
+</p><p>First I might not be using the right terminology/words/terms. So forgive my layman mistakes. 
+</p><p>I am trying to clean up places.sqlite using a 3rd party software/plugin as it is much faster. I am having issues creating the SQLite script. 
+</p><p>I would like to do two things: 
+</p><p>1) Remove all items from the table moz_places that contain certain words in the URL and also remove it's corresponding/linked rows in moz_historyvisits
+</p><p>2) (MORE IMPORTANT) Remove all moz_histroyvisits that do not have corresponding rows in moz_places 
+</p><p><br>
+Thank you
+</p>",firefox-560;other;desktop;windows-10;,firefox,other,en-US,1289066;,ProfessorLayman
+1279534,2020-02-11 07:18:17 -0800,2020-02-11T10:37:47Z,Easyjet website unworkable with Firefox,"<p>Having problem specific to <a href=""http://Easyjet.com"" rel=""nofollow"">Easyjet.com</a> website: when going through the booking procedure, get to options, such as seat selection, luggage, etc and when getting to car hire, trying to skip, the web site hangs. Tried with and without VPN, tried from different countries, called Easyjet who report not problems. Then went with different browsers (Google Chrome and Microsoft Edge) and it works like a dream. So this is a Firefox problem and I have had nearly an hour of my time wasted. Does anyone know what the problem is?
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1289094;,jorgen.westad
+1279533,2020-02-11 07:13:02 -0800,2020-02-11T07:42:41Z,Firefox crashes,"<p>I just updated to the latest version and now FF won't start up, it just goes to crash reporter
+</p><p>Crash ID: bp-e18a55fd-2aaf-4396-9415-b00be0200211
+</p>",desktop;fix-problems;bug1604008;,firefox,fix-problems,en-US,1289049;1289051;1289052;,gianilac
+1279526,2020-02-11 05:13:45 -0800,2020-02-11T12:23:55Z,Brave browser,"<p>I am trying to import my passwords and my bookmarks from Brave Browser but I can't do it because there isn't anyway if there is no way of doing it I'm going back to the Brave Browser.
+</p>",download-and-install_1;firefox-720;desktop;windows-10;,firefox,download-and-install,en-US,1289026;1289042;1289043;1289044;1289048;,qtrlion050
+1279525,2020-02-11 05:07:19 -0800,2020-02-11T05:07:19Z,instalar paquete criptografico pcks11 para el dnie,"<p>Hola buenos días
+Estoy intentand usar el DNIe ( ESPAÑA) pero firefox no reconoce el DNI, veo que reconocoe los AC RAIZ correctos pero no el dispositivo de seguridad. Acudo a instalar manualmente DNIe_P11_x64.dll pero mo dice que no puede cargar ese modulo y de hay no salimos.
+</p><p>¿que puedo hacer?
+</p>",firefox-7202;firefox-720;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,es,"",canguiem
+1279524,2020-02-11 04:19:30 -0800,2020-02-11T04:19:30Z,Amazon Cloud Cam website not loading live video,"<p>Anyone else having issues with the <a href=""http://cloudcam.amazon.com"" rel=""nofollow"">cloudcam.amazon.com</a> site? I am not able to connect to live video through that site. This happens on Linux &amp; Windows 10. I am able to access the live video through the phone app, so I know the live video feed is working. When I go the to the site, Firefox starts eating CPU &amp; RAM on my Windows PC. (I will have to double check this behavior on Linux when I am at home.)
+</p><p>I tried Chrome and there are no issues through chrome, is there a setting or something I am missing to be able to view live video through Firefox?
+</p>",firefox-7202;websites;firefox-720;desktop;windows-10;,firefox,websites,en-US,"",crash1krr
+1279522,2020-02-11 03:36:57 -0800,2020-02-11T03:36:57Z,"My Firefox (76.0.2) running on Mac OS High Sierra 10.13.6 has slowed due to TLS handshake issues that I will have to stop using it, can anyone help me?","<p>Until recently Firefox worked very quickly and then all of a sudden freezes or take an very long time to find a web site which previously  it found 'instantly'. I have not changed any settings on the computer so am at a loss to know what to do. I have read various messages on the web about this common problem and have cleared the 'History' etc., but that seems to only make things work for one search. The message showing states a TLS handshake is being undertaken. Any help would be gratefully received,
+</p>",firefox-720;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,"",davidcooper60
+1279520,2020-02-11 02:58:14 -0800,2020-02-11T03:09:16Z,What is this Important Firefox update available pop-up ?,"<p>I have been facing this for the past 20 days or so .Suddenly while working a pop up saying  ""Important Firefox update available "" appearing and its causing hell lot of inconvenience.Help me sort out the issue. Attached the screenshot of it. 
+</p><p>Thank you !!
+</p><p>cheers
+Raja
+</p>",other;firefox-720;desktop;windows-7;,firefox,other,en-US,1289009;,raja19
+1279518,2020-02-11 02:43:25 -0800,2020-02-11T05:33:28Z,Jak nastavit Firefox jako defaut browser na Windows 10 (návody z internetu i odsud nefungují),"<p>Dobrý den,
+celý problém spočívá v tom, že v nastavení jsou 4 prohlížeče, ale Firefox mezi nimi není. Opera, Chrome, Edge a MSIE.
+Zkusil jsem Firefox přeinstalovat, pak úplně smazat i s profilem, a pak znovu instalovat,nic toho nepomohlo.
+Nevíte  někdo, kam šáhnout do registrů a tam to přenastavit? 
+Dělá mi to jenom na jednom počítači. Windows 10 Pro 64 bit.
+</p>",download-and-install_1;firefox-720;desktop;windows-10;,firefox,download-and-install,cs,1289032;,roman.nadhera
+1279517,2020-02-11 02:15:43 -0800,2020-02-11T02:33:33Z,How to get Firefox to recognise SSL certificate issuer?,"<p>Hello all,
+</p><p>I have my own PKI infrastructure and I use encrypt all my devices and websites. Since the RootCAs are not trused. I'm currently using enterprise.roots enabled in the about:config section, right now I'm getting SSL certificate issue is not recognised by Mozilla. Is there a way where I could get Firefox to recognise my Root and Intermediate CAs and show the issuer, just like with other Companies?
+</p><p><br>
+Thanks
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,1288999;1289000;,aldabbagha
+1279512,2020-02-11 00:20:27 -0800,2020-02-11T01:23:00Z,Connection not secure in mozilla firefox while on other browser are working fine.,"<p>Were having a problem accessing the <a href=""https://beta.pldt.com/"" rel=""nofollow"">https://beta.pldt.com/</a> in Firefox. In Chrome and edge are working fine. In Firefox it doesn't automatically trust the SSL Cert ""GlobalSign RSA OV SSL CA 2018"".  Does GlobalSign RSA OV SSL CA 2018 trusted in firefox keystore? Thanks
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,1288991;1288995;,sliprock_23
+1279509,2020-02-10 23:15:58 -0800,2020-02-10T23:29:02Z,Firefox screenshots: no cloud upload possible?,"<p>Firefox screenshots provided a function to upload to the Mozilla cloud? Is that gone? Can I re-enable it from the configuration somehow?
+</p><p>Pity, it was an extremely useful feature, especially when collaborating with others...
+</p>",firefox-7202;firefox-720;desktop;tips;windows-10;,firefox,tips,en-US,1288973;1288974;,carmik
+1279507,2020-02-10 22:04:17 -0800,2020-02-10T22:04:17Z,How can I stop Firefox 72.0.2 on Mac OS Mojave from displaying sites in mobile view when I am on a desktop?,"<p>The same sites display in desktop view in Chrome.
+</p>",websites;mobile;,firefox,basic-browsing-firefox,en-US,"",lbignell01
+1279506,2020-02-10 21:46:50 -0800,2020-02-11T17:39:21Z,Why does Firefox 72.02 cause all my favicons to disappear? This has happened several times.,"<p>On several occasions, FF72.02 has coased all my favicons to disappear (Windows 8.1 Pro 64 bit). How can I recover these. Neither backing up the bookmarks as .json file nor backing up HTML bookmarks allows me to recover. Is there any file I can save to ensure the favicons are backed up. At one time there was an add-on, ""Favicon Restorer"" that worked resaonably well but it has not been available for some time. Restoring favicons manually is an extremely time consuming process and is no guarantee the they will not disapper again. Any suggestions would be appreciated.
+</p>",bookmarks;firefox-720;desktop;windows-81;,firefox,bookmarks,en-US,1288971;1288992;1288997;1289074;1289204;1289216;1289217;1289225;,Ulysses41
+1279504,2020-02-10 20:45:36 -0800,2020-02-10T20:45:36Z,MacOS menu bar disapears when watching a video on another display.,"<p>I am currently using MacOS, and I have the latest version as well as the latest version of Firefox, but I seem to keep having this issue where the menu bar disappears like on the picture below. 
+</p><p>This happens when I am using my two displays. I am watching a video on my external display (on full screen) as I am browsing the internet on my Macbook Pro display. For some reason the program disables the menu bar on the Macbook screen (where I am browsing). I never had this type of issue with another browser and don't want to switch back just because of this minor issue. 
+</p><p>I would really appreciate if somebody can refer me back to something, I have tried searching but no luck. 
+Thank you!
+</p><p>Image here --&gt; <a href=""https://imgur.com/a/ZnZ3btw"" rel=""nofollow"">https://imgur.com/a/ZnZ3btw</a>
+</p>",other;firefox-720;desktop;mac-os;,firefox,other,en-US,"",vpabloluis16
+1279503,2020-02-10 20:08:21 -0800,2020-02-10T20:08:21Z,wordpress not loading correctly,"<p>I was working perfectly with firefox and wordpress. BUT suddenly i started to have issues, now i cannot access to my site, cause when i go to .../wp-admin i got a blank page. if i go trough .../login i can see the WP login fields, BUT when i click on log in i got the same blank page. i tried these solutions: 
+</p><p>· Erased Cookies and cache [NOT WORKED]
+· Restarted in safe mode / no extensions [NOT WORKED]
+· Again safe mode + no extension + deactivated hardware acceleration [NOT WORKED]
+· Defaults for Firefox [NOT WORKED]
+</p><p>And i have just removed Firefox with AppCleaner, then used DiskAid to check HD, then restarted the mac, then downloaded Firefox again... and guess what?... :(
+</p><p>Any solution?
+</p>",firefox-7202;firefox-720;desktop;fix-problems;mac-os;,firefox,fix-problems,es,"",marioh.31
+1279502,2020-02-10 20:05:00 -0800,2020-02-10T21:19:02Z,Firefox with adobe flash player,"<p>Hi Team,
+</p><p>As a concern,we want to enquire that since our company has its own product which uses Flash technology but its been known now that firefox will not suppport adobe flash player after  2020.
+So if we save and continue to use an oder version of firefox(with autoupdate off),will it allow to continue usage of Adobe Flash Player after 2020?
+Please confirm the same or any other workaround so that adobe flash player can be used within firefox after 2020 as well.
+</p><p>Thanks
+</p>",download-and-install_1;firefox-720;desktop;windows-10;flash;,firefox,download-and-install,en-US,1288939;1288944;,seemapruthi24
+1279501,2020-02-10 19:50:18 -0800,2020-02-10T21:39:15Z,Everything is blank above the bookmarks toolbar.,"<p>It's literally all white above the favorites toolbar!
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1288947;1288953;,mosesg
+1279499,2020-02-10 19:36:33 -0800,2020-02-10T19:36:33Z,"¿Porque la página ""Destacados"" no funciona correctamente?","<p>Soy nuevo en Firefox, me he tomado todo el tiempo del mundo para organizar mis marcadores de los sitios que más concurro y de trabajo; los había configurado para que aparecieran en ""Destacados/Marcadores"" como página de inicio, todo bien, mis páginas favoritas se mostraban al abrir el navegador, pero resulta que hace 2 días han desaparecido como si nada, he luchado por reestablecer esta personalización sin éxito, me frustra mucho, ya que me gusta el navegador, pero si no se resuelve, tendré que buscar un navegador que cumpla con esta opción.
+</p>",bookmarks;firefox-720;desktop;firefox-7202;windows-10;,firefox,bookmarks,es,"",abner_diaz10
+1279497,2020-02-10 18:27:37 -0800,2020-02-11T06:59:12Z,Problem logging into my royalbank.com account,"<p>After upgrading to Firefox Ver 70 and newer I am having problems accessing my <a href=""http://royalbank.com"" rel=""nofollow"">royalbank.com</a> bank account.  It looks like I can successfully log in, but once I am redirected to my account web page the screen goes blank.  When I called royal bank they told me it is related to how Firefox's enhanced blocking protection is causing this.  I have created an exemption to exclude <a href=""http://royalbank.com"" rel=""nofollow"">royalbank.com</a> and associated domains from these FireFox protections, but sadly this is not working.
+I have also confirmed that I can successfully access my <a href=""http://royalbank.com"" rel=""nofollow"">royalbank.com</a> account using Internet Explorer and Chrome and so definitely this is a Fire fox issue.  Hopefully this issue will be elevated to the FireFox team so that it can be resolved in a further release.
+</p>",firefox-720;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,1288950;1289046;,sam48
+1279494,2020-02-10 16:49:40 -0800,2020-02-10T19:36:27Z,How to change colour of default themes without using addons or 'net access,"<p>HI
+I am using firefox 70.0.1, build 20191108022956 on Windows 7 (yuck) on an intranet without external net access nor the ability to install any addins.
+</p><p>How can I change the colour of the Menu bar , or better, change the colours used by the out of the box themes ?
+</p><p>(I used to configure lightweightThemes.recommendedThemes and lightweightThemes.usedThemes but that no longer seems to work)
+</p><p>Thanks in advance
+</p>",firefox-700;other;desktop;windows-7;,firefox,other,en-US,1288918;1288919;1288931;,rob52
+1279493,2020-02-10 16:30:17 -0800,2020-02-10T17:29:24Z,Firefox crashes when clicking certain websites or Youtube videos.,"<p>This issue started recently where if I click websites like Twitter, Yahoo, Imgur or sometimes embedded Youtube videos, I'll get the tab crashed page on Firefox. My add-ons are updated, I tried safe mode, I did the Firefox refresh, I disabled hardware acceleration, compatibility mode is not checked, and also cleared cookies, but none of them worked. The websites work and don't crash when I use a different browser. 
+</p><p>I'm not sure what info you need, but this is for an older computer with Windows 7, I'm using Firefox 68.4.2esr (says it's the latest version) and the crash reason is EXCEPTION_ACCESS_VIOLATION_WRITE
+</p><p>Thanks for any help!
+</p>",firefox-680;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,1288924;,vr6luke
+1279491,2020-02-10 16:06:01 -0800,2020-02-11T18:32:24Z,Firefox 72.0.0.2 doe`s not work with UE-V. Process starts and close.,"<p>Hello,
+</p><p>we have a problem with new version. UE-V is service that sync user data when process start and stop.
+Problem with Firefox 72.0.0.2 - firefox start process firefox.exe,  straight stop it and start other process.
+</p><p>This is makes a lot of problems, because ue-v see process is stooped and try upload profile.
+</p>",download-and-install_1;desktop;windows-10;,firefox,download-and-install,en-US,1288929;1288930;1288933;1288935;1288936;1288937;1288945;1289242;,den.pasternak
