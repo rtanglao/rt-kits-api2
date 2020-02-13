@@ -1,0 +1,127 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1279733,2020-02-13 06:36:04 -0800,2020-02-13T06:36:04Z,How to get tabs from a previous session back when FF starts?,"<p>Hello everyone. I am an old FF Windows user, but faced something new since moved to FF on Mac. 
+It does keep previous session when I try to troubleshoot - so I mean starting it, opening couple of tabs and trying to restart - 
+but unfortunately it does not if FF kept opened for days or weeks. 
+That's a pain, as lot of pinned tabs collected to the moment and I simply do not remember what was that weeks ago and it's not so easy to search throughout the history. 
+</p><p>Of course, Startup set to Restore previous session and History set to Remember.  
+I am aware there might be sessionstore.js or something like this, but might be there is some additional magic option to be set to avoid the issue? 
+I am aware of that ""last window to close - the only to remember"" problem. This is not the case. 
+</p><p>Just one window. Only pinned tabs. Clean window on start. No option to restore previous session (it's empty).
+</p><p>Appreciate any idea. 
+Thanks. 
+</p><p>P.S. I have found this thread, unfortunately it was left unanswered and archived: <a href=""https://support.mozilla.org/ru/questions/1174479"" rel=""nofollow"">https://support.mozilla.org/ru/questions/1174479</a>
+</p>",tabs;firefox-7202;firefox-720;desktop;mac-os;,firefox,tabs,en-US,"",25x8
+1279732,2020-02-13 06:33:28 -0800,2020-02-13T06:33:28Z,Firefox opens a new tab seemingly randomly (usually when using a bookmark) that goes to http://[myusername],"<p>Sometimes when I click on a bookmark on my bookmarks bar, and sometimes at complete random, the browser opens up a tab that goes to a very specific site over and over. In my case, it's <a href=""http://www.david.com"" rel=""nofollow"">www.david.com</a> since that is my firefox profile name. It doesn't seem to do the same thing with my wife's profile though. I have no idea what's causing this, and haven't found this problem anywhere else.
+</p><p>I would also note that it starts the tab with the code http://david and that eventually forwards to this.
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",dfishbait
+1279731,2020-02-13 06:31:41 -0800,2020-02-13T06:31:41Z,Restore session doesn't work after update,"<p>I have a very high tab count, and when restoring Firefox I usually get the ""warning:unresponsive script"" pop up. I press continue, it pops up again, I press continue again, and my tabs are restored. All is well.
+However, when I restarted Firefox today, it updated, and rather than the unresponsive script box, I get a blank pop up. I cannot do anything, and my tabs cannot be restored.
+I tried a refresh and a clean install, but that does nothing.
+</p>",tabs;desktop;,firefox,tabs,en-US,"",tobylquach
+1279729,2020-02-13 06:25:53 -0800,2020-02-13T06:25:53Z,Can only visit this site in safe-mode,"<p>For the last few days I have been having a lot of trouble visiting <a href=""https://www.wunderground.com/personal-weather-station/dashboard?ID=IQUEBECB4"" rel=""nofollow"">https://www.wunderground.com/personal-weather-station/dashboard?ID=IQUEBECB4</a>
+Unless I am in safe-mode this site will keep loading more and more data until the tab either crashes or my computer completely locks up. Disabling all my add-ons doesn't help. I have to be in safe mode.  Wjhile on the site in any other way than safe-mode, I get those warnings at the top of the page that a page which is loading is slowing down my computer. Even if I click stop loading the page, the same process continues until the tab crashes or the computer locks up. Seems to be they have found a way to defeat all the tracking and ad block measures in Firefox. How can I visit the site without starting FF in a terminal in safe-mode?
+</p>",firefox-730;desktop;fix-problems;linux;,firefox,fix-problems,en-US,"",frankzen
+1279727,2020-02-13 06:06:34 -0800,2020-02-13T06:06:34Z,Title Bar and Drag space options missing in Openbox Window Manager,"<p>When using Firefox under openbox the ""Title Bar"" and ""Drag Space"" Options are missing in the customize options. 
+In other Window Managers the settings are there and working.
+I know CSD doesn't work under openbox, however one can manually disable the titlebar under openbox. But without these options there are no Maximize or Close buttons.
+</p>",firefox-730;customize;desktop;linux;,firefox,customize,en-US,"",thomasfremmer
+1279724,2020-02-13 05:20:22 -0800,2020-02-13T05:20:22Z,New tab page (top sites page) is missing top margin (not centered vertically),"<p>Hello Mozilla fellows.
+</p><p>Yesterday a top margin of the ""New tab"" page (""top sites"" etc. page) suddenly became missing (not centered vertically) in my Firefox 73.0. This page displays broken for any Firefox profile (for Firefox instances of other users of the same Windows), so resetting (""refreshing"") Firefox is not a solution, and most simple Firefox reinstallation also did not help. 
+</p><p>(I believe there are no screenshot needed here, as anybody knows what is a large top margin of a centered [div] entity, and how does its absence should look.)
+</p><p>My desktop AMD A6 computer where Firefox got this problem is maintained pretty ""default"" - Windows is strictly genuine out-of-the-box, there was no any errors caught of any custom settings invoked during any software installations, every software unit in Windows is free of charge (no stolen software at all), all hardware drivers are ok, desktop graphics are set to usual 1920x1080 32bpp Windows Aero, and I even did not use any realtime antiviruses for years. There are also no any add-ons\extensions\plugins\themes in Firefox, and no Flash or Java installed.
+</p><p>A similar question (№ 1268604) already exists here for a few months, but I decided to also begin a new thread for the issue, because the problem is quite sensitive for me - I do not want to reset entire PC to get rid of this tiny bug, even though I guess this would help a bit :)
+</p><p>Can anybody clearly explain me, what and why has changed in my Firefox files yesterday and how can I fix this by any obvious tiny configuration actions or something alike? I still believe that a solution different from complex hardcore action exists for my case :'/
+</p>",firefox-730;other;desktop;windows-7;,firefox,other,en-US,"",fernitoid
+1279723,2020-02-13 05:13:52 -0800,2020-02-13T06:41:55Z,Used Firefox for Years. Now I am unable to sync through browser.,"<p>I made a backup of my bookmarks and uninstalled Firefox trying to resolve my issue. I re-installed and get the same thing each time even after rebooting in between?
+This is what I get <a href=""https://monosnap.com/file/MW8PAMrwEnZj2kPApN1htmMk4hMfUJ"" rel=""nofollow"">https://monosnap.com/file/MW8PAMrwEnZj2kPApN1htmMk4hMfUJ</a>
+Please advise, thanks in advance.
+Gary
+</p>",sync;desktop;windows-10;,firefox,sync,en-US,1289751;,garyaura
+1279722,2020-02-13 04:57:39 -0800,2020-02-13T06:41:39Z,Common Pages won't load on Firefox,"<p>The message:
+</p><p>Secure Connection Failed
+An error occurred during a connection to <a href=""http://orise.orau.gov"" rel=""nofollow"">orise.orau.gov</a>. PR_CONNECT_RESET_ERROR
+</p><pre>   The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.
+   Please contact the website owners to inform them of this problem.
+</pre>
+<p>This web page ( <a href=""https://orise.orau.gov/index.html"" rel=""nofollow"">https://orise.orau.gov/index.html</a> ) as well as others have just refused to load ONLY on Mozilla Firefox 73.0
+I accessed this page daily on Mozilla Firefox with zero problems until now.
+They do load on ALL other browsers however, I've always liked (past tense) Firefox and now it's driving me nuts.
+They do NOT load on any Firefox browser on tablets, phone, laptop, desktop. But do load on any other browser. But they did before.
+I have NOT changed anything other than Firefox updates. I do not have any extensions, add-ons.
+All applies to one internet provider and since the pages load on any other browser besides Firefox, I assume the problem is Firefox.
+I really liked Firefox until today. I'm at a loss, can anyone help with this, please?
+Thanks...
+</p>",firefox-730;desktop;fix-problems;windows-10;certifictes;,firefox,fix-problems,en-US,1289722;1289747;,charliet3826
+1279720,2020-02-13 04:12:00 -0800,2020-02-13T04:53:39Z,Firefox hangs does not access internet,"<p>The Firefox page opens and hangs. the menu opens but clicking on anything does nothing.
+</p>",desktop;fix-problems;windows-10;bug1614885;,firefox,fix-problems,en-US,1289717;,manbear07
+1279716,2020-02-13 03:51:57 -0800,2020-02-13T03:51:57Z,"He marcado los sitios populares 4 filas, pero en la página de inicio no me aparen.","<p>Me ocurre desde la última actualización (miercoles, 12 de Febrero de 2020).
+</p>",firefox-730;customize;desktop;windows-81;,firefox,customize,es,"",tiolabota
+1279711,2020-02-13 01:33:23 -0800,2020-02-13T02:24:37Z,firefox experience getting worse instead of better...,"<p>before firefox never got stuck, but now it does often (especially after making and tryingn to save screenshots) and i cannot even end the task with force - have to cold restart my computer then!
+</p><p>also i'm looged out of sites and services that i use often all the time without wanting it. blocked popups are not visible anymore and complicated to open them manually... websites look broken and shit because of blocked facebook widgets etc.
+</p><p>hope you're back on a better track soon! i care less about some tracking cookies etc. than on a well performing (and beautiful) browser not showing and making me problems all the time...
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1289685;1289689;1289694;,wgwien18
+1279710,2020-02-13 01:19:27 -0800,2020-02-13T02:11:35Z,If I start Firefox by clicking a link in another application or operating system a window without Menu Bar items is opened,"<p>As stated in the title, everytime when I open a link in the operating system (i.e. clicking on a link in an email or opening a website with Alfred) while Firefox is not already running, the following happens:
+</p><p>1. Two Firefox windows are opened
+2. One window opens the requested website (<a href=""https://startpage.com"" rel=""nofollow"">https://startpage.com</a> in the Screenshots) but has no context items in the Menu Bar above.
+3. The second opens at Home and has the items in the Menu Bar.
+</p><p>I am using Mac OS Catalina (multiple versions) and the issue persisted a complete reinstall (I wiped my hard drive and did a clean install) of the operating system. I tried mainstream Firefox 73.0 and Firefox Dev Edition latest beta 74.0b2. (Used `brew cask` to install)
+Also I do have another Mac on High Sierra that does not have this issue.
+</p>",firefox-740;beta;desktop;fix-problems;,firefox,fix-problems,en-US,1289686;1289690;,marco.dinardo
+1279709,2020-02-13 00:24:32 -0800,2020-02-13T00:26:56Z,Firefox descarga archivos index.html automáticamente,"<p>Firefox, en mi teléfono Android, descarga archivos index.html automáticamente de /storage/emulated/0/Download/
+</p><p>Se descarga automáticamente un archivo llamado index.html cada pocos días varias veces al día.
+</p><p>¿Cómo puedo evitar esto?
+</p><p>Gracias.
+</p>",desktop;fix-problems;,firefox,fix-problems,es,1289676;,alvarobuenolumbreras
+1279708,2020-02-13 00:21:54 -0800,2020-02-13T02:17:26Z,"The last 2 months, 3 times firefox has deleted my profile with everything in it, how can this be stopped?","<p>It is the third time in the last 2 months that i open my firefox finding a message to create a new profile or choose one, but from all the folders in the profiles folder the backup files are missing.Also i noticed that this is happening after windows update.Does someone had any similar problem and knows how to solve it so it will not appear <a href=""http://again.By"" rel=""nofollow"">again.By</a> the way i use firefox for almost 10-12 years and i never encountered that before.
+</p><p>Thank you for your time
+</p>",bookmarks;firefox-720;desktop;windows-10;,firefox,bookmarks,en-US,1289691;,giotisab
+1279707,2020-02-12 23:37:21 -0800,2020-02-13T03:05:28Z,How do I get sync to work for browsing history?,"<p>I have Firefox 73.0 (64 bit) on Windows 7 and am moving to Windows 10 using Laplink (yeah, ok).  Laplink does not seem to see this version of Firefox to transfer over.  So, I used sync on the Win 7 unit for everything and downloaded Firefox 73.0 (64 bit) to the Win 10 unit, and then logged on and synced.  Everything seemed to move over except the browsing history.  How do I get browsing history to transfer to Windows 10?  Thanks.
+</p>",download-and-install_1;firefox-730;desktop;windows-7;,firefox,download-and-install,en-US,1289674;1289700;,fthill2003
+1279705,2020-02-12 21:18:05 -0800,2020-02-13T04:18:38Z,"""Social media tracking block"" new feature interferes with (SURPRISE!) control for Adobe Flash","<p>Well, here we are at version 73.0 and the developers are now making life even more miserable after their premature decision to disallow Flash to run without having to be authorized EVERY DAY on EVERY SITE that still uses it (and no, developers, you are not forcing the website designers to dump Flash faster by your stubbornness).
+</p><p>Today, I got a new drop-down from the address bar about Firefox blocking social media sites from tracking me.  I can't complain about that -- at least, not until some problem pops up for me as a result of it -- but it is obscuring the control to allow Flash to run, and by the time I got the new drop-down cleared the control did not allow Flash to run and I had to reload the page.
+</p><p>However well-intentioned the developers are, I still maintain that they should -- until Flash officially deprecates at the end of the year -- allow a decision made by the user to allow Flash at a specific website to be saved by Firefox and eliminate the daily hassle of re-authorizing.  ESPECIALLY SINCE NOW THAT OTHER ENHANCEMENTS INTERFERE WITH THE FLASH ALLOWING DROP-DOWN.
+</p><p>This is my ongoing request, which will be made on every new release this year until the developers understand that they are making the experience of using Firefox less user-friendly.  All because they just couldn't wait for the Flash deprecation to change how Firefox treats that plug-in.
+</p><p>Guys, you are NOT the overseers of the internet, and the internet does not make changes just to keep you happy.
+</p><p>Fix this in version 74 so I don't have to embarrass you again over this.
+</p>",privacy-and-security_1;firefox-730;desktop;windows-7;,firefox,privacy-and-security,en-US,1289675;1289688;1289693;1289707;1289710;1289712;,Kymber
+1279704,2020-02-12 21:14:22 -0800,2020-02-12T21:38:39Z,Firefox crashes,"<p>bp-6fde5768-8b7e-48f1-a421-b5f370200213
+</p>",desktop;fix-problems;firefox-730;windows-10;bug1604008;escalate;,firefox,fix-problems,en-US,1289653;1289654;1289655;,ando.takashi
+1279703,2020-02-12 21:07:49 -0800,2020-02-12T22:49:06Z,Firefox 73.0 Mac OS slow to load some web pages,"<p>Since the 73.0 update Firefox 73 loads SOME web pages slowly. For example, got to <a href=""http://tesla.com"" rel=""nofollow"">tesla.com</a> and click on model S. This page barely loads. It starts but the graphic seems very slow. I tried loading Firefox 73.0 in safe mode, same problem. Safari loads everything quickly so not my internet connection. Firefox 72 (72.0.2) worked perfectly
+</p><p>Running Mac OS Mojave on a 2013 Mac Pro.
+</p>",firefox-730;desktop;fix-problems;mac-os-1014;,firefox,fix-problems,en-US,1289656;1289659;1289667;,jschneid002
+1279702,2020-02-12 20:27:36 -0800,2020-02-12T20:27:36Z,Sling TV will run in Firefox but the sound drops out in five seconds.  Works on Chrome.  Why?,"<p>My Firefox version just updated to 73.0 (64 bit) and it still does this.   It loads the Sling website, <a href=""http://sling.com"" rel=""nofollow"">sling.com</a>, and it streams video fine.  The sound is fine for about 5 seconds, then it's gone.  I tried it in Chrome and there are no issues.  That's the only issue that I have.
+</p>",firefox-730;desktop;fix-problems;,firefox,fix-problems,en-US,"",e_fowlkes
+1279700,2020-02-12 19:50:11 -0800,2020-02-12T21:43:27Z,Firefox does not open,"<p>Hi,
+</p><p>I am running mac os catalina (latest), and up until today was using Firefox 72.2. For some reason it stopped working, when I click on the app to open it no window opens and the app immediately closes. I deleted the app, and installed version 73 after restarting the mac. Still had the same issue. I repeated the process of uninstall/install back, this time I even deleted all corresponding files in the Library (cache, app support etc). To note please that no error message appears and no crash report created. I repeated this process several times and still no result. Any suggestions?
+Thanks
+</p>",other;desktop;,firefox,other,en-US,1289658;,omar_squalli
+1279698,2020-02-12 19:28:34 -0800,2020-02-12T20:21:27Z,How to hide all tabs in one or more containers,"<p><a href=""https://support.mozilla.org/en-US/kb/containers"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/containers</a> seems to suggests that it's possible to hide all tabs in certain containers, but does not explain how to do that.
+</p><p>""Hide and Show: Assume you use your browser for both Work and Personal tasks. When you come home at the end of the day, you don’t want to be thinking about “Work” anymore, but your browser is full of Work tabs. You can “Hide” your Work tabs and proceed with your Personal tasks. Then the next day, when you are back at work, you can “Hide” your Personal tabs and “Show” your Work tabs.""
+</p><p>On an aside, I'm also getting pretty confused between collections (mobile), containers (desktop), sessions, tab groups, etc... they all seem to have overlapping but different functionality.
+</p>",tabs;firefox-730;desktop;linux;,firefox,tabs,en-US,1289643;1289645;1289646;1289649;1289650;,chris175
+1279696,2020-02-12 19:02:35 -0800,2020-02-13T06:44:26Z,List of saved logins disappeared,"<p>Using Ubuntu 18.04 and Firefox 72.0.2 (via Ubuntu repos). My list of ""Saved Logins"" has disappeared. Whether I get to the list via Preferences or about:logins, the list is empty. I should have 100s of logins saved. But when I go to a website that had a saved login, the fields are auto populated.
+</p><p>No I don't have logins.json.corrupt. I only have logins.json
+No I don't have AVG. I'm on Ubuntu Linux.
+No I don't have multiple profiles. Just one. Default profile.
+</p><p>Firefox has really become insufferable lately. Forced update restarts, forced multiprocess mode and now bugs like this. 
+</p><p>I want my list of logins back please.
+</p><p>And funny enough, the mozilla support site seems broken on Firefox. Kept getting ""access denied"" when trying to post with Firefox, so here I'm posting this via Chromium.
+</p>",desktop;fix-problems;ubuntu-1804;,firefox,fix-problems,en-US,1289647;1289648;1289657;1289752;,noel.ambrose
+1279695,2020-02-12 18:56:18 -0800,2020-02-12T20:56:04Z,Firefox 73.0 printing to pdf on Mac OS 10.13 doesn't carry the page title to filename,"<p>I have tried every other browser on this machine(Safari,Chrome,Opera) and they carry the page title to the filename when saving it as a pdf (Ie ""Ask your question to our community of user.pdf"" for this page). I have run this browser in safe mode, used a newly created profile  but the problem still remains. I ran a new Firefox Developer Edition version which had the same results. Then I ran Firefox 72.0 which did everything as it should. So my belief is there is some bug in 73.0 that is causing this
+</p>",firefox-730;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,1289651;,fugitivemedia
+1279692,2020-02-12 17:45:32 -0800,2020-02-12T17:45:32Z,Drag and dropping images does not work again (MacOS).,"<p>Dragging and dropping images from search engines (e.g DuckDuckGo/Google) will not work, once dropping an image on the desktop for example, the image just snaps back to Firefox and does not actually save. The workaround is to click the image again to view its direct link and then you can drag and drop again.
+</p>",firefox-730;other;desktop;,firefox,other,en-US,"",liamn2002
+1279690,2020-02-12 17:01:43 -0800,2020-02-13T04:32:22Z,"Can I safely delete an 8-month-old ""Old Firefox Data"" file folder on my desktop?","<p>It's on my desktop and dated 14 June 2019.  I've never paid it any mind, but I'd like to resolve the matter.  Do I or do I not need it?  I use Firefox EXCLUSIVELY linked with StartPage.  I don't think a day has gone by that I have not used Firefox for HOURS every day since the creation of the file folder.   A screenshot is too large to attach.  The folder contains 651 files, 125 folders, 118MB, and is located on C:\Users\Hochstapler\Desktop.  I don't know what's in it or how to find out what's in it.  I'd appreciate some sound advice.  I'll answer questions as quickly as possible.  Thanks.
+</p>",firefox-730;other;desktop;,firefox,other,en-US,1289622;1289711;1289713;,gaffney
+1279689,2020-02-12 16:49:48 -0800,2020-02-12T18:39:48Z,After upgrade to FireFox 73.0 (64 bit) URL desktop shortcut icons have become very small,"<p>After upgrade to FireFox 73.0 (64 bit) URL desktop shortcut icons have become very small. Attached file shows new icon size on left and old icon size (approximate) on right.
+</p><p>Any suggestions of how to get larger size back?
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1289637;,kenlcarter
+1279686,2020-02-12 16:18:41 -0800,2020-02-12T21:03:35Z,Why is Firefox not loading pdf files on some websites?.,"<p>The websites display an error message.  Refreshing site does not solve the problem.
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1289623;1289630;1289652;,lew2
+1279685,2020-02-12 16:11:58 -0800,2020-02-12T16:34:26Z,The new update has color functionality that I need to turn off. How do I disable the new color functionality?,"<p>With the new firefox browser update they included color functionality that was supposed to ""help"" those of us with color vision issues. It doesn't help at all, in fact it actually makes it even harder for some of us to utilize the browser. Now with web sites like yahoo email and ebay, just to name two, there are color accents that are forced upon the user. I utilize a high contrast setting on my computer with the black background and white text. The web browser now ignores that and visiting some web sites it is like looking into a bright flashlight. Is there any way to disable or turn off the new color functionality?
+</p><p>I have also found that trying to use browser themes no longer stays. What I mean is that after setting a ""theme"" it works until you open a new tab or window and then it goes back to the firefox defaul theme. When checking the add on theme it still says that the theme I wanted is selected and enabled but in truth it isn't.
+</p><p>The first screen shot shows what the theme should be but you can see that it is not working and that happens with any selected and enabled theme.
+</p><p>The second screen shot shows the bright blue bar at the top of the yahoo email page. It used to be black until the 2-11-2020 update of firefox.
+</p><p>The third screen shot is of an ebay page after the update. 
+</p><p>I know it seems trivial to those of you with normal color vision but when you cannot work with the color  nor change what you are seeing, it is more than just frustrating.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1289601;1289604;1289607;1289610;,sashakmorgann
