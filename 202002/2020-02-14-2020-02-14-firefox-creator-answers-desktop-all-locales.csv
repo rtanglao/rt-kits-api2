@@ -1,0 +1,264 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1279851,2020-02-14 07:09:13 -0800,2020-02-14T07:09:13Z,"When I open Firefox, it won’t load anything at all.","<p>edit: duplicate, please continue at <a href=""https://support.mozilla.org/en-US/questions/1279850"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1279850</a>
+</p><p>The webpage is just blank, nothing loads, nothing is in the search bar. It won’t let me open settings or view my save passwords at all. I’ve tried using other web browsers and they work.
+</p>",other;desktop;,firefox,other,en-US,"",alliecatm21
+1279850,2020-02-14 07:09:13 -0800,2020-02-14T07:11:02Z,"When I open Firefox, it won’t load anything at all.","<p>The webpage is just blank, nothing loads, nothing is in the search bar. It won’t let me open settings or view my save passwords at all. I’ve tried using other web browsers and they work.
+</p>",other;desktop;bug1614885;,firefox,other,en-US,1290155;,alliecatm21
+1279849,2020-02-14 07:05:37 -0800,2020-02-14T07:05:37Z,Como faço para excluir ou desativar permanentemente o modo de navegação privada do meu navegador?,"<p>Quero excluir o modo de navegação privada do Firefox
+</p>",tabs;firefox-720;desktop;windows-7;,firefox,tabs,pt-BR,"",lucasduarte_14
+1279848,2020-02-14 07:00:08 -0800,2020-02-14T07:17:31Z,Firefox 73 SSB on Unity often results in a blank white window and also is lacking some basic functions,"<p>browser.ssb.enabled = true
+$firefox --ssb https://whatever
+</p><p>Often opens just a blank.
+Some times works as it should.
+</p><p>Also there's no way to go back/forwards and some other base HTML navigation is broken.
+</p>",firefox-730;other;desktop;ubuntu-1804;,firefox,other,en-US,1290157;,madoo1
+1279847,2020-02-14 06:37:23 -0800,2020-02-14T06:46:21Z,Firefox has stopped working in Windows 8.1,"<p>I currently run Windows 8.1 on my laptop. I upgraded to Firefox 73 a couple of days ago, and now when I open Firefox, I immediately get an error box and the message that ""Firefox has stopped working"". I have uninstalled Firefox, rebooted my laptop and reinstalled Firefox, but get the same results. I also uninstalled 3 Microsoft KB updates that ran on the day that Firefox initially failed. Nothing seems to fix the problem. I also run Google Chrome, and have not issues with it. 
+Here are the details of the problem:
+Problem signature:
+</p><pre> Problem Event Name:	BEX64
+ Application Name:	firefox.exe
+ Application Version:	73.0.0.7342
+ Application Timestamp:	5e3dd850
+ Fault Module Name:	StackHash_f96d
+ Fault Module Version:	0.0.0.0
+ Fault Module Timestamp:	00000000
+ Exception Offset:	PCH_E3_FROM_firefox+0x0000000000012DA7
+ Exception Code:	c0000005
+ Exception Data:	0000000000000008
+ OS Version:	6.3.9600.2.0.0.768.101
+ Locale ID:	1033
+ Additional Information 1:	f96d
+ Additional Information 2:	f96d8dfc5abfdb4955f2d95536ed83bc
+ Additional Information 3:	ac30
+ Additional Information 4:	ac3018f570c0593619fc4cea353ba848
+</pre>",desktop;fix-problems;windows-81;,firefox,fix-problems,en-US,1290151;,krary
+1279845,2020-02-14 06:20:12 -0800,2020-02-14T06:20:12Z,Es normal que no se me muestren todos los marcadores en el catálogo de marcadores?,"<p>Buenas! Vengo a hacerles una pregunta, es normal que no se me muestren todos los marcadores en el catálogo de marcadores? Soy una persona que guarda muchos marcadores de páginas que usara luego (como tutoriales y manuales de programación), y desde que usaba FIrefox 71.0 (el que vino preinstalado en mi sistema, ahora uso la version 73.0) no se muestran todos. Esto es normal?
+</p>",bookmarks;firefox-730;desktop;,firefox,bookmarks,es,"",advancestunx
+1279841,2020-02-14 05:41:02 -0800,2020-02-14T06:43:56Z,"Blank screen, though bookmark bar etc show","<p>Using Firefox 73.0 (64-bit) Windows 10.  Screen on Firefox blank, though bookmarks etc show. If click on favorite in favorite bar, like <a href=""http://google.com"" rel=""nofollow"">google.com</a>, does not fill in address space. If put url in address space and hit enter, nothing happens -- blank screen continues. 
+</p><p>All other browsers work fine. Firefox has been trouble free before this happened. Tried:
+1. reinstalling Firefox
+2. Starting Firefox in safe mode
+3. refreshing Firefox
+4. Ran Malwarebytes looking for malware.
+5. Went to Windows registry restore point, which solved the problem for one day, than Firefox blank screen problem returned when started computer the next day.
+Any help to get Firefox back would be appreciated! Thank you.
+</p>",other;desktop;windows-10;bug1614885;,firefox,other,en-US,1290149;,jeffblom
+1279840,2020-02-14 05:38:02 -0800,2020-02-14T05:38:02Z,"Very regular crashing, only 30 tabs open, of which 28 constantly pinned. Unknown cause.","<p>In the past 5 minutes, MFF 73.0 x64 crashed 3 times.
+I've sent an error report, I always do, so quite a few should be at Moz.
+System:
+I5 6600K
+16gb RAM
+GTX 1060 6GB
+16tb disk space, of which 60% to 70% in use.
+</p><p>Crashes are irregular in time, but always with an instant CDT.
+</p><p>Tabs also frequently crash out on me, for no apparent reason.
+This too happens at irregular intervals.
+See picture below.
+</p><p>Please advice?
+Thank you.
+Xog.
+</p>",firefox-720;desktop;fix-problems;,firefox,fix-problems,en-US,"",Xogroroth
+1279839,2020-02-14 05:31:06 -0800,2020-02-14T05:31:06Z,"Здравствуйте, нашел проблему с инструментом разработчика при включении выбора элемента со страницы","<p>Здравствуйте, в разработке веб-страницы я использую сетку grid, и написании определенных параметров, при включении выбора элемента со страницы, браузер Firefox намертво зависает (хотя в других браузерах все нормально), в диспетчере задач браузера, вкладка просто пропадает, хотя если открыты вкладки других сайтов, они остаются в процессах. Проблема проверялась на разных компьютерах, в разных версиях и различных браузерах, и эта проблема наблюдается только в браузере Firefox.
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",valentin7696
+1279838,2020-02-14 05:20:31 -0800,2020-02-14T07:15:33Z,Twitter account doesn't stay logged in between browser sessions,"<p>long time ago my hdd had broke and i get a new one i download and install new firefox 
+i login to twitter it stay in but when i exit browser and start again it make me login to twitter again and again
+but i try opera and it stay login
+</p>",firefox-730;websites;desktop;,firefox,websites,en-US,1290153;1290156;,nhan.th2109
+1279837,2020-02-14 05:13:19 -0800,2020-02-14T05:13:19Z,Favoritos não aparecem em 'Destaques' na página inicial.,"<p>Estou com um problema em que nem todos os favoritos aparecem em 'Destaques' na página inicial do Firefox como deveriam. 
+Como solucionar?
+</p>",bookmarks;firefox-730;desktop;windows-10;,firefox,bookmarks,pt-BR,"",geege.lopesp
+1279836,2020-02-14 05:11:11 -0800,2020-02-14T05:11:11Z,"Why can not scroll bookmarks (underlined star) in Win 10, works in Win 7? (arrow on bottom of bookmark list is missing)","<p>Application Basics
+</p>
+<hr>
+<p>Name: Firefox
+Version: 73.0
+Build ID: 20200207195153
+Update Channel: release
+User Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
+OS: Windows_NT 6.1
+Launcher Process: Enabled
+Multiprocess Windows: 1/1 Enabled by default
+Remote Processes: 6
+Enterprise Policies: Inactive
+Google Location Service Key: Found
+Google Safebrowsing Key: Found
+Mozilla Location Service Key: Found
+Safe Mode: false
+</p><p>Crash Reports for the Last 3 Days
+</p>
+<hr>
+<p>Firefox Features
+</p>
+<hr>
+<p>Name: DoH Roll-Out
+Version: 1.3.0
+ID: doh-rollout@mozilla.org
+</p><p>Name: Firefox Screenshots
+Version: 39.0.0
+ID: screenshots@mozilla.org
+</p><p>Name: Form Autofill
+Version: 1.0
+ID: formautofill@mozilla.org
+</p><p>Name: Web Compat
+Version: 7.0.0
+ID: webcompat@mozilla.org
+</p><p>Name: WebCompat Reporter
+Version: 1.1.0
+ID: webcompat-reporter@mozilla.org
+</p><p>Remote Processes
+</p>
+<hr>
+<p>Type: Web Content
+Count: 4 / 8
+</p><p>Type: Extension
+Count: 1
+</p><p>Type: GPU
+Count: 1
+</p><p>Extensions
+</p>
+<hr>
+<p>Name: <a href=""http://Amazon.com"" rel=""nofollow"">Amazon.com</a>
+Version: 1.1
+Enabled: true
+ID: amazondotcom@search.mozilla.org
+</p><p>Name: Bing
+Version: 1.1
+Enabled: true
+ID: bing@search.mozilla.org
+</p><p>Name: DuckDuckGo
+Version: 1.0
+Enabled: true
+ID: ddg@search.mozilla.org
+</p><p>Name: eBay
+Version: 1.0
+Enabled: true
+ID: ebay@search.mozilla.org
+</p><p>Name: Google
+Version: 1.0
+Enabled: true
+ID: google@search.mozilla.org
+</p><p>Name: Twitter
+Version: 1.0
+Enabled: true
+ID: twitter@search.mozilla.org
+</p><p>Name: Wikibuy from Capital One
+Version: 0.1.433
+Enabled: true
+ID: {aff8af88-06a9-4eee-b383-3af08c47b8c8}
+</p><p>Name: Wikipedia (en)
+Version: 1.0
+Enabled: true
+ID: wikipedia@search.mozilla.org
+</p><p>Name: Login Assistant Tab
+Version: 1.3.0
+Enabled: false
+ID: webext@LoginAssistantTab
+</p><p>Name: Manuals Search
+Version: 1.0.19.1203
+Enabled: false
+ID: {ee075bcc-2101-4c9e-8f04-7e7281ca5c74}
+</p><p>Graphics
+</p>
+<hr>
+<p>Features
+Compositing: Direct3D 11 (Advanced Layers)
+Asynchronous Pan/Zoom: wheel input enabled; scrollbar drag enabled; keyboard enabled; autoscroll enabled
+WebGL 1 Driver WSI Info: EGL_VENDOR: Google Inc. (adapter LUID: 000000000000a9dd) EGL_VERSION: 1.4 (ANGLE
+</p>",bookmarks;firefox-730;desktop;windows-7;,firefox,bookmarks,en-US,"",john327
+1279835,2020-02-14 05:07:09 -0800,2020-02-14T06:01:32Z,Youtube autoplay videos when switching tabs (I don't want that),"<p>Okay, so before, when I loaded up 100+ Youtube videos, they stayed when switching tabs - no autoplay. Suddenly they decide to autoplay when switching tabs - note, I've not done anything to my settings or plugins. Fair enough, maybe you changed something (which you often do, without informing). So I check the options. It was on ""Block audio"", which obviously didn't work, so I tried ""Block Audio and Video"" - which WORKS, but now both the video is paused (which I want) AND the audio is set to mute (which I DON'T want) - so... what does it take to have Youtube wait for a click to start playing a video loaded in a background tab, but KEEP AUDIO ACTIVE, so I don't also have to unmute the damn video?
+</p>",firefox-7202;customize;desktop;firefox-720;windows-10;,firefox,customize,en-US,1290138;,langbakk
+1279834,2020-02-14 04:58:49 -0800,2020-02-14T07:09:52Z,Why is DNS-over-HTTPs not being disabled when I have the canary domain set to return status NXDOMAIN?,"<p>I'm trying to disable DNS-over-HTTPs on my home network so my Pi Hole acts as my DNS server for Firefox while at home. I've configured it to treat the canary domain <a href=""http://use-application-dns.net"" rel=""nofollow"">use-application-dns.net</a> as if it doesn't exist. If I try to open that site in a different browser it says the server can't be found, and if I do a DNS lookup for it it confirms that my system gets NXDOMAIN for that domain name:
+</p><p>$ host -t ns <a href=""http://use-application-dns.net"" rel=""nofollow"">use-application-dns.net</a>
+</p><p>Host <a href=""http://use-application-dns.net"" rel=""nofollow"">use-application-dns.net</a> not found: 3(NXDOMAIN)
+</p><p>However Firefox continues to use DNS-over-HTTPs. Is there somewhere to find a log that shows when Firefox looks up that hostname to see if it's actually performing the check?
+</p><p>Environment:
+</p><p>Firefox 73.0 64-bit
+</p><p>macOS 10.15.3
+</p>",privacy-and-security_1;firefox-730;desktop;mac-os;,firefox,privacy-and-security,en-US,1290154;,trolley
+1279830,2020-02-14 04:17:57 -0800,2020-02-14T05:44:35Z,VPN network unaccessible with Firefox multiple profiles,"<p>Hello,
+</p><p>I have Firefox with two profiles, Personal and Work. I also have a VPN provided by the company which is setup on Windows 10 as a Public Network, on both profiles the network settings are the same and while the Personal has anti ads and privacy plugins, the Work doesn't have a single plugin.
+</p><p>My issue is that the Personal profile is able to use the VPN and access the work network while the Work profile is not. With both network settings matching, are there any settings in the About:config that i can check that would co-relate with the issue that i'm having?
+</p>",firefox-740;other;beta;desktop;windows-10;,firefox,other,en-US,1290136;,john277
+1279827,2020-02-14 03:56:20 -0800,2020-02-14T03:56:20Z,How do I stop windows update resetting my firefox startup settings,"<p>This has been annoying me for many months now and seems to be consistent across different versions of Firefox - i currently have 72.0.1 on 64 bit Windows 10.
+Every time Windows does an update my startup setting of 'restore previous session' gets cleared so that I start with a single home page.  Additionally, my default search engine gets changed to Bing.  Nothing else seems to get changed and everything works fine once I set the option back.
+Interest8ingly the I see the same happen to Internet Explorer (which I keep for use on a small selection of sites)
+Does anyone know how to stop these settings from getting reset all the time?
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,"",alove16
+1279824,2020-02-14 02:59:40 -0800,2020-02-14T02:59:40Z,Crashing after few minutes of being IDLE,"<p><a href=""https://crash-stats.mozilla.org/report/index/0e9142e8-34f9-4894-98c3-5712b0200214"" rel=""nofollow"">https://crash-stats.mozilla.org/report/index/0e9142e8-34f9-4894-98c3-5712b0200214</a>
+Similar to my other crash in this thread: <a href=""https://support.mozilla.org/en-US/questions/1279558"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1279558</a>
+</p><pre>but seems like different reason this time.
+</pre>",firefox-730;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,"",lastbutnotleast
+1279823,2020-02-14 02:56:31 -0800,2020-02-14T02:56:31Z,"Firefox 'help' does not work, as there is no option for Firefox as a default browser in Windows 10","<p>I have followed the Firefox instructions to set Firefox as my default browser in Windows 10 Pro.  When I get to the menu for default browsers, Firefox is not an option.  There is an option to find another browser in Windows Store, but Firefox is not in there.  It has a Firefox User Guide for £2.70.  Firefox keeps asking me to set it as default browser, but it seems impossible.  Please help?
+Terry
+</p>",firefox-730;other;desktop;,firefox,other,en-US,"",tharrisq
+1279822,2020-02-14 02:31:44 -0800,2020-02-14T07:19:05Z,Firefox'ta izlediğim videoları Smart TV'de nasıl yayınlarım?,"<p>Youtube'daki videoları youtube'un TV'de izle özelliği sayesinde kendi kodunu girerek TV ile bilgisayarı eşleştirebiliyor ve videoları tv'de oynatabiliyorum. Ama youtube dışında bilgisayarımda izlediğim diğer videolarıda tv de izlemek istiyorum. Google Chrome'da bildiğim kadarı ile yerleşik chromecast eklentisi sayesinde bu yapılabiliyor. Firefox'ta mümkün mü?
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,tr,1290145;1290158;,engintekeli
+1279821,2020-02-14 02:17:21 -0800,2020-02-14T05:13:06Z,Regularly Relosoun.com loads without permission and even starts Firefox - How to erase it?,"<p>Without my intention <a href=""http://Relosoun.com"" rel=""nofollow"">Relosoun.com</a> starts Firefox browser.
+When using the Firefox regularly (every 10-15 minutes) <a href=""http://relosoun.com"" rel=""nofollow"">relosoun.com</a> tryies to open the new tab being blocked by antivirus Avast. 
+All efforts including reinstalling Firefox, using CC cleaner, Malwarebytes etc do not help. On other gadgets <a href=""http://Relosoun.com"" rel=""nofollow"">Relosoun.com</a> doesn't appear in Firefox in the same account.
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1290109;1290117;1290129;,sergestrd
+1279819,2020-02-14 02:15:29 -0800,2020-02-14T03:34:08Z,Search on Google sometimes doesn't work,"<p>In the past few days every now and then when I use the firefox bar to make a search firefox tells me that it can't build a secure connection with <a href=""http://google.com"" rel=""nofollow"">google.com</a>. Basically firefox doesn't trust <a href=""http://www.google.com"" rel=""nofollow"">www.google.com</a>. I can't update a screenshot because right now it isn't happening.
+</p>",other;desktop;windows-10;,firefox,other,en-US,1290118;,richiba00
+1279817,2020-02-14 02:03:44 -0800,2020-02-14T02:03:44Z,"Can't create a developer account, getting error 'Your verification email was just returned. Mistyped email?'","<p>While signing up for the Firefox developer account I do receive the verification email from Firefox however before I receive an email the verification code field disappears and I cannot enter the verification code.
+I receive an error 'Your verification email was just returned. Mistyped email?'
+Tried with my company email account and one personal email account on <a href=""http://Outlook.com"" rel=""nofollow"">Outlook.com</a> but did not work with either.
+</p><p>Had a look at two other solutions for this problem but those did not work.
+</p>",firefox-710;other;desktop;windows-10;,firefox,other,en-US,"",gauravagashe1
+1279814,2020-02-14 01:52:46 -0800,2020-02-14T01:59:04Z,Need help with confirmation mail,"<p>""Sorry. We’ve locked your account.""
+""The confirmation email we sent to ****** was returned and we’ve locked your account to protect your Firefox data.""
+""If this is a valid email address, let us know and we can help unlock your account.""
+</p><p>Need help to send a new confirmation mail. Have been getting this message since last year so please no reply about waiting 24hrs.
+</p><p>Regards,
+firefox190
+</p>",firefox-720;desktop;sync;mac-os;,firefox,sync,en-US,1290088;,firefox190
+1279813,2020-02-14 01:49:17 -0800,2020-02-14T01:49:17Z,Using Firefox with my fiber optic internet connection cuts my speed test results from 1 gig down to 510 mps.  How to fix?,"<p>Getting 1 gig test results using other browsers.  Refreshed Firefox and performed all the recommended tasks.  Same result each time
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",mouser48341
+1279811,2020-02-14 01:25:06 -0800,2020-02-14T05:35:33Z,Updated to Firefox 73 and now £ symbol displays as Ł on our Database,"<p>Firefox updated to version 73 the other day and now my php/mysql database system that I built displays Ł symbol inplace of the £ symbol.  This is an old Database that sits on an in house PC and we connect via a browser over LAN.
+</p><p>Anyone else getting this problem?  Tested other sites and it works on places like Amazon, Ebay etc 
+</p><p>It displays fine using Chrome.
+</p>",firefox-730;other;desktop;windows-7;,firefox,other,en-US,1290130;1290135;,tomjelfs
+1279810,2020-02-14 01:22:17 -0800,2020-02-14T01:22:17Z,"Syncing is not working and I tried about:sync-log, and found nothing.","<p>I reset my windows and installed Firefox, and logged in using Firefox account. I pressed sync now, but nothing happened in a day so far. I tried about:sync-log to check if there is any error, and I found the log is empty. 
+Please help me to fix this problem.
+</p>",firefox-730;sync;desktop;windows-10;,firefox,sync,en-US,"",Kreta
+1279807,2020-02-14 01:16:19 -0800,2020-02-14T01:32:31Z,Firefox crashes,"<p>CRUSH ID: bp-50f78cf8-5fc3-4aba-ac3f-896f50200214
+After onstalling Acrinis True Image2020, FIREFOX CANNOT START．Everytime STARTING FIREFOX, Mozilla Crush Reporter window   IS INDICATED.
+</p>",desktop;fix-problems;bug1604008;,firefox,fix-problems,en-US,1290082;,yohsan_suzuki
+1279804,2020-02-13 22:23:49 -0800,2020-02-14T02:09:14Z,Will Firefox retrieve all my passwords and bookmarks if I reinstall Windows?,"<p>I need to reinstall Windows. This will erase Firefox. When I install Firefox, will it retrieve my bookmarks and passwords automatically once I sign into the Firefox account?
+</p>",download-and-install_1;firefox-730;desktop;windows-10;backup;,firefox,download-and-install,en-US,1290079;1290090;,sanflores1
+1279803,2020-02-13 22:17:00 -0800,2020-02-14T05:00:22Z,"Firefox starts, but no web sites will appear on the screen. If I type in a URL, or click on a saved link, nothing happens. Chrome works fine. Can u help?","<p>The Option menu won't load. I tried restarting with add-ons disabled, but it doesn't re-start. I tried starting in safe mode, and it loads, but again, no web sites will load. I'm running Firefox 73.0 and , with Bit defender. And help would be appreciated!
+</p>",desktop;fix-problems;windows-10;firefox-730;bug1614885;,firefox,fix-problems,en-US,1290080;1290128;,jrian
+1279800,2020-02-13 21:23:52 -0800,2020-02-13T22:05:10Z,"After I have synchronized my Firefox/bookmarks with my cellphone not too long, my pc Firefox couldn't work -not connect to any site.","<p>My Firefox couldn't show the homepage, just a blank page. It doesn't connect me to any item in the bookmark list, like my Gmail. Actually, it doesn't lead to any web site. What[s wrong with my Firefox?
+</p>",sync;desktop;,firefox,sync,en-US,1290074;,hamaize
+1279799,2020-02-13 20:18:13 -0800,2020-02-13T20:18:13Z,cambiar color a opciones,"<p>hola hay alguna forma de poner esto en modo oscuro?
+</p>",firefox-730;other;desktop;windows-7;,firefox,other,es,"",sampahumeoli2017
+1279798,2020-02-13 20:01:36 -0800,2020-02-14T02:30:43Z,The Tumblr homepage is uploading blank.,"<p>First off thank you for entertaining my personalized question.
+</p><p>I have a Tumblr account and before any of the updates on Firefox I was able to view all of my postings.  Now I'm having trouble seeing my page, a complete blank screen.  I still hear music so sound is not the issue.  I attempted to fix the issue with Settings but the result is still the same.  Could you please offer some assistance.  It doesn't matter if I'm on private window or the normal window, both have the exact problem. 
+</p><p>- Frank
+</p>",firefox-730;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,1290100;,user2260112
+1279793,2020-02-13 19:14:58 -0800,2020-02-13T19:45:00Z,why does videos pause,"<p>why does videos pause every 4 song only on fire  fox and micsoft edge,internet explore video never stop not matter what you do
+</p>",websites;firefox-720;desktop;windows-10;,firefox,websites,en-US,1290057;1290064;,knollbobby
+1279791,2020-02-13 18:02:10 -0800,2020-02-14T02:15:21Z,blank page,"<p>All can be accessed but none can load. Only shows a blank page. Need help. Not even the about:config can help nor does reinstalling the app on a desktop browser
+</p>",websites;desktop;bug1614885;,firefox,websites,en-US,1290040;1290041;1290065;1290092;,figurewhothisis
+1279788,2020-02-13 17:09:29 -0800,2020-02-13T17:52:45Z,Great job re:  Finding those 8+breaches to which I was exposed bewteen 2016 and last week but  how resolve it if,"<p>after the panic subsided, I contacted all 8 of the sites listed which of course I could not remember a single PW, and only 1 Site Admin was ready and willing to help me - thank you Cafe Press ! Part of my situation is that two of my three former email addresses were dropped when AOL bought Verizon's EMail Division and only let us bring 1 suitcase per person.  Trouble is, the other two addys were sub accounts, one was a Business Account so much of the info was quite detailed but the same.   But these days, data breaches are so comon (yawn?) it's almost not shocking.  But 8 ?  Yikes.  Here's the thing, I thank you for the alerts, but you scare me to death then leave me hanging.  I have no idea which 5 sites had the same PW  (huh ?). I supposed over 20 years online and at 2500 logins, at some point my brain ran out of creative unique login's. I use a Password Program but it doesn't catch 3 email addresses that may share a common PW.   Any suggestions how to ""Resolve"" those breaches which I can barely remember where I've left my britches ?  Thanks.  
+5/2500  = .002 %  P.W.s repeated , not the worst odds in the world.  Spread that %  over a 22 year span,  the equation is so low there is an ""e"" in the final outcome !
+</p>",firefox-7202;other;firefox-720;desktop;windows-10;,firefox,other,en-US,1290033;,soba171
+1279786,2020-02-13 16:54:12 -0800,2020-02-13T17:44:05Z,"Firefox 73 starts but only displays blank pages - ""Firefox Monitor: malformed breach enty""","<p>Firefox just updated to version 73. However, as it started, it only displays a blank page on any page,
+- No webpage loads, or attempts to load. I just get blank page.
+- This includes built in pages such as addons and settings.
+Reinstalling does not help. Removing the profile does not help.
+Downgrading to version 71 does work, and now I can use internet again.
+</p><p>I can open the developer console and see the following error:
+Firefox Monitor: malformed breach enty (... some json)
+</p>",firefox-710;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1290029;,senchang94
+1279785,2020-02-13 16:22:43 -0800,2020-02-14T05:17:55Z,Website wont load correctly,"<p>Hello,
+</p><p>This website (and this website alone) refuses to load correctly for me <a href=""https://www.mql5.com/"" rel=""nofollow"">https://www.mql5.com/</a>
+Images do not load and formatting is ""strange""
+</p><p>others users are not having this problem
+</p><p>I have switched tracking protection on/off....sometimes it helps when on, sometimes when off; there is no clear pattern
+</p><p>I have tried the suggestions at these pages
+<a href=""https://support.mozilla.org/en-US/kb/websites-look-wrong-or-appear-differently"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/websites-look-wrong-or-appear-differently</a>
+<a href=""https://support.mozilla.org/en-US/kb/some-pages-or-page-elements-fail-load-after-updating"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/some-pages-or-page-elements-fail-load-after-updating</a>
+</p><p>I use windows 10 with the latest firefox, plus I have real-time malwarebytes
+</p><p>Do you have a solution?
+</p><p>Thank you.
+</p>",firefox-730;websites;desktop;windows-10;escalate;,firefox,websites,en-US,1290045;1290084;1290085;1290087;1290093;1290097;1290116;1290119;1290127;1290131;,petersphone999
