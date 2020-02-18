@@ -1,0 +1,136 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1279944,2020-02-15 15:31:43 -0800,2020-02-15T21:31:05Z,"Can I turn off the Annoying Constant ""tab/open"" pop up?","<p>I like Firefox and donated $100 last year.
+But I just want to Open, not ""tab/open"" option choice.
+Wish there was a ""chat"" option too.
+</p>",customize;desktop;,firefox,customize,en-US,1290663;,dgvanarsdale@live.com
+1279941,2020-02-15 13:57:05 -0800,2020-02-17T14:47:35Z,can't get this website to do what it is supposed to: https://www.mousehuntgame.com/,"<p>ever since about 5 or 6 updates back the <a href=""https://www.mousehuntgame.com/"" rel=""nofollow"">https://www.mousehuntgame.com/</a> site does not work for me, on any of my computers. I have uninstalled, done a fresh install, gone through all the trouble shooting steps, nothing. it will log on, save my login information but beyond that  nothing. I have updated all plugins it asks for.
+</p><p>I included a screenshot showing what always happens.
+</p>",firefox-730;websites;desktop;windows-81;,firefox,websites,en-US,1290664;1291129;1291176;,auntbeezer
+1279940,2020-02-15 13:54:28 -0800,2020-02-15T21:33:08Z,Home page MSN.COM will not download the pictures. It will open in Internet Explorer on the same computer.,"<p>Home page <a href=""http://MSN.COM"" rel=""nofollow"">MSN.COM</a> will not download the pictures. It will open in Internet Explorer on the same computer. This happened from a Microsoft forced upgrade.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1290665;,mdstudey
+1279939,2020-02-15 13:27:51 -0800,2020-02-15T15:26:47Z,Zoom Image app for google,"<p>My go-to apps for this, Imagus and Photoshow no longer work on Google.  Any suggestions for alternatives, etc., or do we just have to see if they figure it out?
+</p><p>Fx 72+, Windows 10
+</p>",firefox-740;other;beta;desktop;windows-10;,firefox,other,en-US,1290587;1290610;,noel_envoide
+1279938,2020-02-15 13:20:15 -0800,2020-02-15T14:03:28Z,the 32bit installer from https://www.mozilla.org/en-US/firefox/new/ does not allow custom install,"<p>users are directed to that website for downloads that allow custom install.  the 32bit installers there do not allow custom install; when launched, they just do an install in the windows c drive with no interactive input
+</p>",download-and-install_1;desktop;,firefox,download-and-install,en-US,1290588;1290595;,doverdixon
+1279936,2020-02-15 12:14:08 -0800,2020-02-15T23:44:29Z,Disabling 'ui.use_native_colors' does not change foreground colour,"<p>My Firefox is a 73.x stable version, running on a slightly modified x86_64 Windows 10 1903 with:
+</p><pre>* dark grey background (system default)
+* pure white foreground (system default)
+</pre>
+<p>In Google Chrome all elements follow the ""black over white"" rule regardless of system default color pref.
+While Firefox does not. In the figure below these phenomenons exist:
+</p><pre>* when 'ui.use_native_colors' is true, some elements in the webpage turns out to be ""white over grey""
+* when 'ui.use_native_colors' is false, while the background colour turned into white, the foreground colour did not return to black.
+</pre>
+<p>This leads to my suspicion of 'ui.use_native_colors' does not at all control the foreground colour. And probably no key does.
+</p><p>- - - - - - - - - - - -
+</p><p>Reproduce the bug:
+</p><pre>* install Arc X Theme for Windows 10 (follow the instructions)
+* open a virtually arbitrary page that contains a text input box
+* bug found
+</pre>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1290678;,jeffswt
+1279934,2020-02-15 11:22:16 -0800,2020-02-16T05:11:03Z,How can i recover my data when another user deleted firefox?,"<p>The admin on my computer had reinstalled firefox and got the 'old firefox data' on their desktop. They have recovered their data but mine has not been recovered. Any ideas on how to recover my data? (I am another user on the same pc)
+I would like to recover everything. (Passwords, bookmarks...)
+</p>",download-and-install_1;firefox-730;desktop;windows-10;,firefox,download-and-install,en-US,1290575;1290666;1290686;1290692;1290705;1290723;,rezaul.salam2506
+1279932,2020-02-15 10:33:53 -0800,2020-02-15T12:00:57Z,"Firefox was working beautifully until earlier this week.  It still loaded the application, but would not load any pages.","<p>NOTE:  I am running this browser on a second computer that Firefox is working OK on.
+</p><p>The machine I am trying to get Firefox working on is Windows 10 pro Dell 8390.  
+</p><p>I have uninstalled and reinstalled.  I get a message when re-installing that the application failed to start and in error code (0xc0000005).
+The app appears to load OK, but displays an empty page.  Selecting other links causes the address for the link to appear in the address box, but nothing loads.  I am pretty sure that I am installing v73, but couldn't find the about window to know for sure.
+</p>",download-and-install_1;firefox-720;desktop;windows-10;bug1614885;,firefox,download-and-install,en-US,1290538;1290569;,tuchristian
+1279931,2020-02-15 10:25:10 -0800,2020-02-16T09:16:49Z,Vyhledávací pole nehledá podle lokalizace aplikace.,"<p>Dobrý den, vyhledávací pole je nastaveno na vyhledávač Google. Do nedávna vyhledával podle očekávání na <a href=""http://Google.cz"" rel=""nofollow"">Google.cz</a>, nyní vyhledává na <a href=""http://Google.com"" rel=""nofollow"">Google.com</a> což nevrací očekávané výsledky. Přičemž aplikaci mám přepnutou na českou verzi. Jak zařídím opětovné hledání v českém jazyce ?
+</p><p>Předem děkuji za pomoc.
+</p>",firefox-7202;firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,cs,1290597;1290675;1290724;1290739;1290767;,jan.pichl
+1279929,2020-02-15 10:19:46 -0800,2020-02-16T14:18:32Z,FIND BAR POPS UP WHEN TYPING RANDOM LETTERS,"<p>When viewing webpages on Firefox, typing any letter automatically brings up the ""find"" bar at the bottom of the screen. This has never happened before. I have been using a particular website on Firefox for years with shortcuts that allow me to hover my mouse over things on the webpage and press single letters to initiate an action/shortcut. Now, that feature doesn't work because now when I press a single letter trying to perform the short cut, the find bar pops up at the bottom of the screen, rendering my shortcuts useless for this webpage. This is happening on multiple machines and on any given website, not just the one i use with shortcuts. How do I disable the find bar popping up? Why is this feature happening now, was this in a new update? This does not happen in other browsers, it is Firefox specific.
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,1290546;1290834;,jjb5f
+1279927,2020-02-15 09:48:09 -0800,2020-02-15T10:55:56Z,My saved logins are not getting synced. What should I do ?,"<p>I have recently re-installed the firefox but when logging into the the firfox account the old data is not getting restored. Kindly help me with that issue.
+</p>",firefox-570;sync;desktop;windows-7;,firefox,sync,en-US,1290545;,ygoyal578
+1279926,2020-02-15 08:29:42 -0800,2020-02-17T20:12:34Z,"Did Firefox 73.0 stop downlaod ""ask me"" for file location option?","<p>I have seen that 73.0 has caused some major problems for some. Since I installed 73.0 (64-bit) however, I have only one problem but it has a high impact on my use of Firefox. The setting for downloads was not changed and remained set correctly for ""Ask me for file location"" which has worked daily previously on previous Firefox versions. I have tried to change the setting to a specific file location and then change back to no avail. The specific location works fine but returning to the ""ask me"" option does not change anything.  Not sure what to try or do to proceed...
+</p>",download-and-install_1;firefox-730;desktop;windows-10;,firefox,download-and-install,en-US,1290498;1290566;1290572;1291107;1291121;1291148;1291149;1291174;1291189;1291226;1291232;,rkrueg
+1279925,2020-02-15 08:26:21 -0800,2020-02-15T21:22:36Z,"Why does the ebay bidding amount box clear itself before I have time to click on 'Submit Bid"" loosing me the opportunity to make any bid?","<p>This week when trying to bid for items on ebay immediately - within 2secs - after inputting the amount and before I have time to click on ""Submit Bid"" the amount box has cleared itself.  Then closer the auction gets to the end time - say during the last 30secs - as I try to type in the amount - say 125.00 - the 1 is replaced by the 2; the 2 is replaced by the 5; the 5 is replaced by the .; the . is replaced by the 0 etc.
+</p><p>Can someone please explain what might be going wrong?  I am using Mac OS Mojave v10.14.6.
+</p><p>I have not tried to purchase on ebay since May 2019 when it was 'working as you might expect'.  Then I was using Mac OS High Sierra  Not being able to make the purchases I was after due to this apparent malfunction came as a real shock. 
+</p><p>Is the cause likely to be my PC setting in some way; a glitch in Firefox or an ebay issue.  I have spoken with ebay but they were not able to give me an immediate answer as to whether or not it is an ebay malfunction.  My account with ebay is clean.
+</p><p>I hope someone in the community can point me in the right direction.  Thank you.
+</p>",firefox-7202;other;firefox-720;desktop;mac-os;ebay;,firefox,other,en-US,1290475;1290514;1290530;1290574;1290659;,peternewlands06
+1279924,2020-02-15 08:15:54 -0800,2020-02-15T08:20:48Z,How can I 'download' the bookmarks from sync to 'another' computer?,"<p>Usually I'm using the Firefox 'sync' feature from my WIn10 desktop. Now I want to 'download' the stored bookmarks to a Linux desktop. Can I use the sync feature for that?  (It appears that the bookmarks are not being 'downloaded / sync'ed). Any advise much appreciated.
+</p>",bookmarks;firefox-730;desktop;,firefox,bookmarks,en-US,1290472;,drobble
+1279923,2020-02-15 08:13:03 -0800,2020-02-16T05:06:50Z,can't  delete  history,"<p>Hello.Today  i  noticed  that  i  can't  delete  history.Appears  the  last  3  days.What  can  i do?I  have  v73
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1290478;1290495;1290519;1290674;1290676;1290690;1290693;1290694;1290695;1290720;,vasilsi
+1279921,2020-02-15 08:10:50 -0800,2020-02-15T09:52:01Z,"Firefox Crash Again, Again","<p>Hello,
+</p><p>I love Firefox but it gives a lot of errors. Why does this cause problems? If I can't find a solution, I will delete Firefox. I need help!
+</p><p><a href=""https://crash-stats.mozilla.org/report/index/455d13e6-3c72-4ddb-9173-584460200215"" rel=""nofollow"">https://crash-stats.mozilla.org/report/index/455d13e6-3c72-4ddb-9173-584460200215</a>
+<a href=""https://crash-stats.mozilla.org/report/index/361ae3f0-f1ca-4a29-9bf7-ebf3a0200215"" rel=""nofollow"">https://crash-stats.mozilla.org/report/index/361ae3f0-f1ca-4a29-9bf7-ebf3a0200215</a>
+<a href=""https://crash-stats.mozilla.org/report/index/a762ad18-e07e-4435-b29b-a46e50200215"" rel=""nofollow"">https://crash-stats.mozilla.org/report/index/a762ad18-e07e-4435-b29b-a46e50200215</a>
+</p><p>Thanks.
+</p>",firefox-730;desktop;fix-problems;windows-10;bug_1;escalate;,firefox,fix-problems,en-US,1290484;1290491;1290492;1290497;1290520;,2fan1kar
+1279919,2020-02-15 07:30:55 -0800,2020-02-16T10:52:23Z,Game saves don't work on armorgames.com,"<p>So I have played a dozen of games on this site so far and saves don't work. 
+I have latest version of firefox browser and I've tried deleted cookies but it didn't help at all.
+How do I fix it?
+</p>",firefox-730;websites;desktop;windows-10;escalate;,firefox,websites,en-US,1290493;1290577;1290578;1290655;1290715;1290722;1290779;1290789;1290793;,barbarian7
+1279917,2020-02-15 07:04:57 -0800,2020-02-17T21:25:39Z,Firefox crashes upon start-up.,"<p>Installed latest Win 10 Feb 2020 patch and haven't been able to run Firefox since. 
+</p><p>Safe-mode and Refresh Firefox have already been run with no success. I also cleared all cache folders and tried a fresh install. Nothing has worked so far. 
+</p><p>Crash ID: bp-f9c6f8c3-0d93-420e-b7ce-29d250200214
+</p>",desktop;fix-problems;windows-10;bug1604008;,firefox,fix-problems,en-US,1290466;1290474;1290479;1290506;1290515;1290923;1291015;1291243;,matthewtgorman88
+1279916,2020-02-15 06:48:31 -0800,2020-02-15T06:48:31Z,Firefox for Mac Not matching System Scheme,"<p>I have Firefox 73 installed For Mac and I have Catalina 10.15.3 Installed.  Firefox will not match the system Scheme (light or dark Auto).  Firefox will change from Light to Dark but not Dark to Light while set to Auto Change and sometimes if you change it manually it will happen. Is there a fix for this?  Also does anyone know if Mozilla is working on Firefox support of Mac os Smart zoom?
+</p>",firefox-730;customize;desktop;mac-os;,firefox,customize,en-US,"",tjisret
+1279915,2020-02-15 06:36:35 -0800,2020-02-17T14:35:00Z,Firefox73.0 Lockwise not listing saved passwords and logins,"<p>Overnight it seems that Firefox is no longer reading my old saved logins and passwords.  I have checked to see that the logins.json and key4.db files are present, but the new Lockwise page shows nothing.  When I look at the about:protections page, it shows that I still have 400+ logins and passwords protected.   I tried to make a new profile and import backup data and Firefox still does not see the saved logins and passwords in the new profile.  Any ideas on what is causing this behavior?  I have so many accounts, and would like to get this functionality working again.
+</p>",privacy-and-security_1;firefox-730;desktop;windows-10;escalate;,firefox,privacy-and-security,en-US,1290544;1290711;1291144;1291150;1291161;1291171;,ddsantiago94
+1279914,2020-02-15 06:28:55 -0800,2020-02-15T06:40:58Z,Black bars appear on screen.,"<p>After most recent Firefox update, black bars now appear across screen in High Contrast Mode. Page displays properly in standard mode and on other browsers.
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1290454;,phonyaddress
+1279913,2020-02-15 06:26:28 -0800,2020-02-15T09:15:03Z,how to stay logged in to Firefox all the time forever,"<p>Only on this one computer do I frequently find I am no longer logged in to my Firefox account.  I get that warning sign in the top right corner of the screen and it invites me to log in so I can sync with my other devices.
+If there's a cookie I need to tell Ccleaner to ignore, tell me which it is. 
+This morning I logged in again when I saw I was not logged into my Firefox account.  I also updated Flashplayer or somesuch from Adobe.  Maybe that's what logged me off.  Then again, I had to restart my browser to complete the install of the Adobe.  Ccleaner would have kicked in then. 
+Thanks!
+</p>",firefox-730;sync;desktop;windows-10;,firefox,sync,en-US,1290496;1290509;,ChrisBeaver
+1279912,2020-02-15 06:16:10 -0800,2020-02-15T06:16:10Z,Default zoom doesn't zoom in latest Mint version FF 73.0 - don't understand,"<p>Maybe somehow I have page specific zooms set at 100% but I don't know how to see this.  I'd like to clear them if they are set so that only the default zoom applies.  Please tell me where/how I can get this to work.  Thanks.
+</p>",firefox-730;customize;desktop;,firefox,customize,en-US,"",donald.l.dement
+1279911,2020-02-15 05:52:21 -0800,2020-02-15T12:57:53Z,"Why is your Facebook Container App causing temperary lockups, slow ups, and misplaced nouse pointers on my facebook pages?","<p>While using Facebook Container, Facebook is slow to load, temporarily locks up for short periods randomly, quite often, sometimes fails to completely load page. During some of these conditions, I can scroll with my wheel, but the scroll control in the sidebar does not work. And often, what the screen shows is not what the Mouse sees. I click on a button (Share button for instance) and instead of acting on that, it loads a new tab from some other link on the page.
+</p><p>I turned off the Facebook Container and ALL of the problems disappeared. this started write after the last upgrade.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1290581;,singeldad
+1279909,2020-02-15 04:34:41 -0800,2020-02-15T04:34:41Z,"Why is there no UI option to turn off ""Race Cache With Network""?","<p>Hello Firefox community,
+</p><p>As I realized some time ago, Firefox makes simulatneous requests againgst disk cache and network called ""Race Cache With Network"" (explained here <a href=""https://support.mozilla.org/en-US/questions/1267945)"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1267945)</a>. In my home country, this has never bothered me as I had an unlimited data plan and therefore was pleased to get fast loading webpages.
+</p><p>But now, I moved to a country without unlimited data plans (Ghana, 40GB per month, 120GHC, approx. 20€, approx. 22USD) and I'm thinking about how this feature must be eating up peoples data. Because even if you visited a webpage before and most of data is within your disk cache, Firefox will still issue a network request, resulting in increased network activity and therefore consuming additional data.
+</p><p>In my opinion this adversely affects people in emerging countries, as internet is already a pricey good and Firefox is using more data than necessary, just to allow webpages to load fractions of seconds faster.
+</p><p>Why is there no UI option (I know it can be turned off, using config key ""network.http.rcwn.enabled"") for users to turn this feature off more easily in order to save data? Furthermore, this behaviour is not even explained to users, so users might not even know Firefox consumes more data than expected.
+</p><p>With best regards,
+Gabriel
+</p>",firefox-730;desktop;fix-problems;,firefox,fix-problems,en-US,"",unterholzer.gabriel
+1279906,2020-02-15 03:59:07 -0800,2020-02-15T03:59:07Z,how do I sync to roku tv,"<p>Wont synchro tv
+</p>",download-and-install_1;desktop;,firefox,download-and-install,en-US,"",sheneil23
+1279904,2020-02-15 02:33:22 -0800,2020-02-15T07:16:51Z,Suddenly can't make PayPal payments on eBay using Firefox,"<p>I've had no problems for years when using PayPal to pay for Ebay items, but suddenly 14/02/2020 the PayPal pop-up window just sits there with the spinning circle. Paying by credit/debit card works fine, but I want the payment to come straight out from my bank account. Followed the simple instructions like disabling AdBlocker and checking Pop-ups are allowed, as given in other answers. Still stuck for a solution, saw elsewhere a reference to user_pref file but that just confused me as I'm not that technically minded. Any help would be gratefully received.
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1290423;1290462;,djmb
+1279903,2020-02-15 01:51:52 -0800,2020-02-15T02:15:57Z,Change Firefox 74 urlbar behaviour back to how it was in Firefox 73,"<p>In the latest version of Firefox Developer Edition, I notice the the urlbar behaviour has changed from what it was before and I want to change it back. Are there any settings in about:config that do this? In particular, I want to stop expanding and even showing suggestions whenever I click in the address bar. To me, this is odd and distracting behaviour and not what is done by other browsers so I want to turn it off.
+</p>",firefox-740;other;beta;desktop;linux;megabar;,firefox,other,en-US,1290410;1290412;,johnhennessy
+1279902,2020-02-15 01:37:56 -0800,2020-02-15T02:01:41Z,"Firefox does not launch after query - ""Do you want to allow this app to make changes to your device?""","<p>Mozilla Fire Fox stopped working, upgrade(s), add ons - unknown!.
+On launch ==&gt; ""Do you want to allow this app to make changes to your device?""
+Yes box rolls over and ask the same question again - ad infinitum !
+Complete Uninstalled and re-installation (latest version) made  no difference
+Recommendations?
+</p>",download-and-install_1;desktop;windows-10;,firefox,download-and-install,en-US,1290406;1290407;,jaymax36
+1279899,2020-02-14 23:53:53 -0800,2020-02-15T02:03:47Z,Firefox crashes,"<p>bp-d501a04f-5ac3-4054-b4f4-e604d0200215
+</p>",desktop;fix-problems;bug1604008;windows-81;firefox-730;,firefox,fix-problems,en-US,1290408;1290409;,sankyou
+1279898,2020-02-14 22:34:09 -0800,2020-02-16T21:25:31Z,Firefox sayfaları açmıyor,"<p>Firefox en yeni sürüme yükseldiğinden beri (73.0) web sitelerini açamıyor. Bazen ayarlar, eklentiler sayfalarını açıyor, bazen onları da açamıyor. Tarayıcıyı yenilemek, güvenli kipte başlatmak, ve kaldırıp yeniden kurmak sorunu çözmedi.
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,tr,1290729;1290740;1290742;1290907;,lvntpk
+1279897,2020-02-14 22:06:11 -0800,2020-02-14T22:06:11Z,"не обновляет, пишет последняя версия но это не так","<p>бы какой то баг, решить не смог потому удалил, установочный был правда 18.0.1, установил думаю обновлю как нужно до 56.0 жму проверить обновление а он мне у вас последняя версия, а 18.0.1 многое не работает
+</p>",other;desktop;,firefox,other,en-US,"",Hrash_vam_ne
+1279894,2020-02-14 19:30:09 -0800,2020-02-14T23:51:07Z,I want my Firefox to close the whole program when i exit the last remaining window on Mac.,"<p>On Mac, when clicking the red X it still leaves Firefox running. Which also means that my Master Password remains open. I would like it so that either Master Password after xMinutes of inactivity or, if i close the last remaining window, that firefox will quit, instead of just closing the window.
+</p>",customize;desktop;firefox-720;mac-os;,firefox,customize,en-US,1290385;,mr.samuelcanton+firefox
+1279893,2020-02-14 19:07:13 -0800,2020-02-17T06:16:13Z,Firefox has stopped working immediately upon attempted launch. Reinstall does not work. Shift does not work. firefox -P does not work. Change: HW acc turned on.,"<p>Firefox was working ,but no 3-D. Turned on 3-D. Attempted to restart firefox. Now attempting to start firefox and it immediate says ""Firefox has stopped working"". Running firefox -P does the same. Re-install does the same.   Exception Code:	c0000005
+</p>",download-and-install_1;desktop;windows-7;firefox-730;bug1614885;,firefox,download-and-install,en-US,1290358;1290387;1290439;1290443;1290444;1290446;1290450;1290465;1290486;1290634;1290636;1290696;1290782;1290784;1290788;1290824;1290961;1290968;,James.Schatzman
+1279892,2020-02-14 19:01:24 -0800,2020-02-15T03:46:41Z,I can't sign into Medium.com with Firefox,"<p>I can't sign into <a href=""http://Medium.com"" rel=""nofollow"">Medium.com</a> (which I use for writing) with Firefox. I can sign into all the other websites I use on Firefox. I can sign into <a href=""http://Medium.com"" rel=""nofollow"">Medium.com</a> with Chrome, Microsoft Edge and Safari (on my iPhone). I have Advanced Tracking and all ad blockers turned OFF on the Medium website. I asked Medium support for help, but they can't solve the problem. When I try to ""Sign in using Google,""  I am immediately taken back to the sign-in window. I want to switch from Chrome to Firefox as my preferred browser, but I can't do it unless I solve this problem first.
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1290356;1290359;1290369;1290417;,furdeal
+1279891,2020-02-14 18:58:56 -0800,2020-02-14T18:58:56Z,Problema com o sync do firefox,"<p>Meus favoritos não estão aqui após a formatação do computador, eu fiz a sincronização de todos os favoritos e senhas antes de formatar e agora eles não aparecem, tem algum modo em que eu possa visualizar esses arquivos de sincronização para tentar recuperar os favoritos?
+</p>",bookmarks;firefox-730;desktop;windows-10;,firefox,bookmarks,pt-BR,"",lincolnsp2010
+1279890,2020-02-14 18:55:45 -0800,2020-02-14T21:05:57Z,Firefox crashes,"<p>bp-17ebc88d-4ddf-4e79-8cf1-5abe80200215
+</p>",desktop;fix-problems;bug1604008;windows-81;firefox-730;,firefox,fix-problems,en-US,1290376;1290377;,ueno.s
+1279889,2020-02-14 18:54:49 -0800,2020-02-15T00:40:42Z,"How do I bookmark multiple tabs at once to a pre-existing folder, without creating a new folder?","<p>I don't get why I have to bookmark my tabs into a new folder, when there is a new folder button when you're selecting which folder to put the bookmarks into. It's a bit annoying that I have to go into the bookmark archives to move the bookmarks into the folder I meant to pur it in. It's the same shit with Chrome, and it was one of the reasons I switched to Firefox.
+</p>",bookmarks;firefox-720;desktop;windows-10;,firefox,bookmarks,en-US,1290382;1290383;1290390;,sveintorgar
+1279887,2020-02-14 17:57:44 -0800,2020-02-15T01:37:07Z,I need an aplplication for firefox which enables me to upload to fTP sites,"<p>I just updated to the latest version of Firefox 73.0 (64bit) and tried to install Fire FTP but the add on page said that fireftpp add on is not compatible with my version of firefox. Is there a way to upload files to an ftp site with current version of firefox?
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1290341;1290402;,jcafarella9
+1279885,2020-02-14 16:23:09 -0800,2020-02-16T10:04:02Z,A web page is slowing down your browser.,"<p>Win 10/FF
+I reinstalled FF after automatically downloading 73.0 and I had a terrible day on computer yesterday.  SLOW.  It was fine today, for some reason, so there are no issues I can detect.
+Because I have an old laptop, should I download the 32-bit version?
+I spent a lot of time restoring FF, even though I thought everything would rollover.
+Can I do the change w/o reinstalling everything???
+</p><p>Thank you.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1290333;1290342;1290374;1290508;1290518;1290528;1290529;1290533;1290653;1290778;,CiaoBella1
