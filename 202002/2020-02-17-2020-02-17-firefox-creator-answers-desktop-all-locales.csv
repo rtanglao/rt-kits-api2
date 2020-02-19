@@ -1,0 +1,213 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1280119,2020-02-17 15:54:27 -0800,2020-02-17T16:02:23Z,"Version 73 update - can not brouse internet, supper slow. Explored work great.","<p>Version 73 update - can not browse internet, supper slow. Internet Explorer works great - full speed of my plan. Had McAfee log in, they be leave it's a Firefox issue. Tried ever tweak you have here - zero help. Un-installed re-installed and it seamed ok for two days and doing it again. <a href=""http://speedtest.att.com"" rel=""nofollow"">speedtest.att.com</a> will not even load - errors out could not find any server or something is blocking the connection are messages from Att. Firefox has been my go to browser for ever but this is un expectable. FYI After typing this all out, if I hit the ""Automatically add"" trouble shooting below the ""Details"" box I get a page not found error (something like that) and this whole block gets erased when I hit the back button.
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US,1291196;1291197;,mjfator
+1280118,2020-02-17 15:46:05 -0800,2020-02-17T15:46:05Z,"I'm not sure how to describe this,but lately the Google search results are somehow displaying some of the text on top of some of the other text.","<p>See photo.
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,"",Haruna
+1280115,2020-02-17 15:12:53 -0800,2020-02-17T18:31:44Z,"When saving an image, the ""Save As Type"" field is ALWAYS blank and I have to manually type in the extention - any fix?","<p>Whenever I go to save an image, I right click and click ""Save Image As"" like most people do. However, the ""Save As Type"" field is ALWAYS blank and it's incredibly annoying to manually write the extention out (.jpg or .png) for EVERY image I want to save. The work I do requires a lot of this and it's very inefficient; I've tried booting in safe-mode with no extentions but it's the same every time.
+</p><p>Thanks &lt;3
+</p>",download-and-install_1;firefox-730;desktop;windows-10;,firefox,download-and-install,en-US,1291216;1291217;,xrainbowunicorn666x
+1280113,2020-02-17 14:54:26 -0800,2020-02-17T17:56:02Z,Just did FireFox Refresh.....one big mistake!  How do I go back???????!!!!!!!,"<p>I did the FireFox ""Refresh"" thinking it will make my PC faster like it said.  ""One big mistake for me!""  I am not a computer person and struggle with basic terminology.  My screen now is totally different and I am at a loss.............  How do I go back to the way it was before I ruined everything?
+</p>",download-and-install_1;firefox-7202;firefox-720;desktop;windows-81;,firefox,download-and-install,en-US,1291212;,rbarkleyiii
+1280112,2020-02-17 14:48:53 -0800,2020-02-17T14:48:53Z,Show All Bookmarks keyboard shortcut not working on Mac,"<p>The keyboard shortcuts documentation on bookmarks states that for Mac ""command + shift + B"" should Show All Bookmarks, however that does not work for me - I always need to manually click into the Bookmarks menu and then click Show All Bookmarks. <a href=""https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly#w_bookmarks"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly#w_bookmarks</a>
+</p><p>If someone has a suggestion for how to debug this type of issue that would be great. I didn't see any likely culprits that could cause a conflict here. <a href=""https://defkey.com/what-means/command-shift-b"" rel=""nofollow"">https://defkey.com/what-means/command-shift-b</a>
+</p>",bookmarks;firefox-720;desktop;mac-os;,firefox,bookmarks,en-US,"",dylan.barnard
+1280110,2020-02-17 14:33:07 -0800,2020-02-18T13:25:04Z,Does blocking videos save data,"<p>There are times when I am traveling that I am out of range of any wi-fi and I have to use my data plan to access websites.  Many websites have videos that play automatically.  I have seen methods to block auto play.  My question is, are these blocked from using my data or do they download to firefox but just don't get played?  If the latter, is there some way to block the use of my data?
+</p>",privacy-and-security_1;firefox-720;desktop;windows-81;,firefox,privacy-and-security,en-US,1291198;1291204;1291220;1291497;1291501;,petejc
+1280107,2020-02-17 14:07:17 -0800,2020-02-18T15:36:06Z,"Gmail no longer will load, however, it will load in MS Edge, which I do not want to use.","<p>Gmail will; no longer load. 
+</p><p><br>
+</p><p><br>
+</p><p><br>
+</p><p><br>
+it was working fine, but now ""loads forever"" never actually connecting. It will work for MSEdge, but I do not want to use that.
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1291175;1291398;1291542;,dunolde02
+1280106,2020-02-17 14:01:47 -0800,2020-02-18T10:11:14Z,Arrange bookmarks manually,"<p>My bookmarks will not arrange manually even though I have followed the below instructions from the help guide to the letter.  Everytime I drag and drop it somewhere in the folder, 10 seconds later, it moves itself back.
+</p><p>Rearranging manually
+</p><pre>   Click the Library button 57 library icon on your toolbar. (If you don't see it there, click the menu button fx57menu then click Library.) Click Bookmarks and then click the Show All Bookmarks bar at the bottom.
+   Click the folder that contains the bookmark you want to move to expand it.
+   Click on the bookmark you want to move and then drag it to the position where you want to move it.
+</pre>",bookmarks;firefox-730;desktop;windows-10;,firefox,bookmarks,en-US,1291166;1291193;1291203;1291359;1291392;1291393;1291406;1291419;,jayjoyce2
+1280105,2020-02-17 13:40:36 -0800,2020-02-18T10:59:06Z,Updated Windows 2019. Firefox 73 crashing at startup,"<p>Updated Windows 2019 with KB4537759 and KB4532691. Firefox 73 crashes after reboot. Removed FF, reinstalled. No luck. Removed, reinstalled, refreshed. No luck.
+</p>",firefox-730;desktop;fix-problems;,firefox,fix-problems,en-US,1291172;1291178;1291349;1291433;1291436;,mikefoley
+1280103,2020-02-17 12:49:21 -0800,2020-02-17T14:20:22Z,"I have a problem with the option ""browser.tabs.closeTabByDblclick""","<p>I have a problem with the option ""browser.tabs.closeTabByDblclick"". This function does not work as it should.
+Firstly, if I want to close the neighboring tab, I just need to click on the tab first, and only then double-click to close. I don’t know who came up with this, but in normal terms it should close tab without first choosing.
+Secondly, the function does not work with a quick double click, you need to press slowly. This is very annoying, you click on the tab and it does not close because you click ""too fast"".
+I could not find a solution and apologize for the translation errors.
+</p>",tabs;firefox-730;desktop;windows-10;,firefox,tabs,en-US,1291146;1291153;1291167;,chuvak2033
+1280100,2020-02-17 12:16:48 -0800,2020-02-18T18:04:20Z,Links from emails not working.,"<p>Starting about 02/11/2020, links in emails take me to a blank page and FireFox stops working. Must close FireFox.
+</p><p>I have neither added nor updated any add-ons.
+</p><p>I disabled all add-ons with no change.
+</p><p>Under Performance, I unchecked "" Use recommended performance settings"" and 'Use hardware acceleration when available"". No change.
+</p><p>The only way a link works is if I have (basic) FireFox already running.
+</p><p>I have reversed the above changes and await HELP.
+</p>",firefox-730;other;desktop;windows-81;,firefox,other,en-US,1291170;1291190;1291207;1291209;1291211;1291360;1291379;1291520;1291522;1291530;1291534;1291552;1291553;1291560;1291573;1291579;,AIVAS1701
+1280099,2020-02-17 12:09:33 -0800,2020-02-18T10:34:21Z,"Suspicious ""My Popup Blocker"" addon","<p>Hi,
+an suspicious addon appeared few weeks ago in my Firefox. It's called ""My Popup Blocker"" and Avast! (antivirus software) marks it as suspicious or unwanted. Firefox automatically disabled it after a while, but it is not possible to remove it. I tryed to delete it via Avast! but addon appeares again after a while. I tried to reinstall Firefox, but addon is still there. This addon appeared after I installed aTube catcher (I uninstalled it already). Could it be malware? Thank you.
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,cs,1291114;1291159;1291160;1291168;1291418;1291430;,ZdenekBak
+1280097,2020-02-17 11:39:25 -0800,2020-02-17T11:39:25Z,Mac Media Keys (Skip/Back) on Certain Sites?,"<p>I use <a href=""https://www.livexlive.com/"" rel=""nofollow"">https://www.livexlive.com/</a> for music streaming, which is the old Slacker site.  Firefox's ""Play/Pause"" key intercept works perfectly with the site, but the FFWD/RWD keys don't.  Is there some work-around I could try, or some data I can provide to help get this working?
+</p><p>Thanks!
+</p>",other;desktop;,firefox,other,en-US,"",jvp2
+1280096,2020-02-17 11:13:30 -0800,2020-02-17T15:25:46Z,can not log in to gmail,"<p>can not log in to gmail
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1291096;1291186;1291188;,wxtaylor0001
+1280095,2020-02-17 11:05:04 -0800,2020-02-18T09:57:34Z,Why doesn't Mozilla update support pages that are no longer accurate?,"<p><a href=""https://support.mozilla.org/en-US/kb/where-find-and-manage-downloaded-files-firefox"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/where-find-and-manage-downloaded-files-firefox</a>
+In this article it says to click ""Show All Downloads"".
+Well its 2020 and there ain't no such thing anywhere on the page.  Why is this still here?  And is this common now?  They are too disorganized that they can't update articles like this that are dispensing incorrect information?
+</p>",firefox-730;other;desktop;windows-7;,firefox,other,en-US,1291080;1291082;1291127;1291132;1291138;1291141;1291145;1291200;1291206;1291213;1291215;1291252;1291253;1291377;1291409;,moz2u
+1280093,2020-02-17 10:57:45 -0800,2020-02-17T10:57:45Z,Extreme stuttering when watching 1080p and 900p streams on twitch and mixer,"<p>I can watch streams on 720p and below just fine, but 900 and 1080p is literally unwatchable. Often times, the video will freeze, but the audio will continue running. I'm certain that this is a browser issue as I had no problems of the sort on chrome. 
+</p><p>My internet connection should also be perfectly capable and at the time of writing, I'm already running the latest version of firefox (73.0).
+</p>",firefox-730;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,"",rafiraihandarta
+1280092,2020-02-17 10:27:08 -0800,2020-02-17T13:40:25Z,31 adware tracking cookies on Firefox,"<p>I have reviewed all my Internet settings, all are set to stop/disable third party tracking cookies. Every time I click on Firefox browser, my cache gets loaded down with so many adware files I can't watch streaming videos without buffering.
+</p>",cookies;firefox-720;desktop;windows-81;,firefox,cookies,en-US,1291059;1291154;,n8wjq
+1280089,2020-02-17 09:42:22 -0800,2020-02-17T14:58:03Z,Mult-Account Container - can't rename container,"<p>If I try to rename a container - Edit Container, select the pencil icon - edit the name, it appears to work but when I hit Enter or the back button it is not renamed. Restart firefox and it is still not renamed. This is version 6.2.1 of the extension 
+</p><p><br>
+I posted this previously but it was marked a duplicate <a href=""https://support.mozilla.org/en-US/questions/1279756"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1279756</a>
+</p><p>It isn't even remotely a duplicate other than it uses the same extension provided by Mozilla.  If this isn't the best place to report these issues than why not tell me where to do so rather than marking a unique question a dupe?
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1291181;,akidd
+1280088,2020-02-17 09:38:18 -0800,2020-02-17T10:56:48Z,"There was an add on called Tab utilities, that is no longer, is there another add on similar to this add on, or has someone taken it over and updated it?","<p>At one time, there was a great add on called Tab Utilities. This add on not only put tabs not in use into hibernation, but when you closed a tab it went into a recent tab list. Now Firefox browser does the same, but when the browser is closed the list is deleted, but with Tab Utilities the list remained. If there was tabs you wanted to delete you could click on it with your mouse's right button. If you wanted to pull up a tab you hit the tab with your mouse's left button and the tab would once more be on the tab work bar in the same place it was once before. In this ""recently closed"" list you could edit the amount of tabs you desired in the list and the tabs were in hibernation, as such using very little energy and little interference with speed besides freeing up your work tab bar.
+The author of the add on eventually quit and the add on became incompatible after Firefox version 44 and is disabled on installing the newer versions. 
+So many of us are having an older version of Firefox. Some of us would like to get the newer version of Firefox. Currently, the only options we have in locating  a newer add on similar to Tab Utilities is by installing a newer version of Firefox, and losing all we had, and install new add ons hopefully finding what we desire.  So, we (it is not just me, but a large group of people I am in contact with) are searching for some new add on that is similar to Tab Utilities so we can move on to the newer Firefox versions. Is there such an add on, and if so what is it's name and how does one find it?
+</p>",other;desktop;,firefox,other,en-US,1291055;1291072;,Amseeking
+1280087,2020-02-17 09:36:02 -0800,2020-02-17T09:45:03Z,Search results suddenly appearing right-justified and in a foreign language,"<p>Version 72.0.2 (64-bit).  Windows 10.  Suddenly, search results are coming up right-justified, and there are a lot of foreign alphabet characters (like the line of filter links beneath the URL bar; All, Videos, Images, Shopping, etc)... looks Arabic or something.  No idea how this happened; haven't changed any settings.  Screenshot attached.  Any ideas on how to restore search result pages back to ""normal"" for U.S.A.?
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,1291041;,kharrisma
+1280086,2020-02-17 09:34:42 -0800,2020-02-17T10:36:41Z,How can I get Firefox to recognize YouTube?,"<p>When I try to play anything on YouTube I get the Firefox doesn't recognizemessage
+</p>",download-and-install_1;firefox-720;desktop;mac-os;,firefox,download-and-install,en-US,1291058;1291063;,circemae1
+1280085,2020-02-17 09:10:32 -0800,2020-02-18T08:42:54Z,"Firefox and Thunderbird start only as process, application window doesn't start","<p>Firefox and Thunderbird stopped to open the  application window same day (about a week ago): only firefox.exe and thunderbird.exe processes start. Task Manager also only lists the processes, no applications. This process is very hard to kill, Task Manager can't end it, nor elevated rights Command Prompt TASKKILL with /FE, NirSoft NirCmd nor PSTools pskill64.exe nor Process Explorer. I have also tried ending all the other processes first I can think of, including explorer.exe, does not help. I'm testing with two administrator level accounts and I'm mostly working this problem with Firefox now, although Thunderbird shows the same symptoms.
+</p><p>My system is a clone desktop computer Windows 7 PRO 64bit UK, AMD:n Phenom II CPU, GeForce 1050Ti display adapter.
+</p><p>As antivirus I have Avira Free Antivirus, and I have some suspicions it may be the root of the problems this time. For couple of weeks ago it updated with a new user interface and installed new components. To test that, I tried to uninstall Avira. Each component needs to be uninstalled separately using Windows Programs and Features: two components uninstalled cleanly, one component left an open minimized window that one couldn't pop open nor close. Antivirus and VPN do not uninstall: after you are asked do you want to uninstall and answer YES, nothing else visible happens. If you try to start another uninstall job, you get a window telling you can't start another as one program is already being uninstalled or changed. And waiting doesn't help. I have a support question about it in Avira forum.
+</p><p>Also last week, Flash Player installation failed with 89% done, tried twice and with same result. And the newest GeForce Graphics adapter drivers installation failed also. Both of those usually always install succesfully.
+</p><p>Microsoft System File Checker SFC /SCANNOW does not find problems, nor does Windows disc chechker tool. I also run: File and Folder Troubleshooter winfilefolder.DiagCab and Microsoft Program Install and Uninstall troubleshooter
+MicrosoftProgram_Install_and_Uninstall.meta.diagcab ja Program_Install_and_Uninstall.diagcab. Avira support recommends the Install and Uninstall troubleshooter to get rid of some old Avira rubbish. Also compared Windows folders rights to default rights listed in some web site: did not find differences with the couple of dozen folders I compared. Data Execution Prevention (DEP) according to Process Explorer is enabled looking at Firefox.exe process properties. I know command lines to change DEP settings and found it in System Performance Properties settings also, but have not touched it.
+</p><p>I've removed Firefox and Thunderbird parent.lock -files, with Firefoxilla both from profile folder C:\Users\USERNAME\Application Data\Mozilla\Firefox\Profiles\PROFILENAME and temporary folder C:\Users\USERNAME\AppData\Local\Temp\firefox before trying to start Firefox again. And since I can't kill the process otherwise, it also means after rebooting the computer.
+</p><p>Found an advice opening Firefox with SHIFT-key down, should open a safe-mode of the browser. Well, opened
+only the process in my case.
+</p><p>There are no previous session related saves (sessionCheckpoints.json, sessionstore.jsonlz4, sessionstore.js)
+in the profile folder any more, and the sessionstore-backups folder is empty.
+</p><p>I removed the Firefox installation, rebooted, and installed the 73.0 version 13.02.2020. It behaves similarly:
+only the process starts.
+</p><p>Added -p parameter to the Firefox shortcut, and in Windows SAFE MODE  was able to create a new profile: in normal mode Windows the window for creating/changing profile does not open. Firefox doesn't open application window in Windows safe mode either, also tried to run it as administrator option, and pressing SHIFT key, but neither helped. The newly created profile folder only has one file: times.json.
+</p><p>When installed Firefox again, it wasn't a clean installation: the Firefox folder was empty of files, but I did install into the same folder. Also did not edit register nor delete the profile folder. Which is what I'm gonna try next. However, Thunderbird does not use Firefox's profile, so why does it stop opening the application window same time with Firefox? I don't think Firefox's profile folder can cause all these installation problems and Thunderbird problem. My bet is more likely Avira.
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US,1291380;,pelihemmo
+1280083,2020-02-17 09:01:02 -0800,2020-02-17T12:14:10Z,Firefox stopped working entirely.  Have removed it and downloaded again any number of times.  Still no good.  Nothing loads.,"<p>Other browsers like chrome work fine.  Nothing about Firefox works.   Settings such as options, etc. do not work.  Help!
+</p>",firefox-730;desktop;fix-problems;windows-7;bug1614885;,firefox,fix-problems,en-US,1291034;1291065;1291071;1291075;1291090;1291103;1291106;,joe89
+1280082,2020-02-17 08:48:14 -0800,2020-02-17T19:04:57Z,mcafee webadvisor isn't working in firefox,"<p>I no longer get advisories about bad websites when  do google searches.  How do I restore this?
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1291223;,rkasten
+1280081,2020-02-17 08:35:20 -0800,2020-02-18T12:47:56Z,can't access facebook from firefox,"<p>Hello, 
+I'm not able to sign into facebook on firefox,  it works on Safari, but firefox is my choice browser.
+I've tried to restore firefox from time machine (mac 10.14.6 , mojave) but no go, it won't let me. Firefox is""xed"" out.
+If reinstalling firefox would help I would, but I'm afraid of losing bookmarks, etc.
+I haved looked a lot on the web but, obviously, have not found an answer.
+Any suggestions would be most appreciated.
+Thanks all.
+</p>",firefox-730;other;desktop;,firefox,other,en-US,1291024;1291364;1291378;1291381;1291483;,vimik
+1280079,2020-02-17 07:28:58 -0800,2020-02-17T07:28:58Z,"Mozilla Firefox ja Thunderbird, prosessi käynnistyy mutta sovellusikkuna ei aukea","<p>En muuten päässyt Internet Exploderilla tänne tukisivuille: sivu jossa tunnus luodaan ei auennut. Koska itsellä Firefox ei toimi, en ole omalla koneellani, kun täällä foorumilla olen. Joten jos tähän viestiin automaattisesti jotain tietoja lisätään... tulee väärästä koneesta.
+</p><p>Vajaa viikko sitten Mozilla Firefox ja Thunderbird lakkasivat aukeamasta: vain prosessi - Firefox.exe tai Thunderbird.exe - käynnistyy (näkyvissä Tehtävien hallinnassa (Task Managerissa)) mutta sovellusikkuna ei aukea, eikä myöskään ole listattuna Task Managerin sovelluksissa. Prosessi on myös vaikeasti tapettava: sitä ei saa lopetettua Task Managerista eikä ohjelmilla jotka on tarkoitettu prosessien lopettamiseen: järjestelmänvalvojan oikeuksilla avatussa komentokehoitteessa TASKKILL PID /FE, NirSoft NirCmd
+ja PSTools pskill64.exe tai Process Explorer. Vaikka käynnistysongelma on molemmilla Mozillan ohjelmilla, olen koittanut ratkoa sitä lähinnä Firefoxin kanssa.
+</p><p>Ympäristö: Pöytäkone, Windows 7 PRO 64bit eng. kielinen, AMD:n Phenom II prossu, GeForce 1050Ti näyttis, ja kaksi järjestelmänvalvojan tason tunnusta on joilla olen hommaa ratkonut.
+</p><p>Virustorjuntana Avira Free Antivirus, joka voi olla jopa syntipukki. Siitä tuli nimittäin viikko-pari sitten uudella käyttöliittymällä oleva päivitys, jossa oli muitakin uusia komponentteja. Olen koittanut poistaa sen asennusta, mutta kaksi komponenttia siitä ei suostu Windowsin Programs and Features -asennuksen poistolla katoamaan: Antivirus ja VPN. Tukikysely siitä menossa Aviran foorumilla.
+</p><p>Viime viikolla epäonnistui myös Adobe Flash-player asennus (pysähtyi 89% kohtaan) sekä GeForce näytönohjaimen ajureiden päivitys uusimpaan versioon.
+</p><p>System File Checker SFC /SCANNOW ei löydä ongelmia, eikä Windows levynkorjaustyökalu. Kokeilin myös Microsoftin työkaluja: File and Folder Troubleshooter winfilefolder.DiagCab sekä Microsoft Program Install and Uninstall troubleshooter
+MicrosoftProgram_Install_and_Uninstall.meta.diagcab ja Program_Install_and_Uninstall.diagcab. Install ja Uninstall troublesooter -työkalulla koitin poistaa myös mahdollisesti wanhojen Aviran asennusten jäämiä (Aviran tuki suosittelee myös niin tekemään). Vertailin myös Windows kansioiden käyttäjäoikeuksia alkuperäisiin (Netistä löytyi sivu jolla niistä on listaus) enkä havainnut erilaisuuksia niissä muutamassa tusinassa jonka tarkistin. Data Execution Prevention (DEP) näkyi olevan Process Explorerin mukaan olevan päällä (Enabled) Firefox-prosessinkin ominaisuuksia katsoessa, en ole siihen itse kajonnut, löysin kyllä sen asetuksen Windowsin järjestelmän suorituskyvyn ominaisuuksista, ja komentokehoiteohjeet, jos nyt siitä kiikastaisi.  
+</p><p>Firefoxista ja Thunderbirdistä olen poistanut parent.lock -tiedostot, Firefoxilla sekä profiilikansiosta C:\Users\USERNAME\Application Data\Mozilla\Firefox\Profiles\PROFILENAME sekä väliaikaistalletusten kansiosta C:\Users\USERNAME\AppData\Local\Temp\firefox ennen kuin olen käynnistänyt selainta uudestaan, ja koska prosessia ei saa tapettua, se tarkoittaa siis että aina koneen uudelleenkäynnistymisen jälkeen.
+</p><p>Löysin neuvon avata Firefox klikkaamalla kuvaketta ja pitämällä SHIFT-näppäintä pohjassa, mutta sillä ei ollut eroa mun tapauksessani: vain prosessi käynnistyy.
+</p><p>Profiilista olen poistanut edellisen istunnon tiedostot (sessionCheckpoints.json, sessionstore.jsonlz4, sessionstore.js)
+ja sessionstore-backups kansio on tyhjä.
+</p><p>Poistin Firefoxin asennuksen, boottasin ja asensin uusimman 73.0 version 13.02.2020. Sama ongelma jatkui senkin kanssa.
+</p><p>Lisäsin kuvakkeeseen käynnistyspolun perään -P argumentin, ja Windowsin SAFE-modessa sillä sai käynnistymään ikkunan jossa voi luoda uuden profiilin ja valita mitä profiilia käytetään. Jos käynnisti Windowsin normaalisti, niin tuokaan ikkuna ei aukea. Firefox ei kyllä käynnistynyt Windowsin SAFE-modessakaan. Kokeilin myös Run as administrator ja SHIFT-napin kanssa, mutta ei käynnisty. Uuteen profiiliin tuli vain yksi ainoa tiedosto: times.json.
+</p><p>Kun asensin uuden version Firefoxista, se ei ollut aivan ""clean Install"", eli asensin saman nimiseen kansioon, joka kyllä oli tyhjä tiedostoista, enkä käynyt rekisteriä läpi, enkä poistanut edellistä profiilia. Mikä lieneekin seuraava yritys. Joku neuvoi myös place.sqlite -tiedostoa poistamaan/uudelleennimeämään, jota voin kanssa kokeilla. Tässä on nyt kuitenkin huomionarvoista se, että Firefoxin lisäksi Thunderbird alkoi samalla hetkellä käyttäytymään samalla tavalla. Ja sehän ei ilmeisesti mitenkään Firefoxin profiilia käytä, joten epäilen kyllä Aviraakin enemmän kuin että Firefoxin profiili olisi tähän kaikkeen syypää.
+</p>",desktop;fix-problems;,firefox,fix-problems,fi,"",pelihemmo
+1280077,2020-02-17 06:50:25 -0800,2020-02-18T01:15:17Z,cannot get unipass to work when will it be sorted have waited 3 months now will need to change to another browser if not fixed,"<p>I have always had UNIPASS to allow me to acces various websites and some will not link unless you go in with unipass. It appears since firefox was upgrade last year they have not fixed this Do you have a timescale as I have waited 3 months if cannot be resolved will have to go back to internet explorer can you give me an idea when or if the issue withh unipass will be resolved
+many thanks
+Bill
+</p>",privacy-and-security_1;firefox-730;desktop;mac-os;,firefox,privacy-and-security,en-US,1291224;1291292;1291296;,w.white43
+1280075,2020-02-17 06:30:18 -0800,2020-02-17T08:04:38Z,"Trying to activate 2FA always returns ""Invalid two-step authentication code"" error","<p>I deactivated 2FA to change the app I use to generate the code but I can't manage to reactivate it, every time I scan the QR Code and input the code I get this error. I also tried to input the code manually without scanning the QR Code but the result is the same.
+</p><p>I tried both on Firefox Preview on Android and on latest Firefox version on Arch Linux but the result is the same.
+</p>",firefox-680;desktop;privacy-and-security_1;,firefox,privacy-and-security,en-US,1290988;1290990;1291004;1291006;,silvanocerza
+1280074,2020-02-17 06:29:41 -0800,2020-02-17T13:27:21Z,corrector ortografico no funciona,"<p>Hola, ¿cómo están?
+El corrector ortográfico no funciona, tengo la casilla activada ""Verificar otrografía al escribir"" y tengo diccionarios cargados. La versión de Firefox es 73 64bits.
+Me pueden ayudar.
+gracias.
+</p>",firefox-730;customize;desktop;windows-7;needsinfo;,firefox,customize,es,1291068;1291086;1291087;1291091;1291147;,drodriguez1
+1280072,2020-02-17 06:21:28 -0800,2020-02-17T09:27:48Z,Restore Previous Session in Tools --> Options doesn't seem to keep them in the same order,"<p>Hello, and thanks for reading my post.
+</p><p>I have Firefox 73.0 on a Windows 10 PC and, as in the past, have configured this version to ""restore previous session"" at startup by checking the appropriate box in Tools --&gt; Options.
+</p><p>However, I've noticed that, when restarting Firefox (from it simply being ""off"", not necessarily from a crash of some kind), the various windows I had open DO restore...but in a different order than before.
+</p><p>How can I make them come back in the same order, please?  (Please note that, for now at least, I'm asking about individual windows, not specifically about tabs within the same window.)
+</p><p>Thank you very much,
+Bram Weiser
+</p>",tabs;firefox-730;desktop;windows-10;,firefox,tabs,en-US,1290978;1291035;,bramweiser
+1280071,2020-02-17 06:05:43 -0800,2020-02-17T10:38:26Z,The new update makes the address bar larger when it has focus. How do I turn this off???,"<p>Every UI update, there's something that makes me enjoy Firefox less and less and it becomes more and more difficult to make it something I feel is reasonable. Having the address bar suddenly take up more of the UI is bad design and not only irks me on a design level but it just doesn't need to be that large. I *know* it has focus because I did it deliberately. 
+</p><p>So how do I turn this ""feature"" off?
+</p>",firefox-740;beta;customize;desktop;windows-7;megabar;,firefox,customize,en-US,1290984;1291053;1291056;1291057;1291062;,dhicks34
+1280070,2020-02-17 05:53:44 -0800,2020-02-17T05:53:44Z,"I can't disable bookmarks sync on one device, it disables on all devices.","<p>Hello,
+I have 4 devices: 2 Android, 1 MacOS and 1 Windows. I want to enable complete sync on Android and Windows, but disable bookmarks syncing on MacOS. But when I disable it, it disables on all devices, even I also disabled syncing for options. When I enable it on other devices, it also enables on MacOS.
+</p>",firefox-730;sync;desktop;,firefox,sync,en-US,"",jan.kucera86
+1280069,2020-02-17 05:49:11 -0800,2020-02-17T05:49:11Z,IAccessible  features are not working,"<p>IAccessible  features are not working in Mozillafirefox version 7.1 in windows 7 ,32 bit machine. Showing an error code - error=183.
+get_accParent() API is not working.
+</p>",firefox-7202;other;firefox-720;desktop;windows-10;,firefox,other,en-US,"",arjun2
+1280068,2020-02-17 05:46:43 -0800,2020-02-17T06:53:41Z,The download arrow is not on my toolbar and not in the Customize window.  73.0 (64-bit),"<p>The the download arrow only appears shortly after a download.  I want to go back and install something I downloaded yesterday.  I tried the following but the download arrow is not there.
+</p><p>Why don't I see the download arrow on my toolbar?
+</p><pre>   2 replies
+   3 have this problem
+   5735 views
+   Last reply by riverhead1976 5 years ago
+</pre>
+<p>riverhead1976
+riverhead1976
+Posted
+6/11/14, 9:04 PM
+</p><p>The down arrow indicating downloads used to be on my toolbar but is now gone. If I customize Firefox I can't find the arrow to drag onto the toolbar, so the only way I can see my downloads is if I go to my homepage and then click downloads at the bottom of the screen.
+Chosen solution
+</p><p>Right-click an empty area of the tab bar and choose Customize. Click the Restore Defaults button near the bottom right.
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1290965;1290977;1290979;,stlcardsfan
+1280067,2020-02-17 05:40:25 -0800,2020-02-17T05:40:25Z,Firefox in a loop trying to connect to Withings account - Why? Does not happen on Safari!,"<p>I use Firefox on an iMAC. Every time I try to access <a href=""http://Healthmate.withings.com"" rel=""nofollow"">Healthmate.withings.com</a> it connects then resets and brings the main screen up, but then starts the process again. It does this without me doing anything. It just loops at the main screen. I have a video as a picture is very hard to get but cannot upload it ... Can anyone help me?
+</p>",firefox-730;other;desktop;mac-os;,firefox,other,en-US,"",john.karamanos
+1280062,2020-02-17 03:36:51 -0800,2020-02-17T03:51:15Z,"Hi Firefox team Just letting you know. In your updated web browser 73 vision to my bookmarks I still there, but it won't let me open. Any website He is just a c","<p>Hi Firefox team Just letting you know. In your updated web browser 73 vision to my bookmarks I still there, but it won't let me open. Any website He is just a complete blank screen. Are you able to fix this please?
+</p>","",firefox,basic-browsing-firefox,en-US,1290940;1290942;,bjhedger85
+1280061,2020-02-17 03:34:02 -0800,2020-02-17T03:34:02Z,Firefox memory leak,"<p>Hello,
+</p><p>I use Firefox 73.0 (64-bit) on 5.3.18-1-MANJARO GNU/Linux and constantly faced with the fact that Firefox takes up all available memory until the computer freezes (12Gb RAM without swap).
+If I restart Firefox, initially memory usage is small, but after some websurfing it constantly grows, as if it were not clearing.
+</p><p>According to the about:memory report, most of the memory is occupied by the ""chrome://browser/content/browser.xhtml"".
+What is it and why does it take up so much memory?
+</p><p><br>
+Example:
+</p><p>7 tabs opened: <a href=""https://i.imgur.com/W8zWXQZ.png"" rel=""nofollow"">https://i.imgur.com/W8zWXQZ.png</a>
+</p><p>Memory usage report: <a href=""https://pastebin.com/raw/MsTk2pAg"" rel=""nofollow"">https://pastebin.com/raw/MsTk2pAg</a>
+</p><p>OS memory usage: <a href=""https://pastebin.com/raw/3D5EUm61"" rel=""nofollow"">https://pastebin.com/raw/3D5EUm61</a>
+</p><p>OS memory usage after closing Firefox: <a href=""https://pastebin.com/raw/q65AvTpa"" rel=""nofollow"">https://pastebin.com/raw/q65AvTpa</a>
+</p><p><br>
+I will be very grateful for your help!
+</p>",firefox-730;desktop;fix-problems;linux;,firefox,fix-problems,en-US,"",10-93
+1280060,2020-02-17 02:51:52 -0800,2020-02-17T10:05:54Z,lost the Show All History bar at the bottom of that list to open the Library window.,"<p>I want to revisit a site I found in a search a fortnight ago. I need to be able to search my older history to find this site, but I can't seem to find the way to open the history in a library window any more -  these are the instructions but the  Show All History bar at the bottom isn't there:
+The History drop-down menu includes a Recent History list. 
+Click the Show All History bar at the bottom of that list to open the Library window.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1290944;1290964;1290996;1291031;1291047;1291054;,waywar
+1280058,2020-02-17 01:59:32 -0800,2020-02-17T04:22:40Z,Firefox blank after update to V73. Reset and reinstall havent fixed.,"<p>Windows 10 1909. Firefox recently updated to V73. At first the consent.exe was continuously trying to load that has now stopped but the browser will not load anything at all. All the tabs remain blank and this is also the case starting it in safe mode.  Its been reinstalled a few times but no change.
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US,1290933;1290935;1290947;,phil.dambrogio
+1280056,2020-02-17 01:30:50 -0800,2020-02-17T04:56:09Z,ebay problem,"<p>I am on ebay all fine. I then click on my shop. all fine. I then click on a category and get Hmm we are having trouble finding that site. I can do it again and again and about the 4th time it will work or i can open a nother browser suxh as chrome and copy the address and they see it fine why is it happening so often now.
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,1290953;1290954;,julie18
+1280055,2020-02-17 01:10:37 -0800,2020-02-17T23:37:47Z,I have changed the language of Firefox but it does not apply to some parts,"<p>I have changed Firefox language to English from Preferences &gt; Language 
+However, in some part of Firefox it is still Turkish (The country I have downloaded it from). For example, Firefox menu is all Turkish. But File menu is all English. Also most of in-app dialogues are Turkish.
+</p>",firefox-730;customize;desktop;mac-os;,firefox,customize,en-US,1290925;1290980;1291271;1291281;,pixelgravity
+1280053,2020-02-17 00:26:31 -0800,2020-02-17T11:58:28Z,"Hello. Please, how I can open link in same (not in new) tab on Mac, received from ""Share on device"". I want switch videos on youtube only with phone. Thank you.","<p>no details
+</p>",tabs;firefox-730;desktop;mac-os;,firefox,tabs,en-US,1291099;,antoniokarpov
+1280052,2020-02-16 23:38:02 -0800,2020-02-17T12:20:57Z,I dont get an reset password email!?!,"<p>I have tried several times to reset my password but never gets an reset password email.
+</p>",privacy-and-security_1;firefox-730;desktop;windows-10;,firefox,privacy-and-security,en-US,1291111;,lindstrandlisa
+1280048,2020-02-16 21:56:14 -0800,2020-02-17T08:34:50Z,images do not load for www.msn.com,"<p>I use <a href=""http://www.msn.com"" rel=""nofollow"">www.msn.com</a> for my news page.  I just updated my Windows software and now the images on <a href=""http://www.msn.com"" rel=""nofollow"">www.msn.com</a> do not load in Firefox.  They load in Chrome and Edge.
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1290917;1290989;1291013;1291016;,wisdaj
+1280044,2020-02-16 20:03:53 -0800,2020-02-18T08:59:09Z,thaivisa.com forum pages open but never complete loading and text jumps up and down every few seconds.,"<p>See question. This is an example link:  
+</p><p><a href=""https://forum.thaivisa.com/topic/1148559-cambodia-vs-thailand/?utm_source=newsletter-20200217-0614&amp;utm_medium=email&amp;utm_campaign=news"" rel=""nofollow"">https://forum.thaivisa.com/topic/1148559-cambodia-vs-thailand/?utm_source=newsletter-20200217-0614&amp;utm_medium=email&amp;utm_campaign=news</a>
+</p>",firefox-730;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,1290908;1290924;1290952;1290955;1290958;1290971;1290976;1290981;1290982;1290991;1290997;1290999;1291002;1291389;,turiyaa
+1280041,2020-02-16 19:07:18 -0800,2020-02-17T08:08:20Z,why is firefox,"<p>why is firefox searching with yahoo now for me
+also beyond slow when opening firefox up to search so slow
+Thank youj
+</p>",download-and-install_1;desktop;,firefox,download-and-install,en-US,1290910;1290921;1291007;,walleye159
+1280040,2020-02-16 18:57:24 -0800,2020-02-17T12:52:11Z,Curved tab,"<p>I would like to customize the tabs to be curved instead of the current rectangular one to bring back some aesthetics.
+</p><p>Thanks in advance,
+Imre
+</p>",firefox-730;customize;desktop;mac-os;,firefox,customize,en-US,1291105;1291128;,imre_lovasz
+1280039,2020-02-16 18:51:32 -0800,2020-02-17T12:16:11Z,talk to live tech support,"<p>account locked . i have no access to email account listed . Cant change or push to text 2 step log in .because cant log in
+</p>",firefox-730;other;desktop;windows-81;,firefox,other,en-US,1291108;,acme1
+1280036,2020-02-16 18:09:43 -0800,2020-02-17T21:32:47Z,Please! Google image doesn't work properly in mozilla!,"<p>In other browsers google image works normally. But in mozilla it get that way, does not load or amplifies the image. I already tried to clear the browsing data, I also tried to give up mozilla through the revo uninstaller and install it again, but it didn't work! revo uninstaller, What can I do to fix this!
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1290888;1290897;1291021;1291074;1291076;1291085;1291116;1291173;1291245;,rodrigolt
+1280032,2020-02-16 17:07:00 -0800,2020-02-16T17:07:00Z,Why has my highlighting accent color changed so that it's harder to read?,"<p>Hi, does anyone know why my accent color has changed to a weird green and white making text harder to read?
+</p><p>I've attached an image of an example.
+</p><p>Thanks for any help.
+</p>",firefox-730;customize;desktop;,firefox,customize,en-US,"",bradyp4
