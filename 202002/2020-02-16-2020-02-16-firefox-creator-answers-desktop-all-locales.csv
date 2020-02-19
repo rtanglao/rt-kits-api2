@@ -1,0 +1,211 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1280024,2020-02-16 15:04:41 -0800,2020-02-16T15:55:19Z,Stop cross tab/window cookie sharing in private mode,"<p>When visiting a site (eg. retailer) in private mode, the site still retains my complete viewed items history in that private mode session. So if a purchase is being made in that session, the complete history can still be collected.
+Containers, from my understanding and trials, whilst stopping cross-site cookie sharing, still do not achieve the above.
+Even more so, it seems logical to assume that in Private mode the cookie jar is shared by all sites --and shared!-- since Containers are not designed/ allowed in this mode.
+</p><p>The only browser with ""true"" private mode seems to be Safari, from which I have a hard time migrating, considering this lapse in privacy configuration.
+</p><p>What am I missing?
+</p>",privacy-and-security_1;firefox-730;desktop;mac-os;,firefox,privacy-and-security,en-US,1290851;1290855;,stelian.ciorogariu
+1280023,2020-02-16 15:04:35 -0800,2020-02-18T08:23:29Z,Firefox wont load any sites after windows 10 update,"<p>While I dont know if these 2 things are related some strange things still happened with my firefox, version 73, 64bit.
+</p><p>No sites wont load, at all. Chrome Comodo, IE11, Edge work without a problem.
+I uninstalled many times Firefox, backed up or deleted the Mozilla folder from %appdata% folder. Still wont work.
+On new install it should start up but it doesnt. On one occassion it created 6 new profiles in 5 minutes.
+about:config cant be opened.
+If I close it down to reopen it I get the message that it needs to be stoped first.
+Wont work in safe mode either.
+I depended heavily on firefox for work related issues, saved passwords, saved dials and so on. All gone now.
+</p><p>Is there anyway of fixing this or should I abandon Firefox and go with Chrome?
+Im sure there is something somewhere that is broken but I cant put my finger on it.
+</p>",desktop;fix-problems;windows-10;bug1614885;,firefox,fix-problems,en-US,1290880;1290906;1291368;,scootiesjunkmail
+1280022,2020-02-16 15:00:23 -0800,2020-02-17T07:49:50Z,Location Services not working since Firefox 73 install,"<p>When trying to access website that needs to know my location for tailoring information, it says it is unable to determine my location. Location services in enabled and permission granted for that particular website. Moved to another browser and it works as expected.
+</p>",firefox-730;customize;desktop;,firefox,customize,en-US,1290858;1290859;1290862;1290972;1290973;1290975;1290983;1290992;1290998;,mdoneske
+1280021,2020-02-16 14:48:16 -0800,2020-02-16T15:49:38Z,Frequent automatic logging out of gmail accounts,"<p>I performed solution suggested in the thread but it is not working. I logged in all my gmail accounts yesterday and today every one of them is logged out. I am frustrated because no one would like to login to gmail every time you fire up the browser. PFA for the screenshot for gmail and change made in preferences as per guided on the solution thread.
+Let me know if I am doing anything wrong.
+Looking forward to your reply.
+Firefox version 73
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1290839;1290853;,jash.jasani.jj
+1280020,2020-02-16 14:04:21 -0800,2020-02-17T13:11:44Z,What is the deal with Kaspersky Internet Security?  Was just upgraded to Firefox Version 73.0 (32 bit) and I no longer can select Kaspersky as an add on.  Fix?,"<p>The Add on was working about a week ago, and just noticed that it is no longer an add on option?  why is this? what is the fix?  Thank you.
+</p>",firefox-730;customize;desktop;windows-7;kaspersky;,firefox,customize,en-US,1290847;1290854;1291119;1291120;1291140;,david.siegler
+1280019,2020-02-16 13:55:40 -0800,2020-02-16T15:47:47Z,firefox often 'not responding' have multiple entries of firefox in task manager with only 1 window open,"<p>Ever since upgrading to windows 10 via the usb downloadable method and upgrading to firefox 73.0 firefox has been extremely slow. The response of the pointer is slow as is the response of any 'click'.
+I have 8.0 Gb of RAM 64 bit system.
+I have gone into task manager and noticed that there were several line items open under firefox, I have limited these to three since then bu am not convinced that was an issue. What I have also noticed is that all of them show a last accessed date of over 15 hours ago. The computer has been off since then and restarted several times. 
+System is still slow.
+I also have over 70 lines of svchost.exe files open in the task manager. None of them show a lot of activity I just think that is odd.
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1290848;1290852;,Noakes
+1280018,2020-02-16 13:26:20 -0800,2020-02-16T13:26:20Z,Does McAfee Webadvisor extension block selecting text and links on https://marsbase.org/?,"<p>As per subject. When I disable the extension and reload the webpage I can once again select text and click on links.
+</p><p>I tried contacting McAfee support and they suggested reinstalling the extension but I don't want to do that just yet. If you already have the extension perhaps you can see if you have the issue? <a href=""https://marsbase.org/"" rel=""nofollow"">https://marsbase.org/</a>
+</p><p>I'm not sure whose responsible firefox or mcafee?
+</p><p>I've also asked <a href=""https://superuser.com/q/1525936/627894"" rel=""nofollow"">https://superuser.com/q/1525936/627894</a> here and reported the extension to firefox.
+</p><p>So can anyone with McAfee WebAdvisor replicate this issue so I can forward this onto McAfee support?
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",darrynw.au
+1280017,2020-02-16 13:23:22 -0800,2020-02-18T16:51:59Z,I exported my bookmarks to Avast Browser but many of them are missing,"<p>I exported 2 days ago my bookmarks to Avast Browser. I tried to open some of them from Avast Browser and noticed that many of them are missing, even some folders. I tried to import them back to Firefox, but the Avast Browser does not appear in the list of browsers, so I cannot do this. And I am not sure if improting them back will restore the missing ones. Is there any way to restore my old bookmarks on Mozilla. I have not backed them, I am afraid. Many thanks for your support!
+</p>",bookmarks;firefox-720;desktop;windows-10;,firefox,bookmarks,en-US,1291543;1291558;1291559;,tezcanmert
+1280015,2020-02-16 13:15:28 -0800,2020-02-17T08:04:38Z,"When I download an item on windows desktop, firefox repeatedly opens tab after tab - got up to 60 + before I realized it.","<p>Tried to download bills from FPL, Comcast and Verizon and never got to see them due to Firefox rapidly opening a seemingly infinite number of tabs.  The only way to stop it was to close all tabs.  When I went to Google instead, I was able to do normal download.
+</p>",firefox-7202;other;firefox-720;desktop;windows-10;,firefox,other,en-US,1290861;1290873;1290987;1290994;1291005;,pamelamburdick
+1280013,2020-02-16 12:56:35 -0800,2020-02-16T12:56:35Z,Options - General - Applications is missing Content Types,"<p>I've seen a few other posts on this problem, but none of them seem to direct me on how to actually solve it.  Recently many machines in my environment have lost most Application Content Types.  Usually defaulting to only IRC, IRCS, and MAILTO; nothing else.  A few applications have popped into the FF install on my PC, but I can't figure out how to force an app in there.  I've seen a post that details how to add something manually, but I am not exactly keen on manually adding everything to a few dozen machines.  I've been pushing my end users to use Chrome for the time being, something I'd rather not do.
+Any help would be appreciated.
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",mwagner2
+1280010,2020-02-16 12:34:42 -0800,2020-02-16T15:39:41Z,"This last update of firefox, adobe flash wont work and no sound on foxnews.com.....do i need an older version ???","<p>running win7
+</p>",other;firefox-720;desktop;windows-7;,firefox,other,en-US,1290850;,brothh
+1280009,2020-02-16 12:23:12 -0800,2020-02-16T15:36:02Z,How do I prevent the address and tab bars from appearing in full screen mode?,"<p>There's a page I'm viewing in full screen mode, which has buttons at the top of the page (First image). If I'm not careful and move the cursor to the top of the page, the address &amp; tabs bars will appear and push everything down away from my cursor (second image). Is there some way to prevent this? I want full screen to be like in the first picture *at all times*, always hiding the top bars, even if I bring the cursor to the top of the screen.
+</p><p>I am using Firefox 71.0 (64-bit) for Linux Mint.
+</p>",firefox-710;customize;desktop;linux;,firefox,customize,en-US,1290825;1290840;1290849;,JarethGibson
+1280008,2020-02-16 12:22:14 -0800,2020-02-16T13:42:59Z,I'm syncing history. Why do my devices have different sets of history?,"<p>When syncing history between devices I expect them to have the same set of history entries. They don't. Why not? 
+</p><p>I can find entries on one device that I can't find on another. I'm relying on finding all entries on all devices.
+</p>",firefox-720;desktop;sync;windows-10;,firefox,sync,en-US,1290828;,onetimename
+1280007,2020-02-16 11:58:44 -0800,2020-02-16T18:22:36Z,How do I determine which device a synced history entry originated from?,"<p>I have many synced devices. When I type in the address field I get suggestions from history synced from all of them. 
+</p><p>How do I determine from which device a history entry comes from? I can find no such column in the library manager.
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,1290883;,onetimename
+1280005,2020-02-16 11:29:35 -0800,2020-02-16T12:20:53Z,desktop,"<p>I'm still having problems with my Firefox after the updates to the Windows 10 and the update to Firefox 73 it will not load I can't get it to do anything I can't use anything on it I can't even go to the menu and do what they suggested me to do it will not work I need to know what I can do next to fix it. The only other thing I can think to do is to completely uninstall Firefox and use something else because I'm not getting the help that I need they suggested a few things I've tried that I told him I tried it and it's still not working but no one has gotten back to me yet please help
+</p>",other;desktop;windows-10;firefox-730;,firefox,other,en-US,1290809;1290814;,jtldavis1966
+1280002,2020-02-16 11:09:47 -0800,2020-02-16T11:09:47Z,How to add a keyword to directly search transparent images on google?,"<p>Hi there,
+I'm trying to add a keyword to search transparent images directly on google. Input on search bar should be ""png cats"" and it should take me to google images showing only transparent ones.
+</p><p>I achieved this with gifs (location: <a href=""https://www.google.com.pe/search?safe=active&amp;hl=es-419&amp;authuser=0&amp;biw=1536&amp;bih=760&amp;tbs=itp%3Aanimated&amp;tbm=isch&amp;sa=1&amp;ei=cuAUXtyJF6v85gKWq5LQBg&amp;q=%s"" rel=""nofollow"">https://www.google.com.pe/search?safe=active&amp;hl=es-419&amp;authuser=0&amp;biw=1536&amp;bih=760&amp;tbs=itp%3Aanimated&amp;tbm=isch&amp;sa=1&amp;ei=cuAUXtyJF6v85gKWq5LQBg&amp;q=%s</a> ).
+</p><p>However, the location I'm given when I try to add the custom search just doesn't work (<a href=""https://www.google.com/search?tbm=isch&amp;ved=2ahUKEwjt55Xf4tbnAhWIBFkKHYBDCUMQ2-cCegQIABAA&amp;q=%s"" rel=""nofollow"">https://www.google.com/search?tbm=isch&amp;ved=2ahUKEwjt55Xf4tbnAhWIBFkKHYBDCUMQ2-cCegQIABAA&amp;q=%s</a>) it only searches for regular images.
+</p>",bookmarks;firefox-720;desktop;windows-10;,firefox,bookmarks,en-US,"",grafico602
+1280001,2020-02-16 10:41:00 -0800,2020-02-16T10:41:00Z,"Google advance search has missing operators, while it is available in Google Chrome,","<p>Google Advance search operators.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,"",alkassab98
+1280000,2020-02-16 10:17:10 -0800,2020-02-16T10:53:36Z,Firefox stops responding or becomes really slow.  Only fix is a restart.  Other browsers ok,"<p>Firefox will work great.  Then when reopening it, no response.   Maybe 3 minutes to load the home page, and then too slow to use.   I tried a refresh, which deleted stuff I wanted and had to set back up.  I was thinking it was the internet connection, but 2 other browsers worked fine.  Only thing that seems to get FF working is a system restart.  I hoped that FF 73.0 would be the fix, but it wasn't.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1290790;1290795;,tomg8
+1279998,2020-02-16 09:53:16 -0800,2020-02-17T20:49:13Z,"Hi, Everytime I change the Default Search Engine for Google, it is always change again as default by Tapufind, even the homepage. Ineed help","<p>I need that Firefox respect the search engine I have decided. I don´t like Tapufind!
+</p>",firefox-730;other;desktop;mac-os;,firefox,other,en-US,1290773;1290777;1291192;1291242;,m_2
+1279994,2020-02-16 09:19:16 -0800,2020-02-17T11:45:13Z,about:debugging,"<p>I want to be able to debug site on my Samsung Galaxy A6 remotely. My phone has been found on the left  under about:debugging#/setup but it is stuck on ""waiting for browser"" and I have no idea why. Thanks
+</p>","",firefox,customize,en-US,1290769;1290808;1290835;1291095;,info1671
+1279992,2020-02-16 08:06:07 -0800,2020-02-17T08:24:24Z,Tibetan text no more wraps,"<p>Hi, I manage a website that contains Tibetan fonts. Recently I've noticed that the Tibetan text no more wraps and cause my table-styled page broken. However, the page renders normally in other browsers. Here are the browsers that render normally and wrongly:
+</p><p>Page url: <a href=""http://www.shartulrinpoche.org/index.html"" rel=""nofollow"">http://www.shartulrinpoche.org/index.html</a>
+</p><p>Rendering wrongly:
+- Firefox 73.0
+- Firefox (Android) 68.5.0
+- Firefox lite (Android) 2.1.8
+- Firefox Preview (Android) 3.2.1
+</p><p>Rendering normallyl:
+- Microsoft Edge Ver 80.0.361.53
+- Google Chrome Ver 81.0.4044.17
+- Google Chrome (Android) Ver 81.0.4044.18
+- Brave (Android) 1.5.5
+- Firefox Focus (Android) 8.0.25
+</p><p>Thanks in advance for any help.
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1290776;1290810;1290893;1290895;1290969;1291012;,arsisthesis
+1279991,2020-02-16 07:47:55 -0800,2020-02-18T03:51:18Z,Do I have a malware addon?,"<p>I have Decentraleyes, Privacy Badger, Privacy Possum, UBlock origin, No Script, and Easy Youtube Video Downloader Express...
+</p><p>All of which are recommended add ons.
+</p><p>The other day I ended up with an issue where I was redirected to a ""Prize"" site. I have since wiped my drive and reloaded my OS... but I want to make sure this doesn't happen again.
+</p><p><br>
+So here's the story
+</p><p>I clicked on this website, and the first couple times I got this web page, which was different
+</p><p>from what I was supposed to get,
+</p><p>""game2674.goprzshere39.live/7261852386/?utm_campaign=QPF8euu28II5lw702iHhCugVqK5RzfdNsTpLaMM91qY1&amp;t=main9............ etc"",
+</p><p><br> 
+and the 3rd time I got a warning from Ublock Origin about <a href=""https://minently.com/RnSda/rDN#/ojdn/-nsy7qV12RbEJREofa"" rel=""nofollow"">https://minently.com/RnSda/rDN#/ojdn/-nsy7qV12RbEJREofa</a>... etc.....
+and then the fourth time I got the website which was <a href=""https://occult-study.org/left-hand-path-and-right-hand-path/"" rel=""nofollow"">https://occult-study.org/left-hand-path-and-right-hand-path/</a>
+</p><pre>Now I no longer get that bizarre site any longer (It said I made the 5
+</pre>
+<p>billionth search and won a prize and then my computer beeped), but WTF was that and why did it happen?
+</p><p>Here is the full link to what I initially got... it seems to change for some reason
+</p><p>http://game7666.goprzshere52.live/4613868782
+</p><p>/?  <em>(parameters removed by moderator)</em>
+</p>",firefox-720;desktop;fix-problems;linux;,firefox,fix-problems,en-US,1290749;1290750;1290754;1291322;,Lordproblemhaver
+1279988,2020-02-16 07:25:46 -0800,2020-02-16T07:25:46Z,Web browser and iOs mobile show same password. iPhone login is telling me that said password is wrong however.,"<p>Not sure about sharing my passwords but can email screenshots to Mozilla for verification. The ""Show Password"" feature is lovely by the way. I am seeing it in more apps everyday.
+</p>",firefox-720;desktop;sync;windows-10;,firefox,sync,en-US,"",akepshire
+1279986,2020-02-16 05:31:15 -0800,2020-02-16T05:31:15Z,Bing won't backspace 80% of the time,"<p>I've tried Bing on Chrome, Opera, and Safari, and the issue doesn't exist on either of those browsers -- so I know this is an FF issue. I don't have problems backspacing on any other website, EXCEPT BING. I've dealt with this for three years and I find it quite cumbersome to deal with it anymore. I will not abandon Bing over this because I find it's search and features more accommodating to my liking. The status bar says; ""waiting for login . microsoft .com"", ""transfering information from bring"", etc, among like there other things I can't read because it moves too fast. It disappears within 20 seconds and doesn't do anything. If I click the backspace on either the browser or keyboard, at least 60 times, it will finally go back. It's obnoxious as all hell and I don't understand why it's doing this... Can someone tell me how to fix this???  
+</p><p>This mostly only happens on images but occasionally search results.
+</p>",websites;firefox-720;desktop;mac-os;,firefox,websites,en-US,"",dukenukem
+1279984,2020-02-16 04:52:35 -0800,2020-02-16T17:57:36Z,H.264 video codec not longuer working in Firefox,"<p>This issue promptly appeared after Windows updates KB4525244 of 15.02.2020
+My OS: Windows 10 Professional (NOT N ) 1903
+I already tried solutions from this support page  (Launched without plugins, clean reinstall, clean reinstall and downgrading  etc). 
+Doesn't seem related to the Windows Media Pack as Chrome Browser just works fine as well as all the viedos files Mp4 and MEPG that I download does read on the PC player
+</p><p>I added screen caps of the HTML5Test page from FF and chrome.
+</p><p>Thanks for your support
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1290797;1290827;1290876;,ricardo_am36
+1279983,2020-02-16 04:44:48 -0800,2020-02-17T05:49:24Z,How to rebind the Tab key in the Omnibar?,"<p>A recent Firefox update changed what the Tab key does while typing in the omnibar. It used to cycle between suggestions, now it changes focus to the next element in the toolbar. Is there a way for me to revert this behavior?
+</p>",firefox-740;other;beta;desktop;linux;,firefox,other,en-US,1290751;1290939;1290959;,me79
+1279982,2020-02-16 04:30:10 -0800,2020-02-16T05:14:00Z,Firefox autostart,"<p>Good day, I have an issue with the Firefox, I hope you can help me with some pointers on where to look. 
+I have opensuse tumbleweed, and every time I turn on my pc, Firefox starts with the system, even when I close it before shutting down or rebooting, and it always starts with the previous session, even though it's turned off in the settings.
+</p><p>Thank you.
+</p>",other;desktop;,firefox,other,en-US,1290725;,alex11m
+1279980,2020-02-16 03:42:34 -0800,2020-02-16T03:44:43Z,"Font on webpage changed without reason, can't fix it","<p>I wanted to use my webmail but noticed that my fonts over the entire page have changed. I tried to fix it with these tips and tried to zoom in/out but it didn't fix it. When I enabled the box that pages can use their own fonts than it was normal but then another page was wrong. It just moved the problem. I have no clue what I can do else? 
+</p><p>this is what I've tried without succes
+<a href=""https://support.mozilla.org/nl/kb/lettertypen-en-kleuren-die-websites-gebruiken-wijzigen?as=u&amp;utm_source=inproduct"" rel=""nofollow"">https://support.mozilla.org/nl/kb/lettertypen-en-kleuren-die-websites-gebruiken-wijzigen?as=u&amp;utm_source=inproduct</a>
+</p><p>In Safari I have no issues just in Firefox. I tried to clean the cookies, restart Safari, restart computer, re-installed Firefox but still could not fix it. 
+I tried add-ons for fonts en when I enable it, again it looks fine on this site but wrong on the other site. 
+</p><p>I'm desperate...
+</p><p>Regards Els
+</p>",firefox-730;customize;desktop;mac-os;font;fontsproblem;,firefox,customize,en-US,1290709;1290710;,poisonfrogs
+1279979,2020-02-16 03:41:13 -0800,2020-02-16T03:41:13Z,"Font on webpage changed without reason, can't fix it","<p><em>[Locked as a duplicate of <a href=""https://support.mozilla.org/en-US/questions/1279980"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1279980</a>. Please follow up there, thanks.]</em>
+</p><p><br>
+I wanted to use my webmail but noticed that my fonts over the entire page have changed. I tried to fix it with these tips and tried to zoom in/out but it didn't fix it. When I enabled the box that pages can use their own fonts than it was normal but then another page was wrong. It just moved the problem. I have no clue what I can do else? 
+</p><p>this is what I've tried without succes
+<a href=""https://support.mozilla.org/nl/kb/lettertypen-en-kleuren-die-websites-gebruiken-wijzigen?as=u&amp;utm_source=inproduct"" rel=""nofollow"">https://support.mozilla.org/nl/kb/lettertypen-en-kleuren-die-websites-gebruiken-wijzigen?as=u&amp;utm_source=inproduct</a>
+</p><p>In Safari I have no issues just in Firefox. I tried to clean the cookies, restart Safari, restart computer, re-installed Firefox but still could not fix it. 
+</p><p>I'm desperate...
+</p><p>Regards Els
+</p>","",firefox,customize,en-US,"",poisonfrogs
+1279974,2020-02-16 03:26:48 -0800,2020-02-18T09:36:39Z,Firefox 73.0 bookmarks disappeared I am running os x 10.13.6 I am unsure what to do to recover my bookmarks. The json backups have not worked correctly they ar,"<p>Firefox 73.0 bookmarks disappeared I am running os x 10.13.6 I am unsure what to do to recover my bookmarks. The json backups have not worked correctly they are 6 months months outdated it seems
+no idea why this is. Export HTML has not worked for many months either. I am so fed up as I needed all the research as we speak. Its causing insane problems. Are Json files stored someone else that I can find and use ?
+</p><p>Screen shot of my profile is attached.  If I can find a Json file backed up else where please direct me to it and I will start from the beginning  again I just need the bookmarks soooo badly ASAP.
+</p><p>Thank you all
+</p>",bookmarks;firefox-730;desktop;mac-os;,firefox,bookmarks,en-US,1290727;1290775;1290787;1290800;1290818;1290836;1291295;1291308;1291402;,james441
+1279970,2020-02-16 02:43:49 -0800,2020-02-16T02:43:49Z,Firefox 66 launches print dialogue window with disproportionately large icons,"<p>When I ask my webmail to print an email, the dialogue window pops us as expected. In that window I expect a small top bar with a close (cross) and print (printer) icons, as shown in the first image added (obtained with Linux Ubuntu 18.04, Firefox 71). 
+</p><p>Instead, in a computer with Linux Ubuntu 14.04 and Firefox 66, I get gigantic icons, as wide as the page width, as shown in the second image added. This is certainly an issue when I want to print to file; I have not tried and sent the job to a printer since I am not interested in that use at this moment. It used to work fine for years until a certain point, but I cannot pinpoint when it went wrong and the possible whys. Note that the body of the mail is formatted regularly, and that also the icons at the bottom (say, an attachment) are magnified disproportionately.
+</p><p>There is an archived post in <a href=""https://support.mozilla.org/en-US/questions/1176032"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1176032</a> that reports a similar problem. However, the diagnose is different. The large icon is not an issue of yahoo mail on two counts: 1) the big X and printer icons are supposed to be there, and the issue is that they are magnified without a reason; 2) the problem does not arise with the same webmail service in other computers. I suspect that it must be some local setting of Firefox that has been changed in a mistake? 
+</p><p>Any ideas on fixes and workarounds? Thanks for helping out
+</p>",firefox-660;desktop;fix-problems;,firefox,fix-problems,en-US,"",Xavierstuvw
+1279969,2020-02-16 02:35:54 -0800,2020-02-16T02:35:54Z,How to make fixed size window in privacy.resistfingerprinting (Firefox),"<p>In Firefox, I use `privacy.resistfingerprinting = true`. How can I set the window size (1024x768 or 1366x768 or another) that I need? So that I open the browser and the window size matches the resolution I need.
+</p><p>What I did:
+</p><p>Set the values to `privacy.window.maxInnerHeight` and `privacy.window.maxInnerWidth`. But the size is 1000x700, 1400x800, etc., i.e. not the one i need.
+</p><p>Used `privacy.resistfingerprinting.letterboxing` with the specified resolution in `.dimensions`, it seems to work. BUT, this works with a delay. I open a test page in which resolution is displayed through `&lt;body onload=""alert (window.innerWidth)""&gt;` and at the very beginning the real value is displayed and only then changed using letterboxing. That is, it is possible to intercept the real value.
+</p><p>I tried to resize the window through `Window.resizeTo ()`, but it does not change.
+</p><p>Tell me how to launch a browser with a window of the desired size with privacy.resistfingerprinting enabled?
+</p>",privacy-and-security_1;desktop;,firefox,privacy-and-security,en-US,"",xyudaoof
+1279964,2020-02-16 02:08:46 -0800,2020-02-16T02:08:46Z,Firefox on Linux/ Wayland/ Sway is haveing trouble scaling on multiple screens when the screens have different scaling ratios,"<p>My setup: 
+</p><p>Firefox versions 70-74, developer version and stable;
+Ubuntu 19.10 with Wayland/ Sway;
+Internal Monitor 3000x2000 with scaling ratio 2.0 + External Monitor 1920x1080 with scaling ratio 1.0  
+</p><p>Ever since version 70 I noticed that Firefox would on first start scale either according to the external or internal monitor, and be perfectly workable on that one. But when moving it to the other monitor/ opening a new window on the other monitor it would not scale properly, but render according to the scaling factor of the other monitor. So, e.g. when moving from the internal to the external screen it would only render to the top left quarter of the screen, while the application was actually being the right size. At the same time the input mapping was according to the actual window dimensions, and not according to the visual rendering of Firefox. This would also happen the other way round, with Firefox then only rendering the top left part of the web page to the entire screen.
+</p><p>You can see this well on the attached screenshot, but notice that sway is a tiling window manager, so Firefox should actually be exactly the same size as the terminal next to it. Firefox also renders like this when the scaling factor was changed at run time, so the issue seems to me that Firefox on Wayland checks the scaling factor on startup just once globally and does not realize when it was changed or that it can be different on different monitors.
+</p>",firefox-740;beta;desktop;fix-problems;linux;,firefox,fix-problems,en-US,"",freddy.wiehl
+1279963,2020-02-16 02:00:26 -0800,2020-02-18T05:08:42Z,"Browser opens, but can't click anything and doesn't show bookmarks","<p>Hey folks, 
+</p><p>As of about 3 days ago, when I opened my Firefox browser, I was unable to click anything and the browser wasn't displaying my bookmarks. The only responsive bit is the menu button. I can click on it and after some lag, it will display the menu, but it hangs after that. I tried reinstalling and other troubleshooting tips I could find, but nothing seems to be working. Any help would be helpful! Thanks in advance.
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US,1290728;1290730;1290731;1290733;1290741;1290752;1290755;1290765;1290785;1290786;1290807;1290830;1291100;1291323;1291332;,katejsim
+1279962,2020-02-16 01:58:41 -0800,2020-02-16T08:52:18Z,Picture in Picture mode no snapping?,"<p>I would love to see PiP mode to have windows border snapping. For now I didn't see any way to do it. Really useful when doing more things at the same time.
+</p>",firefox-730;other;desktop;windows-10;pictureinpicture;,firefox,other,en-US,1290762;,Yaman133_GAVA
+1279961,2020-02-16 01:50:01 -0800,2020-02-16T06:18:25Z,"mapy.cz, mapy google a pod","<p>Ahoj všichni. Mám problém s zobrazováním panoramy v mapách cz a street wiew na googlu. Po otevření panoramy je vše v pořádku ale po třeba několika otočeních snímku, nebo posunu se nejdřív navigace na snímku sekne, po částech celý snímek zčerná, vlasní mapa taky někdy zčerná, někdy ne, zmizí komplet nebo částečně tlačítka pro výběr mapy a u googlu maps spadne celý panel. Něco podobného dělá i prohlížení archívu fotek v fotkách na účtu google, černé čtverce a konec a taky někdy na ksichtknize při prohlížení příspěvků s obrázky, celý panel přestane reagovat. Při používání Chromu v pohodě, ale já ho nějak nemám v lásce. Teď jsem zazálohoval aktuální profil, kompletně odinstaloval Firefox, pro jistotu smazal všechny složky v appdata a users z názvem mozila, čistě nainstaloval, obnovil profil a pořád stejné. Nevím jestli se to někde řešilo, já nic nenašel. Tak jestli někdo víte tak díky. Jo stolní pc, wim7 32bit. přidávám printscreen, ale nějak se nechce uploadnout
+</p>",firefox-730;websites;desktop;windows-7;,firefox,websites,cs,1290734;1290735;,gajdosh
+1279960,2020-02-16 01:24:48 -0800,2020-02-16T04:09:02Z,Google search page in Firefox,"<p>Dear people
+</p><p>I used to use the Crome Browser. I switched to Firefox and that's fine, I use the Google search page in Firefox and that works fine, but in the search bar there is normally a microphone, where I can enter the search text, but in the version I use in Firefox that microphone is missing. That's a pity. Does anyone know a way to get that microphone back into the search bar of the Google search page?
+I'd really appreciate it and I'd love to hear about it.
+Yours sincerely,
+Cor Jansen
+The Netherlands
+</p><p><br>
+Translated with <a href=""http://www.DeepL.com/Translator"" rel=""nofollow"">www.DeepL.com/Translator</a> (free version)
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1290697;1290700;1290702;1290703;1290704;1290714;,cchmjansen
+1279954,2020-02-15 20:01:58 -0800,2020-02-16T13:29:21Z,How to prevent links from opening in the same container than the source?,"<p>Hi  there, this is not my lang, so I will try to explain.
+</p><p>Example, I do a google search, google is in a 'G' container, I get a list of link results, clicking any link will open it in a new tab, in the same 'G' container. So google is able to track.
+</p><p>The only way is to right click and open in other/no container.
+</p><p>So my cuestion is how to switch it, how to make ""open link in no container"" the default' instead, and 'follow in the same container' only when right click?
+</p><p>It may be a weird question but I still have to ask.
+</p><p>Thx.
+</p>",firefox-730;customize;desktop;linux;,firefox,customize,en-US,1290756;1290823;,Daemonicvs
+1279952,2020-02-15 18:56:01 -0800,2020-02-16T11:20:07Z,Certain Addons not working as intended.,"<p>Hey, so I use Mozilla's Facebook Container and Reddit enhancement suite, and some other addons. 
+</p><p>These two however, Facebook container is not opening a container page for facebook anymore and any facebook related page that would load in the CP is now just not loading. Ofc i can just disable it to use the page but I do quite enjoy reducing facebooks control over my time on the internet. I cannot figure out why it is doing this.
+</p><p>RES is also not loading in while I am using it, all of it's features are just not working or not present. 
+</p><p>I have uninstalled both of them and reinstalled and tried to reset their settings but nothing has changed, any thoughts ?
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1290803;,dropkickclash192
+1279951,2020-02-15 18:37:53 -0800,2020-02-15T21:25:01Z,Firefox: Why does the Save File/Image/As dialogue take SO LONG to load/open?,"<p>Right click on something to Save it onto my computer, and then die of old age waiting for the dialogue to open. Why is it SO SLOW? It`s excruciating.
+One might hope that it would just be the first time, and that it would be quicker for subsequent saves. But no, it is always slow, every time.
+And sometimes, maybe after some flashing into and disappearing from view, it finally appears, on top, but does not have focus/is not active.
+What is going on?
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1290660;,A0e._u
+1279950,2020-02-15 17:47:45 -0800,2020-02-16T11:34:20Z,PDFs: Preview in Firefox is selected but STILL downloads to my PC,"<p>I, like others who have posted similar questions, have been driven mad that PDFs are downloading to my PC when in the past, they just opened in a new window. I followed the troubleshooting steps posted in this community to ensure that ""Preview in Firefox"" appears as a drop-down (it did not originally) and that it was selected.  (Steps involved getting a cleaned up version of mimeTypes.rdf and handlers.json.)  Still, when I click on a the link I was testing this with, it asks me ""What should Firefox do with this file?"" and if I manually select ""Open with...Other...Firefox,"" it will open in Firefox but still download to my PC.  Am I right that the user experience should always be that it automatically opens a new tab and displays the PDF there while NOT downloading to the user's PC?  That being said, I tested another random PDF and it did what it was supposed to.  I only tested these 2 after I did the fixes so I don't have a high sample size to say if it mostly works or mostly doesn't.  There was no discernible difference between the two files: both of their extensions were ""pdf,"" they both had kind of long filenames, and they both had ~100 pages in their files.
+</p><p>I would like to get away from downloading files I: 1) don't want to keep and 2) don't trust on my PC but want to read.
+</p><p>Thanks in advance!
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1290661;1290673;1290719;1290780;1290806;,ldpmail
+1279948,2020-02-15 17:13:11 -0800,2020-02-15T17:13:11Z,Able to consistently have a tab force close when using IMDB.,"<p>This appears to be a specific issue when navigating from <a href=""http://Rarbg.to"" rel=""nofollow"">Rarbg.to</a> to imdb, After loading any IMDB page from a <a href=""http://rarbg.to"" rel=""nofollow"">rarbg.to</a> page, left clicking on the parent's guide closes the tab.
+Steps to reproduce:
+1) Load any <a href=""http://rarbg.to"" rel=""nofollow"">rarbg.to</a> entry (<a href=""https://rarbg.to/torrent/gwy4p7f"" rel=""nofollow"">https://rarbg.to/torrent/gwy4p7f</a>)
+2) Using the middle mouse button, click on the imdb link to open this in a separate page. 
+3) on the imdb page scroll down to the parent's guide and left click on ""View Content Advisory""
+4) The tab with IMDb will close.
+</p><p>This happens on Windows and Linux too.
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",jake.snow
+1279947,2020-02-15 17:05:20 -0800,2020-02-17T19:22:13Z,I would like to stop the annoying reload Drudgereport.com does. How?,"<p>Everyone going to the above mentioned website experiences the same annoying reloads. Please add a method to Firefox like IE has that can restrict sites reloading, assuming this doesn't exist already. Thanks
+</p>",websites;firefox-720;desktop;windows-10;,firefox,websites,en-US,1290662;1290670;1290672;1290689;1290737;1290738;1290745;1290748;1290766;1290805;1290993;1291070;1291122;1291134;1291137;1291227;,miffed77
