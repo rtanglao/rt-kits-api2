@@ -1,0 +1,236 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1280209,2020-02-18 14:20:53 -0800,2020-02-18T14:55:34Z,Update  version change and profile deletion problems,"<p>I was running version 72. as of Feb-18-2020 and have FF set to notify me of updates but not automatically update. I realized that the latest version 73.01 was available but I had not received any notification of the update from my public IP of 104.158.49.18.
+</p><pre>When I updated to 73 by directly downloading the file from ""<a href=""https://ftp.mozilla.org/pub/firefox/releases/"" rel=""nofollow"">https://ftp.mozilla.org/pub/firefox/releases/</a>"" and installed the upgrade went directly to version 73.01 so I downgraded it to 73 and noticed that my profile was erased. 
+</pre>
+<p>Why would FF not notify me of a new realease since 2 versions where available 73 and 73.01 ?
+Is it normal for a minor version 73.01 to 73.0 downgrade to erase the profile ? I know a major version does this.
+</p>",download-and-install_1;firefox-730;desktop;mac-os;,firefox,download-and-install,en-US,1291535;,mace2
+1280208,2020-02-18 13:37:51 -0800,2020-02-18T19:42:42Z,Feature Suggestion: Default container option in Multi-Account Containers,"<p>Hi,
+</p><p>I would find it very useful to be able to designate a default container (which could be ""No Container"") for sites that are not already assigned to a container.  In other words, with this feature, if a link is opened from a page in container X, but the link does not have a container associated with it, the tab would open in the default container rather than container X.  To give a concrete example:  My Google searches &amp; news are in a Google container.  When I click a search result, e.g., from a news organization that I don't visit enough to make a container for, I'd prefer it did not open in the Google container, but a different, generic one or No Container.
+</p><p>I realize there could be some odd side-effects if a site spans multiple domains or hosts if they're not all marked for one container, but as an optional feature I think it wouldn't bother people who don't want to deal with that possibility.
+</p><p>Another way to do something similar would be to allow users to mark a container as ""exclusive,"" meaning any link not in the sites assigned to that container would automatically go to No Container in the absence of an assignment.  These two options also be implemented and work together.
+</p><p>Apologies if this is the wrong place to post this or if there's already a way to do this that I just haven't found.  Thanks for any help!
+</p><p>-j
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,1291590;,firefox520
+1280207,2020-02-18 13:22:24 -0800,2020-02-18T15:40:11Z,Location Sharing Stopped Working. Bug in recent update?,"<p>Using Firefox 72.0.2 and Ubuntu 16.04. Location sharing was working, up until today. Google maps and Hulu says that my location could not be determined. Would appear that something broke with Firefox.
+</p>",firefox-7202;firefox-720;desktop;privacy-and-security_1;linux;,firefox,privacy-and-security,en-US,1291511;1291545;,rimworldsmail
+1280204,2020-02-18 13:01:07 -0800,2020-02-18T17:31:44Z,help...is it me...another...or...firefox,"<p>I have spent uncountable times reclicking alllllll tabs for:
+Auto clear history and every kind of tracking protection offered by Firefox.
+</p><p>For some reason every time I check before searches or after all that I have done to protect myself incognito are shut off?  I mean ""What the.....is this?
+EVEN WORSE, just now, which brought me to this blog, as I just got on.....I checked and $@#&amp; there is $&amp;_$ history going back to January!  Not only that.... As I push on sites options appear to copy and yesterday one option was pin number being offered.  I was able to get the pin number.  $#@&amp;!!!!!!!!!!+.
+WAIT IT GETS BETTER. 
+I clicked on menu to once AGAIN TO SET PRIVACYYYYYYYY SETTINSSSSSSSSSS. SOMETHING LEAD INTO PLACE ONME click for another search page and anotherbtovwherebi brought up FOUR PAGES TOTAL.
+ON EVERY SINGLE FIREFOX PAGE I CLICKED ON THE MENU AND AS I DID.........
+</p><p>The menu slide open exposing all the wonderful options we have the freedom and privalage to choose from. I witness allllllllbthe wonderful choices I made for @#$_ing PRIVACY AND OTHERS ON MY PHONE SLIDE ONNNNNNNNNNNNN. SOOOOOOOOIO FIREFOX DO OUR CHOICES BECOME THE OPEN MARKET WHEN WE CLOSE OUT OF MENU DO WE LOSE OUR FREE CHOICES???????
+</p><p>WHAT I HAVE STUBBLED ONTO TODAY BRINGS ANOTHER QUESTION.  Is this how someone somewhere got into my phone and has been calling people, gone to sites, breached my Google account set up a drop box then....
+</p><p>Well or IS IT SOMMETHING I AM @#$&amp;ING DOING? OR DO I NEED TO BE CONCERNED I STILL SOMEONE SOMEWHERE IN MY PHONE DOING THIS?
+</p><p>THANK YOU.....IF  THIS GETS READ AND ANSWERED.
+Nunya Bizness
+</p>",privacy-and-security_1;desktop;,firefox,privacy-and-security,en-US,1291569;,jc026158
+1280203,2020-02-18 12:52:12 -0800,2020-02-18T18:26:27Z,How to control url suggestions?,"<p>Is there any way to control specific url selections?
+</p><p>90% of the time i am using a browser, i am using one site (<a href=""http://drive.google.com"" rel=""nofollow"">drive.google.com</a>). But when i type in ""d"" the suggested url is ALWAYS '<a href=""http://docs.google.com"" rel=""nofollow"">docs.google.com</a>' (see screenshots). It seems to be getting this from the url of individual documents in the history, as i NEVER use or want to go to '<a href=""http://docs.google.com"" rel=""nofollow"">docs.google.com</a>', as it is just a less featured and organized version of '<a href=""http://drive.google.com"" rel=""nofollow"">drive.google.com</a>'. But i can't seem to delete it! I would like to be able to have url suggestions from history, but not this specific one!
+</p><p>I am trying to migrate over to firefox from chrome, and as silly as it sounds i can't do that if typing in ""d"" doesn't get to my most-accessed site. It's really annoying to keep accidentally going to '<a href=""http://docs.google.com"" rel=""nofollow"">docs.google.com</a>'.
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,1291504;1291523;1291556;1291582;,gexrly
+1280201,2020-02-18 12:33:51 -0800,2020-02-18T13:17:56Z,Firefox crashes,"<p>i am at the Birmingham AL Downtown Library using Firefox and trying to shop at Etsy.  Everywhere I go, my etsy, amazon, google, pinterest crash over and over.
+</p><p>It appears to be linked to malware / IoT / asset tracking software and hardware in lines by the university smart lighting program.  It uses sensors and can track assets inside buildings.  It is being used as a mobile bonet.
+</p>",desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,1291496;,csbemis1116
+1280200,2020-02-18 12:32:44 -0800,2020-02-18T12:32:44Z,FireFox is crashing after windows 10 update after presing Ctrl-C,"<p>Open the navigator , navidate to any url , <a href=""http://youtube.com"" rel=""nofollow"">youtube.com</a> , mark and and press control c to copy the url
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,es,"",dexter1
+1280198,2020-02-18 12:05:42 -0800,2020-02-18T12:05:42Z,¿que puedo hacer para que ya no me salga esto?,"<p>Lamentamos la interrupción. Recibimos una gran cantidad de solicitudes de tu red.
+</p><p>Para continuar con la experiencia YouTube, llena el formulario que se encuentra a continuación.
+</p>",firefox-680;desktop;tips;windows-7;,firefox,tips,es,"",jvjservicios
+1280194,2020-02-18 11:31:51 -0800,2020-02-18T12:25:59Z,graphics letters and boxes are suddenly inverted,"<p>Hello,
+</p><p>I'm using Firefox browser desktop ver 73.0 for Ubuntu 18.04 canonical 1.0.
+It was working great for many months. 
+Now suddenly on all websites selection boxes and text are inverted. For example text has a white box around it.
+I went through all the settings in Firefox and nothing effects the problem.
+I can use Chrome fine but I hate it.
+Thank you
+</p>",other;desktop;ubuntu-1804;,firefox,other,en-US,1291463;1291470;1291472;,mojofender
+1280193,2020-02-18 11:23:01 -0800,2020-02-18T17:13:03Z,Not opening email links in Microsoft Dynamics 365 (https://crm.dynamics.com),"<p>Tested on chrome: working
+</p><p>Tested on IE: working
+</p><p>Tested a ""mailto"" link (<a href=""https://www.scottseverance.us/mailto.html"" rel=""nofollow"">https://www.scottseverance.us/mailto.html</a>) on firefox, it opens up outlook\email app this way.
+</p><p>Tried setting the ""Mail"" app as the default email application: not working
+</p><p>Refreshed\reset firefox: won't work.
+</p><p>Restarted computer: won't work.
+</p><p>Reinstalled firefox after manually deleting all %appdata% folders related to firefox: still won't work.
+</p><p>Completely obliterated and reinstalled firefox: not working
+</p><p>Tested in Firefox Safe mode: not working
+</p><p>Tested on another profile on the same computer: not working
+</p><p>-&gt;Tested on another computer: WORKING
+</p><p>Can anyone help please?
+</p><p>Thank you!
+</p>",desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1291564;,ivanb1
+1280189,2020-02-18 10:59:32 -0800,2020-02-18T17:39:17Z,Firefox email address exposed to third party,"<p>Today I received an email from Transit App sent to my Gmail alias email address that I only use for signing into my Firefox account.  I have never used the Transit App and I would not have used my Firefox Gmail alias email address even if I did.  So how did the Transit App folks harvest my email address from Firefox?
+</p>",privacy-and-security_1;firefox-720;desktop;windows-10;,firefox,privacy-and-security,en-US,1291538;1291548;1291561;1291572;,rblariyap+ffx
+1280188,2020-02-18 10:48:03 -0800,2020-02-18T11:30:11Z,library spacing,"<p>OK, so the latest update messed the library spacing again. Could someone give a hand as I can't find way to fix this one?
+</p><p>My gobbled together version on <a href=""https://support.mozilla.org/en-US/questions/1267773"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1267773</a> works on sidebar and menu drop-bar but library/show-all-bookmarks has far too much space between the lines.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1291446;1291453;,kuopiofi
+1280187,2020-02-18 10:36:53 -0800,2020-02-18T10:36:53Z,Firefox doesn’t work with macOS Mojave,"<p>Every time I try to open firefox it says it isn’t responding, and nothing happens. I’ve already tried clean uninstalling and reinstalling firefox but that didn’t work. What can I do now?
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US,"",tomas88764
+1280185,2020-02-18 10:02:38 -0800,2020-02-18T20:38:17Z,Sync not recognizing saved password,"<p>Trying to access Sync. Firefox does not recognize password it saved, even though Sync is working. There is no Master Password set. The same password is saved on other devices (laptop, Android tablet, Android phone). Without being able to login, cannot change password, etc. I really don't want to lose my roughly 300 log-ins. 
+</p><p>Any ideas?
+</p>",firefox-730;sync;desktop;windows-10;,firefox,sync,en-US,1291539;1291596;,sewmagic
+1280184,2020-02-18 09:53:30 -0800,2020-02-18T17:35:17Z,Public wifi login does not work with Bitdefender under Windows 10,"<p>When logging on to public wifi network that requires a login name and password from my Windows 10 laptop with Firefox set as the default browser, my internet security application (BitDefender) shows a suspicious connection warning and blocks every effort to connect.  When I try to log in with Chrome set as the default browser, the process works normally, that is, the network login page opens automatically and Bitdefender does not display a warning. I don't want to have to change my default browser every time I connect to WiFi in a coffee shop or an airport.  This has been bothering me for years. Do you have any suggestions?
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1291549;1291551;1291570;,bcgirton
+1280183,2020-02-18 09:49:45 -0800,2020-02-18T13:39:48Z,Cannot sign in to Kapwing.com using Firefox (works fine with other browsers). I assume its trying to put up a sign-in pop-up but this does not appear.,"<p>I have enabled popups and cookies for <a href=""http://kapwing.com"" rel=""nofollow"">kapwing.com</a> but I still just get a blank page when I press their sign-in button. Attached is pic of what it does in Edge.
+Any suggestions on how to make this work in Firefox?
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1291423;1291441;1291452;1291477;1291492;1291502;1291508;1291516;,David279
+1280180,2020-02-18 09:25:53 -0800,2020-02-18T09:25:53Z,Why Firefox can't use my full bandwidth eighter on speedtest and hi-res youtube streaming?,"<p>As you can see on attached images there is an issue about Firefox's QOS configuration. For that reason I am unable to have full experience of my internet speed. Is there any setting or configuration maybe even a beta version of the browser? If there are not, do you have this subject as a development goal?
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,tr,"",umutbarankaratas
+1280179,2020-02-18 09:19:03 -0800,2020-02-18T10:17:12Z,Firefox is my default PDF viewer but the Windows Explorer will not show previews in the preview. I want to support and use Firefox - can I get previews?,"<p>Does anyone have steps to enabling the MS Explorer PDF preview pane to use Firefox. If not possible MS is shutting Firefox out of the market and forcing other software to be used.
+</p>",firefox-720;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1291413;,s.wilson1
+1280178,2020-02-18 09:01:39 -0800,2020-02-18T10:23:17Z,Is it possible to add a timeline to a picture in picture mode?,"<p>Hello, I usually watch tutorials to learn. However, sometimes tutorial is moving too fast and I need to scroll back the time line to double check if the steps I followed were correct. At this current version I could not find any settings where I could add a timeline to a picture-in-picture mode. Thus making it quite inconvenient for me to go back to Firefox to scroll back my tutorial and play again. Please have a look at the screen shot I have provided. 
+</p><p>I hope in the next release I could scroll my videos back and forth in the picture-in-picture mode.
+Thank you.
+</p>",tips;firefox-730;desktop;windows-10;,firefox,tips,en-US,1291401;1291405;1291424;,stanislav.ten
+1280177,2020-02-18 09:00:52 -0800,2020-02-18T09:00:52Z,"For about the last week Firefox has been ""not responding"" after being asked to print.","<p>2020-02-18 17:00 GMT  Windows 10 Pro 1909,  Firefox 73.0.1 (64-bit).  It was 73.0.0 just a few minutes ago.
+</p>",desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",T.M.N.Irish
+1280176,2020-02-18 09:00:11 -0800,2020-02-18T09:00:11Z,WMF VPX decoder just crashed; hardware video will be disabled,"<p>This happens every time I open Firefox. It doesn't make any sense why it constantly keeps on crashing. I have to manually re-enable it. I thought that it was my graphics card but that's not the case as other browsers don't have this problem. I have tried everything posted online but none helped.
+</p><p>My processor can't handle 4k youtube videos, so I have to re-enable hardware acceleration in order to use my graphics card. 
+</p><p><a href=""https://www.youtube.com/watch?v=zCLOJ9j1k2Y"" rel=""nofollow"">https://www.youtube.com/watch?v=zCLOJ9j1k2Y</a>
+</p><p>Graphics card: GTX 1070
+Processor: Core i7 2700k
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",tahak440
+1280175,2020-02-18 08:51:54 -0800,2020-02-18T13:31:45Z,Los directos de Youtube no se pueden ver,"<p>Cuando voy a ver un directo de Youtube, el reproductor dice que mi navegador no reconoce ningún formato de video y luego al hacer click en el enlace que te ofrecen que dice: ""Haz clic aquí para consultar las preguntas frecuentes sobre el vídeo HTML5"" y aparece una pestaña que dice que el navegador que uso es compatible. 
+Algunos datos adicionales:
+OS: Fedora 31
+Versión de Firefox: 73.0 (64-bit) (el que venía instalado por defecto Fedora)
+El chat del directo funciona, muestra los datos del canal, y los típicos videos que recomienda Youtube en la barra de izquierda.
+</p>",firefox-730;other;desktop;linux;,firefox,other,es,1291510;,arturorjach
+1280174,2020-02-18 08:38:41 -0800,2020-02-18T09:18:46Z,"New Firefox either won't load, or if it loads, won't work. Won't search, won't sync, won't anything. Old version was fine","<p>I am using an Acer Spin laptop with a 256 Gb ssd and an Intel core i5 7200U 2.5GHz processor, with 8Gb of ram, running Windows 10.  I've used Firefox for years on various machines. I also use it on a Linux laptop and an Android phone. And I use a portable version on a memory stick. All fine. But the new revamp / upgrade doesn't run on my Acer. I've uninstalled it, cleaned out unused files, removed registry entries, and at last got it to run. But it's now a zombie. It won't search, won't let me log in to sync. Nothing. Any help really appreciated as I am having to rely on other browsers I'd rather not use and which don't work well with some browser-based knowledge resources I use.
+</p>",download-and-install_1;desktop;bug1614885;,firefox,download-and-install,en-US,1291388;1291394;1291395;,fosjon
+1280170,2020-02-18 08:05:28 -0800,2020-02-18T10:17:44Z,How can I view and search the content of cookies?,"<p>Since we no longer have access to individual cookies, there doesn't seem to be any way to view or search them. Yes, I can look at the cookies loaded by a given page, but that's not what I mean. I want to look at all the cookies that the browser is storing. How can I see this information?
+</p>",firefox-730;cookies;desktop;mac-os;,firefox,cookies,en-US,1291410;1291411;1291416;1291420;1291422;,bradford.bulger
+1280168,2020-02-18 07:41:23 -0800,2020-02-18T07:41:23Z,opens on wrong monitor,"<p>I have 3 monitors at work and have FF trained to open on the middle. It seems that when I have a lot of FF windows open(5-6+), new windows will open on my left monitor. If I close a bunch and leave say 3-5 windows minimized, I can retrain FF to open on the middle window without issue. I've tried clearing cache, uninstalling and reinstalling. It seems to be an issue with several ver. of FF that I have tried. Any ideas?
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",Solospacemonkey
+1280166,2020-02-18 07:20:24 -0800,2020-02-18T07:27:44Z,Firefox crashes,"<p>I have a Firefox inside Windows 10. The browser crashes suddenly and then Firefox can no longer be opened. Completely uninstalling and reinstalling Firefox has been tried, but to no avail. Safe mode or Firefox refresh is done but to no avail. I really don't know what happened. I even deleted the old profile and the new one was created automatically. But I am constantly confronted with the message ""Mozilla Crash Reporter"".
+Crash ID: bp-8ddf1f68-a4f1-425a-8f91-24a060200215
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1291355;,tahamtan_kh
+1280165,2020-02-18 07:20:15 -0800,2020-02-18T19:09:35Z,Firefox version 73.0 - PDF icon Firefox in the explorer,"<p>I've updated Firefox 72.02 to Firefox 73.0 and now in these version there is an ugly PDF-icon, see my example see below.
+How can I change this ugly icon as before?
+</p><p>In the meanwhile I have also cleared the cache, uninstall Firefox,
+deleted the Mozilla Firefox Folders in C:\Program Files and C:\Program Files(x86) and restarted system.
+Thereafter I've runned Windows Disk Cleanup and re-install Firefox.
+</p><p>But the problem is not solved with all these actions = the ugly PDF icon Firefox in the explorer still remains!
+On the date of 01/03/18 I had already brought this up and got the solution for it, but now this does not help, see: 
+<a href=""https://support.mozilla.org/en-US/questions/1197879"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1197879</a>
+</p><p>Thanks a lot for your co-operations
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1291587;,SpeedyKepke
+1280164,2020-02-18 07:15:27 -0800,2020-02-18T07:15:27Z,Flash Audio from Remote Desktop Connection.,"<p>Hello,
+</p><p>We have a problem with not having any audio from flash elements when connected via RDP to either Windows 10 or Windows Server 2012r2. All other forms of audio appear to work (Windows system, Youtube, Facebook, Spotify, etc...). I have adjusted the security.sandbox.content.level preference to 2 but did not resolve it.
+</p><p>Anyone else experience this?
+</p><p>Thank you!
+</p>",firefox-730;other;desktop;,firefox,other,en-US,"",tkimball
+1280162,2020-02-18 06:21:28 -0800,2020-02-18T07:44:00Z,How to switch back Firefox display after displaying Source Page View with Ctrl-U,"<p>The CTRL-U shortcut displays the source version of the current page. In some specific situations, this feature can be useful, but not very often for regular users (in contrast to developers). 
+Unfortunately I can't find a way to switch back from this view: Ctrl-U isn't a toggle and there's no other shortcut that could be used to display initial view again. Also, I haven't found a menu command useful in such situation. 
+</p><p>Also it is impossible to disable Firefox shortcuts selectively. Thus if you press Ctrl-U by chance then you cant view the original rendered page version and you lost what you entered in editing fields on the page.
+</p><p>Is there a way to achieve  some level of control over this unwanted ""improvement""?
+</p>",tips;firefox-730;desktop;windows-7;,firefox,tips,en-US,1291361;,witrak
+1280161,2020-02-18 06:11:37 -0800,2020-02-18T06:11:37Z,Firefox ESR loads mobile sites only - how to load desktop sites?,"<p>I recently bought a Raspberry Pi 4 and am using the Raspbian OS. I downloaded Firefox 68.5.0esr because the default Chromium isn't compatible with many things. I'd like to test if Firefox ESR will suit my needs but only mobile websites load (attached image of <a href=""http://Amazon.com"" rel=""nofollow"">Amazon.com</a>). I've scoured the internet looking for solutions on how to get desktop sites to load but nothing seems to work, or the instructions are no longer valid.  Things I've tried are listed below.  No extensions/add ons are loaded except the defaults.  Any help would be greatly appreciated!
+</p><p><a href=""https://support.mozilla.org/en-US/kb/websites-say-firefox-outdated-or-incompatible"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/websites-say-firefox-outdated-or-incompatible</a>
+Doesn't work.
+</p><p><a href=""https://support.mozilla.org/en-US/questions/954395"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/954395</a>
+Doesn't work.
+</p><p><a href=""https://support.mozilla.org/en-US/questions/760677"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/760677</a>
+network.http.accept.default doesn't exist
+</p><p>Thank you in advance for any help you can provide!
+</p>",websites;desktop;,firefox,websites,en-US,"",joseph.t.phillips
+1280160,2020-02-18 05:49:54 -0800,2020-02-18T09:18:58Z,running 73.0 it keeps resizing screen how do I stop it ?,"<p>running 73.0 it keeps resizing screen how do I stop it ?
+</p>",tips;firefox-730;desktop;windows-10;,firefox,tips,en-US,1291369;1291396;,rj2shields
+1280159,2020-02-18 05:35:54 -0800,2020-02-18T17:09:41Z,How can i save various login and password for same domain but different subdomain? Firefox take it like same one.,"<p>We have two logins for sites in same domain:
+<a href=""https://www.asna.ru/bitrix/admin/"" rel=""nofollow"">https://www.asna.ru/bitrix/admin/</a>
+<a href=""https://www.asna.ru/terminal/"" rel=""nofollow"">https://www.asna.ru/terminal/</a>
+Firefox write me User for this site already exist.
+</p>",privacy-and-security_1;firefox-720;desktop;windows-10;,firefox,privacy-and-security,en-US,1291562;,worktl
+1280158,2020-02-18 04:57:05 -0800,2020-02-18T05:14:53Z,"Is there a Firefox equivalent to ""Resources"" menu from dev window in Safari","<p>Hello guys
+There is a useful option in Safari dev window When tou click on ""inspect element"" you have access to all included images ressources on the page via a menu called resources ( <a href=""https://puu.sh/FbCua/6eac0a7fbd.png)"" rel=""nofollow"">https://puu.sh/FbCua/6eac0a7fbd.png)</a> Very useful for a collector like me to get access to images protected by sa spaceball or other.
+Do you guys know if an equivalent of this useful option exist with Firefox ?
+</p><p>Thanks in advance
+</p>",tips;firefox-720;desktop;mac-os;,firefox,tips,en-US,1291336;,octone
+1280157,2020-02-18 04:46:52 -0800,2020-02-18T04:46:52Z,"Is there a Firefox equivalent to ""Resources"" menu from dev window in Safari","<p>Hello guys
+There is a useful option in Safari dev window When tou click on ""inspect element"" you have access to all included images ressources on the page via a menu called resources ( <a href=""https://puu.sh/FbCua/6eac0a7fbd.png)"" rel=""nofollow"">https://puu.sh/FbCua/6eac0a7fbd.png)</a> Very useful for a collector like me to get access to images protected by sa spaceball or other.
+Do you guys know if an equivalent of this useful option exist with Firefox ?
+</p><p>Thanks in advance
+</p><p><em>duplicate. <a href=""https://support.mozilla.org/questions/1280158"" rel=""nofollow"">https://support.mozilla.org/questions/1280158</a></em>
+</p>","",firefox,tips,en-US,"",octone
+1280156,2020-02-18 04:20:11 -0800,2020-02-18T20:35:33Z,Support for R-kiosk mode has disabled for new version of firefox-esr-68.4.2?,"<p>I would like to use kiosk mode feature. But I am unable to achieve it by using R-kiosk . I want to know that support for R-kiosk mode has been disabled for new version of firefox-esr-68.4.2 because I am getting this link ""<a href=""https://addons.mozilla.org/en-US/firefox/addon/r-kiosk/"" rel=""nofollow"">https://addons.mozilla.org/en-US/firefox/addon/r-kiosk/</a>"" whenever I am looking for this r-kiosk feature. Kindly help on this
+</p>",download-and-install_1;desktop;,firefox,download-and-install,en-US,1291337;1291595;,sakshi_t
+1280155,2020-02-18 04:01:35 -0800,2020-02-18T04:01:35Z,2/18/20--I downloaded an update last week &  G-mail and Calendar add-ins don't work completely.  walthunt@gmail.com,"<p>2/18/20--I downloaded an update last week &amp;  G-mail and Calendar add-ins don't work completely.  In addition, when I got to a website, like my bank, any site that requires a log-in, the controls at the website do no work correctly and do not allow me to go to the different functions within the website application. Like when I go to my bank or Vanguard, I cant select an account or a report. I reloaded another browser to see if it was my computer or something I was doing wrong. I am 75 and I do make mistakes. But, I don't think this one is me. I love my Firefox Browser and want to keep using it!  Please help!!!  walthunt@gmail.com
+</p>",customize;desktop;,firefox,customize,en-US,"",walthunt
+1280151,2020-02-18 02:47:05 -0800,2020-02-18T03:42:29Z,How do I download mp4 on firefox download helper? It only gives me MKV files?,"<p>Good morning - I am only given the option to download MKV files on Firefox Download helper. I need .mov or MP4 files. Can you help me please. Terry
+</p>",firefox-7202;other;firefox-720;desktop;mac-os;,firefox,other,en-US,1291315;1291319;,tkatman
+1280150,2020-02-18 02:24:03 -0800,2020-02-18T08:48:42Z,Firefox crashes,"<p>While using firefox something i would like to do after few minutes I get tab crashes
+</p>",firefox-730;desktop;fix-problems;windows-10;needsinfo;,firefox,fix-problems,en-US,1291313;1291316;1291325;1291333;1291384;,boborfrank
+1280146,2020-02-18 01:09:56 -0800,2020-02-18T01:09:56Z,How to deal with windows focus on split-screen mode?,"<p>I have a big screen (MacOS) which I use two areas (split-mode), but sometimes I need to open Firefox Windows on both side. The issue is that when this happens, when I click a link in an app, it will bring both windows up, taking my entire screen, instead of bringing-up only the one with the new tab.
+</p><p>I tried to find an option that changes that behavior in about:config but I was not able to find one.
+</p>",firefox-740;other;beta;desktop;mac-os;,firefox,other,en-US,"",sorin.sbarnea
+1280144,2020-02-18 00:58:56 -0800,2020-02-18T06:00:29Z,Norton Vault password auto-fill not working,"<p>I have version 72.0.2 of Firefox and recently I no longer have the option to auto-fill passwords saved in Norton Vault.  All my passwords are safe in the Norton vault but normally I get a little circle at the end of the password field which gives me the option to auto-fill from Norton.  Nothing I can do will fix this.  Any clues as to how to get Firefox to link up again with Norton Vault?  Many thanks
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,1291309;1291343;,emma2
+1280143,2020-02-18 00:30:55 -0800,2020-02-18T00:30:55Z,"¿dónde se ha ido ""uBlock Origin""?","<p>Su desaparición coincide con la aparición en la barra de herramientas de ""NoScript 11.0.13"".
+Según Firefox ""uBlock Origin"" sigue instalado i activo.
+</p>",firefox-730;customize;desktop;linux;,firefox,customize,es,"",carlosribes
+1280141,2020-02-18 00:03:19 -0800,2020-02-18T05:11:21Z,register for the bonus program All Accor live limitless doesn´t work,"<p>Hello,
+</p><p>I want to register for my bonus program ALL - Accor live limitless (<a href=""https://all.accor.com/deutschland/index.de.shtml"" rel=""nofollow"">https://all.accor.com/deutschland/index.de.shtml</a> ). It´s not possible with Firefox (Microsoft Edge is working).
+</p><p>Best regards
+</p><p>What can I do?
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1291314;1291320;1291324;1291334;,raka1
+1280138,2020-02-17 22:49:12 -0800,2020-02-18T20:43:21Z,Virus in distibutive - Trojan.Inject.bcbj,"<p>Hi all
+</p><p>For security reasons, all new FF distributions are tested.
+When checking the distribution kit version 68.5.0esr (exe for x86 and x64) - the antivirus software ""VirusTotal"" detected Trojan.Inject.bcbj.
+FortiSandbox also scolded the distribution on x86 - saying that it deleted the file ""% programfiles (x86)% \ google \ update \ 1.3.33.17 \ googlecrachhandler.exe"" - its installation is undesirable in the ESR version.
+</p>",firefox-600;other;desktop;windows-10;malware;escalate;download-and-install;,firefox,other,en-US,1291282;1291317;1291318;1291335;1291591;1291597;,kittyfriend
+1280137,2020-02-17 22:19:18 -0800,2020-02-17T23:57:45Z,Firefox crashes,"<p>クラッシュ ID: bp-b25a7c89-0f2d-4f8a-adc1-3531c0200218
+PC;panasonicCF-SZ6
+１）firefoxを起動するとクラッシュレポータが出て前に進まない、
+　セーフティで立ち上げて、リフレッシュはうまくいくが、クラッシュレポータに戻りループ状態
+２）ESETを外してもクラッシュレポータが必ず出て閉じて再起動しても必ずクラッシュレポータが出る
+３）WIN１０　を再起動しても同じ
+４）再インスツールしても、その途中でクラッシュレポータが出て進まない
+５）同期しているPC側の拡張機能、アドオンを外しても同じ
+６）クローム、IE、ｅｄｇｅは快適
+</p>",desktop;fix-problems;firefox-730;crash;windows-10;bug1604008;,firefox,fix-problems,en-US,1291283;1291285;,wonder.tatsuya
+1280136,2020-02-17 22:05:24 -0800,2020-02-18T10:45:28Z,Firefox version 72.0.2 64 bit I can't come up with the right word it's an absolute disgrace. After setting prefer dumps everything  history  passw on restart t,"<p>This version is just junk!!!!! Just set the preferences and sign in Firefox and all other accounts like Gmail etc. Trying to save the history and all the passwords and everything you got. That's all gone when you shut Firefox down. When you reopen none of your history or passwords are there or you start from scratch. This is absolutely ridiculous. This version should never been released absolute disgrace. It doesn't deserve to be called a browser. I'm so disgusted and angry I can't put it in words.
+</p><p>Fix the damn thing!!!!
+</p><p>It is so bad when I try to get into accounts like Gmail it sees a different computer every time I log in. For security they have to phone  me every time I reopen Firefox to to get into my account. I have to verify who I am!!!! Every single time that includes my banking online!!!!!
+</p><p>Lyle Attfield.   lyleattfield@gmail.com
+</p>",firefox-7202;customize;desktop;firefox-720;,firefox,customize,en-US,1291257;1291269;1291425;1291432;,lyleattfield
+1280135,2020-02-17 22:01:32 -0800,2020-02-18T17:51:55Z,Firefox won't let me install F.B. Purity but it works with other browsers.,"<p>I'm trying to add the F.B. Purity extension but I get a ""connection failure"" message. When I use different browsers, it works fine. Lately FF has become more troublesome, not allowing videos or even showing some pictures. Very frustrating.
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1291256;1291565;1291568;1291576;,roadcykler
+1280134,2020-02-17 21:38:28 -0800,2020-02-18T00:00:44Z,"Bookmark problem -- I right-click, get the pop-up window, click on the star to bookmark the page -- and instead of the window lets me choose the folder I want t","<p>I can't save bookmarks into folders. Clicking on the star icon does nothing. The window disappears and the page goes to Recently Bookmarked.
+</p>",bookmarks;firefox-700;desktop;windows-7;,firefox,bookmarks,en-US,1291286;,emmryss
+1280131,2020-02-17 20:12:11 -0800,2020-02-17T22:03:13Z,Is it possible to run multiple (separate) instances of Firefox?,"<p>I work online and I have to keep flipping between client accounts on certain websites. Each time, I have to log into multiple client accounts, I have to open 2 or more browsers... for example, if I'm on FireFox and another client messages me with an urgent request, I have to open Chrome; for a third client, I will then need to open Edge, then IE, and so on. It's frustrating and I am desperately searching for a solution.
+I have tried a few tutorials and so far, nothing works.
+</p><p>Is there any way to have two or more FireFox instances open simultaneously but not all on the same profile?
+</p><p>Thanks.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1291236;1291237;1291238;1291239;1291240;1291241;1291244;1291248;1291249;1291250;1291251;1291254;,steviesylva
+1280130,2020-02-17 19:56:34 -0800,2020-02-18T00:07:32Z,"How do you get to an addon's homepage, from your installed addons list?","<p>I'd like to get from my list of installed addons, to a given addon's <a href=""http://addons.mozilla.org"" rel=""nofollow"">addons.mozilla.org</a> page, in as few clicks as possible.
+</p><p>What is a way to do that?
+</p><p>As it is, it seems I have to look up the name of the addon all over again on the mozilla site. I haven't found the easy ""click here"" thing.
+</p>",firefox-680;customize;desktop;linux;,firefox,customize,en-US,1291235;1291259;1291267;1291272;1291273;1291280;1291284;,PAGulley
+1280126,2020-02-17 18:00:05 -0800,2020-02-17T18:00:05Z,How do I fix audio static problems on Twitch?,"<p>When watching Twitch (music) streamers there has always (for most streams) been a lag, or even a stop, in the stream when I open the emotes-for-chat pop-up. About two months ago, in addition to the lag or stopping, when the stream starts up again I sometimes have audio static that doesn't go away unless I reload the page. (I only recently found I'm not the only one with this issue.) But even doing that often doesn't work once I click the emote pop-up again. I've tried resetting everything, I've tried disabling add-ons, basically I've tried all the standard stuff listed in the trouble-shooting guides but nothing seemed to solve the problem. 
+</p><p>I'm not sure why the streams (audio &amp; video) stop when I click the emotes, which has always been an issue but usually just clicking the low-latency button - twice! - solves that issue. This audio static seems to be a whole different thing because reloading the page is the only way I've found to get rid of that problem and then it often happens again when I click the emotes pop-up. Any help out there?
+</p>",websites;firefox-720;desktop;windows-10;,firefox,websites,en-US,"",CoolNQuiet
+1280124,2020-02-17 17:31:23 -0800,2020-02-18T00:38:58Z,"The action categories (i.e., File Edit View Histiory Bookmarks Tools Window and Help) seem to disapper at time (actuallity the font color changes to white)","<p>This happens on multiple websites -- these categories appear to disappear, but using the mouse, you can see that they are still there, but unreadable (as are the options ion the drop down menus)
+</p>",firefox-730;other;desktop;mac-os;,firefox,other,en-US,1291289;,mjnarins
+1280123,2020-02-17 17:27:10 -0800,2020-02-17T20:21:31Z,Version 73.0 I need to Disable background images,"<p>Greetings
+In version 73.0 of Feb 11, 2020 Mozilla introduced a “readability backplate” solution which places a block of background color between the text and background image.
+As a Low vision individual I do rely on Windows High contrast black theme to remove any bright color blocks from the screen background.
+Unfortunately the new Readability backplate feature brings these color blocks back which actually make websites harder for me to read. 
+For example buttons, image blocks with or without wording  now appear in white background which is precisely what I need to move away from.
+Can I disable the readability backplate or disable background images?
+In the mean time how do I go back to version 72.# please?
+Thank you
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1291214;1291233;1291234;,laurentrusse
+1280122,2020-02-17 16:15:49 -0800,2020-02-17T16:15:49Z,Mozilla is half in English (settings section) & Half in French language (the 3 lines menu) after update ! how to set it to only English?,"<p>Hello Dear Mozilla fans ^^
+</p><p>I have updated today mozilla to the latest version, and all the sudden I see that top menu is in English, the setting options are in English but I see that the whole menu of the 3 lines on the top right has become to FRENCH !!! and yes my Laptop is in French. But I want Mozilla to be fully in ENGLISH as it was before the latest update 
+</p><p>any help please. Thank you
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,"",redd.islam1
+1280121,2020-02-17 16:02:28 -0800,2020-02-18T12:12:12Z,"When I open Firefox it now always opens with History, but I want it to open with Bookmarks as before.","<p>As above
+</p>",bookmarks;firefox-730;desktop;windows-10;,firefox,bookmarks,en-US,1291218;1291229;1291230;1291462;,alan4d
+1280120,2020-02-17 16:02:12 -0800,2020-02-18T15:48:53Z,Firefox 73 no longer plays Netflix. It load the homepage but  movies fail to play,"<p>I'm a Linux (archlinux) user.
+After the update to FF73 I cannot play Netflix movies.
+I can log in, see the homepage, choose a movie and then I tries for awhile to run the movie. After a while it fails with error: F7702-1290.
+It suggest to check I have the latest version of Firefox, which of course, I do.
+Any Ideas to solve the problem.
+</p>",firefox-730;other;desktop;linux;,firefox,other,en-US,1291205;1291475;1291546;,ralvez
