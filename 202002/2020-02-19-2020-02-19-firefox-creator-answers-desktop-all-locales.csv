@@ -1,0 +1,72 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1280223,2020-02-18 22:09:11 -0800,2020-02-18T22:09:11Z,An error occurred during a connection to my website. Peer’s Certificate has been revoked.  Error code: SEC_ERROR_REVOKED_CERTIFICATE,"<p>While visiting my website , i receive the error : 
+An error occurred during a connection to my website. Peer’s Certificate has been revoked.
+</p><p>Error code: SEC_ERROR_REVOKED_CERTIFICATE
+</p><p>Also while sending emails from mozilla thunderbird i receive the same error. I am able to send emails and access my website from Google chrome browser, Outlook email client and also from my phone.
+</p><p>Kindly look into to this and provide a solution
+</p>",firefox-730;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,"",it_sts
+1280222,2020-02-18 20:41:21 -0800,2020-02-18T20:41:21Z,Firefox randomly switching between active windows,"<p>This has been happening for the past week. I'll be typing in one w- literally just happened as I'm writing this. I'll be typing in one window, and it'll automatically switch to another window I have open and start typing there.
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,"",skylineblue
+1280221,2020-02-18 20:06:15 -0800,2020-02-18T20:06:15Z,White line at the bottom of Streaming videos on Mac OS Mojave,"<p>Everytime i stream any type of video on Firefox on my macbook pro...i see a short white line at the bottom of my videos when i go in full screen mode...and its only on my mac...on my windows pc they are not there...i went to the apple store and they said it was a firefox thing and not a mac  thing
+</p>",firefox-720;desktop;fix-problems;,firefox,fix-problems,en-US,"",AidenMoonBow
+1280219,2020-02-18 19:19:30 -0800,2020-02-18T19:19:30Z,How do I turn off the requirement for a verification code when logging in?,"<p>Each time I log into my Firefox account, it forces me to enter a verification code sent to my email.  I do not have 2FA enabled in my preferences.  Is there a way to turn off the need to enter verification code each time I log in?
+</p>",firefox-720;desktop;sync;,firefox,sync,en-US,"",maschultz3
+1280215,2020-02-18 18:31:30 -0800,2020-02-18T19:04:10Z,Unable to see device and sync is not displaying saved login,"<p>Hello,
+I was using Firefox Sync earlier today and then had to delete the profile and created a new profile.
+While logging into Firefox I have had to reset the password as I couldn't recall the credentials. Now I don't see any login information.
+</p>",firefox-730;sync;desktop;windows-10;,firefox,sync,en-US,1291586;,disillusionedsal
+1280213,2020-02-18 17:01:08 -0800,2020-02-18T17:01:08Z,Webrtc doesn't work on Firefox 68 ESR in Linux system,"<p>Firefox 68 ESR is the latest version for Linux system on Raspberry Pi but I don't know why it is not working with Webrtc.
+I had tested some Webrtc samples and website with Firefox 68.4.1ESR on Linux system of Raspberry Pi 3. They all return some errors.
+For example, AppRTC video chat client powered by Google App Engine:  <a href=""https://appr.tc/"" rel=""nofollow"">https://appr.tc/</a>
+The result  is showing like the images. It can't show the device name when I accept the camera and microphone permission then return error message.
+Then I tried Firefox 60, it works fine with Webrtc sample on Raspberry Pi 3.
+As a final test, I downloaded the Firefox 68.4.1ESR version at my laptop with Win10 system and test it. Everything is fine.
+I am sure the camera and microphone is fine because Firefox 60 can run the sample normally.
+May I get some help to figure out the problem of the Firefox 68.4.1ESR on the Raspberry Pi with Linux system and how can I make it work with Webrtc?
+</p>",firefox-680;other;desktop;linux;,firefox,other,en-US,"",wyz19911004
+1280212,2020-02-18 16:29:17 -0800,2020-02-18T16:29:17Z,"Can't play audio in videos, only on Firefox, after going through all the steps in ""Fix common audio and video issues""","<p>```
+11:27:01  ✘  jr@fm  ~  ⬡ v8.16.0  1m35s 
+$ inxi -Fxxx
+System:    Host: fm Kernel: 5.4.18-2-MANJARO x86_64 bits: 64 compiler: gcc v: 9.2.0 Desktop: KDE Plasma 5.18.80 tk: Qt 5.14.1 
+</p><pre>          wm: kwin_x11 dm: SDDM Distro: Manjaro Linux 
+</pre>
+<p>Machine:   Type: Desktop Mobo: ASUSTeK model: TUF B450M-PLUS GAMING v: Rev X.0x serial: &lt;root required&gt; 
+</p><pre>          UEFI: American Megatrends v: 1002 date: 03/07/2019 
+</pre>
+<p>CPU:       Topology: 8-Core model: AMD Ryzen 7 2700X bits: 64 type: MT MCP arch: Zen+ rev: 2 L2 cache: 4096 KiB 
+</p><pre>          flags: avx avx2 lm nx pae sse sse2 sse3 sse4_1 sse4_2 sse4a ssse3 svm bogomips: 118201 
+          Speed: 2562 MHz min/max: 2200/3700 MHz boost: enabled Core speeds (MHz): 1: 2477 2: 2413 3: 2456 4: 2935 5: 3183 
+          6: 2029 7: 3033 8: 4297 9: 2435 10: 2922 11: 2812 12: 1886 13: 2819 14: 4238 15: 3378 16: 2920 
+</pre>
+<p>Graphics:  Device-1: NVIDIA TU104 [GeForce RTX 2080] vendor: ASUSTeK driver: nvidia v: 430.64 bus ID: 07:00.0 
+</p><pre>          chip ID: 10de:1e82 
+          Display: x11 server: <a href=""http://X.Org"" rel=""nofollow"">X.Org</a> 1.20.7 driver: nvidia compositor: kwin_x11 resolution: 1920x1080~60Hz 
+          OpenGL: renderer: GeForce RTX 2080/PCIe/SSE2 v: 4.6.0 NVIDIA 430.64 direct render: Yes 
+</pre>
+<p>Audio:     Device-1: NVIDIA TU104 HD Audio vendor: ASUSTeK driver: snd_hda_intel v: kernel bus ID: 07:00.1 chip ID: 10de:10f8 
+</p><pre>          Device-2: Advanced Micro Devices [AMD] Family 17h HD Audio vendor: ASUSTeK driver: snd_hda_intel v: kernel 
+          bus ID: 09:00.3 chip ID: 1022:1457 
+          Device-3: Logitech Webcam C270 type: USB driver: snd-usb-audio,uvcvideo bus ID: 5-2:3 chip ID: 046d:0825 
+          serial: 8D1EA6E0 
+          Sound Server: ALSA v: k5.4.18-2-MANJARO 
+</pre>
+<p>Network:   Device-1: Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet vendor: ASUSTeK driver: r8168 v: 8.048.00-NAPI 
+</p><pre>          port: f000 bus ID: 05:00.0 chip ID: 10ec:8168 
+          IF: enp5s0 state: up speed: 100 Mbps duplex: half mac: 40:b0:76:5c:8c:4c 
+          IF-ID-1: docker0 state: down mac: 02:42:02:f0:c4:3b 
+</pre>
+<p>Drives:    Local Storage: total: 465.76 GiB used: 159.41 GiB (34.2%) 
+</p><pre>          ID-1: /dev/nvme0n1 vendor: Samsung model: SSD 970 EVO Plus 500GB size: 465.76 GiB speed: 31.6 Gb/s lanes: 4 
+          serial: S4EVNG0M116780W rev: 1B2QEXM7 scheme: GPT 
+</pre>
+<p>Partition: ID-1: / size: 389.04 GiB used: 159.41 GiB (41.0%) fs: ext4 dev: /dev/nvme0n1p2 
+</p><pre>          ID-2: swap-1 size: 69.20 GiB used: 0 KiB (0.0%) fs: swap dev: /dev/nvme0n1p3 
+</pre>
+<p>Sensors:   System Temperatures: cpu: 46.2 C mobo: N/A gpu: nvidia temp: 39 C 
+</p><pre>          Fan Speeds (RPM): N/A gpu: nvidia fan: 21% 
+</pre>
+<p>Info:      Processes: 363 Uptime: 1h 30m Memory: 62.81 GiB used: 4.60 GiB (7.3%) Init: systemd v: 244 Compilers: gcc: 9.2.0 
+</p><pre>          Shell: zsh v: 5.7.1 running in: konsole inxi: 3.0.37
+</pre>
+<p>```
+</p>",other;firefox-720;desktop;linux;,firefox,other,en-US,"",jamesray1
