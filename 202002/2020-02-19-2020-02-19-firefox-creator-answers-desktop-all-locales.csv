@@ -1,15 +1,58 @@
 id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1280275,2020-02-19 15:48:08 -0800,2020-02-19T15:48:08Z,"PDFs opening in new pages, one every second","<p>Hi. When I click a link in Firefox in a webpage that opens a PDF, I get a barrage of new Firefox windows, one a second that keep opening until I close Firefox by force. I have my computer set to open PDFs by safari by default, and I have the appropriate setting in Firefox. I’ve even uninstalled and reinstalled Firefox. Any ideas?
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US,"",eric.probola
+1280274,2020-02-19 14:59:20 -0800,2020-02-19T14:59:20Z,in linux with musl libc i cant get firefox to start it wont even give me a error message,"<p><a href=""https://imgur.com/a/veVFnTj"" rel=""nofollow"">https://imgur.com/a/veVFnTj</a>
+</p>",download-and-install_1;firefox-730;desktop;linux;,firefox,download-and-install,en-US,"",mikael.walhelm
+1280272,2020-02-19 14:04:50 -0800,2020-02-19T14:22:17Z,Firefox won't display Online Payments in Bank of America's website. I have to use Chrome. FF Finds 2799 improbable solutions.,"<p>Firefox just goes to the page but displays nothing in Online Banking Payments for Bank Of America.
+I have disabled everything I can find that blocks access, I can use Chrome an I may have to switch.
+</p>",privacy-and-security_1;firefox-730;desktop;windows-10;,firefox,privacy-and-security,en-US,1291775;,rcarpen21
+1280271,2020-02-19 13:38:52 -0800,2020-02-19T15:15:18Z,not able to deinstall old version of Firefox,"<p>in der Systemsteuerung , Programme und features, wird angezeigt dass zwei Versionen von Firefox installiert sind:
+Mozilla Firefox 66.0.3 (x64 de) 
+Mozilla Firefox 73.0.1 (x64 de) 
+Wegen zahlreicher Probleme möchte ich beide Versionen deinstallieren und Firefox neu installieren.
+Aber die Version 66.0.3 lässt sich trotz Administratorrechten  nicht deinstallieren , Fehlermeldung ist: 
+Sie verfügen nicht über ausreichende Berechtigungen , um Mozilla Firefox 66.0.3 (x64 de) zu deinstallieren. Wenden Sie sich an den Systemadministrator. 
+Abhilfe?
+</p>",download-and-install_1;firefox-730;desktop;,firefox,download-and-install,en-US,1291791;1291794;,hansrotter
+1280267,2020-02-19 12:01:40 -0800,2020-02-19T15:32:21Z,"Add-on ""I don't care about cookies"" not working properly in FF anymore","<p>There's an add-on that filters out those annoying ""This website uses cookies"" warnings. A very useful add-on. But since a couple of months, it doesn't work well anymore. According to the maker, the problem only occurs in FF on Win, not in Chrome/Opera and not in FF on Linux. And he states that he contacted FF, but that FF didn't do anything to resolve the problem. See <a href=""https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/"" rel=""nofollow"">https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/</a> &gt; Reviews (in the upper right block) &gt; comment by user 13764671 and the reply. 
+</p><p>I'd like to know what the status of this reported problem is. Because as I said, it's a very useful add-on. And there's no alternative.
+</p>",firefox-730;customize;desktop;windows-10;escalate;cookies;,firefox,customize,en-US,1291796;1291799;,frankconijn
+1280266,2020-02-19 11:27:05 -0800,2020-02-19T15:28:47Z,"Clean install on Windows, bookmarks and passwords not syncing.","<p>I did have to reset my password (I could not remember password, hence why i sync  passwords). I did logout of the firefox account before initiating a clean install of Windows. It may not make any difference though. :(
+</p><p>I  saw how resetting password for sync account can delete info on servers?
+I do have sync on my android phone, where passwords and logins are still there.
+Is there a way to sync my android to my computer? I have tons of logins and passwords, i would hate to have to start over. :(
+</p><p><br>
+Thanks so much
+</p>",firefox-730;firefox-7301;sync;desktop;windows-10;,firefox,sync,en-US,1291734;1291789;1291793;1291798;,Joy717
+1280265,2020-02-19 11:23:07 -0800,2020-02-19T14:45:39Z,The quick save bookmark star (to 3 dots) went away. How can I restore it?,"<p>Earlier today I noticed on my Firefox 72.0.2 for my Mac 10.14.5 that the The quick save bookmark star (to 3 dots) went away. First it said it was disabled, then I closed and restarted it a few times and now it shows it completely gone when I click on the 3 dots. How can I restore it?
+</p>",firefox-720;desktop;fix-problems;,firefox,fix-problems,en-US,1291781;1291784;,zach771
+1280262,2020-02-19 10:27:09 -0800,2020-02-19T13:51:48Z,save cookies only for selected (whitelisted) sites,"<p>I have consciously transitioned from Chrome to FF for Privacy reasons, but find myself with a problem now.
+When i close the browser i have set it to delete all the cookies. I want however to make exceptions for certain sites like i did with Chrome so that when i go back to LinkedIn or YouTube i don't have to go through the 2-step login process which is quite annoying if you have to do that multiple times per day as you can imagine.
+not having been able to find a definite answer on how to do that (yes, i did read multiple support articles)  i turn to you to for help
+Is there a whitelist option to handle exceptions per domain for deleting cookies?
+</p>",firefox-680;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US,1291746;1291757;1291765;1291768;,ronald4
+1280261,2020-02-19 10:16:27 -0800,2020-02-19T14:54:05Z,Firefox 73 has lost my logins and passwords,"<p>updated firefox now lockwise says no logins or passwords. Have tried most of the workarounds to no avail. I have no master password set, and use desktop on Windows 7, any help? I have seen that others have the same problem with no solution. Any help would be much appreciated
+</p>",privacy-and-security_1;firefox-730;desktop;windows-7;bug1615382;,firefox,privacy-and-security,en-US,1291790;,fozzief777
+1280259,2020-02-19 09:58:55 -0800,2020-02-19T14:51:09Z,Firefox Updater invalid security certificate,"<p>I rebooted my Windows computer and the automatic updater for Firefox started up, but my firewall blocked it because it said it had an invalid security certificate. I tried to allow it, but it again said I had an invalid certificate. I then blocked it, and it gave the same message. So I rebooted my computer again, and Firefox came up working properly, saying I had the newest Firefox version.
+</p><p>The firewall (via Norton Security) said there were less than 5 persons using this installer. That alone is weird.
+</p><p>What should I do the next time this happens? Thanks!
+</p>",download-and-install_1;firefox-730;desktop;windows-10;,firefox,download-and-install,en-US,1291787;,wimnavajo
+1280258,2020-02-19 09:58:04 -0800,2020-02-19T15:27:28Z,Flash Is Problematic,"<p>I have Firefox 73.0.1 ((64 bit) and am running the latest version of FLASH as an add-on.
+</p><p>Lately, when using FLASH within FF, sometimes the screen goes white, sometimes it goes black. I cannot seem to figure out what to do and how to restart FLASH or get back to where I was. Also, I cannot figure out how to get the DISPLAY settings for FLASH This has recently started about 2 weeks ago. I have no other problems with FF
+</p>",firefox-730;customize;desktop;windows-10;flash-problem;,firefox,customize,en-US,1291792;1291797;,drc0304
+1280255,2020-02-19 08:51:26 -0800,2020-02-19T15:36:25Z,"My desktops icons, shortcuts, images wipeout / gone? Read my profile if you feel charitable.","<p>Read my profile if you feel charitable to a 59 yo veteran who is computerly challenged.
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1291702;1291707;1291727;1291730;1291733;1291788;1291795;1291800;,goyeinto
 1280254,2020-02-19 08:48:15 -0800,2020-02-19T08:48:15Z,"VM web console using Firefox causes duplicate characters, Chrome and IE do not have issue","<p>We are using VCSA 6.7 with five esxi 6.7 hosts &amp; multiple vms are are running inside the esxi hosts. We are facing ""Double Typing"" issue when we open vm &amp; start typing using Mozila firefox (Latest version) &amp; The same issue do not shoe when we access v through chrome or IE. Looking for the earliest Response from your side
 </p><p>Thanks in advance
 </p>",other;desktop;,firefox,other,en-US,"",am.1444rame
-1280253,2020-02-19 08:04:05 -0800,2020-02-19T08:04:05Z,Having problems with pop windows/signing in Ebay/Paypal/CollectPlus etc,"<p>For the last few weeks I haven't been able to pay via Paypal on Ebay. The Paypal sign in circle just keeps spinning. So I've had to use Chrome to make my purchases.
+1280253,2020-02-19 08:04:05 -0800,2020-02-19T10:02:58Z,Having problems with pop windows/signing in Ebay/Paypal/CollectPlus etc,"<p>For the last few weeks I haven't been able to pay via Paypal on Ebay. The Paypal sign in circle just keeps spinning. So I've had to use Chrome to make my purchases.
 I'm having other problems elsewhere. I can't sign into my account on an Newspaper I read. And I can't access the tracking boxes on the Collect Plus website. 
 This has all just been in the last few weeks. And it doesn't happen if I use Chrome. 
 Firefox is up to date.
 I disabled add ons. Made no difference.
 Any advice for a fix??
-</p>",firefox-730;websites;desktop;windows-81;,firefox,websites,en-US,"",pod.sc1
-1280252,2020-02-19 07:56:09 -0800,2020-02-19T08:15:05Z,400 Bad Request Request Header Or Cookie Too Large nginx,"<p>I have used Firefox for many years. I frequently have many tabs open. I have recently begun to have this problem: I open a site that uses a CDN for images, and the images will not load, and I get the error message in the title for the images.
+</p>",firefox-730;websites;desktop;windows-81;,firefox,websites,en-US,1291708;,pod.sc1
+1280252,2020-02-19 07:56:09 -0800,2020-02-19T09:05:58Z,400 Bad Request Request Header Or Cookie Too Large nginx,"<p>I have used Firefox for many years. I frequently have many tabs open. I have recently begun to have this problem: I open a site that uses a CDN for images, and the images will not load, and I get the error message in the title for the images.
 </p><p>Creating a new profile sometimes fixes it. Getting rid of cookies sometimes fixes it. but changing to a new profile is time consuming and inconvenient. Why am I suddenly having this problem?
 </p><p>This is the page where the problem occurs:
 <a href=""https://www.star.nesdis.noaa.gov/goes/conus_band.php?sat=G16&amp;band=GEOCOLOR&amp;length=12"" rel=""nofollow"">https://www.star.nesdis.noaa.gov/goes/conus_band.php?sat=G16&amp;band=GEOCOLOR&amp;length=12</a>
@@ -24,34 +67,34 @@ Cookies: true
 Screen Size: 1680 x 1050
 Full User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
 </p><p>This is a very recent problem, cropping up constantly since last week. Is it caused by a recent update?
-</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1291677;1291683;1291684;,lori.brown
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1291677;1291683;1291684;1291693;1291696;,lori.brown
 1280245,2020-02-19 06:18:42 -0800,2020-02-19T06:48:47Z,"FF won't display some data entry boxes, eg Captcha, making it useless in many places","<p>At Vanguard a box to select an option was just not visible.  Worked on Google.
 At several other sites the ""I am not a robot"" Captcha was just not there.  Worked fine on  Google.
 I have no special settings and my privacy setting is standard, with no special options selected.
 Windows 10, current all updates.  Nothing unusual running except Avast Free.
 I'm going to have to stop using this program for anything productive until I get a fix here.  Sorry, I really hate to use Google and let them sell my soul to everyone  willing to pay to exploit me  for profit.
-</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,1291661;,wttomlinson
+</p>",other;firefox-720;desktop;windows-10;avast;vanguard;,firefox,other,en-US,1291661;,wttomlinson
 1280244,2020-02-19 06:11:39 -0800,2020-02-19T06:11:39Z,"Hello Team, We are facing audio mismatch in firefox, when we try playing the HTML5 audio from particular timeframe (Current time).","<p>We have created highlight feature, i.e., the sentence will get highlighted when the audio is played, by used HTML5 audio. On click of each sentence, the audio should readout from particular duration. 
 Example:
 if the sentence is started in 22.5 ms - 31.8. The audio should play only the duration set.
 </p><p>This works in other browsers. But in firefox, the audio and the text is not syncing and highlighting.
 </p><p>Is there any fix for this problem.
-</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,"",rkrajesh4u
-1280242,2020-02-19 06:00:07 -0800,2020-02-19T06:00:07Z,My Firefox browser did something strange...,"<p>So, this morning my Firefox browser was a bit slow so I closed it and reopened it and at the time it decided to do an update. Once it finished it launched open and suddenly all my settings were gone and replaced with my husbands browser (he uses Mac and I use Windows). My toolbar now has all of his bookmarks on it. How the heck could this even happen? I restarted my pc but still..his Firefox info came up on my computer. 
+</p>",other;firefox-720;desktop;windows-10;webdev;,firefox,other,en-US,"",rkrajesh4u
+1280242,2020-02-19 06:00:07 -0800,2020-02-19T14:26:21Z,My Firefox browser did something strange...,"<p>So, this morning my Firefox browser was a bit slow so I closed it and reopened it and at the time it decided to do an update. Once it finished it launched open and suddenly all my settings were gone and replaced with my husbands browser (he uses Mac and I use Windows). My toolbar now has all of his bookmarks on it. How the heck could this even happen? I restarted my pc but still..his Firefox info came up on my computer. 
 Any ideas what could have happened?
 Thank you for any help/advice.
-</p>","",firefox,fix-problems,en-US,"",dragonridergyrl
-1280241,2020-02-19 05:36:46 -0800,2020-02-19T08:07:51Z,Shortcut for library not working since updating,"<p>Just updated to FF73. For my library I've always used the following toolbar shortcut for an easy one-click-access --- chrome://browser/content/bookmarks/bookmarksPanel.xul.    Since updating, this road is closed. So, the question is - what command would now function you believe?
-</p>",bookmarks;firefox-730;desktop;windows-10;,firefox,bookmarks,en-US,1291653;1291673;1291680;,mittsilverdalen
-1280240,2020-02-19 05:23:34 -0800,2020-02-19T08:19:30Z,I downloaded a english dictionary for spellcheck but I cant select it.,"<p>I downloaded a english dictionary for spellcheck, but when I right click the text to change the language, it only shows Dutch (my native language) even though I already downloaded the english dictionary. If my English is bad in this message, its because of that.
-</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1291654;1291672;1291685;,lukevankleef
+</p>","",firefox,fix-problems,en-US,1291766;1291777;,dragonridergyrl
+1280241,2020-02-19 05:36:46 -0800,2020-02-19T09:11:43Z,Shortcut for library not working since updating,"<p>Just updated to FF73. For my library I've always used the following toolbar shortcut for an easy one-click-access --- chrome://browser/content/bookmarks/bookmarksPanel.xul.    Since updating, this road is closed. So, the question is - what command would now function you believe?
+</p>",bookmarks;firefox-730;desktop;windows-10;,firefox,bookmarks,en-US,1291653;1291673;1291680;1291695;1291698;,mittsilverdalen
+1280240,2020-02-19 05:23:34 -0800,2020-02-19T09:09:24Z,I downloaded a english dictionary for spellcheck but I cant select it.,"<p>I downloaded a english dictionary for spellcheck, but when I right click the text to change the language, it only shows Dutch (my native language) even though I already downloaded the english dictionary. If my English is bad in this message, its because of that.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1291654;1291672;1291685;1291697;,lukevankleef
 1280239,2020-02-19 05:23:32 -0800,2020-02-19T05:23:32Z,Formatei o meu computdor e minha conta não está sendo reconhecida. Como faço para restaurar meus favoritos e senhas salvas?,"<p>Já uso o firefox desde 20015 mas formatei o computador, quando fui reinserir abriu como uma nova conta.
 </p>",firefox-730;sync;desktop;windows-10;,firefox,sync,pt-BR,"",mayckou.siq
 1280237,2020-02-19 04:57:44 -0800,2020-02-19T04:57:44Z,"What the hell, Firefox?","<p>Okay, first off, I'm infuriated. I'm infuriated with the stupid obstacle course it took me to even GET here! From the chain of suggestive meaningless support threads to the baffling loading of Thunderbird to even get me  a password reset because I forgot the password to yet the millionth damn account I had to make to do one simple thing! Thanks, Firefox, you're making me regret even bothering with you and I've been with you since Day 1! I've had problems with you about the performance of the browser, to now just clogging the internet with garbage like making accounts just to get support!
 </p><p>The main point that started my stress with Firefox, is how I couldn't clear Autofill. I don't want a laundry list of names that are outdated and not in use. I've done everything I thought of, like going to Privacy and Security settings and clearing out the data. I've had CCleaner, clean out the data thoroughly. I've rebooted Firefox a few times and the names are still there! I don't WANT them there!
 </p><p>What have you done?! Why do you feel the need to enforce an arbitrary necessity onto those who prefer to have the options available to them on whether or not to clear such data? Why do you feel the need to make this so trivial? Am I stuck with an autofill form that I can't clear?! Forcing me to have to see a long ass list of things that are outdated/not in use?
 </p><p>This is your idea of IMPROVEMENT? You've lost your touch, Mozilla!!
-</p>",privacy-and-security_1;firefox-730;desktop;windows-10;,firefox,privacy-and-security,en-US,"",soulifix
+</p>",privacy-and-security_1;firefox-730;desktop;windows-10;pleasedonotrant;,firefox,privacy-and-security,en-US,"",soulifix
 1280235,2020-02-19 04:41:48 -0800,2020-02-19T04:41:48Z,How you find some hacker made brank that you start to hear some hevy metal when you click one link,"<p>I uninstalled firefox and reinstalled it but it didn't work. Xcraft online free web game at one page starts to play some heavy metal still.
 It's not game feature but some brank from another user/hacker. I try to find out is it in my computer or in the server where the problem lays.
 </p><p>Email me if you have some suggestions how to dig this out....
@@ -65,8 +108,8 @@ Any help would be appreciated.
 </p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,"",shepsys
 1280227,2020-02-19 00:21:19 -0800,2020-02-19T00:21:19Z,"Запуск множества процессов в windows при обновлении версии firefox, что делать?","<p>Запуск множества процессов в windows 10 при обновлении версии firefox, что делать?
 </p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",rubzov90
-1280226,2020-02-19 00:20:48 -0800,2020-02-19T06:45:26Z,Can't change language,"<p>I live in Sweden. My Windows 10 is in English. I have NO CONNECTION to Spanish. But still, when I installed Firefox, the installer was in Spanish. I double checked that I hadn't downloaded a Spanish version of some sort, but no. I didn't think more of it, since I was able to change the browser language to English upon installation. But now, upon updating Firefox, it has changed it back to Spanish and even though English (US) is ranked above Spanish in my list in ""Options"", all settings and websites are still showing in Spanish and I don't know why. Help is much appreciated and perhaps some developer can forward this as a bug report because I see no reason why this could have happened.
-</p>",firefox-730;other;desktop;windows-10;language;,firefox,other,en-US,1291629;1291631;1291632;1291633;1291658;,dasdfgsdf9
+1280226,2020-02-19 00:20:48 -0800,2020-02-19T10:18:19Z,Can't change language,"<p>I live in Sweden. My Windows 10 is in English. I have NO CONNECTION to Spanish. But still, when I installed Firefox, the installer was in Spanish. I double checked that I hadn't downloaded a Spanish version of some sort, but no. I didn't think more of it, since I was able to change the browser language to English upon installation. But now, upon updating Firefox, it has changed it back to Spanish and even though English (US) is ranked above Spanish in my list in ""Options"", all settings and websites are still showing in Spanish and I don't know why. Help is much appreciated and perhaps some developer can forward this as a bug report because I see no reason why this could have happened.
+</p>",firefox-730;other;desktop;windows-10;language;,firefox,other,en-US,1291629;1291631;1291632;1291633;1291658;1291715;,dasdfgsdf9
 1280223,2020-02-18 22:09:11 -0800,2020-02-19T00:03:53Z,An error occurred during a connection to my website. Peer’s Certificate has been revoked.  Error code: SEC_ERROR_REVOKED_CERTIFICATE,"<p>While visiting my website , i receive the error : 
 An error occurred during a connection to my website. Peer’s Certificate has been revoked.
 </p><p>Error code: SEC_ERROR_REVOKED_CERTIFICATE
@@ -77,8 +120,8 @@ An error occurred during a connection to my website. Peer’s Certificate has be
 </p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,"",skylineblue
 1280221,2020-02-18 20:06:15 -0800,2020-02-18T20:06:15Z,White line at the bottom of Streaming videos on Mac OS Mojave,"<p>Everytime i stream any type of video on Firefox on my macbook pro...i see a short white line at the bottom of my videos when i go in full screen mode...and its only on my mac...on my windows pc they are not there...i went to the apple store and they said it was a firefox thing and not a mac  thing
 </p>",firefox-720;desktop;fix-problems;video;,firefox,fix-problems,en-US,"",AidenMoonBow
-1280219,2020-02-18 19:19:30 -0800,2020-02-18T19:19:30Z,How do I turn off the requirement for a verification code when logging in?,"<p>Each time I log into my Firefox account, it forces me to enter a verification code sent to my email.  I do not have 2FA enabled in my preferences.  Is there a way to turn off the need to enter verification code each time I log in?
-</p>",firefox-720;desktop;sync;verificationcode;,firefox,sync,en-US,"",maschultz3
+1280219,2020-02-18 19:19:30 -0800,2020-02-19T09:34:12Z,How do I turn off the requirement for a verification code when logging in?,"<p>Each time I log into my Firefox account, it forces me to enter a verification code sent to my email.  I do not have 2FA enabled in my preferences.  Is there a way to turn off the need to enter verification code each time I log in?
+</p>",firefox-720;desktop;sync;verificationcode;,firefox,sync,en-US,1291703;,maschultz3
 1280215,2020-02-18 18:31:30 -0800,2020-02-18T19:04:10Z,Unable to see device and sync is not displaying saved login,"<p>Hello,
 I was using Firefox Sync earlier today and then had to delete the profile and created a new profile.
 While logging into Firefox I have had to reset the password as I couldn't recall the credentials. Now I don't see any login information.
@@ -92,7 +135,7 @@ As a final test, I downloaded the Firefox 68.4.1ESR version at my laptop with Wi
 I am sure the camera and microphone is fine because Firefox 60 can run the sample normally.
 May I get some help to figure out the problem of the Firefox 68.4.1ESR on the Raspberry Pi with Linux system and how can I make it work with Webrtc?
 </p>",firefox-680;other;desktop;linux;raspian;raspberrypi;,firefox,other,en-US,"",wyz19911004
-1280212,2020-02-18 16:29:17 -0800,2020-02-18T16:29:17Z,"Can't play audio in videos, only on Firefox, after going through all the steps in ""Fix common audio and video issues""","<p>```
+1280212,2020-02-18 16:29:17 -0800,2020-02-19T14:29:29Z,"Can't play audio in videos, only on Firefox, after going through all the steps in ""Fix common audio and video issues""","<p>```
 11:27:01  ✘  jr@fm  ~  ⬡ v8.16.0  1m35s 
 $ inxi -Fxxx
 System:    Host: fm Kernel: 5.4.18-2-MANJARO x86_64 bits: 64 compiler: gcc v: 9.2.0 Desktop: KDE Plasma 5.18.80 tk: Qt 5.14.1 
@@ -137,4 +180,4 @@ System:    Host: fm Kernel: 5.4.18-2-MANJARO x86_64 bits: 64 compiler: gcc v: 9.
 </p><pre>          Shell: zsh v: 5.7.1 running in: konsole inxi: 3.0.37
 </pre>
 <p>```
-</p>",other;firefox-720;desktop;linux;,firefox,other,en-US,"",jamesray1
+</p>",other;firefox-720;desktop;linux;,firefox,other,en-US,1291779;,jamesray1
