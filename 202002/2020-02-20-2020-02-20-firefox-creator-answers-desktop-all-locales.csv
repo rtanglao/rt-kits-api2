@@ -1,41 +1,124 @@
 id,created,updated,title,content,tags,product,topic,locale,answers,creator
-1280339,2020-02-20 10:16:01 -0800,2020-02-20T10:16:01Z,"Every tab crashes, can't use Firefox at all, help?","<p>Every tab i try to open crashes. The menu doesn't drop down to refresh or restart in safe mode. I uninstalled and reinstalled, restarted computer, and tried restoring tabs. Crash reports aren't listing anything recent.
-</p>",tabs;desktop;windows-10;,firefox,tabs,en-US,"",matt.helfrich1976
-1280338,2020-02-20 10:06:23 -0800,2020-02-20T10:06:23Z,I have a issue with loading Facebook properly.,"<p>I have a issue with loading Facebook properly. I've read it's may be from some add-ons but nothing helps. I uninstall and then install it again, but it's still the same. How do I fix it? I'll be very graceful if some one help me.
-</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,"",boristihomirov
-1280336,2020-02-20 09:57:21 -0800,2020-02-20T10:24:24Z,How to stop firefox from crashing every tab,"<p>So every time I open firefox, it immediately gives me the Gah your tab just crashed on the opening page and every other page I try to launch. I tried downloading an older version of firefox and got the same results. Now I'm back on the most up to date version and I can't seem to access any options or account features, ie nothing happens when I click on the bookmarks, account or menu buttons in the corner. I submitted the crash reports, but now it won't even take me to any page if I try to put a url or about:crashes in. It doesn't show the crash page either. What do I do???
-</p>",desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1291961;1291970;,lenstalkhru
-1280334,2020-02-20 09:28:36 -0800,2020-02-20T09:28:36Z,"Since the 73.0.1 update went through, all tabs keep crashing. Refreshing and reinstalling didn't help. It's practically useless now.","<p>The update came through earlier today and not a single tab has loaded since. They keep crashing and no amount of restoring works. There are no crash logs. I have restarted, cleared cache, refreshed browser, uninstalled and reinstalled to no avail. Is there anything else to do before ditching it for good?
-</p>",firefox-710;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",morarwen
-1280333,2020-02-20 09:24:36 -0800,2020-02-20T09:50:52Z,Is it possible to have a different google account for two different url at the same time ?,"<p>I would like to have a google account active for <a href=""http://youtube.com"" rel=""nofollow"">youtube.com</a>, while simultaneously having a different account active for <a href=""http://music.youtube.com"" rel=""nofollow"">music.youtube.com</a>. And it would stay even after a restart. I haven't found a way yet, other than using 2 web browsers. 
+1280362,2020-02-20 15:20:32 -0800,2020-02-20T15:46:50Z,"How come my Firefox browser has become unreadable lines, like smeared paint?","<p>Firefox worked fine this morning.  I had multiple tabs open, and then opened a tab to install Microsoft Office.  Came back after lunch, restarted the computer because my writing software wouldn't open, and then everything but Firefox was fine.  Everything in the window, all the tabs, look like smeared unreadable paint.  I uninstalled Firefox, restarted the computer, and reinstalled Firefox.  Still no good.  How do I fix this please?  I need to finish my research and paper, and I do not like Edge or Chrome.  Please Help!
+</p><p>Thank you,
+Hillary
+</p>",other;desktop;,firefox,other,en-US,1292124;,hillarymj
+1280361,2020-02-20 14:39:33 -0800,2020-02-20T21:16:59Z,I detest change. What is this all about? What happened to Firefox? Why can't I just leave things the way they are?,"<p>Put my stuff back the way it was.  Why do I have to ""get started"" on something I've had for years?
+</p>",firefox-730;other;desktop;windows-81;,firefox,other,en-US,1292126;1292146;1292195;,wishladya
+1280357,2020-02-20 13:53:02 -0800,2020-02-20T14:05:49Z,"Firefox suddenly won't open on Mac, despite clean reinstall","<p>I am having a similar ongoing issue with Firefox refusing to open, and none of the fixes I've seen in this forum have worked. When clicking the icon it bounces once and then disappears from the dock. Honestly, this started happening about August 2018, and in my troubleshooting decided to give the Developer edition a try, and for some reason that one worked so I stuck with it.
+</p><p>Shortly thereafter (a week or two) whenever I closed down the Mac, Firefox Dev wouldn't re-open. Deleting and reinstalling would work, but I'd have to re-set all my settings, re-activate the theme, etc., and all the browsing history would be lost. So, since then I would rarely shut it down. 
+</p><p>A few days ago I had to shut the Mac down completely, but this time Firefox Dev wouldn't open after re-installing. Oddly, I tried regular Firefox again as a solution, and it opened this time. I tested it out by shutting the Mac down completely, then restarting, and it retained all of the settings! I was really glad to once again be able to shut down my laptop at the end of the day without the headache of having to reinstall and re-set everything.
+</p><p>Then this morning, boom - back to the same nonsense, except now it won't open at all. Neither the regular FF or the Developer edition will work. I've done clean uninstalls to see if that was the problem, as in: removed them from the Applications folder, removed them from the Downloads folder, removed the /Firefox folder from user/Library/Application Support/, and emptying the Trash.
+</p><p>I saw in one Support post to delete the fbplugin file, 'as that had been causing Firefox to crash'. The closest I found to an 'fbplugin' file was a bundle-config.1 file, which contained 'fbplugin' throughout the file code numerous times. I renamed it temporarily, but didn't delete it. That didn't help the non-opening problem either.  
+</p><p>I also tried installing Firefox v 71, same result as the others.
+</p><p>Keep in mind after attempting all of these solutions of deleting, reinstalling, changing file names, etc., I did a complete shutdown and restart.  Also, I have not downloaded, updated, or changed anything since last week's phenomenon of regular Firefox beginning to work again.  So I'm completely stumped and would appreciate any help.  I'm currently running macOS Catalina 10.15.3.  TIA.
+</p>",desktop;fix-problems;escalate;macos-1015;bsod;download-and-install;firefoxdeveloperquestion;firefox-730;firefox-710;,firefox,fix-problems,en-US,1292102;,kmh53559
+1280355,2020-02-20 13:21:32 -0800,2020-02-20T13:43:37Z,All Tabs Continue to Crash After Multiple Troubleshooting Attempts,"<p>Hello,
+</p><p>Since starting Firefox up today, every single attempted open link or tab crashes. A new, blank tab will crash, and even some about:tabs crash and must be attempted a few times to access. After going through multiple troubleshooting guides from both Mozilla and from users, I'm at a complete loss. A list of things I've tried:
+</p><p>-Restoring crashed tabs
+-Restarting Firefox
+-Restarting Firefox in Safe Mode
+-Clearing Cookies &amp; Cache
+-Removing all addons and plugins
+-Restarting PC
+-Reinstalling Firefox
+-""Refreshing"" Firefox 
+-Making a new account
+-Restarting Firefox in Safe Mode after reinstall/refresh/new account
+-Checking browser internals
+-Troubleshooting/Reinstalling Flash
+-Checking for security software/malware issues
+-Switching browser.tabs.remote.autostart to false
+-Switching media.wmf.vp8.enabled to false
+-Checking that drivers are up to date
+-Switching to an older version of Firefox
+-Making a new profile for an older version of Firefox
+-Re-reverting to the current version of Firefox
+-Restarting PC another time and trying these again
+</p><p>Despite all of this, all tabs save for the about:tabs (excluding about:blank) crash immediately. I have no idea what else I can try, and any assistance would be appreciated.
+</p>",desktop;fix-problems;windows-10;bug1616993;,firefox,fix-problems,en-US,1292084;1292093;,fleamcp
+1280354,2020-02-20 13:16:00 -0800,2020-02-20T13:43:04Z,Your Tab just crashed,"<p>Everything has been fine...UNTIL this last update....I CANNOT LOAD any page...I am uninstalled all folders and files in all locations.....and nothing works....I even tried installed an old version to C: vs C:/Program Files
+</p>",tabs;desktop;bug1616993;,firefox,tabs,en-US,1292086;1292091;,vegastriguy
+1280352,2020-02-20 13:02:37 -0800,2020-02-20T20:07:48Z,"TLS handshake slow, times out after Mac Mojave update","<p>This has now happened after the last two Mac updates. I get the TLS handshake forever until it times out. Occasionally something gets through (like the Mozilla help pages!) Unlike others who have posted this issue, the same problem holds in Chrome and Safari. I have tried various fixes, including a new identity on my Mac, with no success.  Last time the issue seemed to spontaneously resolve after a couple of hours and never reappeared until Mac updated again. While all this is happening, my email works fine, my husband's macbook pro (just like mine) works fine, and my iPad works fine. I have left this message on the Mac help forum, too, hoping someone will have some idea of what is happening. OS Mojave 10.14.6
+</p>",firefox-730;firefox-7301;desktop;fix-problems;mac-os-1014;slowness-and-hanging;tls;,firefox,fix-problems,en-US,1292149;1292158;1292186;1292191;,sunolen
+1280351,2020-02-20 12:58:00 -0800,2020-02-20T13:10:09Z,Adobe Flash and Firefox crashes my computer,"<p>When I go to a site that use Flash. Firefox load like 20% of the Flash file. Then it freeze Firefox. And Firefox doesn't crash.
+This ends in a full computer freezing. My mouse stopping working, my keyboard stopping working.
+I need to restart my computer every time. Because nothing is functionally.
+</p><p>I have tried other web-browsers and those doesn't have this problem. It works, but not in Firefox.
+</p><p>Information:
+Windows 10 Pro x64 - version 1909 ( OS Build: 18363.657 )
+Firefox 73.0.1
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1292068;,turbosmurfen
+1280349,2020-02-20 12:18:41 -0800,2020-02-20T13:31:26Z,FF doing a DNS query for all the web links on our home page when the home page is displayed,"<p>We have a simple HTML home page that has links to the sites we most visit.  This is the default page that comes up when we start FF.  For instance, the web site for CNBC financial news is coded in HTML like this:
+</p>
+<li>&lt;a href=""<a href=""http://www.cnbc.com/"" rel=""nofollow"">http://www.cnbc.com/</a>""&gt;CNBC&lt;/a&gt;</li>
+<p>All the web links are in lists in cells a multi-cell table.  There are about 40 of these links in the home page.
+</p><p>While debugging a network problem recently using wireshark, I noticed that when I opened this home page in FF, There was a storm of DNS queries for all of the web sites in the home page!  None of the web links were clicked on, this happens when FF starts up and just displays the home page.  The same thing is happening on Windows 7 and Linux.
+</p><p>I consider this invasive and would like this activity to stop.
+</p><p>Why is this happening?
+Does this ""feature"" have a name?
+How do I stop this from happening?
+</p><p>Thanks,
+Ed
+</p><p>Versions:
+Windows 7: 73.0.1
+Centos Linux 7: 60.6.0ser
+</p>",privacy-and-security_1;firefox-730;desktop;windows-7;,firefox,privacy-and-security,en-US,1292077;1292083;,ehseger
+1280348,2020-02-20 12:13:58 -0800,2020-02-20T12:13:58Z,"If there are any videos playing, firefox takes at least 9 seconds to either go to another website or close. Started about 6 months ago.","<p>Starting about 6-8 months ago (whatever version of fire fox browser was at that time) If there is any type of video playing, even a window in a page, it always takes at least 9 or more seconds for the browser to either go to another page, or close. If the page does not have any ""Live"" video, it will go to another webpage or close very quickly. No new add on's have been installed by the user in over a year.
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",Rem1061
+1280347,2020-02-20 11:39:02 -0800,2020-02-20T11:54:47Z,Firefox keeps changing preferences for Portable Document Format (PDF) to Save File.   I constantly have to change it back to Preview in Firefox.,"<p>How can I resolve this issue?
+</p>",firefox-730;other;desktop;mac-os;,firefox,other,en-US,1292028;1292033;1292038;,Ashakouri
+1280346,2020-02-20 11:36:11 -0800,2020-02-20T12:30:02Z,"GOOGLE SEARCH HOME PAGE KEEPS APPEARING WITH A BLACK BAR ACROSS TOP FOR 'SEARCH', 'IMAGES', 'MAPS', ETC.","<p>Hi,
+Almost daily now, my Google Search Home Page suddenly changes appearance and a black bar appears at the top (screenshot attached).  When it is like this, the search results also appear differently (2nd screenshot attached), with search results appearing in separate boxes.  It stays like this for some hours and then, reverts back to normal.  I never know why it changes, as I've never found out how to change it back myself.  Can someone tell me why this is happening and how I can stop it.  Any help much appreciated.  Thanks in advance.
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1292025;1292051;1292055;,ladybird1272
+1280344,2020-02-20 11:12:11 -0800,2020-02-20T11:30:41Z,version 73 missing dark mode icon,"<p>What happened to the 'book' icon for dark mode that was previously at the right side of the URL field? I can't find any info on how to turn a page dark. All I've found is a Q in the last 2 weeks w/a link to this:  <a href=""https://www.askvg.com/tip-enable-dark-mode-everywhere-in-mozilla-firefox/"" rel=""nofollow"">https://www.askvg.com/tip-enable-dark-mode-everywhere-in-mozilla-firefox/</a>
+</p><p>Any help would be appreciated.
+</p><p><br>
+Thank you.
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1292016;,dimicco1
+1280341,2020-02-20 10:44:50 -0800,2020-02-20T14:41:58Z,"After update to 73.0.1, every tab crashes even built in Mozilla tabs. They don't even load and just go right to ""Gah.""","<p>Version 73.0.1 64bit crashes every tab. Will not load anything. Safe mode doesn't fix it. Looking to not lose all my settings and bookmarks etc.
+</p><p>I have Bitdefender installed, testing to see if this makes it go away by uninstalling it.
+</p>",desktop;fix-problems;bug1616993;,firefox,fix-problems,en-US,1291990;1291999;1292114;,ftavares
+1280340,2020-02-20 10:43:28 -0800,2020-02-20T12:48:56Z,Constant tab crashing.,"<p>Tried reset, reinstall, use older version, full install, registry deletions, etc. multiple times. I also used Malewarebytes but nothing reported. 
+Firefox is my favorite browser and is now unusable.   I completely uninstalled it, so I cannot use the troubleshooter below.
+</p>",desktop;fix-problems;bug1616993;,firefox,fix-problems,en-US,1291995;1291998;1292064;,dlococo
+1280339,2020-02-20 10:16:01 -0800,2020-02-20T11:09:25Z,"Every tab crashes, can't use Firefox at all, help?","<p>Every tab i try to open crashes. The menu doesn't drop down to refresh or restart in safe mode. I uninstalled and reinstalled, restarted computer, and tried restoring tabs. Crash reports aren't listing anything recent.
+</p>",tabs;desktop;windows-10;bug1616993;,firefox,tabs,en-US,1291991;1292004;,matt.helfrich1976
+1280338,2020-02-20 10:06:23 -0800,2020-02-21T04:57:28Z,I have a issue with loading Facebook properly.,"<p>I have a issue with loading Facebook properly. I've read it's may be from some add-ons but nothing helps. I uninstall and then install it again, but it's still the same. How do I fix it? I'll be very graceful if some one help me.
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1291994;1292021;1292110;1292208;1292231;,boristihomirov
+1280336,2020-02-20 09:57:21 -0800,2020-02-20T11:34:35Z,How to stop firefox from crashing every tab,"<p>So every time I open firefox, it immediately gives me the Gah your tab just crashed on the opening page and every other page I try to launch. I tried downloading an older version of firefox and got the same results. Now I'm back on the most up to date version and I can't seem to access any options or account features, ie nothing happens when I click on the bookmarks, account or menu buttons in the corner. I submitted the crash reports, but now it won't even take me to any page if I try to put a url or about:crashes in. It doesn't show the crash page either. What do I do???
+</p>",desktop;fix-problems;windows-10;firefox-7202;crash;escalate;bug1616993;,firefox,fix-problems,en-US,1291961;1291970;1291975;1291982;1291987;1292000;1292008;1292010;1292012;1292014;1292019;,lenstalkhru
+1280334,2020-02-20 09:28:36 -0800,2020-02-20T13:49:28Z,"Since the 73.0.1 update went through, all tabs keep crashing. Refreshing and reinstalling didn't help. It's practically useless now.","<p>The update came through earlier today and not a single tab has loaded since. They keep crashing and no amount of restoring works. There are no crash logs. I have restarted, cleared cache, refreshed browser, uninstalled and reinstalled to no avail. Is there anything else to do before ditching it for good?
+</p>",firefox-710;desktop;fix-problems;windows-10;bug1616993;,firefox,fix-problems,en-US,1291973;1291996;,morarwen
+1280333,2020-02-20 09:24:36 -0800,2020-02-20T18:58:13Z,Is it possible to have a different google account for two different url at the same time ?,"<p>I would like to have a google account active for <a href=""http://youtube.com"" rel=""nofollow"">youtube.com</a>, while simultaneously having a different account active for <a href=""http://music.youtube.com"" rel=""nofollow"">music.youtube.com</a>. And it would stay even after a restart. I haven't found a way yet, other than using 2 web browsers. 
 Thank you for your anwsers
-</p>",tips;firefox-730;desktop;linux;,firefox,tips,en-US,1291959;,cocogaillard35
+</p>",tips;firefox-730;desktop;linux;,firefox,tips,en-US,1291959;1292173;,cocogaillard35
 1280330,2020-02-20 09:05:35 -0800,2020-02-20T10:17:13Z,What risks do I take by disabling IPv6 in firefox?,"<p>Recently I was facing an Issue with my Firefox, it was not connecting to webpages after failing to do a TLS handshake with the server, I was suggested to disable IPv6 in my Firefox to solve the issue. I did the same and it works well now. But I'm curious what the risks I took by disabling IPv6 from Firefox.
 </p>",privacy-and-security_1;firefox-730;desktop;windows-10;,firefox,privacy-and-security,en-US,1291966;,anuragmondol22
 1280327,2020-02-20 08:53:11 -0800,2020-02-20T09:56:10Z,"Firefox 73.0.1 was working fine, suddenly all new tabs ""tab crash"". Safe mode also.","<p>Have been using Firefox heavily (as usual) past few days. Opened and closed many tabs today without problem. Suddenly, clicked on a link (safe source) to open a new tab and got ""Gah. Your tab just crashed"". Since, all new tabs get that error message, even after reloading Firefox in safe mode. Running 64-bit Firefox 73.0.1 under Win10Pro v1903; haven't installed or added anything lately.
 Search for Firefox crash reports finds none dated more recently than 2018. However, in that directory are numerous InstallTime files, the most recent of which is timestamped this morning at approx. the time the problems began. That file is named ""InstallTime20200217142647"" and its content is ""1582214656"".
 Help?
-</p>",desktop;fix-problems;,firefox,fix-problems,en-US,1291948;1291951;1291954;1291955;1291960;,firefox524
-1280326,2020-02-20 08:48:19 -0800,2020-02-20T08:48:19Z,"Firefox sound issiue, when i change the speed with video speed controller firefox muting itself and i cant hear anythink.","<p>Im using video speed controller and i just want to speed up little moreü, can u help me guys pls?
-</p>",firefox-730;other;desktop;windows-81;,firefox,other,tr,"",maniakbeta
-1280325,2020-02-20 08:42:15 -0800,2020-02-20T09:01:29Z,Open markdown file with md extension in Firefox,"<p>I’m clicking on a link that links to a markdown file ending in the extension .md. As I know that this is just a plain text file, I would like to open it in a new tab as plain text. However, Firefox opens a download prompt. How can I teach Firefox to display the file as text?
-</p>",firefox-740;beta;desktop;tips;linux;,firefox,tips,en-US,1291946;,gorgor1
+</p>",desktop;fix-problems;bug1616993;,firefox,fix-problems,en-US,1291948;1291951;1291954;1291955;1291960;,firefox524
+1280326,2020-02-20 08:48:19 -0800,2020-02-21T06:36:23Z,"Firefox sound issiue, when i change the speed with video speed controller firefox muting itself and i cant hear anythink.","<p>Im using video speed controller and i just want to speed up little moreü, can u help me guys pls?
+</p>",firefox-730;other;desktop;windows-81;,firefox,bookmarks,en-US,1292248;,maniakbeta
+1280325,2020-02-20 08:42:15 -0800,2020-02-20T12:27:14Z,Open markdown file with md extension in Firefox,"<p>I’m clicking on a link that links to a markdown file ending in the extension .md. As I know that this is just a plain text file, I would like to open it in a new tab as plain text. However, Firefox opens a download prompt. How can I teach Firefox to display the file as text?
+</p>",firefox-740;beta;desktop;tips;linux;escalate;,firefox,tips,en-US,1292001;1292029;1292048;,gorgor1
 1280322,2020-02-20 08:21:31 -0800,2020-02-20T08:34:23Z,No longer can I drag a bookmark to an email I am sending.   Safari lets me do this.,"<p>If I am writing an email and want to drag a bookmarked url to the body of the email I am writing, it will not work.  If I want to drag the bookmark to the subject line area, it WILL work.
 </p>",firefox-730;other;desktop;mac-os;,firefox,other,en-US,1291939;1291941;,chefjeff1
-1280321,2020-02-20 07:53:16 -0800,2020-02-20T10:19:31Z,Keep on getting a blank screen with websites that used to work fine,"<p>Once in a while I get a blank screen.  Like I just tried logging into <a href=""http://live.com"" rel=""nofollow"">live.com</a>.  Always worked before.  Now its blank.  I've gotten this occasionally the last few days.  I may have changed some site settings but I can't imagine what could have done this.   Any ideas anybody?  Anybody else notice this recently?
-</p>",firefox-730;other;desktop;windows-7;,firefox,other,en-US,1291925;1291927;1291928;1291929;1291953;1291969;,moz2u
-1280320,2020-02-20 07:44:34 -0800,2020-02-20T09:48:01Z,How to remove bad saved user name/passord combinations when more than one user name/password combination is listed for the site?,"<p>When I sign into some sites, where I have saved usernames and passwords, I get a choice of two user names that are exactly the same.  When I choose one user name, the password associated with this name does not work.  When I choose the second user name, the password associated with it does work.
+1280321,2020-02-20 07:53:16 -0800,2020-02-20T11:46:06Z,Keep on getting a blank screen with websites that used to work fine,"<p>Once in a while I get a blank screen.  Like I just tried logging into <a href=""http://live.com"" rel=""nofollow"">live.com</a>.  Always worked before.  Now its blank.  I've gotten this occasionally the last few days.  I may have changed some site settings but I can't imagine what could have done this.   Any ideas anybody?  Anybody else notice this recently?
+</p>",firefox-730;other;desktop;windows-7;,firefox,other,en-US,1291925;1291927;1291928;1291929;1291953;1291969;1291972;1292002;1292032;,moz2u
+1280320,2020-02-20 07:44:34 -0800,2020-02-20T13:29:15Z,How to remove bad saved user name/passord combinations when more than one user name/password combination is listed for the site?,"<p>When I sign into some sites, where I have saved usernames and passwords, I get a choice of two user names that are exactly the same.  When I choose one user name, the password associated with this name does not work.  When I choose the second user name, the password associated with it does work.
 </p><p>I used to be able to go into Firefox options and remove the bad combination.  I cannot find a way to do this anymore.
 </p><p>How do I remove the bad username/password from the options given me when I log into a website?
-</p>",privacy-and-security_1;firefox-730;firefox-7301;desktop;windows-10;,firefox,privacy-and-security,en-US,1291920;1291932;1291958;,hankone225
+</p>",privacy-and-security_1;firefox-730;firefox-7301;desktop;windows-10;,firefox,privacy-and-security,en-US,1291920;1291932;1291958;1291983;1292034;1292060;1292074;1292081;,hankone225
 1280319,2020-02-20 07:39:16 -0800,2020-02-20T07:54:34Z,How can I suggest a new feature?,"<p>1. I would like to be able to search the pocket for an article I saw in the past, which I would like to see again.
 2. Why is it so difficult to find out how to submit a bug report?
 </p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1291923;,mjvande
-1280318,2020-02-20 07:27:00 -0800,2020-02-20T07:32:59Z,What happened to the downloads window?,"<p>It used to be when I pressed Command-J (or selected Downloads from the Tools menu) a separate window would open showing the downloads history. But now it opens a new tab in the current window instead. How can I get it back to opening in its own window?
-</p>",firefox-730;other;firefox-7301;desktop;mac-os;escalate;,firefox,other,en-US,1291913;,tony_w124
-1280317,2020-02-20 06:59:13 -0800,2020-02-20T06:59:13Z,Open a new tab while on a container-ed tab & have the new tab in that container,"<p>I absolutely love the new containers feature of Firefox. Well done, FF crew!
+1280318,2020-02-20 07:27:00 -0800,2020-02-20T18:51:35Z,What happened to the downloads window?,"<p>It used to be when I pressed Command-J (or selected Downloads from the Tools menu) a separate window would open showing the downloads history. But now it opens a new tab in the current window instead. How can I get it back to opening in its own window?
+</p>",firefox-730;other;firefox-7301;desktop;mac-os;escalate;,firefox,other,en-US,1291913;1292168;,tony_w124
+1280317,2020-02-20 06:59:13 -0800,2020-02-20T10:33:07Z,Open a new tab while on a container-ed tab & have the new tab in that container,"<p>I absolutely love the new containers feature of Firefox. Well done, FF crew!
 </p><p>One feature request: when I'm on, say, a tab in my Work container and I do a Cmd-T to create a new tab, I'd like to have that tab open in whatever container I was on -- so in this example, the new tab would open in the Work container. I know there's an menu item to open a tab in a specific container, but this would make it 2 steps faster. Is this already possible?
-</p>",tabs;firefox-730;desktop;mac-os;,firefox,tabs,en-US,"",vickramj
+</p>",tabs;firefox-730;desktop;mac-os;,firefox,tabs,en-US,1291974;,vickramj
 1280315,2020-02-20 06:29:49 -0800,2020-02-20T07:44:17Z,Forced Yahoo search every now and then,"<p>Hello
 </p><p>My Firefox is acting quite quirky, as every now and then when I search something via my adress bar it uses Yahoo instead of Google.
 I have checked my extensions and my search tools and Yahoo never shows up there.
@@ -48,10 +131,10 @@ I searched ""Carnaval meers 2020"" in my adress bar and when I pressed enter, th
 </p><p>Then I tried a solution provided by a user in microsoft community, the suggested me to switch the proxy setting to ""Auto detect proxy for this site"" and ""Enable DNS over https"", and it was working for me. But from last 2 days I started facing the same issue again. The webpages only works when I start Firefox in Safe Mode. 
 </p><p>It's so frustrating and makes it impossible to use Firefox. And leaves me with no other option but to use Microsoft Edge. I really like Firefox so wanted to know if anyone could help me fix this issue with something New and Effective.
 </p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1291931;,anuragmondol22
-1280313,2020-02-20 06:04:24 -0800,2020-02-20T08:06:18Z,Startpage search engine very slow or hangs with FF 73.0.1,"<p>I have been using Startpage as my default search engine for some time now. But in the past couple of weeks it takes very long to display results or even appears to hang. When this happens, the Startpage FF add-on switches to the generic Startpage format. I have raised this issue with Startpage, but they have no knowledge of such a problem. The issue seems to come and go. No malware on my Win 10 machine. I have also refresheded FF.  Other search engines do not behave this way. Any ideas?
-</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1291933;,zanotti1
-1280311,2020-02-20 05:57:26 -0800,2020-02-20T09:08:05Z,applications,"<p>On the list of how to handle applications, how do I delete some of the entries?
-</p>","",firefox,customize,en-US,1291940;1291945;,kevinlea
+1280313,2020-02-20 06:04:24 -0800,2020-02-21T04:59:58Z,Startpage search engine very slow or hangs with FF 73.0.1,"<p>I have been using Startpage as my default search engine for some time now. But in the past couple of weeks it takes very long to display results or even appears to hang. When this happens, the Startpage FF add-on switches to the generic Startpage format. I have raised this issue with Startpage, but they have no knowledge of such a problem. The issue seems to come and go. No malware on my Win 10 machine. I have also refresheded FF.  Other search engines do not behave this way. Any ideas?
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1291933;1292215;1292233;,zanotti1
+1280311,2020-02-20 05:57:26 -0800,2020-02-20T22:32:47Z,applications,"<p>On the list of how to handle applications, how do I delete some of the entries?
+</p>","",firefox,customize,en-US,1291940;1291945;1292119;,kevinlea
 1280310,2020-02-20 05:50:11 -0800,2020-02-20T07:20:23Z,"bookmarks went from a full list to only half a list, also can't delete or add any bookmarks","<p>my bookmarks list chopped off half of them, then says use control shift b to see all bookmarks. When I do that another box opens on left side of page and it's empty and no matter what I hit on there nothing shows up. I want either all my bookmarks back or at least be able to condense what I do have so at least can see and use the most important ones. I already deleted the json file, nothing happened.
 </p>",bookmarks;firefox-730;firefox-7301;desktop;windows-10;,firefox,bookmarks,en-US,1291910;,mardk1
 1280309,2020-02-20 05:43:00 -0800,2020-02-20T05:43:00Z,ha dejado de oirse el sonido y no se porque uso Linux Mint,"<p>de repente no escucho los videos de youtube o de una pagina web , sim embargo con opera chrome si que los escucho
@@ -59,14 +142,14 @@ I searched ""Carnaval meers 2020"" in my adress bar and when I pressed enter, th
 </p><p>la version que tengo en linux mint es firefox version 73  64 bits
 </p><p>¿Alguna solucion?
 </p>",firefox-730;desktop;fix-problems;linux;,firefox,fix-problems,es,"",reca6000
-1280306,2020-02-20 05:01:20 -0800,2020-02-20T05:01:20Z,Volume Firefox op bureaublad,"<p>Nadat ik firefox heb gedownload, verschijnt er op mijn bureaublad het icoontje van de volume van Firefox. Ik kan deze weggooien, maar hij komt iedere keer terug. 
+1280306,2020-02-20 05:01:20 -0800,2020-02-20T13:02:04Z,Volume Firefox op bureaublad,"<p>Nadat ik firefox heb gedownload, verschijnt er op mijn bureaublad het icoontje van de volume van Firefox. Ik kan deze weggooien, maar hij komt iedere keer terug. 
 Ik heb hem zoals gevraagd gekopieerd naar programma's, en daarna de dmg verwijderd en ook de volume Firefox, helaas blijft hij iedere keer terugkomen. Wie kan mij helpen
 Heb hem ook al een keer een de-installatie gedaan, maar ook dit helpt niet.
-</p>",download-and-install_1;desktop;,firefox,download-and-install,en-US,"",hma10672
-1280303,2020-02-20 04:19:41 -0800,2020-02-20T04:46:42Z,I dont see bubles at the backgroung of this site,"<p>I can see it with other browsers, but not with Firefox.
+</p>",download-and-install_1;desktop;,firefox,download-and-install,en-US,1292037;1292046;1292059;1292066;,hma10672
+1280303,2020-02-20 04:19:41 -0800,2020-02-20T18:43:50Z,I dont see bubles at the backgroung of this site,"<p>I can see it with other browsers, but not with Firefox.
 Why so?
 <a href=""https://portal.tlc-mobile.com/en/cabinet.html"" rel=""nofollow"">https://portal.tlc-mobile.com/en/cabinet.html</a>
-</p>",firefox-730;websites;firefox-7301;desktop;windows-7;,firefox,websites,en-US,1291891;,ukropzik
+</p>",firefox-730;websites;firefox-7301;desktop;windows-7;,firefox,websites,en-US,1291891;1292164;,ukropzik
 1280301,2020-02-20 03:45:11 -0800,2020-02-20T04:05:29Z,Is it possible (or planned in future?) to have different Firefox Sync settings specific per device?,"<p>Somehow related to this: <a href=""https://support.mozilla.org/en-US/questions/1273708"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1273708</a> and this question: <a href=""https://support.mozilla.org/en-US/questions/1268361"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1268361</a>
 </p><p>I'm using Firefox Sync for longer to sync bookmarks and logins between Firefoxes on my private Linux box and Firefox on a private Android Smartphone.
 </p><p>As I wanted to have my logins (esp. their usually nowadays pretty complex passwords :-)) also available on my company's laptop's Firefox, but ONLY the logins, NOT the (many) bookmarks, don't want to mix business bookmarks with private ones, I've enbled Firefox Sync for the first time on the company#s laptop.
@@ -82,18 +165,25 @@ Docs are somewhat vague about this, at least what I've found here: <a href=""htt
 </p><p>Regards,
 Michael
 </p>",firefox-680;sync;desktop;,firefox,sync,en-US,1291887;,michaelof
-1280300,2020-02-20 03:07:24 -0800,2020-02-20T08:12:23Z,"Logins and Password option in menu don't view, opens new tab but is blank... Kali Linux 2020.1 Firefox 73.0.1","<p>Problem is like in subject, it opens new tab but both below are empty/blank.... 
+1280300,2020-02-20 03:07:24 -0800,2020-02-20T19:39:23Z,"Logins and Password option in menu don't view, opens new tab but is blank... Kali Linux 2020.1 Firefox 73.0.1","<p>Problem is like in subject, it opens new tab but both below are empty/blank.... 
 </p><p>about:logins?filter=&amp;entryPoint=preferences
 </p><p>about:logins?filter=&amp;entryPoint=mainmenu
 </p><p>What's wrong?
-</p>",firefox-730;desktop;fix-problems;,firefox,fix-problems,en-US,1291938;,dzarok76
+</p>",firefox-730;desktop;fix-problems;,firefox,fix-problems,en-US,1291938;1292116;,dzarok76
 1280299,2020-02-20 03:04:12 -0800,2020-02-20T03:04:12Z,How anyone get the best service in Dubai,"<p>Seo is good for digital marketing lovers. Be an SEO expert I have a company in Dubai. So here we provide the best service. If anyone needs any type of help, our seo dubai service will give the best.
 </p><p><a href=""https://foxdm.net/seo-dubai"" rel=""nofollow"">https://foxdm.net/seo-dubai</a>
 </p>",other;desktop;,firefox,other,en-US,"",seo4
-1280298,2020-02-20 02:53:03 -0800,2020-02-20T08:09:11Z,why does firefox require a new profile and lose bookmarks,"<p>every few weeks firefox on launch warns me I am using an old version and that I have to create a new profile.
+1280298,2020-02-20 02:53:03 -0800,2020-02-20T23:42:49Z,why does firefox require a new profile and lose bookmarks,"<p>every few weeks firefox on launch warns me I am using an old version and that I have to create a new profile.
 click and open and all bookmarks are gone.
 Firefox used to be a good productivity tool but now it is redundant. I can't keep trying to find old bookmarks and then having to resave all of the passwords.
-</p>",download-and-install_1;desktop;windows-10;,firefox,download-and-install,en-US,1291936;,ricardo55
+</p>",download-and-install_1;desktop;windows-10;,firefox,download-and-install,en-US,1291936;1292011;1292206;,ricardo55
+1280297,2020-02-20 02:49:06 -0800,2020-02-20T13:11:56Z,Can’t access Mozilla on MacBook Pro using highsierra,"<p>I can use firefox as a browser but when I try any page linked to Mozilla, I just get an unable to connect page.
+Anyone found a solution to this issue?
+</p>",other;mobile;,firefox,bookmarks,en-US,1292027;1292070;,quintenv001
+1280296,2020-02-20 02:49:05 -0800,2020-02-20T02:49:05Z,Can’t access Mozilla on MacBook Pro using highsierra,"<p><i>Locking this thread.</i><br><i>Please continue here: [<a href=""/questions/1280297"" rel=""nofollow"">/questions/1280297</a>]</i><br>
+I can use firefox as a browser but when I try any page linked to Mozilla, I just get an unable to connect page.
+Anyone found a solution to this issue?
+</p>",other;mobile;,firefox,basic-browsing-firefox,en-US,"",quintenv001
 1280293,2020-02-20 02:07:53 -0800,2020-02-20T02:35:44Z,"""places.xul"" file not found after update to FF 73.0","<p>Hi there,
 I run FF 73 on Lubuntu, and since the upgrade chrome://browser/content/places/places.xul is no longer found. I use it as a handy bookmarks and downloads manager within a tab. Error message:
 </p><p>""Firefox can't find the file at jar:file:///usr/lib/firefox/browser/omni.ja!/chrome/browser/content/browser/places/places.xul. ""
@@ -104,17 +194,17 @@ I run FF 73 on Lubuntu, and since the upgrade chrome://browser/content/places/pl
 </pre>
 <p>Please advise. Thanks for your help!
 </p>",bookmarks;firefox-730;desktop;linux;,firefox,bookmarks,en-US,1291879;1291880;1291882;,international
-1280291,2020-02-20 01:10:17 -0800,2020-02-20T08:53:28Z,Why is AVG Password Protection application able to gain access to my saved passwords on Firefox browser?,"<p>Why does AVG password protection have access to the passwords stored on Firefox and then notifies me if my password has been compromised? Isn't this a security issue when avg password protection can access my saved passwords and can this be stopped or prevented (without me uninstalling AVG)?
+1280291,2020-02-20 01:10:17 -0800,2020-02-20T22:37:17Z,Why is AVG Password Protection application able to gain access to my saved passwords on Firefox browser?,"<p>Why does AVG password protection have access to the passwords stored on Firefox and then notifies me if my password has been compromised? Isn't this a security issue when avg password protection can access my saved passwords and can this be stopped or prevented (without me uninstalling AVG)?
 AVG enables the password protection application by default and you can't disable it or uninstall it without uninstalling the AVG itself.
 Also no AVG Plugin or extension is installed in my browser.
-</p>",privacy-and-security_1;firefox-730;desktop;windows-10;avg;,firefox,privacy-and-security,en-US,1291944;,TemmyD1
-1280290,2020-02-19 23:39:46 -0800,2020-02-20T09:21:33Z,How i make sidebar favorites stay open,"<p>Hi.
+</p>",privacy-and-security_1;firefox-730;desktop;windows-10;avg;,firefox,privacy-and-security,en-US,1291944;1292201;,TemmyD1
+1280290,2020-02-19 23:39:46 -0800,2020-02-20T14:56:16Z,How i make sidebar favorites stay open,"<p>Hi.
 </p><p>Before the latest version of firefox 73.0.1 when i press to open the sidebar favorites all favorites it was open and i didn't need to click every folder to open.
 Look the picture.
 </p><p>Now every time i run the firefox i must click at any folder of the sidebar favorites to open.
 DOESN'T STAY OPENED AS BEFORE firefox 73.0.1.
 </p><p>How i can change that?
-</p>",bookmarks;firefox-730;desktop;windows-7;,firefox,bookmarks,en-US,1291943;1291949;,fits79
+</p>",bookmarks;firefox-730;desktop;windows-7;,firefox,bookmarks,en-US,1291943;1291949;1292120;,fits79
 1280289,2020-02-19 23:03:40 -0800,2020-02-20T04:50:06Z,Way too many duplicate devices,"<p>There are simply way too many duplicate devices that are being created.
 </p><p>How many is too many?  15.  Fifteen duplicate devices.
 </p><p>I have three 4 actual devices:
@@ -156,10 +246,10 @@ Thanks
 1280283,2020-02-19 18:04:56 -0800,2020-02-19T19:38:09Z,"I keep getting, ""Your Firefox profile cannot be loaded. It may be missing or inaccessible.""","<p>I have tried some of the instructions in the articles and not getting anywhere. I did save a copy of my profile on a USB. I had moved files from my iCloud to my hard drive and when I tried to use Firefox, I got this error message. I moved the files back to the iCloud and still no difference. Please help.
 </p><p>I am not able to open Firefox at all.
 </p>",other;desktop;,firefox,other,en-US,1291824;1291840;,ydlc.33
-1280280,2020-02-19 17:56:51 -0800,2020-02-19T19:52:33Z,Some Realty websites are just blank pages?,"<p>Just installed Firefox and have found that one of my most frequently visited websites load as a blank page. I've disabled all addons but still a problem. The website is :
+1280280,2020-02-19 17:56:51 -0800,2020-02-20T13:14:25Z,Some Realty websites are just blank pages?,"<p>Just installed Firefox and have found that one of my most frequently visited websites load as a blank page. I've disabled all addons but still a problem. The website is :
 </p><p><a href=""https://www.hudsonandmarshall.com/"" rel=""nofollow"">https://www.hudsonandmarshall.com/</a>
 </p><p>The above link will open properly in Chrome and IE.
-</p>",firefox-730;websites;desktop;windows-7;,firefox,websites,en-US,1291845;,weatherfordjohn
+</p>",firefox-730;websites;desktop;windows-7;,firefox,websites,en-US,1291845;1292043;1292049;1292052;1292057;1292071;,weatherfordjohn
 1280279,2020-02-19 16:32:03 -0800,2020-02-19T16:44:14Z,Can't update FF 72.0.2 to 73.0.1,"<p>When I click Update, 13,2 MB are downloaded, then immediately another 53,7 MB and after that message appears like - Firefox can't update to the latest version. I disabled all extensions. Are there other solutions besides installing the application again? Surely, after such an operation, I have to reconfigure something again :(
 </p><p>Can I at least find out the reason why this is happening? Maybe some logs?
 </p>",firefox-7202;firefox-720;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,1291806;,booya
@@ -169,5 +259,5 @@ But I can find the Backup file in my users account.
 I also have a Old Firefox Data file on desktop but it not seeing it either.
 Firefox just stop when I try to Choose File, Import or Export.
 </p>",bookmarks;firefox-730;desktop;windows-10;needsinfo;,firefox,bookmarks,en-US,1291844;1291858;1291934;1291935;,honest30296
-1280276,2020-02-19 16:07:30 -0800,2020-02-19T19:53:30Z,Can't post comments on blogspot sites,"<p>The past few days I am unable to post comments on ""blogspot"" platformed sites.  These sites require a GMail user account as an identity, which I have.  But when trying to post a comment, after typing it in it disappears when I try to preview it or post it.  It just goes away.  One of the blog site hosts has told me it's a FF problem, and to try another browser.  Everything works fine with Chrome.  Is there a fix in the works&gt;?
-</p>",firefox-730;websites;desktop;windows-7;,firefox,websites,en-US,1291846;,tadwall1
+1280276,2020-02-19 16:07:30 -0800,2020-02-20T16:46:49Z,Can't post comments on blogspot sites,"<p>The past few days I am unable to post comments on ""blogspot"" platformed sites.  These sites require a GMail user account as an identity, which I have.  But when trying to post a comment, after typing it in it disappears when I try to preview it or post it.  It just goes away.  One of the blog site hosts has told me it's a FF problem, and to try another browser.  Everything works fine with Chrome.  Is there a fix in the works&gt;?
+</p>",firefox-730;websites;desktop;windows-7;,firefox,websites,en-US,1291846;1292129;1292133;1292134;,tadwall1
