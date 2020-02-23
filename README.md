@@ -1,6 +1,21 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 23february2020 getting the people who answered the question (don't include answers from the question creator i.e. the original post)
+
+```
+../print-question-url-answer-id-answer-creator.rb \
+[csv file created by get-creator-answers-questions-for-arbitrary-time-period.r]\
+> [questions-answers-with-times.csv] 
+```
+
+e.g.
+
+```bash
+cd 202002
+../print-question-url-answer-id-answer-creator.rb 2020-02-20-2020-02-20-firefox-creator-answers-desktop-all-locales.csv > /tmp/answers-scratch.txt 
+```
+
 ## 25november2019 going back to december 2018 for product integrity
 
 ```baah
