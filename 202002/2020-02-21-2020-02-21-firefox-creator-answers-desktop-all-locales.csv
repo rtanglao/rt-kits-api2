@@ -1,0 +1,130 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1280434,2020-02-21 14:49:57 -0800,2020-02-21T16:12:24Z,"Cannot login to a site, claims I'm not allowing its' cookies","<p>I have logged into this site in the past.
+I just cleared all the site's cookies in case they were corrupted.
+Can I adjust my Prefs/ Privacy / content blocking settings by individual site in 68.3.0 esr?
+Apparently I have just done so, but hell if I know how I did it...
+</p><p>I block everything under Custom, of course.
+The ""green padlock""  Content Blocking says that <a href=""https://login.medscape.com"" rel=""nofollow"">https://login.medscape.com</a> DOES have an exception, to allow cookies.
+Below, Permissions also says they ARE allowed to set cookies.
+</p><p>But I keep getting this error:
+</p><p><a href=""https://login.medscape.com"" rel=""nofollow"">https://login.medscape.com</a>
+In order to use Medscape, your browser must be set to accept cookies delivered by the Medscape site.
+Medscape uses cookies to customize the site based on the information we collect at registration. The cookies contain no personally identifiable information and have no effect once you leave the Medscape site.
+</p>",privacy-and-security_1;desktop;mac-os;,firefox,privacy-and-security,en-US,1292387;,VerizonSucks
+1280433,2020-02-21 14:33:00 -0800,2020-02-22T13:00:19Z,print buttons on web pages do not work,"<p>My job uses a print button on their web pages for certain things. When I click on the print button, nothing happens. I can print the web page use ctrl+p or selecting print from the menu, but it doesn't print the webpage correctly. The print button works fine in IE and edge, but I do not wish to use either of those browsers. Any ideas on how to ge this to work? I must add, my work has relied on IE for years but now that IE is going away, they are redesigning the web pages to work with other browsers. So, I think it is quite possible that this is an issue with their web sites.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1292532;,seatommyboy
+1280430,2020-02-21 13:42:49 -0800,2020-02-21T13:42:49Z,Change language input cases problems in some websites,"<p>When I change language input, it causes some problems. These problems does not always happens, but they does repeat from time to time. I think the problem is related to Firefox on Ubuntu.
+</p><p>Problems:
+- First, changing language input cases Firefox to become a little slow and lose focus for a second or less.
+</p><p>- duckduckgo: Not the main site, but after making a search (for example: <a href=""https://duckduckgo.com/?q=test)"" rel=""nofollow"">https://duckduckgo.com/?q=test)</a>. If you are on this site and change language input, and then press ""h"" it selects all the search text. pressing ""v"" shows a message that Firefox has prevented a pop-up (which is the first search result. If you allow pop-up, it will open that result).
+</p><p>- Facebook: When writing in the mini-chat, changing language input makes the chat to lose focus. Writing when the chat is in that state can cause the chat to disappear. It seems like the chat element is blocked from HTML, even if I click on chats or contacts to open a new chat, the chat does not appear any more. Moving from a Facebook link to another by clicking on page elements (using ajax) does not remove that ""block"". The only solution is to reload the page.
+</p>",firefox-730;desktop;fix-problems;,firefox,fix-problems,en-US,"",waleedmortaja
+1280427,2020-02-21 12:34:46 -0800,2020-02-23T09:50:38Z,"When a UF2/WebAuthn security key confirmation dialogue is called, how do I prevent all firefox windows blinking orange in Windows taskbar?","<p>I previously saw a post about having the confirmation dialog popping up on all windows (<a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=1574853"" rel=""nofollow"">https://bugzilla.mozilla.org/show_bug.cgi?id=1574853</a>) but that didn't address my issue. That bug was fixed and the dialog box doesn't pop up across all windows, but what does happen is every firefox window gets alerted and turns orange as an alert and stays orange until each window is clicked. I went to <a href=""http://WebAuthn.io"" rel=""nofollow"">WebAuthn.io</a> to test this.
+</p><p>This is intrusive to my work as I have multiple virtual desktops and it alerts in all firefox windows across all my virtual desktops. I have my taskbar hidden but when these notifications pop up, this overlays on top of my current applications.
+</p><p>Picture of the effect is attached.
+</p><p>Is there any way to prevent this? Is this intended? If not, how can I remove this annoying notification?
+</p><p>Current firefox version is 68.5.0esr (64-bit). Is this potentially a bug in the ESR update channel that might have been fixed in another firefox version?
+</p>",firefox-680;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1292336;1292355;1292356;,swirle13
+1280426,2020-02-21 12:32:45 -0800,2020-02-24T16:24:16Z,Firefox does not display web interface from LAN printer correctly,"<p>Firefox fails to display the web UI from my Canon printer properly. It should display as a GUI, but Firefox displays it as a text page. I tried ""safe mode"" but that did not change anything. The page displays properly in other browsers. Screen shot samples showing a page in Firefox and the same page in Edge is attached.
+</p>",firefox-730;websites;firefox-7301;desktop;windows-10;,firefox,websites,en-US,1292514;1292522;1292917;1292928;1292934;1292944;1293049;1293055;1293057;,gbcren
+1280425,2020-02-21 12:31:01 -0800,2020-02-21T13:06:04Z,Unable to load wikibuy ext. since firefox refresh. Says corrupt. Why? Worked fine before refresh.,"<p>Unable to load wikibuy ext. since firefox refresh. Says corrupt. Why? Worked fine before refresh.
+</p>",privacy-and-security_1;firefox-730;firefox-7301;desktop;windows-10;,firefox,privacy-and-security,en-US,1292348;,cowbell
+1280424,2020-02-21 12:24:19 -0800,2020-02-21T12:31:09Z,"When click ""Bookmark this page"", every bookmark is automatically being saved to one folder.  Why?","<p>When click ""Bookmark this page"", every bookmark is automatically being saved to one folder.  Why?  Another example of ""fixing"" something that wasn't broke?  Now, saving a bookmark takes 2x the number of clicks, 2x the amount of time.
+</p>",bookmarks;firefox-730;firefox-7301;desktop;windows-10;,firefox,bookmarks,en-US,1292331;1292334;,MarkRoberts
+1280421,2020-02-21 11:59:51 -0800,2020-02-21T13:40:07Z,RTL with Ctrl + Alt (Right),"<p>Why Ctrl + Alt (Right &amp; Left) not working in Firefox, In Google Chrome and Chromium browsers work easily
+For Example, when I want to write an Gmail I can't use Ctrl + Alt Right for change direction from LTR to RTL, I tested it's not work in any Text Area, please add this feature, this is necessary and important
+</p>",tips;firefox-730;firefox-7301;desktop;windows-10;needsinfo;,firefox,tips,en-US,1292335;1292338;1292350;1292351;1292357;,AHMN48M
+1280420,2020-02-21 11:51:48 -0800,2020-02-21T13:14:44Z,Firefox 73 menu too large,"<p>In Firefox 73 on Ubuntu 18.04 amd64, the menu is too large. It looks ""zoomed in"". I have read about the new zoom feature, but it is said to affect website display only, not the menu. Websites are consistently shown too large in the same way. Changing Firefox's website zoom does not help. Neither does changing the Xserver's DPI. I am using a low resolution display – the menu is taking up too much space. Also the menu item graphics are scaled which looks ugly. Images are scaled, too. It is not noticeable on high-resolution displays. Any pointers?
+</p>",firefox-730;customize;desktop;linux;,firefox,customize,en-US,1292342;1292343;1292346;1292349;,hoehermann
+1280419,2020-02-21 11:35:26 -0800,2020-02-21T11:54:29Z,I had my Networks hacked how do I tell if Ethernet is working?,"<p>I have files on desktop have sent pictures to Firefox. I'm afraid to hook my PC up to Ethernet because I saw it in the files.  Networks 26282d.   26282_5g.  Qualcomm Atheros AR8152 PCI-E Fast Ethernet Controller (6.30)  is on my desktop files.  I can access View all Events.  I need someone to get files or show me how.  I cannot move my cursor off this because tis is the only file I can access. I was in files and when I click on one it turns white can't get access my cursor picks up folder or file and puts it in another place. What can I do?
+</p>",firefox-680;other;mobile;android;,firefox,basic-browsing-firefox,en-US,1292323;,Teresabradley1281
+1280418,2020-02-21 11:32:17 -0800,2020-02-21T17:54:12Z,Passwords can be viewed in Settings.  Is there a way of stopping this?,"<p>Its a huge security concern.  Anybody that has access to your computer can see your passwords.  As very few of us have a different password for each place we login obviously if you have some you have more.  The obvious solution is to have 2 levesl of passwords.  One is those we don't care about, that aren't intrusive in our lives.  The other is those that could damage us if in the hands of bad people.  Maybe there's an extension for this that doesn't allow the extension company access to our passwords like passwords managers would?  I just want something to make some passwords not visible by anyone, including me.  Because I can't trust myself.  :)
+</p>",firefox-730;other;desktop;windows-7;,firefox,other,en-US,1292329;1292337;1292340;1292373;1292406;,moz2u
+1280417,2020-02-21 11:28:03 -0800,2020-02-21T13:02:35Z,"My kid is homeschooled,","<p>i use firefox on Ubuntu 18.04.4 LTS, hp envy sleekbook 7.7G memory i5 CPU @ 1.60 GHZ x 4, 
+</p><p>I cant load flash and/or  java and shes not been able to do her science from first grade and shes in third in everything else PLEASE HELP
+</p><pre>(not sure which is )
+</pre>",firefox-730;other;desktop;linux;,firefox,other,en-US,1292345;,Viking53
+1280416,2020-02-21 11:08:12 -0800,2020-02-22T12:16:56Z,Necesito firefox versión 63 msi,"<p>Buenas noches, necesito descargarme la versión 63 del firefox en formato MSI. Es para un despliegue de software desatendido.
+Alguien sabe donde lo puedo conseguir?
+Muchas gracias.
+</p>",download-and-install_1;desktop;needsinfo;,firefox,download-and-install,es,1292524;,iotamendi
+1280415,2020-02-21 10:50:27 -0800,2020-02-24T15:41:53Z,When trying to install some software I get a message saying browser is not secure and/or enable Java script. Java script is enabled.,"<p>I have gone thru FF troubleshooting but that doesn't fix problem. Please help.
+</p>",firefox-730;other;firefox-7301;desktop;windows-10;,firefox,other,en-US,1292360;1293051;,gcorkins
+1280412,2020-02-21 10:28:35 -0800,2020-02-21T10:28:35Z,60 Hz on Linux,"<p>Hey. I have bad English, sorry. In the Linux settings, I set 144 Hz. This works, but when I go to the page in Firefox, I have 60 Hz. Help me please.
+</p>",firefox-730;other;desktop;,firefox,other,en-US,"",sasha.chumakov.2002
+1280409,2020-02-21 09:15:04 -0800,2020-02-21T12:44:21Z,"When I attempt to manually clear ""Cookies and Site Data"" at the end of a browsing session, I am left with 2.6MB of cached web content. How do I clear this?","<p>Firefox is set to be in permanent private browsing mode: History is set to ""Never Remember History"" and all ""Cookies and Site Data"" is set to be cleared each time Firefox is closed.  Nevertheless, my habit for years has been to manually clear these options at the end of each session and Firefox always reported that ""Your stored cookies, site data, and cache are currently using 0 MB of disk space"" afterward.  Beginning a few months ago after a Firefox upgrade, 2.1MB of Cached Web Content remained after my attempts to manually clear the data.  With the latest upgrade to 73.0.1, this has risen to 2.6MB of persistent data.  Why?  And, how can I clear it?
+</p>",privacy-and-security_1;firefox-730;desktop;windows-10;,firefox,privacy-and-security,en-US,1292290;1292299;1292339;,pclark1
+1280407,2020-02-21 08:54:30 -0800,2020-02-21T09:17:45Z,Why is an unresponsive script referencing chrome?,"<p>I uninstalled the Chrome browser from my Raspberry Pi.  But after weeks of running with FireFox (Quantum ESR 68.4.1esr (32 bit)). on the same url, suddenly I see:
+""raspberry pi warning unresponsive script chrome://global/content/elements/button.js:297""
+I really was hoping I got google out of just one little corner of my life.
+The url was for my security system (OpenHAB) on this Pi and nobody touched the keyboard or anything else on the Pi.
+</p><p>After weeks of just sitting there,, why did this pop up? 
+</p><pre>And why the reference to chrome?
+</pre>
+<p>Thanks
+Pete
+</p>",firefox-720;desktop;fix-problems;windows-81;,firefox,fix-problems,en-US,1292277;1292280;,petejc
+1280406,2020-02-21 08:50:13 -0800,2020-02-21T09:46:05Z,problem wih AOL news scroll,"<p>This problem occurs only when using Firefox.  Although I can easily change the graphics on the AOL news scroll at the top of the page, the copy (words) including the headline remain the same on every scroll.  How can this be repaired?
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1292292;1292293;,gamemanny
+1280405,2020-02-21 08:36:37 -0800,2020-02-21T10:16:37Z,I am unable to launch my profile that was from 74.0b6 to 73.0.1,"<p>I did not know my older computer was running 74.0b6 and I saved the profile to move to my new computer. When I downloaded firefox on the new computer I have 73.0.1. Now the profile will not open. It says I am trying to move it to an older version. I cannot find the 74.0b6 to download.
+</p>",download-and-install_1;firefox-730;desktop;windows-10;,firefox,download-and-install,en-US,1292302;,cwstollen
+1280404,2020-02-21 08:25:36 -0800,2020-02-21T11:39:31Z,Why do XML Parsing errors prevent downloads in Firefox Browser 72.0.1(64-bit) ?,"<p>Recently I've been prevented from downloading bank statements from HSBC and some important documents from HMCTS. The full error message for the latter is imaged below. Help please - I LIKE Firefox !  What went wrong?
+</p>",download-and-install_1;firefox-720;desktop;windows-10;,firefox,download-and-install,en-US,1292278;1292279;1292315;,Gi-Gi
+1280403,2020-02-21 08:16:21 -0800,2020-02-21T11:56:40Z,Tabs crashing,"<p>Firefox was working perfectly last night.  Today, on my desktop and laptop, both browsers are crashing. I get a “Gah. Your tab crashed”. I’ve restarted the pc and erased all browser caches.
+</p>",desktop;fix-problems;bug1616993;,firefox,fix-problems,en-US,1292265;1292266;1292318;1292324;,rogelio333
+1280401,2020-02-21 07:34:07 -0800,2020-02-25T01:01:38Z,Network tab shows duplicate entries,"<p>When opening the network tab, some entries show up three times. When selecting one and pushing the down key on the keyboard, it doesn't navigate through the list. It navigates like shown in the attached gif image.
+</p>",firefox-730;firefox-7301;desktop;fix-problems;,firefox,fix-problems,en-US,1292392;1293139;1293141;,reiniervries
+1280400,2020-02-21 07:17:08 -0800,2020-02-21T07:53:38Z,selection for spam folder just omitted blocking future emails,"<p>When I click on my spam folder there always was a selection that said something to the effect ""Block future emails"" and in the last two days this does not show up when I want to premantently block spam sent to me - makes no sense that this selection is just gone
+</p>",other;firefox-529;desktop;firefox-5290;windows-vista;,firefox,other,en-US,1292260;,eagleye06
+1280393,2020-02-21 05:07:16 -0800,2020-02-21T13:42:02Z,How to make FireFox headless programmatically in Selenium with python?,"<p>I am running this code with  Python (<a href=""http://bit.ly/38YA0O1)"" rel=""nofollow"">http://bit.ly/38YA0O1)</a>, selenium, and firefox but still get 'head' version of firefox:
+</p><p>binary = FirefoxBinary('C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe', log_file=sys.stdout)
+</p><p>binary.add_command_line_options('-headless')
+</p><p>self.driver = webdriver.Firefox(firefox_binary=binary)
+</p><p>I also tried some variations of binary:
+</p><p>binary = FirefoxBinary('C:\\Program Files\\Nightly\\firefox.exe', log_file=sys.stdout)
+</p><pre>       binary.add_command_line_options(""--headless"")
+</pre>",other;desktop;windows-10;,firefox,other,en-US,1292256;1292358;,rohitbhat.intellipaat
+1280392,2020-02-21 04:16:59 -0800,2020-02-21T05:04:07Z,Firefox not displaying properly after upgrade to 73.0,"<p>Firefox was working fine after update to version 73.0. But the following day, Ubuntu made updates of javascript and webkit libs. Upon restart, Firefox was no longer displaying pages correctly.
+</p><p>Interactive pages have become almost unusable. It is very difficult to navigate and fill in forms because most buttons and fields have no borders. The screen is mostly blank with just text and a few bits with borders.  It is difficult to see where to click or add text.
+</p><p>I've tried resetting, running in safe mode and running with a fresh profile. None make any difference.
+</p><p>Some images:
+</p>",firefox-730;desktop;fix-problems;linux;,firefox,fix-problems,en-US,1292229;1292237;,markling
+1280389,2020-02-21 04:08:09 -0800,2020-02-21T11:54:09Z,"tabs crash after update. no crash reports. clean install doesn't work, downgrading doesn't work either","<p>Firefox worked fine this morning, up until I allowed the update to 73.0.1. As soon as it restarted, all my tabs crashed. I tried restarting in safemode, with no luck. Tried checking crash reports, and to my surprise, there were none. Not a single crash report in about:crashes, nor in the appdata folder. I tried doing a clean install. No luck. Still crashes, and no reports. Tried reverting to an older version. Still crashes, no reports. Tried the about:config fix with the ""browser.tabs.remote.autostart = false / browser.tabs.remote.autostart.2 = false"" thing there. Still crashes, still no crash reports.
+</p><p>I have not been able to find any other possible fixes for this, and I can't find any reason for this to keep happening even after clean install.
+</p><p>Microsoft edge and chrome both work perfectly fine. It is only firefox that is having issues.
+</p>",other;desktop;,firefox,other,en-US,1292234;1292240;1292286;1292322;,matta344
+1280388,2020-02-21 03:38:14 -0800,2020-02-21T14:38:14Z,Toolbar,"<p>Hello, I know on earlier Firefox versions it was possible to create new toolbars but on the later versions you can't or I can't find it, is it still possible as I have loads of addons and like to make a toolbar dedicated just for the icons.
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1292235;1292238;1292261;1292359;1292375;,kevinlea
+1280387,2020-02-21 02:17:17 -0800,2020-02-21T02:17:17Z,Customize default Prompt box content & options when I trigger camer in Firefox with code development,"<p>I am having 2 cameras in my PC. When I try to trigger camera in firefox it always opens a permissin prompt box with a webcam options. But I dont want to show the camera options in  the prompt box. So Is there any customizable thingy to customize the Prompt box for firefox by updated any javascript changes (I am a developer. So want to fix it by code updation itself for my web application)
+</p>",customize;desktop;,firefox,customize,en-US,"",lawanya
+1280386,2020-02-21 01:46:56 -0800,2020-02-21T06:33:25Z,Vyhledávání na stránce v několika panelech,"<p>Vím, že můžu vyhledávat na aktuální stránce, když ale přepnu na jiný panel, tak se vyhledávací pole smaže. Existuje nějaké rozšíření, se kterým bych mohl vyhledávat nějaké slovo i po změně panelu (nemusel vypisovat znovu)?
+</p>",firefox-730;customize;desktop;windows-7;,firefox,customize,cs,1292228;1292236;1292244;1292246;,nufak
+1280384,2020-02-20 22:47:36 -0800,2020-02-21T16:27:58Z,Every time I get a new version of Firefox my language defaults to UK English,"<p>I run Linux Mint 19.1 MATE desktop 64 bit and its language is US English, and when I am filling in a web form, I have set my language in Firefox to English (United States) -- Context menu &gt; Language.
+</p><p>Invariably, when the repository brings me a new Firefox (now 73.0 64-bit), I find such misspelled words as ""color"" and ""center,"" (""colour"" and  ""centre"" preferred), when I am commenting on a web form's Comment box.  I look and it is set to English (United Kingdom).  I set it to (United States) and it's good to go again until the next upgrade!
+</p><p>I presume it has more to do with the Firefox repository than with the Mozilla developers and the Firefox ""factory,"" to draw a comparison with the local Cadillac dealership and the factory.  ""Comparison"" wasn't the word I was looking for, here!
+</p><p>Any ideas or suggestions how to stop this preference change?  Thank you.
+</p>",download-and-install_1;firefox-730;desktop;linux;,firefox,download-and-install,en-US,1292391;,Ellsworth51
+1280382,2020-02-20 22:26:10 -0800,2020-02-21T06:34:05Z,Can I securely store credit card numbers in my Firefox account (as I can with Safari)?,"<p>In Safari, I can save my personal credit card information (number, expiration, etc.) in a secure manner.  Is there a way I can do the same in Firefox?
+</p>",firefox-730;firefox-7301;customize;desktop;mac-os;,firefox,customize,en-US,1292247;,rlbergson
+1280378,2020-02-20 21:41:46 -0800,2020-02-23T03:38:37Z,Web sites crash except in safe mode,"<p>A number of websites constantly crash on Firefox on my home office computer. I can open them on the home office computer with Chrome. I can open them using my Firefox synced account on another computer in the house. 
+</p><p>I can only open the websites in safe mode. I completely reinstalled Firefox using Revo-uninstaller, reinstalled, and tried to open the websites without syncing my account and they crashed so I guess this eliminates my sync ID as the problem and any add-ons since there were not any after the Revo-uninstall.  
+</p><p>I'm using Windows 10 64-bit with 16 GB RAM and the latest version of Firefox with Bitdefender antivirus. I deactivated all add-ons and plug-ins and still it crashes. 
+</p><p>I did a full scan with bitdefender and malware bytes and found no threats with either. I optimized the hard drive. I turned off hardware acceleration.
+</p>",tabs;firefox-730;desktop;windows-10;bug1616993;,firefox,tabs,en-US,1292207;1292416;1292479;1292482;1292491;1292638;,sburns1
+1280377,2020-02-20 21:15:37 -0800,2020-02-23T07:53:04Z,document.cookie doesn't work for https://httpbin.org/cookies site in Firefox,"<p>I am using `Firefox 73.0.1 (64-bit)` Windows7.
+</p><p>`document.cookie = ""name=value""` can't add new cookie in Firefox for this site `<a href=""https://httpbin.org/cookies"" rel=""nofollow"">https://httpbin.org/cookies</a>` but Chrome does.
+</p><p>I tried with latest Firefox installation with MacOS, it neither add a new cookie.
+</p><p>Could you tell me why? Thanks
+</p>",firefox-730;cookies;desktop;windows-7;,firefox,cookies,en-US,1292263;1292666;1292675;,ptq008
+1280375,2020-02-20 19:35:38 -0800,2020-02-21T11:49:00Z,Firefox tabs crashing,"<p>Pages start loading but then always crash and state ""Gah. Your tab just crashed."" Tried safe mode, tried uninstalling FF completely and reinstalling, restarted computer; same thing. 
+What else to check or do?!
+</p>",desktop;fix-problems;bug1616993;,firefox,fix-problems,en-US,1292188;1292190;1292252;1292319;,sander_werink
+1280372,2020-02-20 17:48:02 -0800,2020-02-20T17:48:02Z,"How can I prevent the yellow banner bar pop-up alert that says, ""This PDF document contains forms. The filling of form fields is not supported.""","<p>I think this is a very useful warning and appreciate it. However, I would like the ability to prevent the warning in the future. I end up opening the same pdf multiple times to view different pages on different tabs, and I really would rather not have to close the yellow banner every time I open the pdf.
+</p><p>An extremely small matter I realize, but it would make my experience much more pleasant.
+</p>",customize;desktop;windows-10;,firefox,customize,en-US,"",NotMyAge2020
+1280371,2020-02-20 17:05:59 -0800,2020-02-20T17:16:42Z,Firefox crashes,"<p>I am having crashes on every page I attempt to load.  I have reinstalled fire  fox, restarted my system.  When I go to about:crashes I do not see any of the recent crashes.  I do however see ones that were not submitted.  When Trying to submit they all fail.  Can someone assist me in figuring out why my pages are crashing and what I can do about it?
+</p>",desktop;fix-problems;bug1616993;,firefox,fix-problems,en-US,1292143;,willie01968
+1280370,2020-02-20 17:01:12 -0800,2020-02-23T05:48:00Z,Firefox 73 using older cached data,"<p>When I visit a site like Washington Post or New York Times then another site, if I use the back button, Firefox usually loads an old cached version of the newspaper's home page from earlier in the day, even if the page I last viewed from was a later refresh. If I manually refresh, the page does become up-to-date, but it's a small annoyance.
+</p>",firefox-730;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,1292177;1292663;,spambait67
+1280367,2020-02-20 16:05:16 -0800,2020-02-20T17:19:29Z,Firefox Drivebass add on,"<p>My desktop PC just tried to install Drivebass add on from Firefox. Can't find any information about this add on. Anyone have any knowledge of it?
+</p>",other;desktop;,firefox,other,en-US,1292140;1292144;,djonessr
