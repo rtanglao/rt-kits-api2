@@ -1,0 +1,95 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1280478,2020-02-22 15:38:52 -0800,2020-02-23T04:27:42Z,How to get Firefox to start.,"<p>Firefox will not start. After double-clicking the icon, the cursor indicates the system is busy, but no icon appears on the taskbar and no window opens on screen. Task Manager shows a Firefox process running (not running before trying to start Firefox). With UAC activated, UAC window opens and asks whether to allow Firefox to make changes to the computer. After choosing Yes, the UAC window keeps opening and asking, over and over. Have reinstalled Firefox. Have tried to start Firefox in Safe Mode (both Shift&gt;double-click and Run command). Have tried to start Profile Manager from Run command (firefox.exe -P and ""C:\Program Files\Mozilla Firefox\firefox.exe"" -P). Neither Firefox nor Profile Manager will open. Found a file in the Profiles folder called Parent.Lock and deleted it, with no apparent effect. Would like to know what might get Firefox to work.
+</p>",firefox-730;firefox-7301;desktop;fix-problems;,firefox,fix-problems,en-US,1292578;1292598;1292602;1292650;,dnykolaishen
+1280477,2020-02-22 14:38:10 -0800,2020-02-22T16:41:12Z,How do I find my browsing history and bookmarks after Firefox went missing from the taskbar?,"<p>Yesterday, I found my computer restarted. Don't know why. First I thought it was the usual updates. Then my configuration appeared changed. My Firefox and Word went missing from the task bar. All my saved passwords to various websites gone. I am able to find my Word documents and pictures but I would like to find my browsing history and bookmarks on Firefox. It appears that a new version of Firefox is there.  Thank you for your help.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1292566;1292580;,merd1960
+1280474,2020-02-22 13:57:49 -0800,2020-02-22T17:54:46Z,Suddenly can't completely clear cache.,"<p>I used to go to Firefox and clear my cache before I logged off or when my computer bogged down because I use 2 browsers for different websites and now it won't completely clear. It went to 1.4 MB but never back to 0. I uninstalled Firefox then reinstalled it and now it's at 2.4 MB. I delete my cache, not cookies, every time without fail, so this is very frustration. Can anyone help me?
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1292562;1292596;,dawnsdream
+1280473,2020-02-22 13:41:27 -0800,2020-02-22T23:57:20Z,"When adding a new Bookmark, I cannot choose a new folder from the Dropdown to save to","<p>I am in the process of migrating over to Firefox from Chrome.  But seem to have issues with Bookmarks (Not importing them, but just the simple action of adding a new bookmark and saving them to whatever folder I want to organize it into)..  When I go to add a new Bookmark (clicking the Star Icon in the Address Bar), and I go to click the dropdown to choose a folder to where I want it saved, it always reverts back when I choose another folder.
+</p><p>Steps:
+</p><p>1. Go to website
+</p><p>2. Click the Star Icon to add bookmark
+</p><p>3. The folder option is usually set to the most recent folder a Bookmark was previously added to.
+</p><p>4. Click the Folder dropdown (NOT the icon that shows all folders, but the actual dropdown) and select a new folder
+</p><p>5. As soon as I select a new folder (doesn't matter where), it reverts back to the folder it was set to (in Step 3). 
+</p><p><br>
+The behavior seems to add the Bookmark to the location, but then does a ""CTL+Z"" (Undo so to speak), as seen when I try to add the new Bookmark to the Bookmarks Toolbar, I see it there for half a second before it reverts.
+</p><p><br>
+The only way for me to move the location of the bookmark where I want it saved is to:
+</p><p>1.  Hit the button next to the Folders dropdown to Show All Bookmarks Folders and select the folder
+</p><p>or
+</p><p>2.  In the Folders dropdown, select ""Choose..."" which does Step 1 in showing all the bookmarks folders.
+</p><p><br>
+If I restart Firefox, it will work, for the FIRST Bookmark I add.  I can use the dropdown to save the Bookmark to whatever folder I choose.  But any new bookmark after that, reverts to the problem behavior again.
+</p><p>I have tried to do a clean Install of Firefox (Uninstall Firefox, then Delete %AppData%/Roaming.Mozilla/Firefox and %AppData%/Local/Mozilla/Firefox folders respectively)
+</p><p>I have also disabled all extensions, and the behavior still persists (For reference I have the following extensions installed: 1Password, Alternate Player for Twitch, Clippings, Facebook Container, NoScript and uBlock Origin).
+</p><p>Not sure what other steps I can take?  
+</p><p>(Is there a way for me to create a gif showing this behavior?)
+</p>",bookmarks;firefox-730;firefox-7301;desktop;windows-10;,firefox,bookmarks,en-US,1292567;1292569;1292576;1292589;1292607;1292612;1292622;,jaesun.firefox
+1280469,2020-02-22 11:58:01 -0800,2020-02-22T12:39:00Z,Nothing is working to delete all bookmarks.,"<p>I want to delete very old bookmarks so I can add my business bookmarks.  Also, Firefox keeps crashing.
+</p>",desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1292528;,info1721
+1280468,2020-02-22 11:22:15 -0800,2020-02-22T12:40:57Z,"No bars, no menu, nothing at the top of the page","<p>I have nothing about the web page I am looking at.  No menu button, no bars nothing.  It all disappeared.  See screen shot
+</p>",other;desktop;,firefox,other,en-US,1292529;,adams2
+1280467,2020-02-22 11:20:08 -0800,2020-02-23T09:02:39Z,Email with confirmation link does't arives.,"<p>Hi, I have a problem with login in to my Firefox Sync Account, after clean installation of Windows 10. I have not recall to enable 2FA in Firefox Sync i have never used it to activate account on my PC or Android Phone. I'm using 2FA to my Google Account witch is the email for my Firefox Sync Account. But supposedlyi did.
+</p><pre>I have tried to use keys generated by Google Authenticator (witch is only 2FA token I use, not counting Facebook App, witch I use only for FB) but no success. I tried to use this link <a href=""https://accounts.firefox.com/signin"" rel=""nofollow"">https://accounts.firefox.com/signin</a> and then use proper password. Then there is an information to check email for confirmation link. I get no email, noting in spam nothing nowhere. I did add the accounts@firefox.com email address to protect it from spam filters, but nothing in 4 days, waiting for a miracle. 
+</pre>
+<p>In an act of desperation i did change the password for the account. And i received email to confirm this chance witch a did. The email was send from accounts@firefox.com e-mail, and it arrived in my inbox immediately. 
+</p><p>Why i do not get the confirmation email?
+</p>",firefox-730;sync;desktop;windows-10;,firefox,sync,en-US,1292573;1292574;1292575;1292624;1292686;,maciejszupiluk
+1280465,2020-02-22 10:25:18 -0800,2020-02-23T13:30:24Z,"Error al importar un certificado digital en Firefox , la versión actual es macOSCatalina, 10.15.2","<p>He intentado meter la contraseña al solicitar tras importar un certificado digital en el recuadro: Contraseña requerida. Introduzca la contraseña que se usó para cifrar esta copia de respaldo del certificado.
+y otro recuadro: Alerta: la contraseña introducida era incorrecta.
+Entonces he utilizado misma contraseña que lo hice yo, pero.... he intentado varia configuración para eliminar o restablecer el Firefox.
+Lo necesito para actualizar a utilizar con el certificado digital con el navegador de Firefox.
+Creo que es el problema de la actualización impedida a introducir la contraseña.
+Gracias y espero una ayudita.
+</p>",firefox-730;other;desktop;,firefox,other,es,1292501;1292538;1292737;,robeal45
+1280462,2020-02-22 09:12:31 -0800,2020-02-22T13:33:58Z,"¿Por qué razón y como evitar que los marcadores que están en subcarpetas, desaparezcan?","<p>Resulta que todos los marcadores que he puesto en subcarpetas (carpetas dentro de otra), han desaparecido quedando las subcarpetas vacías. Muchas gracias por su atención.
+</p>",bookmarks;firefox-730;desktop;windows-7;needsinfo;,firefox,bookmarks,es,1292537;,assis.eduandres
+1280461,2020-02-22 08:27:48 -0800,2020-02-24T05:18:36Z,¿Como evitar que los marcadores cambien de puesto automáticamente?,"<p>Resulta que últimamente los marcadores que tengo de forma ordenada en determinadas carpetas de mi PC, están cambiando de posición automáticamente, quedando todos en desorden. Muchas gracias por su atención.
+</p>",bookmarks;firefox-730;desktop;windows-7;,firefox,bookmarks,es,1292536;1292850;,assis.eduandres
+1280460,2020-02-22 08:25:54 -0800,2020-02-22T08:25:54Z,Does anyone know about Firefox VPN?,"<p>We are working on a Polish website and looking for a Poland based IP.
+Does Firefox have a VPN with Poland IP?
+<a href=""https://kodyrabatowe.ogili.com/"" rel=""nofollow"">https://kodyrabatowe.ogili.com/</a>
+</p>",websites;desktop;,firefox,websites,en-US,"",ogilishop
+1280458,2020-02-22 08:05:02 -0800,2020-02-25T05:27:45Z,Upgraded FF to 73.0.1 and it broke https://thejigsawpuzzles.com/mystery-puzzle-6536101?cutout=50spiral AND http://jigsawonline.net/M1392-M-2006-jigsaw.aspx,"<p>I do jigsaw puzzles on two web sites, 
+<a href=""https://thejigsawpuzzles.com/mystery-puzzle-6536101?cutout=50spiral"" rel=""nofollow"">https://thejigsawpuzzles.com/mystery-puzzle-6536101?cutout=50spiral</a> 
+AND <a href=""http://jigsawonline.net/M1392-M-2006-jigsaw.aspx"" rel=""nofollow"">http://jigsawonline.net/M1392-M-2006-jigsaw.aspx</a>.  
+My new Dell Inspiron 3670 with FF 72.0.1 was working just fine.  I upgraded to FF 73.0.1 and now these two web sites freeze.  I have to shutdown FF and restart it to make them work.  It worked fine with 72.0.1 and it works on my old Dell Inspiron with 72.0.1.  I reloaded 72.0.1 on my new Dell and now these sites are working again.  ? ? ? ? ?
+I uninstalled Flashplayer and reinstalled it.
+</p>",other;firefox-720;desktop;windows-10;bug_1;escalate;,firefox,other,en-US,1292485;1292590;1292593;1292594;1292619;1292723;1292753;1292817;1292820;1292822;1293154;1293171;1293182;,spikejones
+1280456,2020-02-22 05:40:30 -0800,2020-02-22T10:01:37Z,Why doesn't Firefox block browser fingerprinting?,"<p>I use strict ETP. But when I went to AmIUnique and Paanopticlick, they still said that my browser had a unique fingerprint. Why didn't the ETP feature work?
+</p>",privacy-and-security_1;firefox-730;desktop;windows-10;,firefox,privacy-and-security,en-US,1292461;1292471;1292489;,932393
+1280455,2020-02-22 05:13:30 -0800,2020-02-23T09:15:09Z,Office online - dictation - microphone permission does not stick,"<p>If you want to use dictate in an online office document you have to allow the microphone permission which is fine. However, after the mic times out and you want to continue dictation you have to allow permission again and again.....why doesn't it stick?
+This does not happen in chromium. Once you have given mic permission there it sticks until you exit the document.
+</p>",privacy-and-security_1;firefox-730;desktop;linux;,firefox,privacy-and-security,en-US,1292535;1292688;,Spinnekop
+1280454,2020-02-22 05:09:21 -0800,2020-02-22T10:05:39Z,how to secure my browser,"<p>I am using firefox. I close my browser and walk away from my computer. Someone comes up to my desk. opens firefox and then immediately has access to all my accounts !   How do I get firefox to actually log out of my sync'd account when it closes ?
+PS. may be someone doesn't actually come to my desk but actually does it remotely. Thats what worries me.
+</p>",privacy-and-security_1;firefox-730;desktop;windows-10;,firefox,privacy-and-security,en-US,1292458;1292472;1292473;1292477;1292478;1292490;,stewmcghie
+1280451,2020-02-22 01:53:09 -0800,2020-02-22T03:37:57Z,"regularely Firefox apparentely desinstalls and reinstalls the security-apps (ghostery, bitwarden, privacybadger etc... means i have to to re-login in each app)","<p>it happens +/- once a month. on starting Firefox i get a tab for and from  each app wich welcomes me as a new user and asks me to open an account (wich i already have...). none of the apps recognize me as a regular user. i have to login with Bitwarden to make it function again, Privacy Badger and Ghostery ask me with each site to set my preferences  and so on... 
+it is as if Firefox is installed for the first time and everthing starts from the beginning.
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1292436;1292442;,christian.dochy
+1280449,2020-02-22 00:30:41 -0800,2020-02-22T10:25:59Z,Firefox stops installing and says it was interrupted?,"<p>The installation progress bar stops at about 75% and then a message appears saying, ‘Hmm. For some reason, we could not install Firefox. Choose OK to start again’. BUT it won’t start again and if I try to download from your website, the whole process happens again. This is very frustrating as many of the websites I use, are linked to Firefox. Please advise.
+</p>",other;desktop;windows-10;download-and-install;,firefox,other,en-US,1292459;1292497;,Smike47
+1280447,2020-02-21 23:09:06 -0800,2020-02-22T10:36:06Z,Firefox Reader Mode is cutting out sections of forum websites,"<p>After a recent update within the past few months, certain websites now have errors when Firefox's Reader Mode is activated. The exact issue is that a large number of the articles / chapters are lost in translation and not presented when in Reader Mode. This is a new issue, as these sites previously worked perfectly fine when Reader Mode was activated before. Also, be aware that this issue occurs on both the desktop and mobile platforms. I don't know if a rollback or update is needed, or id there is there anything I can do about this. Any help would be appreciated.
+</p><p>Three example websites are:
+<a href=""https://archiveofourown.org/works/7830346?view_full_work=true"" rel=""nofollow"">https://archiveofourown.org/works/7830346?view_full_work=true</a>
+<a href=""https://forums.spacebattles.com/threads/taylor-varga-worm-luna-varga.398991/reader/"" rel=""nofollow"">https://forums.spacebattles.com/threads/taylor-varga-worm-luna-varga.398991/reader/</a>
+<a href=""https://forums.sufficientvelocity.com/threads/taylor-varga-worm-luna-varga.32119/reader/"" rel=""nofollow"">https://forums.sufficientvelocity.com/threads/taylor-varga-worm-luna-varga.32119/reader/</a>
+</p>",firefox-730;websites;desktop;,firefox,websites,en-US,1292505;,carloszamorajr
+1280445,2020-02-21 20:29:33 -0800,2020-02-22T23:26:53Z,Using the dot (.) to increase the video speed ?,"<p>Hello,
+Mozilla Firefox is my default browser and my favorite one
+</p><p>However, I have an issue when surfing on Youtube because at least one of the keyboard shortcuts cannot be used with Mozilla Firefox, while it works ok with both Internet Explorer and Microsoft Edge
+</p><p>Precisely, while on the French keyboard striking the ""?"" (question mark) key allows to reduce the speed of the video, the opposite shortcut ""."" (dot) does not works when it should increase the speed
+</p><p>Is there any technical conflict preventing for this dot shortcut to work, or was this forgotten in a way during the development phase?
+</p><p>In any case could it be possible to implement this in a next update?
+</p><p>Many thanks
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1292419;1292420;1292422;1292449;1292453;1292454;1292455;1292495;1292504;1292620;1292621;,loic.letersec
+1280443,2020-02-21 19:32:35 -0800,2020-02-22T06:27:31Z,Enable ESNI without DoH?,"<p>I'd like to enable ESNI. However, I can't seem to do this without enabling DoH on FireFox, which bypasses my DNS filter at home (which also uses DoH). Is there any way I can get ESNI enabled without DoH on FireFox? Thanks!
+</p>",firefox-680;desktop;privacy-and-security_1;mac-os;,firefox,privacy-and-security,en-US,1292414;1292457;1292462;1292463;,smchase
+1280441,2020-02-21 18:49:32 -0800,2020-02-25T11:04:27Z,Mac: Toolbar drop down menu not displaying the menu bar,"<p>I am trying to customize my Firefox on mac so that the menu bar is always displayed. However, looking at ways to fix this I am told to go to the customization menu, click the tool bar drop down menu and click ""menu bar"". However, I do not have this option. Only the book mark bar is displayed? How do I make it so that the menu bar is always displayed when I browse with firefox? Every time I change a tab the menu bar pops up because I scrolled to high and its impossible to enjoy this browser. I've tried resetting my browser to default settings and this never fixed the problem. Please help!
+</p>",firefox-730;customize;desktop;mac-os;,firefox,customize,en-US,1292534;1293244;1293249;1293251;,gaara123128
+1280440,2020-02-21 18:07:32 -0800,2020-02-22T13:05:18Z,"Lost all open tabs, unsure why this has happened","<p>I had a whole bunch of tabs that had been open for quite some time on my browser that I was planning to go through. I have my browser set to restore tabs / previous session each time I open so all the previous tabs remain there, and have had no problems for a long time. However the last time I tried to close Firefox it gave a warning saying I was trying to close x amount of tabs. I thought it a bit strange considering it hadn't asked me this before when closing but didn't think anything of it and closed the browser, only to open it next time to find all my open tabs had gone rather than being restored as normal.
+</p><p>I hadn't knowingly changed any of my settings and its still set to 'Restore previous session', and I can't work out a) why it hasn't restored it and b) what changed to prompt it to ask me if I wanted to close my tabs and then remove them rather than what it has always done!
+</p>",tabs;firefox-730;firefox-7301;desktop;windows-10;,firefox,tabs,en-US,1292533;,Deocyn
+1280439,2020-02-21 17:49:44 -0800,2020-02-21T17:49:44Z,Why can't I use my fingerprint for passwsord entry?,"<p>Why can't I use my fingerprint to sign in like my other browsers?  I just downloaded Firefox and will dump it if this feature is not available.
+</p>",privacy-and-security_1;firefox-730;desktop;mac-os;,firefox,privacy-and-security,en-US,"",paularthurf
