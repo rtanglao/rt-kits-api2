@@ -1,0 +1,225 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1280532,2020-02-23 15:49:00 -0800,2020-02-23T16:35:21Z,I didn't know I had to search for my question. Does everyone know that?,"<p>Is this written somewhere that a person has to search, and hope they find the correct category, to see the entire question. How will people know that I have written much more than you have posted?
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1292770;,Rhonda_89
+1280531,2020-02-23 15:34:32 -0800,2020-02-23T17:05:18Z,Photo I was going to send does not work,"<p>I'm the one who said I would send you a copy of a problem, but it won't paste into your program. Sometimes I use the Snipping Tool hit copy and paste it wherever I want it to go, but it did not want to be pasted into your question box. I'll try this:
+""Applications""
+Choose how Firefox handles the files you download from the web or the applications you use while browsing.  CONTENT TYPE
+Portable Document Format (PDF)PNG filemailtoJPG fileircsirciCalendar Filehpsupportassistantext+treestyletab""   THEN I'M SUPPOSED TO TELL YOU UNDER THE HEADLINE: ACTION: Search file types or applications. Then a long list of file types are already listed, INTERNET EXPLORER or ALWAYS ASK or USE OUTLOOK, and on and on. I have no idea what I'm supposed to chose, there's options for photos, do I have to go to Options each time I have a photo or a document and change the action, since it only allows for one selection.
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1292765;1292781;1292782;1292783;,Rhonda_89
+1280530,2020-02-23 14:52:12 -0800,2020-02-23T17:12:27Z,Will my bookmarks work if I upgrade to the latest version?,"<p>I read somewhere that the bookmarks will not work in the latest version of Firefox if I update the browser. I need those bookmarks so is that true and if yes please tell me a solution in simple terms.
+</p>",firefox-670;other;desktop;windows-10;,firefox,other,en-US,1292758;1292785;1292787;,RobertDovLevin
+1280528,2020-02-23 14:51:04 -0800,2020-02-23T16:57:41Z,"Help with basic text, adding tabs, outlook.live must be first tab so I don't get kicked out, bookmarks are on sidebar and in bookmarks, where do downloads go?","<p>I've read these instructions, I am more frustrated than ever. Why 2 places for bookmarks. Need help getting tabs on toolbar, including basic text, i.e. font. size, color, underline, bold, italics, etc.  without getting kicked out of Outlook.live Email- smooth floating writing, background options for email. I need someone to sit next to me for a full day. Is it possible that Firefox and Microsoft 10, Office 365 are clashing?
+</p>
+<hr>
+<p><em>(copied from the plugins list - c)</em>
+</p><p>what is the difference between add-ons, plugins extensions; junk email, spam email. 
+ADD-INS                                                PLUG-INS
+Dark Background                                Open H 264  by Cisco
+Grammarly                                           Wide Vine Content decryption 
+Trend Micro
+Privacy Badger
+HTTPS Everywhere
+Privacy Badger
+</p><p>SEARCH FILE TYPES AND APPLICATIONS (for downloads) I HAVE NO IDEA, Using Windows 7 was very easy, I just named the file in SAVE  AS there was a drop down box for downloads, documents, etc. WHY WOULD anyone want their downloads in MS Outlook?  As it stands now, I don't know where most of my downloads, documents, photos are located in Firefox. Even in Outlook 365 Word they are all over the place. DO NOT want them in Outlook Word, which is where they seem to go. I have selected web site addresses to download, instead of ""save as"" it wants the FILE TYPE. I hate every program on my PC, want Windows 7 back and Outlook 2013. I thought Firefox would be easier, heard good things, but right now I could throw it out the window. BTW, I have logged into Grammarly 4 times today, and once again it's asking me to login. I have more logins now than ever before in my computer lifetime. I'm not IT and an engineer, half the words used these days are Greek to me. Been working with computers for over 40 years, DOS, most of Windows programs or Apps or whatever they called these days, always a learning curve, but after 5 months, it's only gotten worse. Every phone call to MS support is a JOKE. 1 person says this, another persons says oh no this is what you need to do!! Printer no longer works after MS big PATCH. I dread calling HP again, but have no choice.
+Sorry I have just dumped all over you, but I am so angry with all of this I have screamed!
+I AM SENDING ANOTHER MESSAGE: I copy all messages from websites to Word just in case. When I just copied this information I will show you what came up, PRIME example of "" what the hell"". Of course, it may have disappeared by now!
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1292761;1292766;1292771;1292774;1292775;1292776;1292778;1292780;,Rhonda_89
+1280527,2020-02-23 14:22:56 -0800,2020-02-23T14:22:56Z,"In Outlook.com, I Can't access e-mails in the Large middle Pane. I keep getting the message ""You May Now Close This Window""","<p>This problem started a few days ago. (Latest Firefox Update???) I log in to <a href=""http://Outlook.com"" rel=""nofollow"">Outlook.com</a>. The screen comes up normally with the Folders Pane on the Left, the E-mail Title Pane in the middle and the smaller Preview pane on the right of the screen. Normally I double click on the middle Title Pane and it selects and pops up to show the larger expanded e-mail. A few days ago the problem started that now when I double click on the middle Title Pane a message pops up ""You May Now Close This Window"". I can't get the e-mail to appear in the expanded middle pane. I switched to Chrome which is an alternate Browser that I use and I Did Not Have This Problem. Apparently the problem is caused by a change that Firefox made in the last few days. I have used Firefox as my default Browser for many years now and love this Browser. I have tried everything I could think of including allowing Popups for the <a href=""http://Outlook.com"" rel=""nofollow"">Outlook.com</a> website, and clearing the Firefox cache, but the problem still exists. Any help you can give me would be greatly appreciated. I do not want to have to use another Browser other than Firefox. I will be upgrading to Windows 10 from 7 in the next few weeks, but I'm not sure Windows 7 is the issue since <a href=""http://Outlook.com"" rel=""nofollow"">Outlook.com</a> works with no problems with Windows 7 using the Chrome Browser.
+</p>",firefox-730;websites;desktop;windows-7;,firefox,websites,en-US,"",catmandodo
+1280525,2020-02-23 13:42:42 -0800,2020-02-23T14:51:45Z,Can firefox restor bookmarks to an IP address after a computer crashes,"<p>Old computer crashed and backups lost.  Is there a way firefox can restore bookmarks based on last uses from this Ip
+</p>",bookmarks;firefox-730;desktop;mac-os;,firefox,bookmarks,en-US,1292755;1292757;,rsalkow
+1280523,2020-02-23 12:38:38 -0800,2020-02-23T12:38:38Z,"Multiple windows opening on fresh Firefox (73.0.1) install, on Mac Catalina, when clicking on external link","<p>I just installed Firefox version 73.0.1 on Mac Catalina (version 10.15.3).  When I click on an external link, like a link embedded in the body of an email, two browser windows open.  One window is the homepage and the second is the URL of the external link.  This only happens if the Firefox browser is not already opened.  If the browser is already opened, the external link URL opens in a second tab as expected.  I've already followed directions to change the action for a content type and reset actions for all content types in article <a href=""https://support.mozilla.org/en-US/kb/firefox-repeatedly-opens-empty-tabs-or-windows"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/firefox-repeatedly-opens-empty-tabs-or-windows</a> but it did not fix the issue.
+</p>",download-and-install_1;firefox-730;desktop;mac-os;,firefox,download-and-install,en-US,"",flvillager
+1280521,2020-02-23 11:15:35 -0800,2020-02-25T05:10:06Z,Can Firefox change or delete data on my hard drive?,"<p>no more
+</p>",firefox-730;other;desktop;windows-7;,firefox,other,en-US,1292735;1292749;1293152;1293178;,heinzloehr
+1280520,2020-02-23 11:03:51 -0800,2020-02-23T13:43:41Z,Addons dont show in toolbar even if tho are enabled,"<p>Please help I have latest version installed . And it's been a long time since they have worked. Pratically it's like they aren't instslled.
+</p>",customize;desktop;,firefox,customize,en-US,1292722;1292734;1292746;1292748;,trruetrrab
+1280519,2020-02-23 10:36:37 -0800,2020-02-25T04:31:41Z,Firefox extensions auto uninstall,"<p>On a regular basis the extensions I have installed for my Firefox browser uninstall. I do not do this personally, it happens automatically. The ""uninstall surveys"" tabs opens automatically aswell. Examples: ""Facebook container"", ""Duckduckgo - provacy essentials"" and ""Ghostery"".
+</p><p>Is this possible to fix?
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1292736;1292738;1292750;1292818;1292825;1293132;1293160;1293161;,gustavleth.larsen
+1280518,2020-02-23 10:35:29 -0800,2020-02-25T08:18:18Z,My passwords are all gone and now I can't save any new ones either?,"<p>Please help me!! 
+I’m desperate!!
+I have 15 years of saved passwords that no longer work!!!!!!!
+After I updated to 73.0 I have zero saved logins!!! My logins.json file is still there and I can open it in Notepad but everything is encrypted!!! 
+Also, it says I don’t have a Master Password anymore, but I never cleared it! And when I go to change it I get a “unable to change” error!!!
+I also can’t save any new logins, no logins can be saved now!!
+I’ve searched google for hours and tried everything but nothing works!!
+And no, I don’t have the “logins.json.corrupted” file everyone mentions on other threads for this issue, my file is still logins.json!
+</p><p>Please help me!!!!!!
+</p>",firefox-730;other;desktop;windows-10;escalate;dataloss;,firefox,other,en-US,1292739;1292740;1292741;1292742;1292759;1292779;1292807;1293106;1293109;1293117;1293123;1293124;1293125;1293128;1293162;1293211;1293212;,SendYourKittrellSpamHere
+1280515,2020-02-23 09:53:59 -0800,2020-02-23T19:48:48Z,"""about.config started being blocked in the address past 2 hours.    Worked before then to fix printer problems.   Please help so I can continue to use Firefox.","<p>""about:config"" just started being blocked when type in address bar on both computers.   Worked until 2 hours ago.
+</p>",firefox-730;other;desktop;,firefox,other,en-US,1292697;1292799;,harrisonsmiller
+1280514,2020-02-23 09:50:46 -0800,2020-02-23T17:11:55Z,Is there a way to hide the toolbar and tabs in fullscreen on Mac?,"<p>Is there a way to hide the address bar/toolbar and tabs when in full screen on mac?
+</p>",firefox-730;customize;desktop;mac-os;,firefox,customize,en-US,1292725;1292727;1292728;1292744;1292747;1292784;,Jonathon.e.Stewart
+1280513,2020-02-23 09:26:03 -0800,2020-02-25T07:24:06Z,Unwanted http redirecting to https,"<p>My sites are redirecting to https when they should not be redirecting.  Problem does not exist with chrome , IE, and Edge.
+</p><p>I have some sites that are blocked in some countries if they are https.  So I want these websites to be http.  Better than nothing.
+</p><p>FF is directing http to https.  I dont want that , but thanks anyway.
+</p>",privacy-and-security_1;firefox-730;desktop;windows-10;,firefox,privacy-and-security,en-US,1292699;1292700;1292764;1292769;1292804;1292847;1292849;1292866;1292887;1292889;1293118;1293122;1293131;1293137;1293159;1293165;1293183;1293202;,pixelpadre
+1280512,2020-02-23 09:11:49 -0800,2020-02-23T13:50:39Z,How to update Adobe without closing Firefox,"<p>When I update Adobe it makes me close Firefox. It will not ignore it. BUT when I close all the windows it will not bring them back
+when I restart it.  Even though the setting on Firefox is to restart with previous tabs and windows, if I force it, it doesn't bring them back.  How do you close several windows and bring them back? Today I had 5 windows up, updated Adobe, it kept telling me I had to close FF. So I did and ignored the close several tabs warning and when restarting it didn't bring them back.
+</p>",tabs;firefox-720;desktop;windows-10;,firefox,tabs,en-US,1292701;1292702;1292751;,miriama591
+1280510,2020-02-23 08:12:20 -0800,2020-02-23T08:12:20Z,Firefox is not changing sound output device automatically,"<p>I have speakers plugged into the sound card, and USB headphones.
+Let's say I'm watching YouTube, and I disconnect my headphones; Speakers are now the main output device on Windows, but the YouTube tab in Firefox is still outputting to the headphones that are no longer connected.
+To fix it, I have to refresh the page. This indicates that Firefox checks for the current Output device when loading the page, but doesn't check it afterwards.
+</p><p>Please fix this in the future builds.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,"",fpxstudio
+1280508,2020-02-23 06:51:43 -0800,2020-02-23T20:28:38Z,4K 24p Youtube 3:2 pulldown judder with AMD graphics,"<p>Youtube 4K 30/60P are playing fine on my overclocked AMD Vega 11 GPU at mid-level GPU utlisation, however 24P videos show a lot of judder clearly due to improper 3:2 pulldown.
+</p><p>Contrary to common understanding, it's not a dropping frame issue, there's no dropped frames. Also, this does not happen to 1440P and below videos.
+</p><p>In comparison, MS Edge classic plays flawlessly even without taxing GPU 3D engine, only Video Decode; Chromium based browsers use nearly 90% of the GPU 3D power but they play nicely too, only stutter when overlay shows and limited by hardware capability.
+</p><p>Adrenaline driver 19.9.2 used, so far the most stable driver for my hardware.
+</p><p>Ryzen 5 3400G@4.1Ghz, Vega 11@1650Mhz, DDR4 16GB dual channel @3333Mhz, Gigabyte B450 I Aorus Pro Wifi.
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1292801;,jyc860923
+1280507,2020-02-23 04:29:21 -0800,2020-02-23T05:38:56Z,"Trying to read a document. Getting a Mac error 'There is no application set to open document ""statement_pdf.jsp"".'  Error only occurs using Firefox, not Safari.","<p>I do not know what a .jsp extension is and cannot open this document. When I try to choose an application, Preview is greyed out. These are bank statements that I open every month, without a problem. Now, none of them will open, including past months that always worked before. If I log onto this page in Safari, all the documents can be opened without errors or extra steps.
+</p>",firefox-720;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,1292659;1292662;,julie999
+1280505,2020-02-23 04:22:53 -0800,2020-02-23T04:22:53Z,i cant import passwords frome chrome 80 to firefox 73,"<p>installed latest version of firefox on my windows pc,
+but cant import passwords frome chrome!
+bookmarks imported successfully,
+problem is passwords and site logins.
+</p>",firefox-730;other;desktop;windows-7;,firefox,other,en-US,"",milad5
+1280502,2020-02-23 03:51:58 -0800,2020-02-23T08:11:43Z,Tab restore,"<p>Hi,
+</p><p>System: Ubuntu 18.04.4 LTS
+Firefox: 73.0 (64-Bit)
+</p><p>i'm german speaking person is was try to write in english.
+</p><p>When i try to open Firefox its comes the message (see picture) . The problem is when i close this window, firefox doensn't open all firefox tabs and windows. I must do close all window from firefox and try 5-6 open Firefox. Anytime the Windows (see from picture) isn't coming.
+</p><p>I haven't uninstall and reinstall firefox, I dont now when i uninstall firefox, the tabs and windows is going disapear and cant restore it. What can i do to resolve the problem? The Windows haven't a message i dont now why is it open without an message...
+</p><p>kind regards
+nicolas
+</p>",tabs;firefox-730;desktop;,firefox,tabs,en-US,1292654;1292668;1292671;1292676;,nicolas9
+1280500,2020-02-23 02:44:14 -0800,2020-02-23T04:54:58Z,Firefox hangs after starting,"<p>Firefox freezes after launch (after about 30 seconds). Then after another 30 seconds it starts working properly
+</p>",firefox-730;firefox-7301;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1292655;,pudelkoa
+1280499,2020-02-23 02:35:09 -0800,2020-02-24T04:51:57Z,Firefox crashes,"<p>whenever printing a page with Broadgun pdfmachine app FF crashes
+Crash ID: bp-b732ea20-b116-4bc2-8380-6d5a40200223
+</p>",firefox-730;firefox-7301;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1292658;1292660;1292831;1292834;1292837;1292844;,samlubo
+1280498,2020-02-23 01:59:20 -0800,2020-02-23T02:08:11Z,locked account,"<p>The confirmation email we sent to ******* was returned and we’ve locked your account to protect your Firefox data.
+</p><p>If this is a valid email address, let us know and we can help unlock your account. 
+</p><p>Yes this is a valid email and i need to unlock this account...my old email was set to bounced when you sent confirmation email .. This is now unbouncing so emails will work if eamils are sent to it.  How to I unblock my account and ask you to resend the qualify email please ?
+</p>",privacy-and-security_1;firefox-730;desktop;mac-os;,firefox,privacy-and-security,en-US,1292634;,cloud46
+1280493,2020-02-22 20:13:07 -0800,2020-02-23T15:21:19Z,the line at the top of my browser above the tabs,"<p>how the hell do i get rid of the line at the top of my browser even when i maximize it it wont go away, please look at the pic and please help, email me at wakisashi1979@gmail.com
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1292609;1292616;1292763;,wakisashi1979
+1280492,2020-02-22 19:25:38 -0800,2020-02-23T16:53:02Z,"Após últimas atualizações não consigo fazer leitura das telas no Firefox, apenas no Firefox pois ela fica piscando dividindo a tela em frames diversos.","<p>No modo de segurança a tela fica estável e dá leitura, A recuperação do Firefox não resolveu.
+O sistema de ajuda não permitiu enviar video de captura da tela que daria uma visão do meu problema, então vai um printscren da tela do firefox.
+Não consigo descobrir qual extensão está causando o problema
+</p>",firefox-730;firefox-7301;desktop;fix-problems;windows-10;,firefox,fix-problems,pt-BR,1292703;1292777;,takaofunada
+1280490,2020-02-22 19:01:36 -0800,2020-02-22T20:18:39Z,How to disable ALT key default behavior from javascript,"<p>I am writing a canvas-based RPG game. I use keyboard to control the player, including 'press and hold ALT key to highlight items'. Problem - when player is done highlighting and releases the ALT key, top level browser menu pops up, even if I call event.preventDefault(). 
+Question - is there a way I can tell Firefox to not to do that - i know that end user can disable this behavior via about:config flag, but I can't just go and ask every user to do that...
+(Firefox 73)
+Thank you!
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1292608;1292610;,serg8
+1280489,2020-02-22 18:15:14 -0800,2020-02-22T18:42:02Z,cómo utilizo es porquería de buscador solo quiero inscribirme en la universidad solo con esta cosa horrible puedo,"<p>Que mierda no puedo encontrar nada
+</p>",desktop;fix-problems;,firefox,fix-problems,es,1292600;,maldonadokarin41
+1280485,2020-02-22 16:58:21 -0800,2020-02-22T16:58:21Z,javascript settimer broken FF 73.0,"<p>I have the following Javascript code which has been working for over 10 years and still works on Chrome, but does not work on FF 73.0 on Ubuntu Linux.
+</p><p>```
+</p><p>/************************************************************************
+</p><pre>*  timer														        *
+*																		*
+*  This timer is started whenever the user presses a key in the input	*
+*  field and pops if 0.9 second passes without a new keystroke			*
+************************************************************************/
+</pre>
+<p>var	timer	= null;
+</p><p>/************************************************************************
+</p><pre>*  function onKeyDownName												*
+*																		*
+*  This method is called when a key is pressed in the Name field.		*
+*  A timer is set so that when the user stops typing the selection		*
+*  list is repopulated.												*
+*																		*
+*  Input:																*
+*		event	if passed, event.keyCode identifies the key pressed		*
+*				in older releases of Internet Explorer use window.event	*
+************************************************************************/
+</pre>
+<p>function onKeyDownName(event)
+{
+</p><pre>   if (timer)
+</pre>
+<p>		clearTimeout(timer);
+</p><pre>   timer	= setTimeout(update, 900);
+</pre>
+<p>}		// function onKeyDownName
+</p><p>/************************************************************************
+</p><pre>*  function update														*
+*																		*
+*  This method is called when the user stops typing to repopulate		*
+*  the selection list based upon the current contents of the Name		*
+*  field.  It is also the onchange method for the following fields:	*
+*  'birthmin', 'birthmax', 'incMarried', 'includeParents',				*
+*  'includeSpouse', and 'Sex', and it is called by the onchange		*
+*  method for the field 'treeName'.									*
+************************************************************************/
+</pre>
+<p>function update()
+{
+</p><pre>   var	form	= document.nameForm;
+   if (form)
+   {		// form present
+</pre>
+<p>		var url	= ""/FamilyTree/getIndivNamesXml.php"";
+	... code to complete url by appending values of elements from form
+		// invoke script to obtain list of names for selection list
+		HTTP.getXML(url,   // see O'Reilly Javascript
+				    gotNames,
+				    noNames);
+</p><p>		// clear out the old selection list while we are waiting
+		var	select	= form.individ;
+		select.options.length	= 0;
+</p><p>		// put a dummy entry at the top of the selection, otherwise
+		// selecting the first name does not call onchange
+		var	name		= '[choose an individual]';
+		var	option		= new Option(name,
+								     -1,
+								     false,
+								     false);
+		option.innerHTML	= '[choose an individual]';
+		select.appendChild(option);
+</p><pre>   }		// form present
+   else
+       alert(""nominalIndex.js:update: cannot find form"");
+</pre>
+<p>}		// function update
+```
+</p><p><br>
+When I put alerts into nameOnKeyDown and update I see that nameOnKeyDown is called but update is never called.
+</p><p>You can see the above code in action at <a href=""https://www.jamescobban.net/FamilyTree/nominalIndex.php?name=allenby,%20a&amp;treename=&amp;lang=en"" rel=""nofollow"">https://www.jamescobban.net/FamilyTree/nominalIndex.php?name=allenby,%20a&amp;treename=&amp;lang=en</a>
+</p><p>This code has worked for over 10 years, and still is working today on Chrome, but the timer never pops on Firefox 73.0 on Ubuntu Linux 19.10.
+</p>",firefox-730;desktop;fix-problems;linux;escalate;javascript;,firefox,fix-problems,en-US,"",jamescobban
+1280482,2020-02-22 16:32:17 -0800,2020-02-23T02:13:37Z,Firefox has stopped working (c0000005),"<p>Hello. I was running Firefox version 43 and installed 73 over it. When i click to run 73 I immediately got a window that says Firefox has stopped working: check online for a solution/close/debug. i uninstalled and reinstalled a few times, deleted all the Mozilla data on my machine and still had the exact same problem w/ 73 and 72:
+</p><p>Problem signature:
+</p><pre> Problem Event Name:	APPCRASH
+ Application Name:	firefox.exe
+ Application Version:	73.0.1.7352
+ Application Timestamp:	5e4abc33
+ Fault Module Name:	StackHash_312e
+ Fault Module Version:	0.0.0.0
+ Fault Module Timestamp:	00000000
+ Exception Code:	c0000005
+ Exception Offset:	000000006fff150a
+ OS Version:	6.1.7601.2.1.0.256.1
+ Locale ID:	1033
+ Additional Information 1:	312e
+ Additional Information 2:	312e0f649e68df8b8010198c924de691
+ Additional Information 3:	671a
+ Additional Information 4:	671a768defe2b30923278b2a33d2cb4d
+</pre>
+<p><br>
+Problem signature:
+</p><pre> Problem Event Name:	APPCRASH
+ Application Name:	firefox.exe
+ Application Version:	72.0.2.7321
+ Application Timestamp:	5e221d28
+ Fault Module Name:	StackHash_312e
+ Fault Module Version:	0.0.0.0
+ Fault Module Timestamp:	00000000
+ Exception Code:	c0000005
+ Exception Offset:	000000006fff150a
+ OS Version:	6.1.7601.2.1.0.256.1
+ Locale ID:	1033
+ Additional Information 1:	312e
+ Additional Information 2:	312e0f649e68df8b8010198c924de691
+ Additional Information 3:	048c
+ Additional Information 4:	048ce306801d3b35181c2a2508032b29
+</pre>
+<p><br>
+I have comodo and peerblock installed, but I turned them off during the download and installation. I rolled back to 43 and for the moment it seems to be working fine. I'm on Windows 7. I've found questions similar to this, but not exactly the same. One suggested using version 72, but that didn't solve the problem.
+</p><p>Thanks very much.
+</p>",download-and-install_1;desktop;bug1590430;,firefox,download-and-install,en-US,1292585;1292586;1292588;1292635;,bluepositron

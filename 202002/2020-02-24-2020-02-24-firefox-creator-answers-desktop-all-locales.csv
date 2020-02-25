@@ -1,0 +1,229 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1280628,2020-02-24 15:29:44 -0800,2020-02-24T15:29:44Z,¿Cómo puedo abrir una carpeta de marcadores en pestañas?,"<p>Con el botón derecho, me sale la opción ""abrir todo en pestañas"" pero no está activo. La carpeta contiene otras carpetas con marcadores. En Safari podía abrir todos los marcadores de la carpeta en pestañas al mismo tiempo
+</p>",bookmarks;firefox-730;firefox-7301;desktop;mac-os;,firefox,bookmarks,es,"",arkerofutsal
+1280626,2020-02-24 14:31:25 -0800,2020-02-24T16:26:33Z,"firefox search button become ""fl""","<p>In the fonts setting, if I un-tick ""Allow pages to choose their own fonts, instead of your selections above"", the search  button in webpages will become ""fl"". But if I tick that box, the search button can be displayed correctly.
+</p><p>The screenshot is an example of netbox webpage when I turn off/on that option.
+</p>",firefox-730;websites;desktop;linux;,firefox,websites,en-US,1293036;1293045;1293059;,wangwrg
+1280625,2020-02-24 14:31:01 -0800,2020-02-24T15:11:21Z,Issues when opening links from different applications.,"<p>When opening a link from a different application, like slack, the keyboard shortcuts like new tab and refresh do not do anything, and the left click menu is empty except for the snapshot button.
+</p><p>This only seems to happen if firefox is not already open and the clicking of the link opens firefox.
+</p>",firefox-740;beta;desktop;fix-problems;mac-os;macos-1015;escalate;,firefox,fix-problems,en-US,1293022;1293035;,robertglatzel
+1280624,2020-02-24 14:23:05 -0800,2020-02-24T14:23:05Z,"Minha conta firefox sync não sincroniza meus favoritos. Vieram as extensões e outros, porém os favoritos não. Alguém sabe como recupero meus favoritos?","<p>Só queria meus favoritos de volta, até mesmo as senhas salvas retornaram!
+</p>",firefox-730;sync;desktop;windows-10;,firefox,sync,pt-BR,"",levandairesx
+1280623,2020-02-24 14:12:07 -0800,2020-02-24T14:39:58Z,How to disable the selected text Twitter/Email Popup of Page Actions,"<p>A new feature (Firefox 73), presumably related to the URL bar Page Actions, is the popup of twitter and email icons that appears when text is selected on a webpage.  The text is also yellow highlighted.   This behavior occurs in safe mode, so it must be a Firefox feature.  
+</p><p>The popup is intrusive. How is it disabled?
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1293017;1293023;,skippdiddly
+1280620,2020-02-24 12:55:58 -0800,2020-02-24T21:13:13Z,Gmail.com no longer being suggested when I start typing g...,"<p>Until very recently, typing g was enough to immediately populate with <a href=""http://gmail.com"" rel=""nofollow"">gmail.com</a>, allowing very quick access to email. I now have to type the full thing, which is a little annoying. Anywhere I can look into solving this? The issue is not affecting all websites. Just tried a sample of Facebook, BBC, and <a href=""http://docs.google.com"" rel=""nofollow"">docs.google.com</a> which all work fine. All help would be appreciated.
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1293103;,seadhach
+1280619,2020-02-24 12:54:05 -0800,2020-02-24T13:39:51Z,Firefox 73.0: javascript function window.open(),"<p>Height and width does not work as before. Open smaller window...
+</p><p>Example:
+</p><p>function PopUpWin(source,name,width,height) {
+</p><pre> window.open(source, name,""location=0,toolbar=no,menubar=no,scrollbars=yes,resizable=yes,width=""+width+"",height=""+height+"""");
+</pre>
+<p>}
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1293002;1293004;1293005;,per.bjalevik
+1280618,2020-02-24 12:34:43 -0800,2020-02-24T14:21:23Z,"<OL> basic HTML functionality is not working. Create an OL with 3 items, then 2 sub items, then continue the original OL. You'll see: 1,2,3,a,b,3,4,5","<p>Render this in FF. 
+</p>
+<pre>&lt;ol&gt;
+  &lt;li&gt;Coffee&lt;/li&gt;
+  &lt;li&gt;Soda&lt;/li&gt;
+  &lt;li&gt;Milk&lt;/li&gt;
+     &lt;ul&gt;
+          &lt;li&gt;Creamer&lt;/li&gt;
+          &lt;li&gt;whip cream&lt;/li&gt;
+     &lt;/ul&gt;
+  &lt;li&gt;Tea&lt;/li&gt;
+  &lt;li&gt;Bread&lt;/li&gt;
+&lt;/ol&gt;</pre>
+<p>You'll see it look like the attached screen shot that shows 2- #3 items. 
+Try it yourself is the best way to see the issue.
+<a href=""https://www.w3schools.com/tags/tryit.asp"" rel=""nofollow"">https://www.w3schools.com/tags/tryit.asp</a>
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1293012;1293015;1293016;1293019;,tyson.franzen
+1280614,2020-02-24 11:51:14 -0800,2020-02-25T04:42:45Z,Why  does the last version  not support checking spelling  I downloaded today its usual version Ababic but I changed to English ?,"<p>I downloaded today a new version even no update it is needed, but after installing  I noticed it is an Arabic copy. I changed it to English united state and removing the Arabic language. None I added then but still cannot check the spelling .... This is the first time happened with me. Please I am a teacher teaching students online and always I use the English language then it is perhaps I make mistakes without rea=garding to what I write or someties I am busy and make errors thriughy typing.  As you see belown in the small I attached photo I wrote some words  on Facebook all are wrong so that to examine it ... It does never check the spelling. Not only in the Facebook but also in any web page. It lacks to the feature
+</p>",firefox-730;other;firefox-7301;desktop;windows-7;,firefox,other,en-US,1292943;1293072;1293168;,alrobaey51
+1280612,2020-02-24 11:32:35 -0800,2020-02-25T08:01:40Z,Firefox opens links in tabs twice,"<p>Hello,
+</p><p>Since installation of Firefox 73 - after two weeks out of home -, whenever I middle click on a link, the link opens in two tabs.
+I tried with:
+</p><p>- No extensions: this seems to fix the problem... 
+- Fresh profile (mine was from 2008 or something like that): do not fix problems (but shrink my profile, nice :))
+- By enabling extension one by one, restarting the browser each time: I could not find a ""guilty"" extension. When it seems to fix the problems, it reappear, not with the same extensions.
+</p><p>I don't have a clue at what is failing. 
+</p><p>I tried by disabling the ""open new window in new tab"", but this still fails.
+</p><p>Is there a way to trace this problem ? (or fix it).
+</p>",tabs;firefox-730;firefox-7301;desktop;windows-10;,firefox,tabs,en-US,1292963;1292987;1293105;1293140;,FoxBurnt
+1280611,2020-02-24 11:31:21 -0800,2020-02-24T11:52:34Z,"Firefox crashes, even in safe mode","<p>Crash ID: bp-3de56443-d26a-4d52-8655-698d80200224.
+Firefox fails to start up even in safe mode - goes to the Mozilla Crash Reporter window.
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US,1292935;1292941;,Prakash.Uttam
+1280610,2020-02-24 11:24:38 -0800,2020-02-24T15:16:45Z,YouTube comments not loading,"<p>As of today the comments and sharing feature of YouTube are not loading, the wheel keeps spinning but nothing ever shows up. Tried without plugins, with allowing all cookies, nothing worked. Tried with the Edge browser and everything was fine.
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1293039;,kidtung
+1280609,2020-02-24 11:23:10 -0800,2020-02-24T12:05:02Z,How do I make the cursor thicker?,"<p>The about: config caret method listed several years ago appears outdated. Thank you.
+</p>",tips;firefox-730;desktop;windows-10;,firefox,tips,en-US,1292939;1292949;,LKSky
+1280608,2020-02-24 11:13:33 -0800,2020-02-25T01:26:35Z,"I cannot Sync any bookmarks anymore and passwords anymore, I manage a VPS and this is tragic.","<p>After I switched from Firefox for Mac to Firefox to Windows, I cannot however sync anymore, my bookmarks and passwords all gone, please help? I manage a VPS with a lot of credentials and it looks like I have lost all the bookmarks 
+</p><p>Devastated
+</p>",bookmarks;firefox-730;desktop;windows-10;,firefox,bookmarks,en-US,1292926;1292947;1292950;1292954;1293143;,amkwa91
+1280607,2020-02-24 11:10:56 -0800,2020-02-24T11:10:56Z,Porque en youtube mediante los cascon no puedo adelatar/parar o siguiente cansion en una lista?,"<p>Reproduciendo una lista en youtube al intentar parar o volver para atras una cancion en la lista o incluso pausando el video con los cascon bluetooth no hace caso a nada.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,es,"",cosminst1996
+1280606,2020-02-24 11:01:32 -0800,2020-02-24T17:49:39Z,Firefox 73's new default zoom level setting is not working,"<p>I've set my Default Zoom level to 150% but it doesn't work. When I open a link or a bookmark in a new tab the zoom level is at 100% as usual.
+</p><p>I have even tried visiting a website, zooming in manually, then opening a link to the same website in a new tab and the zoom level is reset to 100% in the new tab.
+</p><p>I don't use any other extensions which provide page zoom.
+</p><p>I have tried with ""browser.zoom.siteSpecific"" both true and false but neither helps.
+</p>",firefox-680;desktop;fix-problems;windows-10;needsinfo;,firefox,fix-problems,en-US,1292933;1293040;1293043;1293068;,billybob300
+1280604,2020-02-24 10:22:50 -0800,2020-02-24T14:20:23Z,"""choose which account to send the email from""","<p>Hi how do I add an email account to the list ""choose which account to send the email from"" when I select email a link to this page
+</p>",tips;firefox-730;desktop;windows-10;,firefox,tips,en-US,1292961;1293018;,hs15
+1280601,2020-02-24 10:06:12 -0800,2020-02-24T10:10:10Z,Lost all synced tabs.,"<p>Firefox asked to Refresh  on startup. I did and then lost all synced tabs.
+</p>",tabs;firefox-730;desktop;windows-10;,firefox,tabs,en-US,1292907;,arkady.me
+1280600,2020-02-24 09:55:28 -0800,2020-02-24T11:27:31Z,Search Engines and Sync,"<p>Do custom Search Engines sync across machines? If so, what could be the reason for them not appearing on my other machines. If not, is there a ticket I can follow regarding this issue/enhancement?
+</p>",firefox-680;sync;desktop;mac-os;,firefox,sync,en-US,1292920;1292929;,firefox.sync.3763
+1280599,2020-02-24 09:40:15 -0800,2020-02-24T15:01:40Z,"I ""upgraded"" to Catalina from High Sierra and Firefox now crashes and won't reopen because it says I already have another copy open when there is not other copy","<p>Catalina (10.15.3) and Firefox (73.0.1) aren't working together.   As soon as I stop actively using Firefox it crashes.  If I try to reopen it, I get a message that I can't reopen it because there is a copy in use already.  If I try to force quit Firefox it is not in the force quit menu.  If I look in Activity Monitor Firefox is not present there either.   Thank you.
+</p>",download-and-install_1;firefox-7301;desktop;macos-1015;crash;escalate;,firefox,download-and-install,en-US,1292893;1292905;1293030;1293031;,kenrowles
+1280597,2020-02-24 09:39:26 -0800,2020-02-24T21:17:29Z,recent update has removed Save as feature??,"<p>when downloading a pdf i have always had it save to my computer. in recent update this feature has been slightly altered so that we can no longer specify the location and the name of the pdf being saved. This is a big pain for my workflow. 
+im aplications there are a few different manners to specify how downloads are handled but none of them function like  they did before. 
+Even the ask to save option doesnt allow you to specify a file name or a download location, 
+Can we get this back?
+</p><p>Thanks
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1293104;,erik25
+1280596,2020-02-24 09:34:48 -0800,2020-02-25T06:40:10Z,FTP protocol file timestamps incorrect,"<p>When accessing my server using a ftp:// protocol URL, the timestamps displayed for all files are incorrect. For instance, if a file was created at 12:01 PM EST today, verified by logging into the server directly, then Firefox will display it as 7:01 AM EST. Note that both the server and my browser are in EST.
+</p><p>No other FTP client displays the time this way, so I don't think it's something wrong with the server. The only thing I can think of is that the server is not supplying any timezone information, so Firefox thinks that the server is on UTC which it then converts to EST for me. However, this is an incorrect assumption.
+</p><p>The server is running pure-ftpd on OpenBSD, if that helps.
+</p>",firefox-7202;other;firefox-720;desktop;linux;,firefox,other,en-US,1293102;1293194;,rgoodman
+1280595,2020-02-24 09:18:09 -0800,2020-02-24T09:18:09Z,No puedo ver los Sitios Más Visitados.,"<p>No puedo ver los Sitios Más Visitados. No he tocado nada, pero ha desaparecido de un momento a otro. Tengo marcada la opción que los muestra, obviamente. :S
+</p>",tabs;firefox-730;desktop;windows-10;,firefox,tabs,es,"",nazarenotero2
+1280594,2020-02-24 09:08:26 -0800,2020-02-24T17:58:04Z,How to change scrollbar color in Firefox version 73?,"<p>I can't find a way to change the scrollbar color in firefox 73. The gery on grey scrollbar is very annoying because it's so hard to see. I tried to create chrome folder and tried to add various codes to userChrome. I also tried this: <a href=""https://gist.github.com/Sporif/db6b3440fba0b1bcf5477afacf93f875"" rel=""nofollow"">https://gist.github.com/Sporif/db6b3440fba0b1bcf5477afacf93f875</a> but it seems to not work.
+</p><p>On some pages the scrollbar color is fine, but on most pages it is the annoying grey on grey. I also tried disabling layout.css.scrollbar-color.enabled in about:config without any effects.
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1292897;1292937;1293028;1293066;1293070;,aleksi.kamppi
+1280593,2020-02-24 09:03:45 -0800,2020-02-24T12:42:55Z,download wikkibuy,"<p>how do i download wikkibuy
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1292885;1292888;1292903;1292911;1292972;,dennisfe203
+1280592,2020-02-24 08:59:53 -0800,2020-02-24T14:52:01Z,Gah. Your tab just crashed.?,"<p>Firefox gives me a ""Gah. Your tab just crashed."" whenever I try to load a page. All pages do this. Steps that I tried to take to resolve this:
+</p><p>Started in Firefox in Safe Mode
+</p><p>Uninstalled all extensions
+</p><p>Refreshed, then reinstalled latest version of Firefox with new profile
+</p><p>In About:Config set browser.tabs.remote.auto to false and restarted. There is no remote.auto2; So I created one and set it to false then restarted.
+</p><p>I checked About:Crashes, but there are no crash reports.
+</p><p>I tried turning off hardware acceleration but clicking the open menu button does nothing.
+</p><p>I updated graphic card drivers to the latest version.
+</p><p>I rebooted my computer.
+</p><p>Other notes:
+</p><p>I had not installed any new software or updates prior to this happening. 
+</p><p>All other browsers (Chrome and Microsoft Edge) work fine.
+</p><p>Any suggestions would be greatly appreciated. Thanks.
+</p>",desktop;fix-problems;windows-10;bug1616993;,firefox,fix-problems,en-US,1292898;1292940;1293027;,g7.totoro
+1280589,2020-02-24 08:08:56 -0800,2020-02-24T09:56:53Z,"Firefox 73.0.1 64 bit extremely slow connecting to sites. Prevent accessiblity services is checked. Also ran in safe mode, problem still exists.","<p>firefox 73.0.1 64 bit on windows 10. Connection time is extremely slow. I've checked Prevent Accessibility Services and also ran in safe mode with no change. Firefox has been reinstalled twice with same results.
+</p>",firefox-730;firefox-7301;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1292878;1292900;,GButa
+1280587,2020-02-24 08:00:03 -0800,2020-02-24T09:58:08Z,My context menu has invisable text,"<p>I don't know what's gone wrong but my right-click/context menu has become invisible for most parts, I'm having to guess where things are. see image.
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1292901;,rosebricsys
+1280585,2020-02-24 07:37:34 -0800,2020-02-25T09:39:49Z,problem authentication proxy,"<p>at work we use a proxy network with authentication ONLY with the firefox browser i have proxy problems.
+I see the page access denied by the proxy server, the only solution is to close and open the application.
+</p>",firefox-730;desktop;fix-problems;proxy;escalate;,firefox,fix-problems,en-US,1292902;1293149;1293163;1293191;1293229;,marco26
+1280583,2020-02-24 07:29:34 -0800,2020-02-24T22:10:37Z,Issues viewing synced tabs across different devices,"<p>I am having a problem viewing my synced tabs from different devices when i'm in firefox.....please help
+</p>",firefox-730;sync;desktop;windows-10;,firefox,sync,en-US,1293111;,kypreonyc
+1280580,2020-02-24 06:57:51 -0800,2020-02-25T06:57:29Z,"Při pokusu připojit přílohu v nějakém formuláři na webu, Firefox spadne.","<p>Z ničeho nic začal takto Firefox blbnout, když chci připojit na nějakém webu přílohu a otevře se okno pro vybrání, tak FireFox spadne. Přikládám screeny z hlášení pádu.
+</p>",firefox-730;desktop;fix-problems;windows-81;,firefox,fix-problems,cs,1292912;1293196;,Chadima.David
+1280577,2020-02-24 06:44:20 -0800,2020-02-24T06:45:51Z,Ublock origin wants Access IP address and hostname information permission,"<p>I don't know why this is. It's never wanted it before and seems sketchy
+</p>",privacy-and-security_1;firefox-730;desktop;windows-10;,firefox,privacy-and-security,en-US,1292864;,tolly67p
+1280574,2020-02-24 06:35:41 -0800,2020-02-24T08:36:54Z,How to stop Firefox from sending TLS 1.0 even after disabled in settings.,"<p>Currently running Firefox 73.0.1.
+</p><p>Connections to my server from Firefox all fail with 'connection_reset' from the server.
+</p><p>Wireshark capture shows that Firefox is attempting a 'Client Hello' using TLS 1.0.
+</p><p>Servers are configured with TLS 1.0 removed/disabled.
+</p><p>All the Firefox advanced settings in about:config are set with TLS 1.2 as the minimum, yet Firefox insists on sending TLS 1.0 'client hello'.
+</p><p>Not an expert, but it kind of looks like Firefox is sending a TLS 1.2 'Client Hello' encapsulated inside a TLS 1.0 'Client Hello'?  Is this even possible?
+</p><p>Chrome, IE, and Edge behave appropriately and send 'Client Hello' as TLS 1.2.
+</p><p>How do we get Firefox to send the appropriate 'Client Hello'?
+</p><p>This affects multiple versions of Firefox, even the beta builds that I tested over the weekend and occurs on any machine tested so far.  Windows 10, various flavors of Linux, etc.
+</p><p>See screenshots below for configuration settings and wireshark capture.
+</p><p>Thanks for the help!
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1292865;1292874;1292879;1292881;,leimerm
+1280571,2020-02-24 06:12:25 -0800,2020-02-24T07:34:07Z,Firefox Logo Missing from Desktop Icon - see Windows generic icon instead with no logo; please help?,"<p>Dear Community, 
+</p><p>All of my other desktop icons render as normal .... strangely the Firefox logo has disappeared from the icon.   I can still use the icon/shortcut without issue, but the logo is missing and replaced by some type of generic looking icon.   Any ideas please?   Thank you in advance.
+</p>",firefox-730;other;desktop;windows-7;,firefox,other,en-US,1292871;,lgrant124
+1280569,2020-02-24 05:49:52 -0800,2020-02-25T11:48:27Z,Motherload Multiple session / 1000+ tabs LOST. Need help restoring please.  Using (CCleaner),"<p>Initially this may seem the simplest problem but Im not sure it is.  Perhaps due to order of closing session windows.
+I have this problem once every few years, So far I havent managed to set up anythng that works reliably to get me out of the mess.
+I use FF and have over 1000 tabs. 99% of the time 'restore session from before' after reboot works automatically great.  Obviously with that many tabs things slow down, I then use CCLEANER to clear up and reboot.Today I forgot I had mutliple unimportant firefox windows open in addition to my MOTHERLOAD firefox window. I closed my session in perhaps some haphazzard order. On restarting I only had my unimportant windows open. 
+I have not restarted after this Im still sitting in the new session.
+I have yet to find a consistent way to backup my open tabs. In the past I had an addon which wrote my tabs to a file but that addon got dumped after an update to FF.
+I REALLY REALLY dont want to lose my list of tabs as I wont be able to get this info back
+But more that this what is the safest way to back this info up on a regular basis in a way that I can get back to it? The current way is not 100% foolproof. :(
+</p><p>I have no history showing in FF as CCleaner removes all that (session data isnt removed). I assume I might have restore or previous restore files? Really not sure where to look. Im on Windows 10. Im not even sure where to look anymore for the sessonrestore file. Perhaps it doesnt save it when it isnt the last window to be closed??? Im reluctant to close this session now too. (Hope all my terminology is correct. Is it a window has mutiple tabs, you can have more than one window all of which comprise the session.)
+</p><p>Any help appreciated. Feeling sick and nervous
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1292868;1292875;1292877;1292908;1292923;1292979;1292996;1293014;1293037;1293041;1293047;1293210;1293261;,girlintrouble
+1280567,2020-02-24 05:01:55 -0800,2020-02-25T08:06:00Z,Passwordsafe is empty although I safed many password and I'm not able to safe new passwords.,"<p>We run 14 citrix xenworker using the same basis image. But there are some machines where the users are not able to view or safe passwords. The problem occurs on diffrent machines after each restart so there is no pattern.
+</p>",firefox-680;desktop;fix-problems;,firefox,fix-problems,en-US,1293077;1293116;1293129;1293209;,michel.bukowski
+1280566,2020-02-24 04:48:36 -0800,2020-02-24T13:11:24Z,How do I disable Warning: Potential Security Risk Ahead for sites with invalid certificates?,"<p>How do I disable the warning screens that say ""Warning: Potential Security Risk Ahead"" when I visit sites on my home network (192.168.1.0/24)?  Nothing I've tried seems to work.
+Thanks,
+Eric
+</p>",privacy-and-security_1;firefox-730;desktop;mac-os;,firefox,privacy-and-security,en-US,1292958;1292965;1292981;1292992;1292995;,eric64
+1280565,2020-02-24 03:47:13 -0800,2020-02-24T04:03:10Z,Sync Account locked after mail bounced,"<p>I had deleted the mail alias I used for my sync profile. After trying to log in, I've received this message:
+</p><p>Sorry. We’ve locked your account.
+</p><p>The confirmation email we sent to firefoxalias@mypersonaldomain.com was returned and we’ve locked your account to protect your Firefox data.
+</p><p>If this is a valid email address, let us know and we can help unlock your account.
+</p><p>The link on ""us"" opened the default support page.  What should I do please?
+</p>",firefox-730;sync;desktop;linux;,firefox,sync,en-US,1292840;,firefoxp
+1280564,2020-02-24 03:21:00 -0800,2020-02-24T06:32:14Z,Diagnose CPU consumption,"<p>Once in a while I see one of my CPU cores 100% utilized. Checking process list reveals Firefox. This state persists until I open the Firefox Task Manager. The CPU utilization instantly drops to few percent.
+</p><p>Any idea how I can diagnose what causes this CPU utilization?
+</p><p>Note: `perf` says the Web Content thread is 100% utilized. But the call stack gives no obvious hints about the reason.
+</p>",desktop;fix-problems;linux;,firefox,fix-problems,en-US,1292843;1292857;1292863;,wirch.eduard
+1280563,2020-02-24 03:11:25 -0800,2020-02-24T23:32:22Z,Why do I see a different icon for the browser in my Mac task base?,"<p>In my iOS task bar I now have two different icons for the Firefox browser and I wonder whether it's safe. I have the usual Firefox flame icon and some iOS tool icon.
+</p>",other;firefox-720;desktop;mac-os;,firefox,other,en-US,1292971;1293060;1293127;,margreetmoerland
+1280562,2020-02-24 03:00:13 -0800,2020-02-24T18:04:20Z,i cant see my bookmark toolbar,"<p>i cant see my bookmark toolbar! i also did turn on the bookmark toolbar from Costumize but i cant see it
+</p>",bookmarks;firefox-730;firefox-7301;desktop;windows-10;,firefox,bookmarks,en-US,1292906;1293071;,farzinsaleh69
+1280561,2020-02-24 02:42:45 -0800,2020-02-24T04:54:43Z,I can't play Curzon Home Cinema Films anymore on Imac (ipad ok) I have turned of the addons for the page or white listed www.curzonhomecinema.com,"<p>I thought the problem might be due to :private window setting, though i can't see how to open a non private window or if that is the problem. I am a subscriber to Curzon Cinemas ( UK ) and it has worked in the past in Safari and Firefox, it is ok on my Ipad, and have whitelisted the Domains on my addons but still no joy.
+</p><p>I am using a 24 inch early 2009 Imac which i believe is now unsupported ,but it works well enough in all other respects.
+</p><p>Could it be a problem with the Private window ? I don't see why it should, ore like a blocker but as i said tried to deal with that and can't see anything in my settings which would restrict playback, the only thing i have not tried is restarting with all addons/exten's disabled.
+</p>",firefox-730;other;desktop;mac-os-x-10116;,firefox,other,en-US,1292845;,terry.gray55
+1280560,2020-02-24 02:24:53 -0800,2020-02-25T03:26:19Z,unable to open firefox because of profile missing in ubuntu,"<p>I accidentally deleted my cache file in Ubuntu 18.04 and deleted it in the trash also, so I cannot recover it, I tried uninstalling firefox and completely deleting any folders related to firefox in /usr/lib/mozilla and mozilla-addons and also the data in opt and also hidden folders in home directory, tried it trice and updated the system if it can solve anything but no results, any idea on how to go about this problem
+</p>",firefox-730;other;desktop;,firefox,other,en-US,1292846;1293114;1293157;,psvkushal
+1280558,2020-02-24 01:47:55 -0800,2020-02-25T02:29:26Z,When I try to select text in a box it moves me to the next tab in my products database.,"<p>Apparently the database is built in Joomla and PHP.  The developer says it must be a browser issue as it doesn’t happen for him. Also it doesn’t happen for me in Google Chrome. I am attaching a screen grab.
+</p>",firefox-730;firefox-7301;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,1293073;1293150;1293151;,alex114
+1280554,2020-02-23 23:13:42 -0800,2020-02-24T00:29:30Z,New megabar top visited sites number,"<p>In the new megabar on Firefox 74beta, the top visited sites are 8, but the parameter browser.urlbar.maxRichResults is on 10.  What is the way for increase the number of listed sites?
+</p>",firefox-740;beta;desktop;tips;windows-10;megabar;,firefox,tips,en-US,1292830;,ste_men1
+1280551,2020-02-23 21:57:32 -0800,2020-02-23T21:57:32Z,Changed search engine to Duckduckgo. Recently when I search it flashes the result for a second and the whole screen goes blank,"<p>DuckDuckGo was working fine as a search engine but within the last month, the search results are flashed for a  second before the whole tab goes to white blank displaying nothing. I removed DuckDuckGo privacy extension. Switched temporarily to Google. Search results were fine. Switched back to DuckDuckGo as default engine. Same problem is experienced now.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,"",wrlsdata
+1280549,2020-02-23 21:40:08 -0800,2020-02-25T05:46:14Z,Meg tudom nézni a törölt üzeneteket?,"<p>A törölt üzenetekre lennek kíváncsi.
+</p>",tips;desktop;needsinfo;,firefox,tips,hu,1293186;,ricsikem1995
+1280547,2020-02-23 21:14:40 -0800,2020-02-24T22:23:17Z,Highlight a word in browser and right click for word pronunciation?,"<p>Reading a web page, not sure how a word is pronounced so highlight the word and an automated icon appears, click on it and then select the speaker (pix of loud haler) and the word is pronounced in the Queens English. I had this in my browser, you could also right click the highlighted word and the option of pronunciation of the word or translation of the word would be available. Just one day, weeks ago it suddenly was gone. I don't remember how I obtained this pronunciation feature originally but I'd really like it back.
+</p><p>Thanks in advance for your help.
+MT
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1292809;1293075;1293112;,wmthompson
+1280544,2020-02-23 19:20:37 -0800,2020-02-24T22:24:17Z,"Can't apply to a job using linkedin, 'Application' is disabled'.","<p>I'm applying to a job on Raytheon's website. I apply to their job portal via Linkedin. I can usually apply without problems. Recently whenever I try to apply, a pop-up window appears which says ""application is disabled"" with the Linkedin logo above the sentence. I've tried reinstalling firefox, clearing cookies, checking Linkedin privacy settings, checking Firefox privacy settings. I still can't seem to find a solution. Could someone reach out? Thanks.
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1292811;1293113;,JensMJimenez89
+1280542,2020-02-23 19:08:28 -0800,2020-02-24T09:44:51Z,update broke my email password,"<p>On 22/02/2020 Firefox updated and now asks to resign in But will not except my password witch I know is correct
+</p>",firefox-730;other;firefox-7301;desktop;windows-10;,firefox,other,en-US,1292812;1292872;1292890;,jedediahdewey768
+1280540,2020-02-23 18:16:48 -0800,2020-02-23T20:33:32Z,Mac OS: How do I target a specific instance of Firefox from the command line when more than one instance is running?,"<p>I use different instance of FF with different profiles as front ends for specific php applications. Sometimes when I launch a new instance via the backend script of a GUI app I've created, even though the command line arguments for the firefox binary specify the url, the instance sometimes fails to open the url and stays at the default home page. I'd like to avoid having to set the target url in the preferences for the FF profile and instead load it from the command line, as I set the url in a config file for my GUI app and don't want to have it set in multiple places.
+</p><p>Obviously I can get the PID of the instance, but then how would I use that (or the firefox binary) to tell that instance to open a specific URL?
+</p><p>Code from the script that launches FF: (included variable are defined previously)
+</p><pre>   browserlaunchcmd=""$browserdir/Firefox.app/Contents/MacOS/firefox -P $browserprofile -no-remote \""http://$webdomain/\""""
+   ...
+   eval ""$browserlaunchcmd""
+</pre>",firefox-730;other;desktop;mac-os;escalate;,firefox,other,en-US,1292802;,firefox.com14
+1280538,2020-02-23 17:30:27 -0800,2020-02-25T00:33:40Z,"Video won't play on news sites, aggregators.","<p>New to Ubuntu and Firefox. Want to ditch Chrome. I have the existing extensions and a list of recommendations. I believe I have just the one add-on.
+</p><p>I've tried searching for the answer but think I may be asking the wrong question to diagnose the problem. 
+YouTube plays just fine. 
+</p><p>I have encountered: 
+- This video file cannot be played.(Error Code: 102630)
+- No compatible source was found for this media.
+</p><p>Thanks for any help, 
+Varices
+</p>",firefox-730;desktop;fix-problems;,firefox,fix-problems,en-US,1292793;1292798;1292810;1292816;1292826;1292827;1292975;1293034;1293048;1293135;1293138;,varices
+1280537,2020-02-23 17:26:13 -0800,2020-02-23T19:01:10Z,spotify plugin has crashed,"<p>Hi up until recently spotify was working ok, recently when I log in with my account in Spotify it shows the plugin has crashed. Two options are reload with simple does the same and 2 log the crash report which have done.
+I have unistall FF and removed my profile /home/username/.mozilla and rebuilt FF but still same issue. Although the first time I go to logon to spofity I have to enable DRM and it says FF is downloading plugins for this site.
+I have started in safe mode and refreshed mode.
+Not sure what else I can do. Note the WideWine extension is enabled.
+</p>",firefox-730;desktop;fix-problems;linux;,firefox,fix-problems,en-US,1292792;1292797;,exup1
+1280536,2020-02-23 17:20:10 -0800,2020-02-23T17:20:10Z,spotify. The plugin has crashed,"<p><i>Locking this thread.</i><br><i>Please continue here: [<a href=""/questions/1280537"" rel=""nofollow"">/questions/1280537</a>]</i><br>
+I am running Firefox 73.0 (64bit) on Arch and up until recently everything with spotify was working well for the web player. But now I get this yellow banner saying The plugin has crashed, two option send crash report (which I have done) and reload. Reloading does the same. I have disabled all the plugins and made sure that the widewine add on is enabled.
+I also used the refreshed option and started in safe mode. I also unistalled fire fox and deleted the local profile for firefox.
+Still same issue. 
+Next opened in a private window still same problem.
+Logged out of my firefox account same issue. 
+I am scratching my head. Happy to fully remove all Firefox settings/cache 100% from the machine to start from scratch but see above I had thought I have done this. (in linux the profile is /home/username/.mozilla/)
+</p>","",firefox,fix-problems,en-US,"",exup1
+1280534,2020-02-23 16:57:01 -0800,2020-02-23T22:51:17Z,lockwise not showing passwords but firefox logs into sites anyway,"<p>I can only see 4 passwords in my firefox lockwise yet when I go to any website that I previously logged into in the past few years, it logs in just fine.
+</p><p>Where is firefox getting these passwords from and why are they not showing in lockwise?
+</p>",privacy-and-security_1;firefox-730;desktop;windows-10;,firefox,privacy-and-security,en-US,1292803;1292819;,Bangfeast
+1280533,2020-02-23 16:37:17 -0800,2020-02-24T15:04:14Z,Only Facebook won't load and does on other browsers,"<p>Hi, on both my computers Facebook won't load in Firefox. It works fine with my wife's account in other browsers. It isn't the account as it still works from my phone.
+No matter how I go to FB, it will say at the bottom ""...transferring data from"", but then it will stop and screen just goes white. Sometimes it says, ""Something went wrong"".
+I have tried clearing all the date in Firefox and using CCleaner.  
+I have tried starting in safe mode.
+I have tried completely uninstalling and reinstalling.
+Nothing works, but ever other page works just fine on both computers.
+Anything you have to suggest would be greatly appreciate it. It is, by far, my favorite browser and I hate to have to use another one just for FB.
+Thanks
+</p>",firefox-730;websites;firefox-7301;desktop;windows-10;,firefox,websites,en-US,1292813;1292861;1292867;1293011;1293033;,clorenz46615
