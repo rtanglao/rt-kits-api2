@@ -1,6 +1,12 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 01march2020 from the csv file of questions by id: for mturk,  cut out title and content and parse out the HTML
+
+```bash
+./print-all-questions-just-title-content.rb id-1279731-unixtime-1583100833-by-id-firefox-creator-answers-desktop-all-locales.csv 
+```
+
 ## 01march2020 get a csv file of questions by id 
 
 ```bash
