@@ -1,9 +1,30 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 01march2020 get a csv file of questions by id 
+
+```bash
+echo '1279731' | ./get-by-id-creator-answers-questions.rb
+```
+
+which outputs sample file: 
+
+`id-1279731-unixtime-1583100833-by-id-firefox-creator-answers-desktop-all-locales.csv`
+
+and if you only want title and text (but with html; html has to be parsed out):
+
+```bash
+mlr --csv cut -f title,content id-1279731-unixtime-1583100833-by-id-firefox-creator-answers-desktop-all-locales.csv 
+title,content
+Restore session doesn't work after update,"<p>I have a very high tab count, and when restoring Firefox I usually get the ""warning:unresponsive script"" pop up. I press continue, it pops up again, I press continue again, and my tabs are restored. All is well.
+However, when I restarted Firefox today, it updated, and rather than the unresponsive script box, I get a blank pop up. I cannot do anything, and my tabs cannot be restored.
+I tried a refresh and a clean install, but that does nothing.
+</p>"
+````
+
 ## 23february2020 getting the people who answered the question (don't include answers from the question creator i.e. the original post)
 
-```
+```bash
 ../print-question-url-answer-id-answer-creator.rb \
 [csv file created by get-creator-answers-questions-for-arbitrary-time-period.r]\
 > [questions-answers-with-times.csv] 
