@@ -4,7 +4,21 @@ Roland's Kitsune API scripts version 2
 ## 01march2020 from the csv file of questions by id: for mturk,  cut out title and content and parse out the HTML
 
 ```bash
-./print-all-questions-just-title-content.rb id-1279731-unixtime-1583100833-by-id-firefox-creator-answers-desktop-all-locales.csv 
+./print-all-questions-just-title-content.rb \
+id-1279731-unixtime-1583100833-by-id-firefox-creator-answers-desktop-all-locales.csv 
+```
+
+which outputs a parsed csv file of form `title-parsed-content-<csv-filename>` 
+
+`title-parsed-content-id-1279731-unixtime-1583100833-by-id-firefox-creator-answers-desktop-all-locales.csv`
+:
+
+```csv
+title,content
+Restore session doesn't work after update,"I have a very high tab count, and when restoring Firefox I usually get the ""warning:unresponsive script"" pop up. I press continue, it pops up again, I press continue again, and my tabs are restored. All is well.
+However, when I restarted Firefox today, it updated, and rather than the unresponsive script box, I get a blank pop up. I cannot do anything, and my tabs cannot be restored.
+I tried a refresh and a clean install, but that does nothing.
+"
 ```
 
 ## 01march2020 get a csv file of questions by id 
@@ -13,7 +27,7 @@ Roland's Kitsune API scripts version 2
 echo '1279731' | ./get-by-id-creator-answers-questions.rb
 ```
 
-which outputs sample file: 
+which outputs sample file of the form `id-<first-id>-unixtime-<unixtime i.e. int-when-created>.csv`: 
 
 `id-1279731-unixtime-1583100833-by-id-firefox-creator-answers-desktop-all-locales.csv`
 
