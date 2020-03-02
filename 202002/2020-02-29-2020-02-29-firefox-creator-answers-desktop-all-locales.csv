@@ -1,0 +1,173 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1281032,2020-02-29 15:59:58 -0800,2020-02-29T19:30:08Z,Evernote web clipper won't work,"<p>When clicking on Evernote Web Clipper app to try to activate on upper right side, I continue to get a 3rd party cookie warning.  I've tried making <a href=""http://www.evernote.com"" rel=""nofollow"">www.evernote.com</a> an exception, and have tried all levels of cookie security, but nothing helps.  Can't get Web Clipper to become an active app.  How do I get by the 3rd party cookie warning?
+</p>",firefox-730;firefox-7301;customize;desktop;windows-10;,firefox,customize,en-US,1294443;,plapresto
+1281031,2020-02-29 15:37:16 -0800,2020-02-29T19:38:36Z,Moz extenion redirects and blocks “dangerous pages” which are not dangerous. But no such extension is listed,"<p>A Norton pop-up began blocking me from a malicious page, which is not malicious. This is what the page address looks like: Extension.... Safe Web)   moz-extension://d4810f8a-e29b-471b-ae89-97e217f96413/content/ui/blockedPage.html?originalURL=<a href=""https://cs18.uhcloud.com:2096/&amp;reportURL=https://safeweb.norton.com/report/show?url=https://cs18.uhcloud.com:2096/&amp;ulang=en&amp;blockPageType=malicious&amp;continueToSiteURL=https://cs18.uhcloud.com:2096/"" rel=""nofollow"">https://cs18.uhcloud.com:2096/&amp;reportURL=https://safeweb.norton.com/report/show?url=https://cs18.uhcloud.com:2096/&amp;ulang=en&amp;blockPageType=malicious&amp;continueToSiteURL=https://cs18.uhcloud.com:2096/</a>
+</p><p>It began a few days ago, and comes up about twice a day. I haven't detected any pattern, yet. Last time, after i had shut down the blocked and blocking pages, i spoke to a Norton tech who confirmed that my webmail page was safe, suggesting that it was ""probably"" a browser issue. Has anyone else experienced such a weird glitch?
+</p>",firefox-730;websites;desktop;windows-81;,firefox,websites,en-US,1294405;1294413;1294423;1294428;1294445;,josephravick
+1281030,2020-02-29 14:58:57 -0800,2020-02-29T15:58:49Z,How safe is it to use multiple profiles in the same firefox version? And multiple profiles in different firefox version (stable and beta)?,"<p>Dear Mozilla team,
+I'd like to set up 2 different profiles: one for email, banking and other sensitive stuff and the other for general web surfing.
+Honestly, so far I've used Firefox for the first job and Chrome for the second one.
+Now I would like to try to set-up 2 profiles in Firefox to use it for both purposes
+While I used to use 2 different browsers before, now I would use the same browser, which can access both profiles.
+I'm afraid that if I browse with my hobby profile, a possible threat could easily access or compromise the data of the second profile. 
+Is the solution of using 2 different browsers actually more secure?
+What if I use the stable version together with the beta version of Firefox instead?
+I would like clarification on this.
+Thanks
+</p>",privacy-and-security_1;desktop;windows-10;,firefox,privacy-and-security,en-US,1294402;,dany111
+1281028,2020-02-29 14:22:01 -0800,2020-02-29T17:00:02Z,Is the VPN hola! automatically installed into the private brower of mozilla?,"<p>I was accused of installing a plugin into my computer, and I have no recollection of me pressing download/install. I am confused and blind sided. My question is, does Hola! come with Mozilla private browser without the users knowledge or do I have to accept it for it to be used?
+</p>",firefox-730;customize;desktop;windows;,firefox,customize,en-US,1294389;1294408;1294412;1294415;1294416;,jrgm931
+1281025,2020-02-29 13:36:36 -0800,2020-02-29T21:01:48Z,Firefox crashes systematically when I visit specific web sites,"<p>Firefox systematically crashes when I open specific web pages like for instance (but not only):
+<a href=""http://www.farmae.it"" rel=""nofollow"">www.farmae.it</a>
+<a href=""http://www.banggood.com"" rel=""nofollow"">www.banggood.com</a>
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1294382;1294449;,clericis
+1281023,2020-02-29 12:41:57 -0800,2020-03-01T15:28:03Z,Can't see recent bookmarks in a folder on the toolbar,"<p>I know the bookmarks are there because they come up when I begin typing.  Is there a finite number of bookmarks in any given folder?
+</p>",bookmarks;firefox-730;desktop;mac-os;,firefox,bookmarks,en-US,1294373;1294493;1294570;,mtarantino1803
+1281022,2020-02-29 12:40:51 -0800,2020-02-29T16:00:08Z,Some bookmarks are missing after importing bookmarks.html,"<p>firefox 73.0.1（window10） cannot add bookmarks with certain features (such as starting with 'chrome:') And if some bookmarks in the imported HTML bookmark file contain this feature You cannot find these bookmarks after importing. To be precise, it is not found but it does not exist.
+</p><p>I tried adding and exporting these URLs(chrome:, data:, javascript:, resource:) to bookmarks.html on Chrome. My firefox bookmarks were empty and then imported into bookmarks.html. Unfortunately, the problem reproduced.
+</p><p>btw,for the first time I knew that 'chrome:' could not be added to chrome bookmarks, chrome will automatically correct 'chrome:' to 'http://chrome/', it seems to have an automatic correction mechanism, it will fix these
+'chrome:' | 'chrome:/' | 'chrome://'-&gt; 'http://chrome/'.
+so, I changed 'chrome:' to 'chrome://xxx/'
+</p><p>firefox bookmarks were empty,then importing. 
+’resource:’ --&gt; ‘resource:///’,’data:’and’ javascript:’ have not changed.
+It is interesting that only ""chrome: // xxx /"" disappeared
+</p><p><a href=""https://user-media-prod-cdn.itsre-sumo.mozilla.net/uploads/images/2020-02-29-12-32-44-c4ca42.png"" rel=""nofollow"">https://user-media-prod-cdn.itsre-sumo.mozilla.net/uploads/images/2020-02-29-12-32-44-c4ca42.png</a>
+</p><p>I use the search bar in the Bookmarks Manager (Library) and search for chrome: //',but...
+<a href=""https://user-media-prod-cdn.itsre-sumo.mozilla.net/uploads/images/2020-02-29-12-32-56-c81e72.png"" rel=""nofollow"">https://user-media-prod-cdn.itsre-sumo.mozilla.net/uploads/images/2020-02-29-12-32-56-c81e72.png</a>
+</p><p>When adding directly, firefox cannot add ‘chrome:. *’， The ‘add’ button is gray
+<a href=""https://user-media-prod-cdn.itsre-sumo.mozilla.net/uploads/images/2020-02-29-12-33-01-eccbc8.png"" rel=""nofollow"">https://user-media-prod-cdn.itsre-sumo.mozilla.net/uploads/images/2020-02-29-12-33-01-eccbc8.png</a>
+</p><p>chrome-&gt; bookmark--chrome.html-&gt; firefox-&gt; bookmark--firebox.html, I see that 'chrome: // xxx /' does disappear
+<a href=""https://user-media-prod-cdn.itsre-sumo.mozilla.net/uploads/images/2020-02-29-12-33-07-a87ff6.png"" rel=""nofollow"">https://user-media-prod-cdn.itsre-sumo.mozilla.net/uploads/images/2020-02-29-12-33-07-a87ff6.png</a>
+<a href=""https://user-media-prod-cdn.itsre-sumo.mozilla.net/uploads/images/2020-02-29-12-33-12-e4da3b.png"" rel=""nofollow"">https://user-media-prod-cdn.itsre-sumo.mozilla.net/uploads/images/2020-02-29-12-33-12-e4da3b.png</a>
+</p><p>I want to know if this is a bug or a firefox internal mechanism?
+If it is a bug, is it my case or can it be reproduced on other PCs?
+If this is the internal mechanism of firefox, can I find related instructions or documents, are there other situations that may be lost?
+To avoid losing more bookmarks, I want to know if there are other features?
+</p><p>The above comes from the Google Translator.
+</p>",bookmarks;firefox-730;desktop;windows-10;,firefox,bookmarks,en-US,1294376;1294395;1294397;1294401;1294403;,rainsocean
+1281020,2020-02-29 12:19:44 -0800,2020-02-29T16:15:34Z,"Google results page keeps appearing greyed out and unusable. After deleting cookies and site data, it works, and then again it doesn't.","<p>Hi, let me first say that I love the work that you're doing. I've been using firefox almost exclusively for many years. Lately, about 1 or 2 months, every few days when I type a search in the embeded seaerch box with google as the engine, i get a greyed out and unusable results page. I have tried uninstalling all addons but nothing changes. The only thing that works is deleteing all coockies and site data in Options&gt;privacy&amp;security. However, that only lasts a couple of days tops and then I am faced with the same issue again. Is there a more permanent solution to this? And why is this happening? Thanks
+</p>",firefox-730;websites;firefox-7301;desktop;windows-10;,firefox,websites,en-US,1294407;,Lovedj
+1281018,2020-02-29 11:41:57 -0800,2020-02-29T19:09:58Z,Secure connection failed and Firefox did not connect,"<p>Secure connection failed and Firefox did not connect
+</p>",privacy-and-security_1;firefox-730;firefox-7301;desktop;windows-7;,firefox,privacy-and-security,en-US,1294398;1294440;,shubhshreegraphics
+1281016,2020-02-29 11:31:02 -0800,2020-02-29T15:32:46Z,"The destination toolbar (shown on the bottom of the file) reads ""Timed Out"".","<p>The bottom of the file has a destination toolbar that lets the webpage's URL loads, such as ""Connecting to <a href=""http://cdnsure.com"" rel=""nofollow"">cdnsure.com</a>"", but it said ""Timed Out.""
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1294383;1294386;1294392;1294393;1294394;,hopkinsbrandon921
+1281014,2020-02-29 11:03:54 -0800,2020-02-29T18:52:19Z,New version is not adding extensions,"<p>Hi, 
+Recently I had installed latest version of Mozilla browser. But i have to work on this [website] I don't think why the extensions are not adding. Is this installation issue that I have to solve by re-installation or something else.
+</p><pre>Thanks
+</pre>",bookmarks;desktop;,firefox,bookmarks,en-US,1294436;,papraroye686
+1281011,2020-02-29 10:11:56 -0800,2020-02-29T10:11:56Z,100 % CPU usage by Firefox if the PC has been in sleep mode over midnight,"<p>If the PC has been put in sleep mode, occasionally after wake-up Firefox uses initially 100 % CPU time and CPU usage remains exceptionally high. Making a new sleep/wake-up cycle (usually?) clears the situation. It may appear weird but it seems to be that the problem arises (mostly?) if the PC has been in sleep over midnight (i.e. 23:59:59 -&gt; 00:00:00). It's not Firefox version specific, the problem has been around for a long time and over numerous Firefox version. (EliteBook 8540w, Windows 7)
+</p>",firefox-730;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,"",Sivullinen
+1281009,2020-02-29 09:19:21 -0800,2020-02-29T17:31:01Z,How do nytimes.com slideshows bypass my blockers?,"<p>Today the NYT front page has done something new that breaks all of my Firefox controls so that their slideshows of images associated with articles on the homepage are autoplaying again (specifically, for today, images of the war in Afghanistan; 'live' primary coverage; photos from their 'weekender' section).  
+</p><p>I am using FlashBlock (Plus), Disable HTML5 Autoplay,  and NoScript, all set to autoupdate, and my FF is on beta channel 74.0b8, and while as a subscriber, my normal settings are Trust for <a href=""http://nytimes.com"" rel=""nofollow"">nytimes.com</a> and <a href=""http://nyt.com"" rel=""nofollow"">nyt.com</a>, switching these to 'default' or all settings for the <a href=""http://nytimes.com"" rel=""nofollow"">nytimes.com</a> home page to untrusted did not stop the slideshows.  
+</p><p>What are they doing that gets past all my blockers, and how do I stop it?
+</p><p>I cannot ignore moving/changing images.  My brain is not wired that way.  This makes their site completely unusable to me.
+</p>",firefox-680;customize;desktop;mac-os;,firefox,customize,en-US,1294409;1294414;1294421;,Foxfree99
+1281006,2020-02-29 08:00:06 -0800,2020-02-29T16:48:15Z,How do I download an extension for a certain site,"<p>I need to download an extension from Firefox in order to take a ProctroU test. When I try to download it I get a popup saying that I have a connection failure. Not sure how to fix this. Does anyone have any suggestions? Thank you
+</p>",firefox-730;other;desktop;windows-7;,firefox,other,en-US,1294410;,joaeic
+1281005,2020-02-29 07:57:09 -0800,2020-03-01T16:33:35Z,multiple (at least 4) firefox.exe running in process manager when I open Firefox,"<p>I am once again experiencing this same issue that I was experiencing when I originally asked the question in this thread back in 2018: <a href=""https://support.mozilla.org/en-US/questions/1217583?utm_campaign=questions-reply&amp;utm_medium=email&amp;utm_source=notification"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1217583?utm_campaign=questions-reply&amp;utm_medium=email&amp;utm_source=notification</a>.
+</p><p>I tried the recommended fix in about:config that was suggested in that thread (and worked for me back in 2018), but all of the settings are still the same as what I set them to to originally fix the issue. The only thing that has changed since that I can point to is that Firefox did this update today, and today is when I started seeing the issue again: <a href=""https://support.mozilla.org/en-US/kb/firefox-dns-over-https"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/firefox-dns-over-https</a>. I don't know if this is related, but it is the only difference I can think of.
+</p><p>Having multiple Firefox instances running in the Process Manager is really slowing down my browser and overall computer function. Any help would be appreciated.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1294329;1294580;,kcru
+1281004,2020-02-29 07:50:34 -0800,2020-02-29T18:50:33Z,How to get recovery key when I can’t get to the second stage. If I click settings I can’t find acctount recovery listed,"<p>See above. I listed the roblem
+</p>",download-and-install_1;desktop;,firefox,download-and-install,en-US,1294435;,nhawkinson32
+1281003,2020-02-29 07:49:50 -0800,2020-02-29T07:49:50Z,How to get recovery key when I can’t get to the second stage. If I click settings I can’t find acctount recovery listed,"<p><i>Locking this thread.</i><br><i>Please continue here: [<a href=""/questions/1281004"" rel=""nofollow"">/questions/1281004</a>]</i><br>
+See above. I listed the roblem
+</p>",download-and-install_1;desktop;,firefox,download-and-install,en-US,"",nhawkinson32
+1281002,2020-02-29 07:19:58 -0800,2020-02-29T08:20:40Z,exporting vcard from icloud error,"<p>I am trying to export my contacts to a vcard on iCloud.  It will do one contact but if I select ALL it give me an error it cannot do.  Is there a setting in Firefox that I need to set to do this?  I even tried to turn off Norton and all add ons.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1294282;1294283;,oldbob2
+1281001,2020-02-29 06:54:17 -0800,2020-02-29T12:10:40Z,How to disable adblock without intalling it,"<p>I'm using Firefox 68.5.0. I did not install any adblock add-on or see the shield on toolbar but when I access to many websites, they keeps notifying that ""Adblocker detected! Please disable it on our blog to continue reading"". How can I fix this problem?
+</p>",firefox-680;customize;desktop;windows-10;,firefox,customize,en-US,1294280;1294325;1294330;1294341;,phuonganhbui92
+1281000,2020-02-29 06:34:49 -0800,2020-02-29T06:34:49Z,When starting FireFox freezes the entire computer for 2-3 minutes,"<p>Since I migrated one computer to Windows 10, starting FireFox freezes the entire computer for 2-3 min (nothing works: no mouse, no other program [even Task Manager] can start; all I can do is to wait...), after which the computer and FireFox work normally.  I uninstalled FireFox (asking to remove all files) and reinstalled it using a fresh download from the mozilla web site and creating  a new default user, but to no avail.  Removing all add-ons was also without effect.    This problem occurs only one specific computer on which FireFox worked fine before the migration from Win7 to Win 10 (I have installed FireFox on several other Windows 10 computer without any problem).   
+</p><p>This web site suggested that Shockwave Flash (32.0.r0) could be the cause but I do not think so because this plugin (which we need to keep to see graphs on specific web sites and is activated only when visiting these sites) is also installed in other computers (same version of the plugin and of FireFox (73.0.1 - 64 bits) , all Windows 10) where I do not have this problem... 
+</p><p>I have been told to completely remove all traces of FireFox before reinstalling it but how can I do this (would using Revo unintstaller help ?). 
+</p><p>What else should I try ?
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",ptulkens
+1280995,2020-02-29 05:05:15 -0800,2020-02-29T05:05:15Z,Full screen turns to non full size screen on its own,"<p>Was watching Netflix movie in full screen, suddenly screen changed to being able to see the web browser tabs and bottom taskbar of Windows after about 20 minutes of watching the movie. I pushed F11 on the keyboard, which took the movie back to full screen with no further issue.  What could have caused it?
+</p>",firefox-730;firefox-7301;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,"",familyemailbox
+1280992,2020-02-29 04:45:31 -0800,2020-03-01T00:20:56Z,How to allow permanent access to webcam for HTTP website?,"<p>I'm a developer of intranet enterprise app. The app works through HTTP and requires webcam access to make photos of clients.
+Right now, employees use outdated FF 50, and I need to convince the management to upgrade the version to current.
+HTTPS is required for webcam access starting with FF 68. We've got over 300 app installations, and HTTPS is not viable in our situation.
+I've found two preferences in about:config, media.devices.insecure.enabled, media.getusermedia.insecure.enabled, and photo can be taken by clicking Allow every time. When I click ""Remember this decision"" checkbox, Allow button becomes disabled, and FF displays message ""Your connection to this site is not secure. To protect you, Firefox will only allow access for this session"".
+</p><p>App is hosted on one fixed internal IP address and users probably don't have access to Internet.
+Can I do something to fight this behavior? Users should be able to allow permanent access to webcam.
+</p><p>PS. Upgrade was delayed by <a href=""https://github.com/mozilla/pdf.js/issues/2851"" rel=""nofollow"">https://github.com/mozilla/pdf.js/issues/2851</a> - we've used Adobe plugin instead. Last week I fixed the bug in our own copy of PDF.js. We will be upgrading to either FF 67 or the current version.
+</p><p>Update: found a workaround to remember the website. Click on Connection not secure icon, then More Information, then Permissions. You can set allow camera there, but FF ignores the setting and still shows popup in question.
+</p>",privacy-and-security_1;desktop;,firefox,privacy-and-security,en-US,1294286;1294309;1294464;,stbear11
+1280991,2020-02-29 04:44:30 -0800,2020-02-29T11:10:31Z,Key History is empty,"<p>Hi,can you explain why I don't have a login history from today? the login details tab is empty. Yesterday everything was ok
+</p>",privacy-and-security_1;firefox-730;desktop;windows-10;,firefox,privacy-and-security,en-US,1294285;1294326;,szymondebinski
+1280990,2020-02-29 04:35:48 -0800,2020-02-29T17:41:23Z,Firefox Bookmark Read Only?,"<p>After updating to 73.0.1(64-bit), it seems I cannot edit Bookmark properly
+</p><p>I can change Folder name, delete/edit Bookmark Entry ... etc
+Once I Copy/Make new Folder, the Bookmark seems ... locked
+</p><p>No more changes can be made before rebooting the system
+</p><p>It is happening on both Windows, and macOS, both on 73.0.1
+</p><p>※It seems to be very OK on another computer with lower version, but it also stopped working after automatically updating to 73.0.1
+</p><p>Tried booting in Inrecognito(No Extension Allowed, and it appears to have same problem)
+</p><p>Wonder if is a known problem? 
+</p><p>Thank you
+</p>",bookmarks;firefox-730;desktop;,firefox,bookmarks,en-US,1294262;1294312;1294317;1294377;1294379;1294387;1294424;,nutnutwin
+1280988,2020-02-29 03:31:25 -0800,2020-02-29T03:31:25Z,Não encontrei a opçao CRIAR ATALHO ou ENVIAR PARA A AREA DE TRABALHO.,"<p>No Chrome tem a opção Ferramentas &gt; Criar atalho. No Internet Explorer tem a opção 
+Arquivo &gt; Enviar atalho para a area de tabalho.  Esta opção faz muita falta no Firefox e no Thunderbird também.
+</p>",firefox-730;other;firefox-7301;desktop;windows-10;,firefox,other,pt-BR,"",maluro
+1280987,2020-02-29 03:06:07 -0800,2020-02-29T03:43:10Z,"Since a while I get the message (in German)  ""Firefox tries to enter ""it2b.anyprox.de"" Bitdefender is blocking this. What is behind?","<p>I am using Firefox Version 73.0.1 (64-Bit) based on Win 10 (updated) on an Surface Pro (6th gen) Since a while I get the message (in German)  ""Firefox tries to enter ""<a href=""http://it2b.anyprox.de"" rel=""nofollow"">it2b.anyprox.de</a>"" with an invalid certificate. Bitdefender is blocking this. Can anybody explain to me, what is running here? Should I change something or simply ignore the message?
+</p>",firefox-730;other;firefox-7301;desktop;windows-10;,firefox,other,en-US,1294251;,thomas101
+1280986,2020-02-29 02:45:36 -0800,2020-02-29T02:45:36Z,Incorrect video displaying,"<p>Playing video on <a href=""http://TED.com"" rel=""nofollow"">TED.com</a> and on any other web resources are broken because of this error. Please help
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",latipovtatar
+1280983,2020-02-29 02:28:55 -0800,2020-02-29T22:37:51Z,trackng protection,"<p>I have my Firefox privacy setting set as ""Strict"", yet Firefox has detected 0 trackers over the past week...  I use Google and Ublock origin detects more stuff..
+</p><p>Also, speaking of uBlock Origin (add=ons), I now have got an update for it and seen a dalog from Firefox requesting access to th e iner workings..
+</p><p><a href=""https://support.mozilla.org/en-US/kb/permission-request-messages-firefox-extensions?as=u&amp;utm_source=inproduct"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/permission-request-messages-firefox-extensions?as=u&amp;utm_source=inproduct</a>
+</p><p>Why would this be when uBlock Origin doesn't need to share host-name/IP address or anything previously not done to privide full functionality...
+</p><p>Ideally, isn't this kind of ""anti"" privacy ? Some add-on that always worked flawless and only NOW after an update,needs access to/ more control to continue what is always did before without?
+</p><p>That raises concern to me from a privacy standpoint..... I'm just wondering though If i should allow it stay with older version...
+</p><p>To me, the way privacy is generally handed would be addon developers get you 'hooked', and to give you calm they tell you the 'added"" borderlne privacy they must now have access to, is ""required""to usually give you more features or more alerts (just to make anyone feel safer as an add-on protecting you more, when in fact its slowly doing exactly the opposite.. This way by edging more and more overtime, users will by blind to how much access ""privacy""add-ons even get.)
+</p><p>My privacy is mine..... so any short-falls like more access when it previously worked ok is an instant 'red flag' to me... and would be with anything.
+</p><p>Any suggestions? I'm sure other people here also in the same boat with uBlock Origion update, and privacy focused, so what did you do?
+</p>",privacy-and-security_1;firefox-730;firefox-7301;desktop;mac-os;,firefox,privacy-and-security,en-US,1294433;1294457;,TECH192
+1280982,2020-02-29 02:24:05 -0800,2020-02-29T11:07:45Z,firefox support question,"<p>On my profile page, next to my name there is another name in brackets () What is this and how do I remove it and if I cannot remove it, how do I unlink my ""old"" support account that was different to my Firefox account.
+</p><p>I never linked these account, and I had nothing but trouble with my old support account. It's about time we can log in with our Firefox accounts, however this still does not make any sense to me why they are connected.
+</p>",firefox-730;other;firefox-7301;desktop;windows-10;,firefox,other,en-US,1294253;1294324;,wambam88
+1280981,2020-02-29 02:15:14 -0800,2020-02-29T12:26:07Z,firefox crashes all the time,"<p>Hello my firefox seems to crash a lot of times during the day. I am running the latest version but this happened with previous versions too. I have an ATI graphics card and have disabled hardware acceleration.
+</p>",firefox-730;firefox-7301;desktop;fix-problems;,firefox,fix-problems,en-US,1294254;1294345;,akis73
+1280980,2020-02-29 02:06:28 -0800,2020-02-29T19:59:23Z,FF73 ignores theme set in widget.content.gtk-theme-override,"<p>I'm using Manjaro Linux with a gtk-theme of Adapta-Nokto-Eta-Maia, which is a dark theme, and I set the widget.content.gtk-theme-override to Adapta-Eta-Maia, which is the light version of the theme. I was using FF72 and didn't had any problems until I updated the browser to v73. Firefox just use the dark theme and ignore the theme set in widget.content.gtk-theme-override. Is there a way to fix this problem?
+</p><p>I also tried a maintained gtk-theme, Matcha and there are no changes.
+</p>",firefox-730;other;desktop;linux;,firefox,other,en-US,1294442;,henshin
+1280979,2020-02-29 01:07:34 -0800,2020-02-29T01:07:34Z,Firefox crashes at start. libxul.so: undefined symbol: PR_DuplicateEnvironment Couldn't load XPCOM,"<p>After update Fedora 31:
+</p><p>firefox -safe-mode
+XPCOMGlueLoad error for file /usr/lib64/firefox/<a href=""http://libxul.so"" rel=""nofollow"">libxul.so</a>:
+/usr/lib64/firefox/<a href=""http://libxul.so"" rel=""nofollow"">libxul.so</a>: undefined symbol: PR_DuplicateEnvironment
+Couldn't load XPCOM.
+</p><p>uname -a
+Linux localhost.localdomain 5.4.18-200.fc31.x86_64 #1 SMP Fri Feb 7 14:50:05 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+</p><p><br>
+dnf reinstall firefox and remove/install are not help
+</p>",firefox-680;desktop;fix-problems;linux;escalate;crash;,firefox,fix-problems,en-US,"",saa15
+1280972,2020-02-28 22:05:26 -0800,2020-02-29T02:03:51Z,Sync Logical is very weird,"<p>I have set up a firefox in one of my PC named PC-A. There are add-on, theme, customized UI. Also I sign in Firefox account to sync all of it. 
+Then I install firefox in another PC named Pc-B and sign in to sync. 
+I understand, Firefox sync won't sync customized UI, and add-on settings. 
+But, here is my questions: 
+Why do all add-ons in PC-A have a reset?  For example, an add-on foxclocks was added in PC-A at beginning, lots of city were added. But after fresh setup of firefox in PC-B, the city list in this add-on will be reverted to default list. And other add-on has the same behavior. 
+Why do the theme in PC-A revert back to default? If I applied a theme on firefox of PC-A first. Then I sign in in the fresh installed firefox on PC-B, The theme of PC-A will be synced to the default theme, like the PC-B one. 
+I know the sync should be bi-direction. But the setting of PC-A is already exited in server. And setting of PC-B is all default like blank paper. So the sync of PC-B should be download only, instead of upload default settings.
+</p>",firefox-730;sync;desktop;windows-10;needsinfo;,firefox,sync,en-US,1294245;1294246;,kingkingmax
+1280969,2020-02-28 19:16:09 -0800,2020-02-29T11:49:42Z,"In 73.0.1 , opening a new link opens a new window, rather than just a new tab. 72.0.2 did not do this.","<p>For example, I have my home weather page open and I want to open a different weather page in a new tab, but the same Firefox window.  Using 72.0.2 this worked, as that is the setting I made in Options/General/Tabs.  I have the setting correct, but 73.0.1 ignores it and opens a new Firefox window.  I have done this download of 73.0.1 twice in the last ten days.  Same result.  Would not update normally, by the waay.  Had to download a fresh install.
+</p>",tabs;firefox-730;firefox-7301;desktop;windows-10;,firefox,tabs,en-US,1294212;1294216;1294221;1294227;1294279;1294291;1294296;1294298;1294328;1294334;,gregmoehl
+1280968,2020-02-28 18:40:43 -0800,2020-02-28T18:40:43Z,"Firefox use so much memory, especially Facebook, and it dunno release memory!","<p>I am using MacOS Catalina latest version, and I found that Firefox use so much memory, especially Facebook, and it dunno release memory!
+First, after open Facebook page, and scroll just a few sec then the memory quickly up to over 1gb(2.xxgb as I saw max), I use new MS Edge to compare, the memory usage of Facebook around 5xx - 7xxmb, and if I goto another group/refresh page, MS Edge will release some memory, but Firefox still keep over 1gb/2gb, won't release memory. Other website memory usage also higher compare to MS Edge, what is the problem?
+</p><p>P.S. I didn't install any plugin!
+</p>",other;desktop;,firefox,other,en-US,"",lichqueen
+1280966,2020-02-28 18:23:31 -0800,2020-02-29T20:57:45Z,Firefox crashes,"<p>Crash happen frequently when I access different websites at different time, also, right click the images and save to folder will cause a short time hang. When I reboot firefox with Safe Mode, not see the crash again for a long time , could anyony can help to analyse why this happen? Thanks!
+</p><p>the crash report id:
+bp-49dd30db-e34f-4912-a362-7041b0200229
+</p>",firefox-730;desktop;fix-problems;windows-10;esr;firefox-7301;,firefox,fix-problems,en-US,1294234;1294235;1294240;1294257;1294284;1294310;1294447;1294448;,2832202535
+1280962,2020-02-28 16:58:01 -0800,2020-02-28T21:31:22Z,Get rid of yellow form field background / Password not displayed in the form fields,"<p>Since I upgraded to FF68esr form fields have a yellow background. I've looked in the group policy, about:config and can't find anything. I found a couple of css suggestions neither of which got rid of the yellow. I just want to have firefox work how it used to instead of all these constant changes that break or degrade the experience.
+</p><p>Is there a way to disable this annoying ""feature""?
+</p><p>Also, since upgrading, sites that cached my userid and password no longer show the password and enable me to single click login. I have to select the user name field, press tab, then the password is added and then I can log in. Is there a way to revert that behavior too?
+</p><p>I posted many weeks ago about how slow v68 is to load themes. The CSS that I used in v60 was speedy enough, but in v68 it's really slow, showing a bright blue background for a second or two before loading the theme. Is there a way to fix that in v68. I think someone said themes are going to be phased out too... is that true? Firefox looks really unattractive without something improve the UI.
+</p>",firefox-680;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1294193;1294204;1294211;1294214;1294226;1294229;1294231;,imarobot124
+1280961,2020-02-28 16:40:11 -0800,2020-02-28T16:40:11Z,how to delete drop down email list,"<p>When I select an email box to fill drop down list of all email's I have used. How do I delete them from memory?
+</p>",firefox-730;other;desktop;windows-81;,firefox,other,en-US,"",ergotlove
+1280960,2020-02-28 16:04:50 -0800,2020-02-28T16:13:06Z,pinned tabs erase when history cleared,"<p>I want to have 4 windows open when I open firefox.
+I want to have these 4 windows pinned.
+When I clear my cache/history, for some reason, my tabbed windows go away and are forgotten.
+</p><p>Is there an option where, when you select the pages you want to open when Firefox opens, that you can say open them as pinned windows?  And that it would be smart enough to know those pinned windows are opened, and not open copies of those pinned windows in their non-pinned form?
+</p><p>It's really annoying when I use the ""Delete the last two hours of my history"" feature, and it deletes my pinned windows.
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1294171;,bill.tkach
