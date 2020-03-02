@@ -1,0 +1,174 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1280959,2020-02-28 15:17:33 -0800,2020-02-28T16:17:02Z,Is firefox going to implement a TOR in browser?  If so when?,"<p>Is firefox going to implement a TOR in browser?  If so when?
+</p>",privacy-and-security_1;firefox-730;desktop;windows-10;,firefox,privacy-and-security,en-US,1294175;,rjevack
+1280958,2020-02-28 15:10:27 -0800,2020-02-28T16:41:17Z,Why does firefox menu bar show when I hit the calculator button on my keyboard?,"<p>hit the calculator button on my keyboard and before it opens firefox menu bar appears then disappears.... Any idea on how to stop this?
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1294177;1294179;1294182;1294184;,techmaster29729
+1280956,2020-02-28 14:49:16 -0800,2020-02-28T15:38:35Z,can't remove extension,"<p>I would like to remove Avira Browser Safety but none of the directions at <a href=""https://support.mozilla.org/en-US/kb/disable-or-remove-add-ons"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/disable-or-remove-add-ons</a> seemed to help as there is nothing in my extensions folder in my profile.
+</p>",firefox-730;other;firefox-7301;desktop;,firefox,other,en-US,1294162;,mozilla.mb
+1280954,2020-02-28 13:34:08 -0800,2020-02-28T13:34:08Z,How make JPG images open in Firefox by default in Windows 7,"<p>I used to have Firefox set as the default application for opening a JPG when clicking on it with a Windows 7 desktop. Suddenly that no longer is the case. I've gone to Control Panel, ""Associate a file type with a specific program,"" but it no longer offers Firefox as an option. I tried adding it as an option with ""Change Program: Other Programs"" which allows me to set up Google Chrome as the default for opening JPGs, but it won't allow me to set Firefox.
+</p>",firefox-730;customize;desktop;windows-7;,firefox,customize,en-US,"",bhartford
+1280952,2020-02-28 12:26:06 -0800,2020-02-28T13:57:38Z,"Are chrome URLs: chrome://browser/content/places/places.xul, et al, broken in Firefox 73","<p>I have bookmarked the 'Library' using the chrome URL: chrome://browser/content/places/places.xul, for the purpose of opening the library in a new tab.  This, and other chrome urls such as: chrome://browser/content/bookmarks/bookmarksManager.xul, no longer work, apparently since Firefox updated to 73 or 73.0.1.   
+</p><p>Now when clicking the bookmark, I get the error:  File Not Found.  Firefox can’t find the file at jar:file:///C:/Program Files/Mozilla Firefox/browser/omni.ja!/chrome/browser/content/browser/bookmarks/bookmarksManager.xul.  
+</p><p>The omni file in the Programs folder now is: omni.ja, not omni.jar.  
+</p><p>Was the omni file made obsolete or changed?  Will this be addressed in the next update?  
+</p><p>How do I workaround this to maintain my bookmark for the library and other bookmarks using chrome urls as referenced at:  <a href=""http://kb.mozillazine.org/Chrome_URLs?"" rel=""nofollow"">http://kb.mozillazine.org/Chrome_URLs?</a>
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1294103;1294105;1294109;1294111;1294123;1294124;1294130;1294135;,skippdiddly
+1280949,2020-02-28 11:53:10 -0800,2020-02-28T11:53:10Z,"Firefox does not route audio through macOS speakers configuration, it overrides and writes audio straight to master out so audio cannot be routed","<p>Firefox does not obey ""Audio MIDI Setup"" in Apple macOS at all! It overwrites to whatever selected device master out preventing the audio from being properly routed according to the ""Audio MIDI Setup"" standard Apple macOS Audio Setup. If you need to route to a Quadraphonic, or anything other than Stereo you won't be able to do it. If you need to route the audio through a special set of virtual audio channels where you can add compressors, EQ, filters, it will not let you. Google Chrome and Safari do this right without any need to change any settings or configurations on the browser side, all you need to do is configure the System-Wide Audio Settings in ""Audio MIDI Setup"", which is the only way and standard to the audio configuration on any macOS systems.
+</p><p>I am a Linux/Unix System Administrator/Engineer, and I also work with Music Production using special professional interfaces from UA United Audio Apollo x8p and Focusrite. Those interfaces are connected to different sets of speakers, and they also have virtual audio channels where you can add a chain of plugins to treat the audio signal passing through them.
+</p><p>This behavior should be considered a bug, although it is probably by design, which needs to be changed to adhere to the macOS system configuration standards for audio routing.
+</p><p>I tested this with the latest and greatest stable Firefox version, Google Chrome, and Safari. The only browser misbehaving is the Mozilla Firefox.
+</p>",other;desktop;,firefox,other,en-US,"",mauricio3
+1280948,2020-02-28 11:47:44 -0800,2020-02-28T20:58:37Z,Youtube audio quality worse on Firefox,"<p>I'm working at a music company and we have noticed that audio quality for videos on Youtube is significantly worse in Firefox than Chrome and even the new Chromium based Edge browsers.  The audio sounds like it is lower bit-rate with a total loss in low frequencies.  You can literally play the same video in one browser, stop it, switch to the other, and immediately notice the difference.
+</p><p>Is this a Firefox caused issue, or do the Chromium based browsers support an audio transport that Firefox does not?  I'd hate to think that Google is just purposely using lower bit-rates on browsers other than theirs for no technical reason.
+</p><p>How to Reproduce
+1) Open Firefox to a youtube music video on VEMO channel (professional official music videos)
+2) Open Chrome to the same URL/Video
+3) Play the video on one browser at a time, switching back and forth to hear the difference.
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1294101;1294104;1294107;1294120;1294149;1294156;,sova1
+1280947,2020-02-28 11:32:04 -0800,2020-02-28T11:32:04Z,"DirecTV program Streaming downloads Synamedia player not DirecTV player. When in safe mode,get connection not secure. IE streams w/o problems.","<p>1) DirecTV selected program to Stream on Win 10 PC asks to download 'DirecTV player"" when done a ""Synamedia/VideoGuarg.13.exe"" player downloaded. Then, per instructions, because streaming did not start, manually restarted Firefox but program never streams. If program is selected again, the download ""DirecTV player"" starts another cycle.
+</p><p>2) Tried above with Firefox in Safe Mode that resulted in ""Connection not Secure"".
+</p><p>3) IE streams w/o any player downloading or problems.
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",scottemyers
+1280946,2020-02-28 11:29:56 -0800,2020-02-28T11:29:56Z,"I'm clicking the ""sign in to sync"" box but getting no response/action. about:preferences?entrypoint=menubar#sync","<p>Mac OS 10.14.6, firefox 73.0.1. Created my Firefox (Sync) account yesterday on work computer, and edited my bookmarks. Now I'm trying to log in to Firefox Sync on laptop at home, but the ""sign in to sync"" button doesn't ""do"" anything or go anywhere. I tried ""Tools: Sign in to Firefox"" and it goes to the same page with that non-functioning button. I closed and re-opened Firefox; no go. I restarted the machine; not helpful. I was able to log in here, at this support site, but that didn't automatically log in me in Firefox as well; still not able to sign in. Thanks for any advice.
+</p>",firefox-730;sync;desktop;,firefox,sync,en-US,"",drjatgsu
+1280944,2020-02-28 11:24:53 -0800,2020-02-28T22:22:56Z,won't stream go.cnn,"<p><a href=""https://go.cnn.com"" rel=""nofollow"">https://go.cnn.com</a> everything has HAD permission and had been working fine until 2/27/2020 page loads but NOTHING will stream.  DRM is checked and auto play and auto sound have permission. Now All I get is the page border. No news ticker, no news streams, can see show episode icons but none of them will stream either. Troubledshooted on and off over 12 hrs yesterday. Streams fine on Microsoft Edge which I prefer not to have to switch.  Definitely a MOZILLA FIREFOX issue since same issue on 3 laptops.  Disappointed!
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1294093;1294166;1294174;1294187;1294233;,peaceluv77
+1280943,2020-02-28 11:23:24 -0800,2020-02-28T14:23:27Z,Google Reminder About New Terms of Service,"<p>When a Google search is done in Firefox, a pop up appears stating 'We're updating our terms of service. Get to know our new terms before they take effect on Mar 31 2020' and there are 'review' and 'got it' options.
+</p><p>I click 'got it' but the pop re-appears the next time the browser is opened and Googled is used again.
+</p><p>Is there a way to permanently block this pop-up from re-appearing?
+</p>",firefox-730;other;desktop;windows-7;,firefox,other,en-US,1294110;1294112;1294121;1294146;,Buddy2014
+1280942,2020-02-28 10:31:51 -0800,2020-02-28T13:30:22Z,Why is Firefox STILL the ONLY browser that exhibits the DISRUPTIVE yellow-bar stop/wait warnings EVEN ON 73.0.1?,"<p>Long-standing defect that Mozilla has ignored for *years*
+</p>",firefox-730;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,1294088;1294117;1294125;,billmayhew
+1280938,2020-02-28 09:48:34 -0800,2020-03-01T12:36:37Z,Preview in Firefox for PDF stopped working with FF 73.0.1,"<p>I updated to FF 73.0.1 a couple days ago and now when I navigate to a PDF file, it no longer will Preview in Firefox. Instead, it goes to the Save File option.
+</p><p>I've tried setting it in the Options/Applications and all the other choices work fine except the Preview in Firefox.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1294202;1294230;1294533;,AZBruno
+1280937,2020-02-28 09:41:25 -0800,2020-02-28T14:54:36Z,"Error Message when attempting to restore Bookmarks:  ""Unable to process the backup file""","<p>Firefox Stopped working (Window 7 SP1) and I had to reinstall it form scratch.  Now I have lost my bookmarks.  when I go through the procedure to restore them, I can see the historical backup files going back some days.  But when I attempt to restore from any of those files, I get this Error Message:  Unable to Process backup file.   I can find nothing on Firefox Help that addresses this problem.  I have tried it in Safe Mode, but got the same result.  Any suggestions most gratefully received.
+</p>",bookmarks;firefox-730;firefox-7301;desktop;windows-7;,firefox,bookmarks,en-US,1294076;1294152;,tadwall1
+1280936,2020-02-28 09:34:57 -0800,2020-02-28T09:34:57Z,How do I restore my saved book marks?,"<p>Today I logged in and all of my saved tabs are gone. 
+</p><p>I signed into my account and all was blank as if the entire account had been deleted. 
+</p><p>I tried to sync but to no avail. 
+</p><p>How do I get the old tabs back?
+</p>",bookmarks;firefox-730;desktop;windows-10;,firefox,bookmarks,en-US,"",christopher.m.sigler
+1280935,2020-02-28 09:32:47 -0800,2020-02-28T12:35:00Z,"When I go to Images on my yahoo home page on Firefox, the images are tiny and there are a zillion on the screen.","<p>When I go to Images on my yahoo home page on Firefox, the images are tiny and there are a zillion on the screen.  This only happens on Firefox, and only with Yahoo.  For example - Firefox/MSN and EDGE/Yahoo, both work fine.  Just not Firefox/Yahoo.  It doesn't appear to be a search engine issue, because I've tried different ones with the same result.  Picture below is a small section of the full screen I see.  It's weird and just started happening a couple days ago.  Any Ideas?  Thanks much!
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1294089;1294096;1294106;,stevebowers9
+1280934,2020-02-28 09:28:34 -0800,2020-02-28T09:53:43Z,"How do I disable display of list of ""Frequent"" websites in Firefox, Windows 10?","<p>How do I disable display of the list of ""Frequent"" websites in Firefox?
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1294071;,GAM1
+1280933,2020-02-28 09:09:54 -0800,2020-02-28T16:13:29Z,How do I dismiss the warning message about closing multiple tabs without closing all other tabs?,"<p>Using Windows 7 Home Premium 64-bit SP1
+Firefox 73.0.1 64-bit
+When I close several tabs, a message box appears telling me that tabs will be closed in 20 seconds, or to click to avoid that.  If I dismiss the box by clicking on the window-frame ""X"", Firefox closes too many tabs.  (The box disappears after a few seconds.)
+I wish not to see that box.  I wish Firefox to do nothing I do not trigger myself.
+How do I eliminate that function entirely?
+</p>",firefox-730;firefox-7301;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,1294161;1294172;,plowmail
+1280931,2020-02-28 08:56:44 -0800,2020-02-28T08:56:44Z,Address bar autocomplete not working.  History will not save and I've tried all the troubleshooting options I can find.  What else can I do?,"<p>The autocomplete stopped working about a month ago.  I've reinstalled, refreshed, run the task manager, looked for corrupt files... I can not get this to work again.  What else can I do??
+</p>",firefox-730;desktop;fix-problems;mac-os-x-109;,firefox,fix-problems,en-US,"",sandyal.en1
+1280930,2020-02-28 08:47:34 -0800,2020-02-28T08:47:34Z,"Macie spierdolone coś w tym firefoxie. Za huja nie ma opcji, żeby zablokować te niesamowicie wkurwiające przypomnienia o tych zjebanych aktualizacjach.","<p>Macie spierdolone coś w tym firefoxie. Za huja nie ma opcji, żeby zablokować te niesamowicie wkurwiające przypomnienia o tych zjebanych aktualizacjach. Trzeba grzebać w tym waszym zjebanym configu. Kurwa, weźcie coś z tym zróbcie, bo kurwicy można dostać. Na szczęście znalazłem gdzieś jak ktoś to hujstwo wyłączył i mi się udało, ale to przechodzi wszelkie pojęcie, żeby tego w tych waszych zjebanych opcjach nie było. Skurwysyństwo jak dla mnie.
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,"",pozytron80
+1280927,2020-02-28 08:22:39 -0800,2020-02-28T19:04:05Z,Saved logins disappeared after upgrading,"<p>I upgraded my OS from Mountain Lion (10.8) to El Capitan (10.11), then upgraded Firefox. It upgraded to version 57.0.4, then required a second upgrade to 73.0.1. Now I can't see my saved logins.
+</p><p>I do not have Avast or AVG.
+I see only one profile.
+I have key3.db and key4.db and logins.json; no logins.json.corrupt.
+</p><p>Tried renaming key4.db to key4.db.save. Firefox created a new key4.db. Still can't see saved logins.
+</p><p>I tried changing signon.management.page.enabled and signon.management.overrideURI - I still did not see any passwords.
+</p><p>How can I get Firefox to transfer necessary info from key3.db to key4.db?
+</p>",download-and-install_1;firefox-730;firefox-7301;desktop;mac-os;bug1615382;,firefox,download-and-install,en-US,1294061;1294144;1294209;,bgiobbe
+1280926,2020-02-28 08:01:45 -0800,2020-02-28T08:01:45Z,Current performance in blocking phishing sites?,"<p>In a 2017 test, Firefox performed much worse than Chrome and especially Edge when it came to blocking phishing sites. See <a href=""https://www.techradar.com/news/microsoft-edge-is-the-best-browser-for-blocking-phishing-websites"" rel=""nofollow"">https://www.techradar.com/news/microsoft-edge-is-the-best-browser-for-blocking-phishing-websites</a>. How is the current performance? Have more/other third-party tests been done?
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,"",frankconijn
+1280925,2020-02-28 07:43:20 -0800,2020-02-28T07:43:20Z,When will the firefox printer settings be fixed to allow multiple printers to be used?,"<p>Install two printers.  Set one to letter size, the other to 6x4 inches (like a label printer). Look at the settings in about:config to verify.  Now print to the label printer making sure it is set to 6x4 in prefs.  The letter size printer is now printing in 6x4 inches - WTF?  Look at about:config and you will see the settings have actually been changed for the letter size printer! THIS HAS BEEN BROKEN FOR YEARS.  How the heck do you use two printers - like if you have to print labels and invoices if the setting change themselves whenever you print?
+</p>",firefox-700;other;desktop;linux;,firefox,other,en-US,"",w0wie
+1280924,2020-02-28 07:20:28 -0800,2020-02-28T09:29:47Z,I can't use ctrl U to underline in WP it opens source. how do I turn that short cut off an get the shortcut to underline?,"<p>I want to use short cut ctrl U on windows in Word Press to underline.  Instead Mozilla CTRL U ""views source""   I don't need that short cut. I want CTRL U to underline when I use Mozilla.  How do I change this behavior on Mozilla?
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1294059;1294066;,eschell.rompre
+1280922,2020-02-28 07:03:09 -0800,2020-02-28T07:03:09Z,games i play noe won't run because  Fatal error: Class 'mysqli' not found in /home/playtetr/public_html/game.php on line 7,"<p>games i play now won't run because  ""Fatal error: Class 'mysqli' not found in /home/playtetr/public_html/game.php on line 7""
+</p>",firefox-730;websites;firefox-7301;desktop;windows-10;,firefox,websites,en-US,"",hqclare
+1280921,2020-02-28 06:51:35 -0800,2020-02-28T06:51:35Z,"Getting ""restricted video"" error message when trying to play some, not all, YouTube videos.  Play fine on Safari","<p>I have upgraded to latest version of Mozilla but am getting the ""video unavailable.  this video is restricted"" error message when trying to play some but not all You Tube videos.  I have to copy and paste them in Safari in order to play them.  THis is for an individual, private person, not a company so there is no administrator.  Other posts have had this same problem but no one has provided an effective resolution or clear explanation as to why this is happening and how to resolve.  I assume this is a Firefox issue since there is no problem playing the videos on another browser.   Suggestions please
+</p>",firefox-730;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,"",britrfr1907
+1280920,2020-02-28 06:43:33 -0800,2020-02-28T06:43:33Z,Can't change foreign(other then Eng) font display despite the appearance settings.,"<p>Hey everyone, 
+So despite the setting changes on Languages and Appearances to choose designated fonts for a certain language,
+the (standard) font comes out weird.
+</p><p>I think I'm having the same issue as this thread:
+<a href=""https://support.mozilla.org/en-US/questions/1277075#answer-1293438"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1277075#answer-1293438</a>
+</p><p>After reading through the thread I used the Chosen Solution's method to find out which font is messing up: ST Heiti SC Medium.
+Then I tried using MattP's method of adding Korean(the font im having trouble with) to the list of ""Choose your preferred language for displaying pages"", but nothing would change.
+</p><p>What should I do?
+How can I change the font or the parameter used for rendering?
+</p><p>PS - even the texts on the Tabs are displayed with the same ugly font.
+</p>",firefox-730;customize;desktop;mac-os;,firefox,customize,en-US,"",tuyyer
+1280919,2020-02-28 06:28:34 -0800,2020-02-28T06:28:34Z,How to change firefox's cache location in the latest version of the app? (The old method doesn't work),"<p>I want to change firefox's cache location to the parent directory. I did not install firefox in C drive. Since I have SSD, and it has an expiry date after a certain amount of TBs data written so, I need to change the location of the cache to where I installed firefox permanently. The old method of adding new string doesn't work in the latest versions of firefox.
+</p>",firefox-730;firefox-7301;customize;desktop;windows-10;,firefox,customize,en-US,"",silverore3
+1280917,2020-02-28 04:42:28 -0800,2020-02-28T04:42:28Z,change my colors on my firefox page,"<p>i want to change my colors on my firefox page  right now the background is black with yellow lettering this bothers my eyes
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,"",sdiliddo
+1280916,2020-02-28 04:38:39 -0800,2020-02-28T04:38:39Z,cant upload file to secure sites,"<p>couldnt upload file to secure banks site just hung so used diffrent browser and done in a instant any ideas please
+</p>",firefox-730;websites;firefox-7301;desktop;windows-10;,firefox,websites,en-US,"",kevin.moorhouse
+1280915,2020-02-28 04:30:30 -0800,2020-02-28T04:38:32Z,Firefox opens two new windows when I click on a link,"<p>I am using Firefox browser on my MacBook Pro and I have noticed the following.
+</p><p>When I quit the Firefox app (no background activity), and I click on a link that I receive in an email (from my Mail app), then Firefox opens 2 windows. One is empty and the second leads to the desired link.
+</p><p>On the other hand, if I don't quit the Firefox app but simply close it (x symbol), then when I click on a link it open correctly in a single window.
+</p>",firefox-730;firefox-7301;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,1294035;,seralouk
+1280913,2020-02-28 03:26:50 -0800,2020-02-28T06:37:20Z,Has anyone else had problems with ad-block today? How did you solve it?,"<p>Ad block used to work perfectly, but today I'm seeing ads on youtube and other sites. This began before I installed the latest FF update - which I tried after noticing ads in the hope this would cure the problem - it didn't. I first noticed the ads this morning. I'm using Win 7.
+</p>",customize;desktop;firefox-720;windows-7;,firefox,customize,en-US,1294029;1294031;1294034;1294042;1294046;,Hipkit
+1280912,2020-02-28 03:06:41 -0800,2020-02-28T03:06:41Z,How to remove this thin bar under the searchbar?,"<p>I have this thin bar appeared under the searchbar (bookmarksbar if enabled). How can i get rid of it?
+</p>",firefox-730;other;desktop;mac-os;,firefox,other,en-US,"",atanizamoglu
+1280908,2020-02-27 23:58:39 -0800,2020-02-28T15:54:28Z,"Firefox crashes when using Youtube, how do I stop this problem?","<p>I have Lenovo &amp; Like using the Back &amp; Forward Arrows to serve as a 3rd Dimension for Tab Browsing set for 50 pages per tab maximum &amp; have about 100 Tabs active or semi-active for easy access to things. I use Private Browsing for 1 window to avoid cluttering my Youtube Viewing History &amp; as extra protection against cookies. I like to keep Firefox active for an entire week usually so that I don't have to worry about the 1 Private Browsing Window losing the Youtube order &amp; potential other stuff. The past week I have noticed that Tabs Crash Randomly &amp; often Firefox itself completely crashes when using Youtube. Does anyone know how to fix this without clearing my cache (that kills the history of each tab) I'm tired of the crashes.
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1294022;1294165;,WaterKirby1994
+1280904,2020-02-27 22:43:31 -0800,2020-02-28T05:36:37Z,How do I delete an individual URL from the dropdown in the address bar in Firefox 73? Shift+Del no longer works.,"<p>In previous versions all you had to do was highlight a URL in the dropdown from the address bar and Shift+Del would remove it, but that no longer works in 73.0.1, and it's funcionally impossible to find an answer via search engine because every result is pre-73 and suggests Shift+Del.
+</p>",firefox-730;other;desktop;windows-7;,firefox,other,en-US,1294012;1294015;1294024;1294030;1294043;,TexasUberAlles
+1280903,2020-02-27 20:46:47 -0800,2020-02-27T20:46:47Z,How many minutes should it take for firefox to update passwords automatically across all devices with sync?,"<p>Sync is set up correctly between my iMac desktop and MacBook.  I changed passwords this evening for a website on my mac desktop, but after several minutes the website saved passwords on my MacBook had not updated yet.  I refreshed the saved logins page on my MacBook several times, but no luck.  I started with a new tab and checked the saved logins again but they still had not updated.  I eventually went back to preferences, to sync, and selected sync now, at which time they updated instantly.
+</p><p>How many minutes should it take for Firefox to update passwords automatically on its own across all devices without manually having to select sync now?  The help pages indicate that sync should update changes automatically when Firefox is open, but after 10 minutes that did not occur on its own.  I have high-speed xfinity internet service with excellent wi-fi capabilities, so there was no problem on my end.  Thank you.
+</p>",firefox-730;sync;desktop;mac-os;,firefox,sync,en-US,"",youngjane
+1280902,2020-02-27 20:46:32 -0800,2020-02-28T13:47:55Z,FIREFOX OS (oppen source for Panasonica TVs),"<p>Dear Support. 
+My two TV panasonic 9DX650_SERIES use as Browser th ""Firefox OS"".
+While a week the url <a href=""http://www.youtube.com"" rel=""nofollow"">www.youtube.com</a> warned about there would be changes and the Firefox OS would be useless.
+Today this happened. Youtube are impossible to use on Firefox OS. 
+Now I am using the Youtube App, an exclusive app to see Youtube on Panasonic TV.
+</p><p>Mis 2  televisores Panasonic 9DX650_SERIES usan como navegado el FIREFOX OS.
+</p><pre>Durante una semana la página <a href=""http://youtube.com"" rel=""nofollow"">youtube.com</a> advertía que habrían cambios y el Firefox OS sería inutil.
+hoy esto pasó. Youtube es imposible de usar en el navegador.
+Ahora estoy usando el App de Youtube, un app exclusivo para ver youtube en los televisores panasonic
+</pre>",firefox-730;other;desktop;,firefox,other,es,1294134;,cesdel
+1280901,2020-02-27 19:32:53 -0800,2020-02-28T18:18:43Z,Firefox is brutally slow on speedtest.net,"<p>Hello,
+</p><p>When using Firefox, my network speeds are brutally slow (~35 Mbps), while Edge is (~300 Mbps, which is my service speed).  I am hardwired through my router, but it is the same wired or wireless.  
+</p><p>I have literally tried every single step through Firefox's troubleshooting and have even completed what I thought to be an entire uninstall and deletion of every single Firefox file on my laptop.  Upon uninstall and deleting of EVERYTHING, I reinstalled only to be greeted with ""Hey, it looks like you reinstalled Firefox, want to refresh everything?"".  I did (another) refresh and still, same speeds.
+</p><p>Is there a way to 100% remove Firefox and reinstall?  I want my laptop/Firefox to treat each other as never have met, in hopes that I can install and get the speeds I should be getting.
+</p><p>Interesting note, Firefox for Android gets ~300 Mbps no problem on my phone.
+</p><p>Thanks in advance!
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1294037;1294198;,noble.s
+1280893,2020-02-27 16:30:33 -0800,2020-02-28T01:13:45Z,"Pressing play on specific YouTube video causes tab to crash repeatedly, then causing every YouTube tab to crash repeatedly (/tmp directory full)","<p>Reproduction steps:
+</p><p>Scenario #1:
+</p><p>1. Go to <a href=""https://www.youtube.com/watch?v=5EnZZGGxU-g"" rel=""nofollow"">https://www.youtube.com/watch?v=5EnZZGGxU-g</a>
+</p><p>2. Press the play button in video iframe
+</p><p>3. See your tab crashing
+</p><p>Scenario #2:
+</p><p>1. Go to <a href=""https://www.youtube.com/"" rel=""nofollow"">https://www.youtube.com/</a>
+</p><p>2. Wait couple of seconds
+</p><p>3. See your tab crashing
+</p><p>Scenario #3:
+</p><p>1. Go to <a href=""https://www.youtube.com/"" rel=""nofollow"">https://www.youtube.com/</a>
+</p><p>2. Click on any video preview
+</p><p>3. See your tab crashing immediately
+</p><p>Scenario #2 follows Scenario #1.
+Scenario #3 being repeated even after restart.
+</p><p><br>
+Description:
+</p><p>Repeats each time I press play button on this video frame on that specific page. Tab crashes after such actions repeated after restoration of a tab, in a new tab, also in another window.
+After some single tab crashes, now any tab with YouTube that's being loaded crashes automatically after a while (DOM loaded as well as video previews, but after some time close to 1-2 sec tab crashes). Issue repeats in safe mode.
+</p><p><br>
+Environment details:
+</p>
+<ul><li> Firefox 73.0 mint 1.0
+</li><li> Linux Mint 19, Kernel 4.15.0-88, Cinnamon DE
+</li><li> GPU: Nvidia GTX 960 (driver version 418.87.00)
+</li><li> CPU/GPU/RAM/Swap/HDD are looking normal
+</li><li> /tmp directory is full!
+</li><li> One day I switched media.rdd-process.enabled option in about:config to false ( don't ask why ;) ). Even if I make it true as default, tabs are still crashing
+</li><li> Used that version of firefox for some time - worked perfectly. This issue revealed only today on that specific URL
+</li></ul>
+<p><br>
+My conjectures:
+</p><p>Conjecture #1: YouTube has broken something today
+</p><p>Conjecture #2: Some time related stuff (date is 28.02.2019 03:00:00 MSK - so by UTC it's 00:00:00 which is strange)
+</p><p>Conjecture #3: This video has a present from Mao with some malicious stuff inside ( still hope my PC won't blow up this morning :P )
+</p><p>Conjecture #4: Temp directory is full and that causes quite heavy YT tabs to crash (maybe, if firefox uses /tmp, idk)
+</p><p><br>
+Hope ur debugging gods will be with you. If you need any more info or help on this subject - do not hesitate to contact me.
+</p><p>- A happy user of multiple Mozilla products
+</p>",firefox-730;desktop;fix-problems;,firefox,fix-problems,en-US,1293971;1294017;1294019;,pavelpopov10
+1280892,2020-02-27 16:13:15 -0800,2020-02-29T12:54:35Z,How do I print something in firefox correctly again without it being a column down the middle or being teeny tiny??,"<p>Every time i print, my content is a single column down the middle of the page and is so tiny I can't read it.  How can I get it to print normal again?
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1293936;1293946;1294051;1294288;1294289;1294295;1294299;1294300;1294337;1294352;1294356;,lovelylathers
