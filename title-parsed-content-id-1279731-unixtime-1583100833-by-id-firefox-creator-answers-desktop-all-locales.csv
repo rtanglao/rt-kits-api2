@@ -1,0 +1,5 @@
+title,content
+Restore session doesn't work after update,"I have a very high tab count, and when restoring Firefox I usually get the ""warning:unresponsive script"" pop up. I press continue, it pops up again, I press continue again, and my tabs are restored. All is well.
+However, when I restarted Firefox today, it updated, and rather than the unresponsive script box, I get a blank pop up. I cannot do anything, and my tabs cannot be restored.
+I tried a refresh and a clean install, but that does nothing.
+"
