@@ -10,7 +10,7 @@ id-1279731-unixtime-1583100833-by-id-firefox-creator-answers-desktop-all-locales
 
 which outputs a parsed csv file of form `title-parsed-content-<csv-filename>` 
 
-`title-parsed-content-id-1279731-unixtime-1583100833-by-id-firefox-creator-answers-desktop-all-locales.csv`
+[title-parsed-content-id-1279731-unixtime-1583100833-by-id-firefox-creator-answers-desktop-all-locales.csv](https://github.com/rtanglao/rt-kits-api2/blob/master/title-parsed-content-id-1279731-unixtime-1583100833-by-id-firefox-creator-answers-desktop-all-locales.csv)
 :
 
 ```csv
@@ -29,7 +29,7 @@ echo '1279731' | ./get-by-id-creator-answers-questions.rb
 
 which outputs sample file of the form `id-<first-id>-unixtime-<unixtime i.e. int-when-created>.csv`: 
 
-`id-1279731-unixtime-1583100833-by-id-firefox-creator-answers-desktop-all-locales.csv`
+e.g. [id-1279731-unixtime-1583100833-by-id-firefox-creator-answers-desktop-all-locales.csv](https://github.com/rtanglao/rt-kits-api2/blob/master/id-1279731-unixtime-1583100833-by-id-firefox-creator-answers-desktop-all-locales.csv) 
 
 and if you only want title and text (but with html; html has to be parsed out):
 
