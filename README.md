@@ -6,6 +6,7 @@ Roland's Kitsune API scripts version 2
 * output is here: [2018-11-01-2020-03-02-num-ff-desktop-aaq-questions-created-2020-03-02.csv](https://github.com/rtanglao/rt-kits-api2/blob/master/PRODUCT_INTEGRITY_4WEEK_RELEASE_CYCLE/2018-11-01-2020-03-02-num-ff-desktop-aaq-questions-created-2020-03-02.csv)
 
 ```bash
+cd /home/rtanglao/GIT/rt-kits-api2/PRODUCT_INTEGRITY_4WEEK_RELEASE_CYCLE
 ../get-creator-answers-questions-for-arbitrary-time-period.rb 2019 11 26 \
 2020 3 2
 mv 2019-11-26-2020-03-02-firefox-creator-answers-desktop-all-locales.csv part-1-2019-11-26-2020-03-02-firefox-creator-answers-desktop-all-locales.csv 
