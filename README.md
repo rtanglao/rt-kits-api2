@@ -1,6 +1,22 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 02march2020 counting the number of support questions sunday-saturday by week:
+
+* output is here: [2018-11-01-2020-03-02-num-ff-desktop-aaq-questions-created-2020-03-02.csv](https://github.com/rtanglao/rt-kits-api2/blob/master/PRODUCT_INTEGRITY_4WEEK_RELEASE_CYCLE/2018-11-01-2020-03-02-num-ff-desktop-aaq-questions-created-2020-03-02.csv)
+
+```bash
+../get-creator-answers-questions-for-arbitrary-time-period.rb 2019 11 26 \
+2020 3 2
+mv 2019-11-26-2020-03-02-firefox-creator-answers-desktop-all-locales.csv part-1-2019-11-26-2020-03-02-firefox-creator-answers-desktop-all-locales.csv 
+mv part-1-2019-11-26-2020-03-02-firefox-creator-answers-desktop-all-locales.csv part-2-2019-11-26-2020-03-02-firefox-creator-answers-desktop-all-locales.csv 
+mv 2018-11-01-2019-11-25-firefox-creator-answers-desktop-all-locales.csv part-1-2018-11-01-2019-11-25-firefox-creator-answers-desktop-all-locales.csv 
+head -1 part-1-2018-11-01-2019-11-25-firefox-creator-answers-desktop-all-locales.csv > concat-2019-11-01-2020-03-02-firefox-creator-answers-desktop-all-locales.csv
+for filename in $(ls part-*.csv); do sed 1d $filename >> concat-2019-11-01-2020-03-02-firefox-creator-answers-desktop-all-locales.csv ; done
+../print-csv-num-en-us-questions-by-product-integrity-week.rb concat-2019-11-01-2020-03-02-firefox-creator-answers-desktop-all-locales.csv 2018-2021-12-19-product_integrity_dates.txt >2018-11-01-2020-03-02-num-ff-destop-aaq-questions-created-2020-03-02.csv
+mv 2018-11-01-2020-03-02-num-ff-destop-aaq-questions-created-2020-03-02.csv 2018-11-01-2020-03-02-num-ff-desktop-aaq-questions-created-2020-03-02.csv
+```
+
 ## 01march2020 from the csv file of questions by id: for mturk,  cut out title and content and parse out the HTML
 
 ```bash
