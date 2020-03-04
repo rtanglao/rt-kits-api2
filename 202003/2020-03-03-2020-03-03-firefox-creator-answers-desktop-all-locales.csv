@@ -1,0 +1,180 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1281224,2020-03-03 14:39:38 -0800,2020-03-03T18:35:21Z,Trying to install mobile version but the 6-digit code I get in email is always invalid or expired.,"<p>What else do you need to know?
+</p>",download-and-install_1;firefox-730;desktop;windows-10;verificationemail;escalate;,firefox,download-and-install,en-US,1295042;,bertilak
+1281221,2020-03-03 14:23:52 -0800,2020-03-03T14:23:52Z,"PDF attachments not printing, works ok in Safari","<p>When I open a PDF attachment in Outlook Mail ( Hotmail) I click on the Print icon and nothing happens.
+</p><p>When I do this using Safari document prints out OK
+</p>",firefox-730;other;firefox-7301;desktop;mac-os;,firefox,other,en-US,"",lenhughes73
+1281219,2020-03-03 13:20:10 -0800,2020-03-03T14:49:31Z,I downloaded Firefox to my mac.  It works for 7-10 days then stops.  I uninstalled it & downloaded it several times. However it continues to stop running?,"<p>I have downloaded the ""latest version"" of Firefox to my Mac which is running macOS Catalina Version 10.15.3.  After 7-10 days Firefox will not ""open"".  I then uninstall it, and reinstall it.  Again it works for 7-10 days then will not open at all.  I have gone through these install / uninstall processes at least 10 times.  Yet after 7-10 days Firefox will not open.  What is causing this, and how can I keep Firefox working continuously on my Mac?  Thank You.   WA
+</p><p>P.S. - I am sending this question from a Windows 10 computer because I cannot open Firefox on my Mac.
+</p>",firefox-730;desktop;fix-problems;download-and-install;macos-1015;,firefox,fix-problems,en-US,1295013;,woajet777
+1281217,2020-03-03 13:05:23 -0800,2020-03-03T13:05:23Z,Audio in Remote Desktop Connection (RDP),"<p>Any updates on this issue:  
+</p><p><a href=""https://support.mozilla.org/en-US/kb/i-cant-play-audio-remote-desktop-connection"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/i-cant-play-audio-remote-desktop-connection</a>
+</p><p>As of 3/3/2020,  I don't see any fixes other than what mentioned in the link?
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",e_hak1
+1281215,2020-03-03 12:49:15 -0800,2020-03-03T16:45:18Z,Website says request rejected,"<p>I am trying to use this website and usually I can get to it using Internet Explorer with comparability settings for this site but this is the error message I am getting for site:
+<a href=""https://myncr.ncr.com/f5-w-68747470733a2f2f636c69656e747273696d2e6e63722e636f6d$$/portal/content/English%5Cgeneric%5Creplacevars.asp?file=browser.htm&amp;path=Portal.Content.English.Generic&amp;orfile=y"" rel=""nofollow"">https://myncr.ncr.com/f5-w-68747470733a2f2f636c69656e747273696d2e6e63722e636f6d$$/portal/content/English%5Cgeneric%5Creplacevars.asp?file=browser.htm&amp;path=Portal.Content.English.Generic&amp;orfile=y</a>
+</p><p>The requested URL was rejected. Please consult with your administrator.
+</p>",firefox-730;websites;desktop;windows-7;escalate;,firefox,websites,en-US,1294987;1295001;1295010;1295029;,angelag1
+1281214,2020-03-03 12:41:53 -0800,2020-03-03T17:23:10Z,"Why do most pages I almost have visited, now cannot be opened ?","<p>These pages are always of my source ( grammar pages ) and this is my issue 
+I kept their address on the bookmarks so that I can visit any time when I need and not to search again.
+Now I get surprised the page which I just before 3 days I opened, now it cannot be opened and said contain risks and not only this page. Wherever I go I meet with the same problem. Perhaps it is due to my ( eset internet security) since I recently have installed a new version, but as I know, this is not the method of eset blocking to a site. It is either give a red sign or a message alarming the user, so none of these to say it is due to eset.  I am too much unhappy for this behavior if it is due to Firefox because I cannot open the most pages. Say the page is for downloading programs or cracks , to say   "" Yes contain risks""  The pages I always open are not of these, so why  I cannot open ?  Does it not look strange ?
+</p>",firefox-730;websites;desktop;windows-7;,firefox,websites,en-US,1294975;1294990;1295009;1295011;1295012;1295014;1295034;,alrobaey51
+1281213,2020-03-03 12:40:20 -0800,2020-03-03T18:21:42Z,"I can not find the username or website that is saved in Firefox Lockwise, but it keeps populating","<p>Every time I log in to one of my bank accounts, the username is popping up with 2 saved user names. I looked for that information in Firefox Lockwise and the website does NOT show up.  There isn't a password saved with it but it is giving me grief every time I log in to that account.   How can I get rid of the saved username?
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1294999;1295040;,barbfarley
+1281210,2020-03-03 11:06:30 -0800,2020-03-03T13:26:45Z,"FF takes 2 or more min. to initially load in Win10 1903 (was worse in 1909), loads fast after","<p>Have re-installed FF several times, no improvement in initial startup time.  Often have to initiate as admin.  
+</p><p>73.0.1 (32-bit)
+</p><p>This HP Elitebook 840 G3  running Windows 10 v 1903 64-bit.  Have to be careful re-installing as FF wants to make my extensions in GERMAN!  Are OK now (see attachment).  Have test-removed AdGuard, NO difference, so added it back.
+</p><p>NOTE: screenshot is long out-of-date: AdNauseum removed long before this issue started
+</p>",firefox-730;desktop;fix-problems;windows-10;firefox-7301;download-and-install;,firefox,fix-problems,en-US,1294962;1294978;1294983;,xlcrlee
+1281208,2020-03-03 10:50:29 -0800,2020-03-03T14:21:12Z,Version issue connecting Android to Firefox,"<p>Hi. I use Firefox from many years. Today I was trying to inspect a my web page which looks strange in my Firefox for Android but I just can't. In my desktop I have Firefox 73.0.1 and in my Android phone I have Firefox 68.5.0.
+If I try to connect I get a message which tells to update Firefox from 68.5 to 71.0 (minimum supported version) but I can't find this version anywhere.
+I have installed Firefox Nightly for Developer in my phone but now the problem is that the version is too recent... What should I do?
+</p>",firefox-730;other;desktop;windows-10;android;firefox-685;firefox-6850;download-and-install;escalate;,firefox,other,en-US,1294963;1294966;1294986;1295006;,webintenerife
+1281207,2020-03-03 10:39:59 -0800,2020-03-03T17:53:31Z,McAfee Web Advisor Icon,"<p>If I remember, there was a McAfee Web Advisor icon on the top right of the Firefox browser, just to the left of the ""hamburger"" icon.  But it's not there, it disappeared.  Yes, it is enabled, and it is showing in Chrome.  So where did it go and how do I get it back? 
+</p><p>Thanks.
+</p>",firefox-730;other;desktop;windows-81;web-advisor;mcafee;,firefox,other,en-US,1294964;1295024;1295032;1295038;,Steve07
+1281206,2020-03-03 10:38:08 -0800,2020-03-03T16:43:44Z,"Added a company name as a word to the dictionary, but the dictionary won't catch my most common typo of it.","<p>I added a company's name to the dictionary in Firefox, but Firefox can't seem to catch the misspelling I generally use and therefore doesn't correct it. When I right-click on that name it comes up with other words and not the one I added to the dictionary. Is there any way I can do this so I'm not accidentally sending e-mails to them with the error? I have both the English US dictionary and check spelling as I type enabled. I'm running Firefox on a Windows 10 based laptop.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1295022;1295027;,robin25
+1281204,2020-03-03 10:14:32 -0800,2020-03-03T10:35:58Z,"""Email Link"" function no longer works.  How can I get it back?  Am on a Mac Book Air","<p><strong>bold text</strong>
+</p>",other;firefox-720;desktop;mac-os;,firefox,other,en-US,1294937;1294946;,billcamera1
+1281202,2020-03-03 10:12:15 -0800,2020-03-03T10:35:58Z,"how to set up firefox to use a mailto link to a webmail account (not gmail, or yahoomail, just a custom webmailaccount ...)","<p>I want to setup firefox to ask me, or directly to switch to a webmailaccount and start an email, if I use a MAILTO link.
+I can not setup this, the only add-ons are for gmail or yahoomail , but I can not find a solution for a custom webmail address.
+On another PC I got a question from firefox if I want to define this link, an on this PC Mailto is working.
+On my working PC I also want to set up this function, but I can not manage to do it.
+can anybody help?
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1294934;1294938;1294941;,f.s3
+1281201,2020-03-03 09:07:18 -0800,2020-03-03T09:16:15Z,"Firefox not asking for master password, and syncs my passwords signed in or not.","<p>This worries me since short of uninstalling Firefox every time my passwords aren't safe and sure aren't safer than the old fashioned way.
+</p>",privacy-and-security_1;firefox-730;desktop;,firefox,privacy-and-security,en-US,1294901;,williamjonathon1
+1281200,2020-03-03 09:06:48 -0800,2020-03-03T09:17:07Z,"Firefox not asking for master password, and syncs my passwords signed in or not.","<p>This worries me since short of uninstalling Firefox every time my passwords aren't safe and sure aren't safer than the old fashioned way.
+</p>","",firefox,privacy-and-security,en-US,1294902;,williamjonathon1
+1281199,2020-03-03 09:05:35 -0800,2020-03-03T10:35:58Z,Hulu unable to determine my location.,"<p>After a recent update to Firefox, I cannot access Hulu. It requests that I enable location sharing (which I do), but it still doesn't work. I've tweaked settings, disabled add on's and still nothing. I'm using Linux Mint 19.3, Firefox 73.0.1.
+</p>",firefox-730;websites;desktop;linux;,firefox,websites,en-US,1294904;1294913;,elemmaiii
+1281198,2020-03-03 08:39:19 -0800,2020-03-03T09:59:05Z,Za każdym razem po uruchomieniu komputera program Firefox się nie uruchamia.,"<p>Witam za każdym razem gdy wyłączę komputer pojawia się komunikat o utraconym profilu po czym jedyne co mogę zrobić to nacisnąć ok . Nie da się uruchomić przeglądarki pomimo deinstalacji.
+</p>",download-and-install_1;desktop;,firefox,download-and-install,en-US,1294925;,guthwulf1
+1281195,2020-03-03 08:17:28 -0800,2020-03-03T10:35:58Z,CAN'T MOVE TABS W/IN ONE WINDOW,"<p>First, this website is a nightmare.  It has taken me 10 minutes to figure out the 500 steps necessary to actually ask a question.
+</p><p>Using FF 73.0.1 on a PC
+</p><p>When I have 5-6 tabs open on a single window, I am no longer able to move tabs with my mouse.
+</p>",firefox-730;firefox-7301;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1294905;1294912;1294944;,MarkRoberts
+1281194,2020-03-03 08:08:40 -0800,2020-03-03T11:28:40Z,Problems with Firefox Windows on Mac,"<p>My Firefox windows is following over to all my desktops. I haven't had this problem before updating Firefox and don't have this problems with other applications.
+</p>",firefox-730;other;desktop;mac-os;,firefox,other,en-US,1294907;1294918;1294967;,johan.ek62
+1281193,2020-03-03 07:47:34 -0800,2020-03-03T10:35:58Z,How can I open an email file *.eml in firefox? Is there an email viewer plugin?,"<p>Hi,
+I'm using Trello which is a task manager and allows you to store files which it displays with a link. 
+</p><p>We  have a set of emails for a task, and we saved each email as a *.eml file and added it to Trello. However when you click on the link in Trello, FF wants to launch Thunderbird on my desktop, and on my mobile, FF wants to download it.
+</p><p>Is there a preference where I can tell FF to display the email within FF? Maybe an add-on if FF can't handle email format? I couldn't find one when I searched though :(
+</p>",firefox-730;customize;desktop;linux;,firefox,customize,en-US,1294906;1294911;,ahardy42
+1281192,2020-03-03 07:39:38 -0800,2020-03-03T08:07:37Z,Zip Code is Invalid?,"<p>I'm in one zip code and I'm looking at prices of things closer to where I live, but Firefox tells my my home zip code is invalid? USPS delivers mail to my house using that zip code, my home zip code shows up on the national zip code map, how can it be invalid?
+</p><p>Why are we not allowed to shop in a different zip code?
+</p>",firefox-490;websites;desktop;windows-10;,firefox,websites,en-US,1294890;1294891;,andrewvz
+1281191,2020-03-03 07:04:40 -0800,2020-03-03T09:25:06Z,The comments after articles in the Washington Post will not download on Firefox although they do so on other browers such as Safari with no problem,"<p>This problem occurred several years ago and then miraculously disappeared. Now it has reappeared without apparent explanation. I have not recently changed any settings in Firefox or anywhere else on my computer that I am aware of.
+</p>",firefox-730;websites;firefox-7301;desktop;,firefox,websites,en-US,1294884;1294885;1294900;1294903;,llawrenz
+1281190,2020-03-03 06:52:55 -0800,2020-03-03T08:11:29Z,HUGE ERROR! Basic User here: Right Click COPY on mouse doesnt work in newest version of FF 3/3/20. (All other programs fine!),"<p>This problem is limited to FF; it's NOT the mouse. 
+I have never seen this before; today's FF, downloaded directly fr mozilla site, etc.
+</p><p>Renders the FF Browser almost useless, simply.
+</p>",firefox-730;other;firefox-7301;desktop;windows-7;,firefox,other,en-US,1294883;1294892;1294894;,billjr1
+1281186,2020-03-03 05:33:03 -0800,2020-03-03T06:22:21Z,How do I put my bookmarks in alphabetical order?,"<p>Dell Inspiron 15 computer, Windows 10
+</p>",bookmarks;firefox-730;desktop;windows-10;,firefox,bookmarks,en-US,1294878;,mert_brenneman
+1281184,2020-03-03 05:02:18 -0800,2020-03-03T10:35:58Z,Syncronize is causing repeats of bookmarks.  Is there a bookmarks clean up of repeats tool?,"<p>Using synchronize across a multitude of different computers / devices causes bookmarks to repeat themselves.  I have multiple copies of the same bookmark and it's bloated by every bookmark I ever had.  Is there a bookmark cleanup tool that could eliminate duplicates instead of manually deleting a thousand bookmarks by hand?
+</p>",bookmarks;firefox-730;desktop;windows-7;,firefox,bookmarks,en-US,1294909;1294917;,lawson.wendy
+1281181,2020-03-03 03:03:24 -0800,2020-03-03T10:35:58Z,help to download Native-client patch for IDM in Firefox help to download Native-client patch for IDM in Firefox,"<p>I won't use Chrome!
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1294920;1294921;,dk405
+1281178,2020-03-03 02:16:53 -0800,2020-03-03T04:51:01Z,Why wont videos play on AOL since the latest Firefox update videos play on chrome without any problem,"<p>Only videos on AOL won't play since the latest Firefox update videos play on chrome without any problem and any other content
+</p>",firefox-730;other;desktop;windows-7;,firefox,other,en-US,1294873;,khutch3450
+1281175,2020-03-03 00:56:43 -0800,2020-03-03T10:35:58Z,Cant migrate my profile from windows 10 to Ubuntu 18.04,"<p>I mounted my windows disk and acces profile folder this is my windows 10 Profiles.ini content.
+</p><p>[Install308046B0AF4A39CB]
+Default=Profiles/4mltjd12.default
+</p><p>[Profile1]
+Name=Neutronized
+IsRelative=1
+Path=Profiles/2lebgv8x.Prof1
+</p><p>Locked=1
+</p><p>[General]
+StartWithLastProfile=1
+Version=2
+</p><p><br>
+When I go to my windows 10 and i open firefox i go to ""about:support""
+and the profile im using is
+4mltjd12.default
+So what i try is to move this profile to my ubuntu 18.04 firefox profile and load it
+</p><p>Windows 10 partition mounted in /mnt
+</p><p>from /mnt/Users/localhost/AppData/Roaming/Mozilla/Firefox$
+</p><p>sudo cp -r Profiles/4mltjd12.default /home/localhost/.mozilla/firefox/
+</p><p><br>
+and edited profiles.ini of ubuntu firefox  to
+</p><p>[Install4F96D1932A9F858E]
+Default=4mltjd12.default
+</p>
+<ol><li> This is previous Default profile Default=4b9sltm5.default-release
+</li></ol>
+<p>Locked=1
+</p><p>[Profile1]
+Name=4mltjd12.default
+IsRelative=1
+Path=4mltjd12.default
+Default=1
+</p><p>[Profile0]
+Name=default-release
+IsRelative=1
+Path=4b9sltm5.default-release
+</p><p>[General]
+StartWithLastProfile=1
+Version=2
+</p><p><br>
+</p><p><br>
+</p><p>But when trying to open firefox i get message: ""Firefox already opened please close all firefox processes or restart""
+Am i doing something bad?
+</p>",download-and-install_1;firefox-730;desktop;,firefox,download-and-install,en-US,1294922;1294935;,paypaljewish
+1281174,2020-03-03 00:49:35 -0800,2020-03-03T10:35:58Z,Customize autocomplete,"<p>Hello, having an issue with the search bar not autocompleting for gmail and I can't seem to fix it.
+Example in screenshots = reddit autocompletes no problem as first result, same with twitter, but gmail is down there in like 6th position, prioritizing things I've never searched for or been on.
+</p><pre>Can I make it be the first result? It's much more convenient to type the first 2 letters, hit the down arrow and press enter like I do for all the other sites that I regularly visit.
+</pre>
+<p>Thanks
+</p>",tips;firefox-730;desktop;windows-10;,firefox,tips,en-US,1294923;1294932;1294939;1294943;1294945;,nemouik
+1281171,2020-03-02 23:26:27 -0800,2020-03-03T20:37:43Z,Developer Tools-Style Editor_change selected code text color,"<p>This is about Style Editor, which uses different code for styling.  The colors used in browser toolbox (Ctrl + Shft + Alt + I) *Style Editor* uses Code Mirror selectors.
+Due to less than perfect sight &amp; the poor visibility / contrast colors of found search terms &amp; several other things in Style Editor, I needed to change things.
+</p><p>I didn't have too much problem finding most of CM's CSS selectors for what I needed.
+In all the CSS files associated with code mirror in the dark theme, I haven't found how to change the foreground (text) color when selecting lines or sections of code.
+</p><p>In Linux, Style Editor's default selected background is almost the same as the body BG color (looking at the hex colors used, and just visually.
+This from codemirror.css in omni.ja, changes selected, unfocused background:
+.CodeMirror-selected { 
+</p><pre> background: #D4E7F9 !important;
+</pre>
+<p>This changes the selected, focused BG color:
+.CodeMirror-line::selection, .CodeMirror-line &gt; span::selection, .CodeMirror-line &gt; span &gt; span::selection { 
+</p><pre>  background-color: #E9ECD8 !important; }
+</pre>
+<p>But I've found nothing for foreground ""color,"" to make the selected text legible through the light selected BG color I chose.  Just adding ""color: #0000FF !important;"" - under the background property doesn't work (like many CSS styled UIs - especially text editors).
+</p><p>Is it possible that Code Mirror doesn't have a way to change the text color on selected areas?  Most text editors I've tested usually have preference menu settings for things like selected - foreground &amp; BG color.  Or they have themes that add extra UI styling ability.
+The themes on code mirror's site don't seem to use selected foreground color (or just ""color"").  Maybe it doesn't understand that concept.
+</p><p>If the highlight BG color chosen for CM is fairly light with some transparency, you can read some darker syntax colors, but not all.
+</p><p>Using another text editor with better search, I looked &amp; searched all files I could find that control some of Style Editor's / code mirror's colors.
+</p><p>The only thing I found where I could change selected text color was one rule for searching in Style Editor.  It's in codemirror.css ... and it doesn't work that consistently for visibility. 
+/chrome/devtools/content/shared/sourceeditor/codemirror/lib/codemirror.css
+</p><pre>The default colors (someone) used for search term matches have little contrast.
+</pre>
+<p>LINE 330:
+.cm-searching {
+</p><pre> background-color: rgba(255, 255, 170, 0.6) !important; /* The 1st BG value listed is for focused search result highlight.*/
+ color: #0808E5 !important;
+ background-color: rgba(2226, 253, 251, .6) !important; }
+</pre>
+<p>NOTE: I added the color property in "".cm-searching"" -  and it worked.  Same trick doesn't work for any selection rules I tried.
+Codemirror's online manual is fairly spartan <a href=""https://codemirror.net/doc/manual.html#styling"" rel=""nofollow"">https://codemirror.net/doc/manual.html#styling</a>
+</p>",firefox-730;other;desktop;linux;,firefox,other,en-US,1294926;1295046;,Joebt
+1281168,2020-03-02 19:38:56 -0800,2020-03-03T04:15:10Z,Redireccionar una URL..,"<p>En el navegador de mi laptop (personal) que uso en casa, coloco:
+</p><pre>     <a href=""https://www.gmail.com"" rel=""nofollow"">https://www.gmail.com</a>
+</pre>
+<p>El navegar redirecciona en automático a una cuenta de mi universidad:
+</p><pre>   <a href=""https://pandora.pucp.edu.pe/pucp/login?SAML"" rel=""nofollow"">https://pandora.pucp.edu.pe/pucp/login?SAML</a>..... la URL es larga....
+</pre>
+<p>Quisiera resactivar ese redireccionamiento. Y saber como es que se ha fijado (seteado) así.
+</p><p>Gracias
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,es,1294869;,abraham.davila
+1281166,2020-03-02 17:57:46 -0800,2020-03-03T21:29:13Z,Cannot Log into my Microsoft Account,"<p>Hi,I have WASTED that many hours on trying to log into my Microsoft account &amp; it keeps telling me that I have entered the wrong password
+THIS IS 1000% incorrect,I am starting to run out of Passwords
+I just Had Microsoft into my Computers &amp; they got me to use BING Internet Explorer &amp; it was no PROBLEM Logging in
+As they Stated,It is A PROBLEM WITH FIREFOX
+HOW DO I FIX IT?????????????????
+It is EXTREMELY FRUSTRATING
+Thanks
+Darryl
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1294834;1294846;1294847;1294848;1294850;1294853;1294854;1294856;1294857;1294858;1294859;1294860;1295016;1295055;,dasmit
