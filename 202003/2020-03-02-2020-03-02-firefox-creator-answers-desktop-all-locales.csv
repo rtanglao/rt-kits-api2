@@ -1,0 +1,181 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1281162,2020-03-02 15:34:54 -0800,2020-03-03T07:56:02Z,how do you get rid of Trovi?,"<p>The Trovi browser has started appearing on my comp not listed in programs I can uninstall very annoying how can I get rid of it?
+</p>",privacy-and-security_1;firefox-730;desktop;windows-7;malware;escalate;,firefox,privacy-and-security,en-US,1294808;1294810;1294879;1294887;,pricejc502003
+1281161,2020-03-02 15:13:57 -0800,2020-03-02T16:32:05Z,I  changed some settings and now cannot open links.  Any way to restore my settings to one week ago?,"<p>Keep getting Problem loading page... Anyone has any idea how to restore settings?
+</p>",firefox-730;other;firefox-7301;desktop;mac-os;,firefox,other,en-US,1294809;,evike
+1281160,2020-03-02 15:06:00 -0800,2020-03-02T17:30:03Z,"When I print from my online newspaper app, get an extra print dialog that previews a blank page. How to get rid of this extra dialog?","<p>When I print from Chrome or Brave browsers from our local online newpaper app, I get one print dialog with the item I've asked to print shown in the preview. Perfect. When I print from Firefox I get the same thing, but on top of that is another print dialog previewing a blank page that I have to get rid of before I can get to the actual print dialog I want. 
+</p><p>So I have to ""cancel"" the bogus, top dialog that wants to print a blank page, and then the print dialog that I want is available. 
+</p><p>Obviously I want to get rid of the first print dialog that wants to print a blank page.
+</p><p>I've gone through the Mozilla ""Fix printing problems in Firefox"" page, which includes taking all statements with arguments starting with ""print_"" out of prefs.js in my profile, and that didn't help at all. Exactly the same extra print dialog after doing that.
+</p><p>So I really have no idea why Firefox is doing this when I ask it to print, any ideas how to troubleshoot or fix?
+</p><p>Thanks!
+</p>",firefox-730;other;desktop;mac-os;,firefox,other,en-US,1294812;1294820;1294822;,MrDoh
+1281158,2020-03-02 14:48:56 -0800,2020-03-03T10:45:43Z,"During my usual LInux Mint update, i got a failure to upgrade Firefox ""404 Not Found...""","<p>Here are the error messages for the two packages:
+</p><p>W: Failed to fetch <a href=""http://packages.linuxmint.com/pool/upstream/f/firefox/firefox_72.0.2+linuxmint1+sylvia_amd64.deb"" rel=""nofollow"">http://packages.linuxmint.com/pool/upstream/f/firefox/firefox_72.0.2+linuxmint1+sylvia_amd64.deb</a>
+</p><pre> 404  Not Found [IP: 68.235.39.11 80]
+</pre>
+<p><br>
+W: Failed to fetch <a href=""http://packages.linuxmint.com/pool/upstream/f/firefox/firefox-locale-en_72.0.2+linuxmint1+sylvia_amd64.deb"" rel=""nofollow"">http://packages.linuxmint.com/pool/upstream/f/firefox/firefox-locale-en_72.0.2+linuxmint1+sylvia_amd64.deb</a>
+</p><pre> 404  Not Found [IP: 68.235.39.11 80]
+</pre>
+<p>I currently run Firefox v 72.0.1 (64 bit) on the latest Linux Mint. (it's automatically kept up to date.
+</p>",download-and-install_1;firefox-720;desktop;linux;,firefox,download-and-install,en-US,1294797;1294849;1294916;1294952;,Daniel107
+1281156,2020-03-02 13:34:17 -0800,2020-03-02T13:54:14Z,some images in firefox browser replaced with text,"<p>Some of the graphics on websites I visit have been replaced with text and I'm not sure how to fix this. Usually it's down or up arrows on sites. See below
+</p>",firefox-680;websites;desktop;mac-os;,firefox,websites,en-US,1294772;1294775;,maggiemcguire
+1281155,2020-03-02 12:56:46 -0800,2020-03-02T14:16:51Z,"No submit button on billing page, v 73.0.1  I grow weary of this!","<p>every new version, now i can't bu;y what i want to bvuy
+</p>",firefox-730;websites;desktop;mac-os;,firefox,websites,en-US,1294786;,cglenn
+1281153,2020-03-02 12:41:18 -0800,2020-03-02T14:07:02Z,How to submit question or inquiry  requesting information???,"<p>Where  on Browser  web page  in INQUIRY  section  that  permits  and allows  the  asking  of  a question??  where  on the Borowswer  page  is  the  section to  allow  inquiries  to  be formulated??  Unable  to locate  speififcsection or area  where  questions  can be  submitted to FREFOX???  Bob ( NEW TO  FIREFOX)
+</p>",other;desktop;,firefox,other,en-US,1294780;,bobpla105
+1281144,2020-03-02 11:04:53 -0800,2020-03-03T10:35:58Z,Can DNS over HTTPS settings be fixed to provide support for authentication via client certificates?,"<p>DoH is being configured by default in the US in the near future. While a great tool, I believe the companies can benefit as well. Most users have laptops. Laptops leave the confines of the office regularly. Why not have laptops configured so that they point to a companies DNS infrastructure when not in the office? The benefit would be that any filtering/monitoring being done via DNS no longer is limited to when devices are on the company network!
+</p><p>This would require companies exposing DNS to the internet which is considered a bad idea. DNS will expose internal secrets and let the bad guys probe the architecture of the network for information they can use later. Adding authentication to the DoH solution would allow companies to leverage their internal certificate infrastructure and already deployed client certificates to protect that DNS information.
+</p><p>TLS mutual auth via client certificates is part of the SSL/TLS protocol already in use by DoH and there is nothing in the RFC to prevent this from being a possibility.
+</p><p>Is this something that can be added to the roadmap (or is it already on the roadmap)?
+</p><p>Thanks!
+</p>",privacy-and-security_1;firefox-730;desktop;windows-10;,firefox,privacy-and-security,en-US,1294914;1294919;1294929;1294942;,mozilla71
+1281139,2020-03-02 10:28:06 -0800,2020-03-02T12:12:11Z,"How to bind Shortcut Next-Tab(CTRL+TAB), and previous-Tab(CTRL+SHIFT+TAB), to mouse?","<p>How to bind Shortcut Next-Tab(CTRL+TAB), and previous-Tab(CTRL+SHIFT+TAB), to mouse [HOLD]Right Mouse Button + Mouse Roll [UP]=Right tab or [DOWN]=Left tab.? This function mean similary to MX5 (maxthon 5 browser). Is there any standard Settings function to rebind Keyb/Mouse function? Or Can I install any helpfull plugin?
+</p>",tips;firefox-730;desktop;windows-10;,firefox,tips,en-US,1294747;,JacobJakub
+1281137,2020-03-02 10:21:09 -0800,2020-03-02T14:25:53Z,Firefox 73.0.1 and fairly consistant Youtube playback back screen with error message (Kubuntu 19.10 & Windows 10),"<p>When I click on a Youtube video to watch, I usually (but not quite always) get an error message and a black screen where the video should be.  Happens in Linux...  and in Windows 10.  All systems have Kubuntu 19.10 (the HTPC does not have Windows 10), and that's the more pressing OS for a fix in (at least it is for me).  A simple F5 press (refresh) usually clears the problem and the video will play, but occasionally it needs a 2nd hit.  A couple times the error message and black video do get replaced by the video if I let it sit for a short period (??).
+</p><p>I have an assortment of hardware combinations: 8th Gen Intel based notebook (i5-8250U with iGPU and MX150), an all AMD based gaming system (Ryzen 3600 + RX Vega 56), and my current HTPC (Ryzen 1600 with GT 1030).  Does not occur with any other streaming website I use (Primevideo, Crave, Netflix, &amp; Twitch).
+</p><p>The Win10 installs are fully up to date and have the newest MS Feature Media Pack.  Kubuntu 19.10 installs are also fully up to date.  I do make use of Oibaf's Mesa PPA for more updated Mesa Packages then whats in the *buntu repos (on the notebook and gaming PC, not the HTPC).
+</p><p>I have tried safe mode, I have tried disabling Recommended Performance Settings, disabled plugins, deleted the cache, and performed a browser refresh (because I do like to perform some warranty voiding tweaks like disabling Push notifications), etc, etc, etc.
+</p>",firefox-730;desktop;fix-problems;,firefox,fix-problems,en-US,1294790;,areginato
+1281136,2020-03-02 10:07:17 -0800,2020-03-02T14:16:17Z,download location info,"<p>Case study.  On a website I upload a file.  So the website generates a file that I download.  Should the file I download end up in the directory from where I got the file I uploaded?  I wish it were so.  Alternatively, you can set up a download location for a specific website.
+</p>",customize;desktop;,firefox,customize,en-US,1294785;,nicolacantalupo
+1281135,2020-03-02 10:04:58 -0800,2020-03-02T13:51:12Z,using windows 8 cannot get History to delete - everything from the date I changed a privacy setting will not delete even after del and install firefox???,"<p>every time I erase firefox from windows 8 and reinstall it will not allow a clean fresh install but keeps reinstalling the same version with all my history and bookmarks showing -- I want a clean total reinstall that wipes out the version that will not delete the history -- how do I do this -- I will change browsers if I cant resolve this and go back to Explorer which I hate
+</p>",firefox-730;other;desktop;windows-81;,firefox,other,en-US,1294732;1294733;1294774;,dng1358
+1281133,2020-03-02 09:37:47 -0800,2020-03-02T19:56:58Z,Virustotal 3 anti-virus engines detecting FirefoxInstaller exe,"<p>I downloaded the Firefox installer from <a href=""https://www.mozilla.org/en-US/firefox/download/thanks/"" rel=""nofollow"">https://www.mozilla.org/en-US/firefox/download/thanks/</a> and scanned the file on Virustotal and 3 of the anti-virus engines detected it, 2 as trojan, 1 as malware. Here is the link to the VT scan: <a href=""https://www.virustotal.com/gui/file/1f008f615561276c2c7c9dbf9ac07a0319dd7ec54d65f365d7e1cf2b5b70b216/detection"" rel=""nofollow"">https://www.virustotal.com/gui/file/1f008f615561276c2c7c9dbf9ac07a0319dd7ec54d65f365d7e1cf2b5b70b216/detection</a>. Is there a problem with this file?
+</p>",download-and-install_1;desktop;windows-10;,firefox,download-and-install,en-US,1294735;1294755;1294763;1294769;1294835;1294844;,mattroni
+1281132,2020-03-02 09:31:54 -0800,2020-03-03T10:35:58Z,"scrolling stops working until I restart windows, I have tried clearing cash and cookies and restart in safe mode but nothing worked","<p>scrolling stops randomly, only note for this issue is I have to hit many buttons in my mouse.
+when putting firefox in background (i.e. windows explorer in front of firefox) scrolling works.
+I have tried many mouses suspecting that issue because of the mouse, but all the same.
+only resolution for this problem is restarting windows, I'm using wireless mouse.
+</p>",firefox-730;firefox-7301;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1294924;1294930;1294933;,badran.ayman
+1281131,2020-03-02 09:26:55 -0800,2020-03-02T14:19:51Z,I have weird fonts in some pages. How can I set them to normal again?,"<p>Since a few updates the fonts on a few webpages got kind of blurry (see that on the attached picture). I have not changed anything related to fonts in Windows settings and Firefox settings. It just happened from one day to another, can't remember exactly when unfortunately. Since then Facebook somehow got back to it's normal font, but other pages like Linustechtips and FB Messenger are still blurry.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1294788;,benedeknm
+1281129,2020-03-02 09:02:09 -0800,2020-03-02T14:53:47Z,Side bookmarks bar has dissappeared but it still available via the bookmark icon at top left of the screen. Thanks for help to retrieve and keep at the side,"<p>Until I downloaded firefox browser to join firefox, sidebar was black and showed all I had bookmarked. Now it still shows them if the bookmark icon at the top right hand corner is selected but does not seem to provide an option to move them back to the side bar space or return colours originally defaulted. Any help much appreciated. Thanks, John PS I am using Mac OS v 12
+</p>",bookmarks;firefox-730;desktop;,firefox,bookmarks,en-US,1294789;1294792;,gxxdman
+1281128,2020-03-02 08:59:58 -0800,2020-03-02T09:16:58Z,"The new 72.0.1 update this morning made me create a new profile and deleted ALL my logins, passwords and bookmarks.","<p>I turned my work laptop on this morning and when I opened Firefox it made me create a new profile. There was no other option in order to continue. Once I did all of my saved logins, passwords and bookmarks were gone. As this is a work laptop I just lost a ton of links to important sites I use on a daily basis. How can I revert and get those back and why were they deleted in the first place?
+</p>",other;firefox-720;desktop;firefox-7201;windows-10;dataloss;,firefox,other,en-US,1294708;,bfranklin2
+1281125,2020-03-02 07:44:35 -0800,2020-03-02T07:44:35Z,"Canvas no carga correctamente, ¿Qué puedo hacer?","<p>Estoy trabajando con canvas para generar gráficas mediante chart.js, y casi todos los navegadores cargan bien la gráfica(chrome, brave, edge) pero voy a firefox a ver el sitio y carga un sitio en blanco donde debería ir la gráfica, y después de cambiar de pestaña varias veces carga ""normal""
+</p>",other;desktop;windows-10;,firefox,other,es,"",sauri1
+1281124,2020-03-02 07:39:37 -0800,2020-03-03T10:35:58Z,Firefox Windows are not properly resized by Magnet on MacOS,"<p>I use a windows manager to quickly scale windows so they fit either the left or right side of my screen. The tool I use is called Magnet (<a href=""https://magnet.crowdcafe.com/)"" rel=""nofollow"">https://magnet.crowdcafe.com/)</a>. It's great and so far it works with every app I use except for Firefox. I often find that a part of the window is hidden out of sight or it ends up at a random location after trying to resize it. The Magnet website mentions that the tools only works with standard resizable windows (""Magnet can handle all standard resizable windows in OS X for you. Magnet can not do anything with non-standard windows used by some developers"".)
+</p><p>Does anyone experience the same issues? Any workaround?
+</p>",other;firefox-720;desktop;mac-os;,firefox,other,en-US,1294927;1294949;,sndrvndk
+1281123,2020-03-02 07:35:20 -0800,2020-03-02T07:35:20Z,Отправленные с ПК на телефон вкладки не приходят (аккаунты подключены и синхронизированы)),"<p>Отправляю вкладки из Mozila Firefox с ПК на iPhone: браузер на ПК пишет, что вкладка отправлена, но на телефоне она не появляется.
+При отправке с телефона на ПК всё работает.
+</p>",tabs;firefox-730;desktop;windows-7;,firefox,tabs,en-US,"",sannikov.nv
+1281122,2020-03-02 07:05:16 -0800,2020-03-02T07:05:16Z,Não é possível imprimir utilizando Outlook WEB,"<p>Ao acessar o outlook via Web com o navegador mozilla não consigo imprimir arquivos PDF (até agora é o unico formato que apresenta o problema).
+Clico no arquivo, o pop-up abre, mas ao clicar em ""imprimir"" nada acontece.
+Já restaurei o Mozilla, Iniciei em modo de segurança, testei em outros computadores com as versões 73.0, 68.0 e 67.0.
+</p><p>Alguem consegue me ajudar? 
+</p><p>Possuo windows 10.
+</p><p>Obs.: O erro não ocorre com arquivos PNG, JPEG, etc...
+</p>",desktop;fix-problems;windows-10;,firefox,fix-problems,pt-BR,"",samuel.porcela
+1281121,2020-03-02 07:02:52 -0800,2020-03-02T18:32:49Z,Why does Firefox show two window bars in Ubuntu?,"<p>Just started seeing this happen, mostly when I drag a tab out of the current window to open a new window. I've tried disabling the only plugin I have installed and it does it with or without it; it also works with it enabled. The issue is sporadic
+</p>",firefox-730;other;firefox-7301;desktop;linux;,firefox,other,en-US,1294692;1294694;1294818;1294829;1294832;1294833;,cayobuay
+1281120,2020-03-02 06:47:43 -0800,2020-03-03T10:35:58Z,High-contrast theme not working properly with Firefox 73,"<p>I updated Firefox to version 73.0.1 and Windows 10 Pro to version 1909 at last week. Good news is that update fixed several accessibility issues with Firefox's interface wtih add-ons (i.e. invisible buttons became visible). Bad news is that key functionality in webpages broke down.
+</p><p>Attached are example screenshots from Google main page and Foreca weather service's 10 day forecast for Jyväskylä, Finland. In Google's case ""Google Search"" and ""I'm Feeling Lucky"" text is white on black as should be but buttons also have thick white borders around them (not present before update), which makes reading text difficult. In Foreca's site its propably something similar but there is so much white colour involved that I'm unable to read anything.
+</p><p>Can I somehow fix this issue myself? If not where should I report this issue?
+</p><p>Google: <a href=""https://www.google.fi/"" rel=""nofollow"">https://www.google.fi/</a>
+Foreca: <a href=""https://www.foreca.fi/Finland/Jyvaskyla/10vrk"" rel=""nofollow"">https://www.foreca.fi/Finland/Jyvaskyla/10vrk</a>
+</p><p>P.S. On page used for sending this message ""Post Question"" button has similar thick border but in light blue instead of white. Much easier to read than in posted example cases.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1294931;1294948;,timo88finland
+1281118,2020-03-02 06:11:24 -0800,2020-03-02T23:57:40Z,global installation of spell checker dictionaries - 68.4.2esr,"<p>Dear Firefox Support,
+all the dictionary files (.aff + .dic) , located in ""&lt;installation folder&gt;\dictionaries"",  not working anymore, since upgrade to 68.4.2esr (64-bit).
+How can we install all the spell checking languages for all users?
+many thanks in advance and kind regards,
+Gerald
+</p>",customize;desktop;windows-server-2016;,firefox,customize,en-US,1294800;1294855;,gerald.brueger
+1281117,2020-03-02 05:54:52 -0800,2020-03-02T17:42:57Z,"Is there a possibility to prevent  ""This page is asking you to confirm that you want to leave..."" popup message using JavaScript?","<p>HI! Could you tell me please how can I prevent this popup message? Is there some browser vendor supported way to do it using JavaScript or we have just only possibility to do it by editing Firefox browser setting 'dom.disable_beforeunload = true' on each browser client? As an app developer I need to disable this notification popup for all users at once. Thanks!
+</p>",customize;desktop;firefox-720;windows-10;,firefox,customize,en-US,1294823;1294824;,aleksandr.chebaev
+1281116,2020-03-02 05:51:55 -0800,2020-03-02T05:51:55Z,How to invert colors in the embedded pfd reader? (A dyslexic-friendly setting),"<p>I am a dyslexic (and die-hard) Firefox user. 
+Along the course of the years, I found out that inverting the text-background colors is a good practice to reduce the eye-straining and increase my reading speed. 
+</p><p>To achieve this in Firefox, I installed ""Dark Background Light Text"" add-on and it I used to work out extremely good.
+However, in June 2018 (Firefox 61) this add-on lost the priviledge to operate in the embedded PDF viewer.  This is extremely painful (considering that on average I open 40-50 PDF per week), and I often I have to download/open the documents outside Firefox. This often turns out to be a disrupting process, that makes me lose focus when swapping back and forth between the PDF viewer, my IDE and the browser.
+</p><p>I don't know whether there is a way to activate this feature and I think I made a couple of requests to implement it, but, as of now,  I've never received any answer. What makes things worse the Firefox's PDF viewer is the __only__ viewer that doesn't support this feature natively. Is there a way to enable this in Firefox? (I could be as desperate as to try to volunteer to implementing it in the code myself) 
+</p><p>Please, don't leave my support request unanswered  any longer.
+</p>",firefox-730;customize;desktop;linux;,firefox,customize,en-US,"",ninocangialosi
+1281115,2020-03-02 05:49:44 -0800,2020-03-02T10:05:21Z,"Hi! If I have synced my passwords in my account, and now I want to delete them from being stored somewhere else than my local pc, how can I do this?","<p>I just want my stored password to be saved only to my local pc and not somewhere else. But I have enabled the sync option also for the passwords, and now I would like your help in order to tell me, how can I delete the synced passwords from, lets say, the cloud or whatever technology you are using? Is the check box in the sync settings enough? If I deselect the passwords from the list, will they be deleted from your servers?
+</p><p>Thank you in advance!
+</p>",firefox-730;sync;desktop;windows-7;,firefox,sync,en-US,1294726;,gkoletis1
+1281113,2020-03-02 04:57:53 -0800,2020-03-02T04:57:53Z,Unable to print  attachment at priview mode,"<p>When preview outlook attachment, unable to print PDF format directly from preview page, it doesn't invoke printing page at all, meanwhile all other format (Word. Excel, TEXT etc.) can be printed directly and correctly.
+I have checked <em>settings</em> --- ""applications"", for ""Portable Document Format (PDF)"", it doesn't matter what the option is, it just doesn't work. 
+BTW, it used to be working, since updated to latest version, i got this problem.
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,"",shixiaoying1211
+1281107,2020-03-02 02:43:58 -0800,2020-03-02T04:27:09Z,Firefox displays more login infos than I have for a site,"<p>I have serveral accoutinfos (username, password) saved in firefox.
+Normally, when wanting to login on one of these websites, firefox gave me only the one fitting login, wich was good.
+Since 2-3 months I also get the fitting one and several other sites displayed as possible logins. These Websites have nothing to to with the website I want to login to. Not even the username / email address etc. are the same.
+In the attached scrrenshot, only the first two entries are for this very website. The rest does not make any sense.
+</p><p>This is really annoying. Is there a configuration to disable this which I haven't found yet ?
+</p>",firefox-7202;firefox-720;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US,1294656;1294659;1294664;,m26
+1281105,2020-03-02 01:02:25 -0800,2020-03-02T02:13:37Z,Runescape crashing on Firefox. What's the issue?,"<p>Hi Friends, I'm a big Runescape fan and recently switched from Chrome to Firefox. However, each time I'm into the game for at least 10 minutes, Firefox crashes and I get the ""trying to recover message."" Not just Runescape, I've tried all these PC games: <a href=""https://epicgamedeals.com/top-5-free-co-op-games-for-pc/"" rel=""nofollow"">https://epicgamedeals.com/top-5-free-co-op-games-for-pc/</a> with Firefox and I'm sick of the crashing scenario. Can you please advise if the following games are not compatible with Firefox or is this a system error?
+</p>",desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1294648;,siyagandhi89
+1281102,2020-03-02 00:24:03 -0800,2020-03-02T00:59:53Z,about browsing history file location,"<p>about browsing history file location
+</p><p>I  regularly clear my history 
+But today i found  the history maybe save in two different location? 
+</p><p>because , I use Eset security to protect my payment (Banking &amp; Payment protection)
+and the secured browser have all my history (etc: bank web site)
+</p><p>it can't be search or delete  when i use normal browser
+</p><pre>the history can only be find on the Eset secured browser
+</pre>
+<p>how can i found the location and clear it ?
+</p>",privacy-and-security_1;firefox-730;desktop;windows-7;,firefox,privacy-and-security,en-US,1294633;,kennith2424
+1281099,2020-03-01 23:03:53 -0800,2020-03-02T01:04:35Z,"How do I fix ""Corrupted Content Error"" in Firefox on many websites","<p>Everytime I open sites like <a href=""https://developers.google.com/maps"" rel=""nofollow"">https://developers.google.com/maps</a> and <a href=""http://ruby-forum.com"" rel=""nofollow"">http://ruby-forum.com</a>, and some other sites that I can't recall now, I get ""Corrupted Content Error"". The <a href=""http://send.firefox.com"" rel=""nofollow"">send.firefox.com</a> even fails to load. I have to press ""ctrl + shift + r"" to reload the site, but when I am redirected to the sites (say after login), I can't press ctrl + shift + r.
+</p><p>Removing cache and cookies didn't help.
+Chromium loads the sites just fine.
+</p>",firefox-740;other;beta;desktop;linux;,firefox,other,en-US,1294634;1294635;,SouravGoswami
+1281098,2020-03-01 22:42:22 -0800,2020-03-02T07:07:33Z,Clicking bookmarks bar items that produce pop-up dialogues yields dialogues with just white space in them. Clicking a second time yields the populated dialogue,"<p>The problem exists with the Amazon Assistant plug-in and the 1Password X plug-in. It's reproducible. 1Password X tech. support is baffled. They think its a FF problem, which seems likely because  the problem is not linked only to the 1Px plug-in. See the attached screenshot that shows the blank pop-up.
+</p>",firefox-730;desktop;fix-problems;,firefox,fix-problems,en-US,1294636;1294693;,dteplow
+1281097,2020-03-01 22:12:58 -0800,2020-03-01T22:12:58Z,"On my Mac, when I use ""Print > Save as PDF"" in Firefox, it only saves 1 page of multi-page docs; sometimes there are blank pages.","<p>On my Mac, when I use ""Print &gt; Save as PDF"" in Firefox, it only saves 1 page of multi-page documents, especially on lists; sometimes there are blank pages for page 1 or page 3.  Works fine in Safari.  Someone asked a similar question about HTML pages, but the solution offered, an add-on, is listed only for Windows/Linux.
+</p>",firefox-730;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,"",threedonks
+1281096,2020-03-01 21:32:36 -0800,2020-03-02T00:54:39Z,Export/Save Bookmarks as PDF Pages,"<p>I have a rather extensive set of bookmarks to various articles that pertain to how my server has been set up and different modifications.
+</p><p>As time wears on I have come to realize that these sites may not be around forever so I want to basically save each bookmarked page as a PDF on my computer.
+</p><p>Because I have so many bookmarks, I am hopeful this can be done in one action/command.
+</p><p>Doing so will allow me to keep an offline archive of my bookmarked pages that I can easily update as more bookmarks are added via the same action/command.
+</p><p>Currently, I only see that I can open each bookmark and manually save as PDF or save to file.
+</p><p>Thanks in advance!
+</p>",bookmarks;desktop;,firefox,bookmarks,en-US,1294621;1294624;1294625;1294626;1294630;,cjf1026
+1281095,2020-03-01 20:06:09 -0800,2020-03-01T20:06:09Z,multiple ghost volume sliders,"<p>there should only be a single firefox volume slider in this pic yet there are 6 and even when tabs with video players and other audio source are closed these ""ghost sliders"" remain.
+</p><p>i'm well aware of how you guys left the old firefox memory leak issue unresolved for well over 2 decades until eventually coming up with that ""tab unloader"" feature as the solution.
+</p><p>i'm also aware that this volume slider issue has been a problem for at least 2 years now... i really hope this isn't the memory leak all over again because i do not enjoy browsing the internet and randomly having to bring up volume mixer and turn down the volume because firefox decided to spawn a new volume slider for NO GOOD REASON and at FULL VOLUME no less!
+</p><p>it's not funny. it serves NO good purpose. and tbph it's actually rather startling and unsettling at times because there is no way of knowing when it'll happen again.
+</p><p>will it happen with the next youtube tab i open to watch a video? or will it happen after 2 normal youtube tabs? oh, or how about when i open a tab to watch a video, turn down the new volume slider then leave said tab to check or do something else for a moment and come back only to have the audio BACK at full blast and have to lower it AGAIN on yet aNOTHER volume slider?!
+</p><p>note: while i used youtube as an example here this problem happens ALL across the internet on ANY website regardless of whether or not the audio is coming from a video player, audio player, or anything else like a fricking flash game of all things.
+</p><p>the memory leak had a temporary fix where you could periodically reboot the browser. this? this is 100% random with NO way of predicting when or where it'll happen next. as for why i brought up the memory leak issue...easy comparison for a problem that went unresolved for MANY years.
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",treos100
+1281094,2020-03-01 19:21:31 -0800,2020-03-01T19:21:31Z,Apple iCloud Notes experience is terrible - any fix?,"<p>Hi, I use iCloud via the browser every day.  I used to use Chrome, and it worked very well.  However, I'm making the transition to Firefox full time, and icloud Notes is very very poor.  If I press enter in a note, it doesn't reflect in the screen.  I have to press 2 or three times to get a single enter/linebreak.  And I have to move the cursor up and down to get more than one line break, while pressing enter many many times.  
+</p><p>Is this normal?
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,"",jasonfuller2000
+1281090,2020-03-01 18:19:56 -0800,2020-03-01T18:25:37Z,How do I fix Youtube An error occurred. Please try again later. (Playback ID: fIIZN8wa1qCxSJXf)  errors?,"<p>I'm using the latest version of Firefox and windows 10 pc.  I am having a hard time with Youtube.   I keep getting this error. I have to load some videos a few times to get them to play and sometimes a video just plays with no trouble. 
+</p><p>What can I do to fix this?
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1294595;,happyskunky
+1281089,2020-03-01 18:08:24 -0800,2020-03-01T22:29:36Z,Restore session doesn't work,"<p>When I try restoring my session, it opens up a blank pop-up box and I can't restore my session.
+</p>",tabs;desktop;,firefox,tabs,en-US,1294622;,tobylquach
+1281087,2020-03-01 17:39:14 -0800,2020-03-02T13:58:47Z,"Firefox is slow to start, freezes for a few seconds with every new tab, and will not play YouTube videos.","<p>For several days now I've been having issues with Firefox. It is very slow to start up, freezes for 10 seconds when a new tab opens, takes another 10 seconds to begin loading the new tab after unfreezing, and will not play YouTube videos (tries loading but always gives ""error has occurred"" message). I have tried reinstalling Firefox twice and it has not changed anything. I've also turned off advanced performance settings. Can someone help?
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1294623;1294707;1294716;1294778;,milest303
+1281086,2020-03-01 17:27:03 -0800,2020-03-02T08:05:38Z,How can I open Google Docs files in Firefox?,"<p>When I try to open a Google Docs file from my Google Drive folder on my Windows 10 computer, it opens in Firefox in a new tab but it shows:
+</p><p>{""url"": ""<a href=""https://docs.google.com/open?id=xxxxxx"" rel=""nofollow"">https://docs.google.com/open?id=xxxxxx</a>"", ""doc_id"": ""xxxxx"", ""email"": ""xxxx@gmail.com""}
+</p><p>How do I get it to show the actual Google sheets instead?
+</p><p>Here is the Google Drive file:
+<a href=""https://i.imgur.com/MOtvRAn.png"" rel=""nofollow"">https://i.imgur.com/MOtvRAn.png</a>
+</p><p>After double-clicking, it opens in firefox like this:
+<a href=""https://i.imgur.com/jKRlypw.png"" rel=""nofollow"">https://i.imgur.com/jKRlypw.png</a>
+</p><p>How can I view the contents of the Google Docs file?
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1294590;1294591;1294593;1294603;1294701;,techcrium
+1281085,2020-03-01 17:20:47 -0800,2020-03-01T20:52:05Z,Get rid of duplicate seperators in bookmarks,"<p><a href=""https://support.mozilla.org/en-US/questions/1251466"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1251466</a>        ( I have the last post on this page)
+This solution does NOT WORK for Firefox 73.0.1 (and probably later). 
+The display, when I get to ""Show All Bookmarks"". and click ""Bookmarks Menu"" is NOT the same as what Firefox displays in Bookmarks/Favorites. I see only a SINGLE separator on this display, Where I see a double separator when I click the bookmarks while browsing.
+For the uploaded image: On the left, following my instructions for the referenced question. On the right, the favorites menu while browsing.
+For the Browsing bookmarks (right), you see a double separator between/below the in/out box icon of ""Other Bookmarks"" and above the Folder icon ""Other Bookmarks"". On the left you see only a Single separator or none in the same place. 
+</p><p>I am using a double (mismatched) monitor setup. 1600x900 Portrait orientation to the left and 1920x1080 Landscape orientation as the main monitor. This creates some problems for editing screenshots.
+I ended up with duplicates when I imported saved bookmarks onto a newly downloaded Firefox on this new computer.
+</p>",bookmarks;firefox-730;desktop;,firefox,bookmarks,en-US,1294588;1294601;1294602;1294616;,EdHampton
+1281084,2020-03-01 16:10:09 -0800,2020-03-01T19:24:29Z,Spell Check Just Does NOT Work Anymore,"<p>Auto Spell check does NOT work any more:
+</p><p>(1) Its enabled in settings
+</p><p>(2) I downloaded latest Engish (British) dictionary
+</p><p>(3) I also tried English (US) dictionary
+</p><p>(4) I have latest Firefox version installed
+</p><p>(5) I tried safe mode
+</p><p>(6) I tried resetting Firefix and re-enabled auto spell check in options
+</p><p>It does NOT work
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1294592;,paul121
