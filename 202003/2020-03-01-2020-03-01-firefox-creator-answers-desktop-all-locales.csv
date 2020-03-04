@@ -1,0 +1,130 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1281081,2020-03-01 15:39:07 -0800,2020-03-02T01:10:05Z,How much better would the Mozilla Recovery Answer Page be if it included this?,"<p>The Mozilla Answer page: <a href=""https://support.mozilla.org/en-US/kb/recovering-important-data-from-an-old-profile#w_copying-files-between-profile-folders"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/recovering-important-data-from-an-old-profile#w_copying-files-between-profile-folders</a>, provides some pretty good information about which files to recover, but, doesn't include the general population's need to recover their last sessions, so a mention on this same page would be extremely helpful. Next, I found the places.sqlite file will update automatically without shutting down Firefox (most likely when the computer is put to sleep and then awakened). A warning about this little known file updating would be helpful to those who learned about their lost history, but choose to wait until later, like recovering it prior to shutting down, but they will have lost the opportunity when the places.sqlite file self updates itself automatically (who knows exactly when or why)  I'd like to see this important information placed your answer on this same (above) troubleshooting page, because when I loose history caused by a proper shut down, I'll need to your page infor to remind me what to be cautious about. And I don't believe you have created a back up file to places.sqlite to which I can recover and rename yet, because I believe the closest name to it has very little memory in it, but I could be wrong.
+</p>",firefox-690;other;desktop;windows-7;feature-request;escalate;,firefox,other,en-US,1294638;,cvmenn
+1281079,2020-03-01 14:09:47 -0800,2020-03-02T18:02:31Z,How do I make my Homepage different from New Windows?,"<p>Currently, whatever link(s) you set as your Homepage is also the same link(s) that appears when you open a New Window. The way that New Window is inherently clumped together with the Homepage seems to make it impossible to separate the two in the Options settings. 
+</p><p>What is the logic behind this? Why have a separate setting for New Tab, but not New Window? I like having Firefox open up multiple tabs as my homepage when I first boot up Firefox, but if I want to open up a new window just for screen management space with Ctrl+N, I really am not interested in my homepages being re-instantiated, as I already have them open on my first window. 
+</p><p>I really want my Homepages to remain a custom mix of tabs with any New Tab and New Window opening up to a Firefox's default new tab page. Is that not possible? I can't have a custom Homepage without also having a custom New Window configuration? :( 
+</p><p>It just seems like an arbitrary distinction. What can I do to make this magical world of separate Homepage and New Window settings happen?
+</p><p>Sincerely,
+A Fan
+</p>",tabs;firefox-730;desktop;windows-10;,firefox,tabs,en-US,1294569;1294827;1294830;,m.patterson
+1281078,2020-03-01 14:09:14 -0800,2020-03-01T14:09:14Z,Why is Firefox Responding So Badly on YouTube?,"<p>I'm running v73.0.1 64 bit on Windows 7 Home Edition. Ever since the latest Firefox upgrade I can't properly watch or listen to a YouTube video unless I just play one video in a single tab and do nothing else with my browser or computer, otherwise the video is choppy and crackles loudly in my speakers, it pauses, and crawls like my computer is out of memory resources. In fact, sometimes even watching a single YouTube video in a single tab with no other programs running or tabs open is problematic. Nothing on my computer has changed except Firefox; why can it no longer handle activity in multiple tabs or in conjunction with almost any other program running simultaneously? This was never an issue before and it's very agitating. Do I need to switch to another browsing platform to regain a smooth viewing experience?
+</p>",firefox-730;other;desktop;windows-7;,firefox,other,en-US,"",canadianrosey
+1281077,2020-03-01 13:27:41 -0800,2020-03-01T14:02:47Z,how do I undo a sync,"<p>Ok so my most updated bookmarks were on my new desktop and my phone. I had to travel and took my old laptop and phone. I thought I could update my laptop with the new bookmarks  by synching  it with my phone but I was wrong. Now on all devices I have my old bookmarks that was on laptop and lost all of my new bookmarks. 
+</p><p>Is it possible to undo a synch so I can get my new bookmark's back?
+</p><p>Does firefox have a customer service number?
+</p><p>I can't believe all of my new bookmarks are gone. It's devasting
+</p>",bookmarks;desktop;,firefox,bookmarks,en-US,1294545;,sjm80
+1281076,2020-03-01 13:27:18 -0800,2020-03-01T20:02:11Z,"I'm  getting the ""Secure Connection Failed"" error on www.becu.org.  Only in Firefox 73.0.1. Safari, Internet Explorer and Chrome all load the sites correctly.","<p>I'm running on Mac Pro 5,1, Mac OS 10.11.6. No security software is running. The fact that three other browsers work just fine, leads me to believe it must be a problem with Firefox. The error occurs when I select the 'online banking' button on the home page of <a href=""http://www.becu.org"" rel=""nofollow"">www.becu.org</a>.
+</p>",firefox-730;websites;desktop;,firefox,websites,en-US,1294564;1294610;,3rdAveSlinger
+1281073,2020-03-01 12:42:57 -0800,2020-03-01T15:12:09Z,search suggestions doesn't work on address bar but does work on search bar in tool bar,"<p>tried turning on and off but no results, like mentioned above it works when I select to add search to the tool bar
+</p>",firefox-730;other;desktop;mac-os;escalate;,firefox,other,en-US,1294537;1294546;1294548;1294550;1294552;1294557;1294559;1294568;,moviecam
+1281072,2020-03-01 11:49:45 -0800,2020-03-01T21:13:02Z,Trying to get my tabs back. Phone shows tabs from the session but computer doesn't. Anybody able to help?,"<p>I had to do a fresh install of windows on my computer due to some errors cropping up. Signed in to my Firefox account only to find I can't see the tabs from the previous session. My phone sees them in history from ""User's Firefox on DESKTOP-L"" but my computer doesn't. Anybody able to help?
+</p>",firefox-730;sync;desktop;windows-10;,firefox,sync,en-US,1294539;1294541;1294547;1294577;1294583;1294584;1294586;1294617;,Fireweavex
+1281071,2020-03-01 11:40:19 -0800,2020-03-03T10:35:58Z,can't import bookmarks from safari,"<p>Trying to bring bookmarks from Safari to Firefox, I've carefully followed the instructions provided by folks in this forum with no success.
+</p><p>Using ""Import data from another browser"" I get ""From Safari"" folders but they turn up empty; see screenshot. Using ""Import bookmarks from HTML"" and selecting the bookmark file I exported from Safari, I get an ""Export Complete"" message but nothing shows up in Firefox. Not even empty folders.
+</p><p>I've tried repeatedly. Quit browsers, rebooted, opened browsers, nothing works.
+</p><p>(sorry if this is a duplicate question; I put it in the wrong place earlier)
+</p><p>Help?
+</p>",download-and-install_1;desktop;,firefox,download-and-install,en-US,1294565;1294575;1294717;1294722;1294802;1294811;1294898;1294908;1294910;1294928;,jchinggis
+1281069,2020-03-01 11:16:27 -0800,2020-03-01T17:21:06Z,Volume adjustment while media is playing in Firefox Nightly build 75.0a1 opens media control panel- how do I get rid of it?,"<p>Any adjustment to the volume while Firefox is open and media is playing results in the Windows 10 media control panel opening alongside the volume bar, lasting for about 5 seconds with no way to disable it. A similar problem with the Chrome browser can be resolved by going to ""chrome://flags/#hardware-media-key-handling"" and adjusting settings, though I cannot find a similar solution for Firefox. Does anyone know of one? I know it's a minor issue, but I would appreciate advice nonetheless. Thanks in advance.
+</p>",customize;desktop;windows-10;,firefox,customize,en-US,1294587;,jhallberg0702
+1281068,2020-03-01 10:47:33 -0800,2020-03-01T15:54:00Z,Bookmarks does not turn blue and i can not bookmark anything,"<p>When I push the star button in bookmarks it does not turn blue and I can not bookmark anything
+</p>",bookmarks;firefox-730;firefox-7301;desktop;windows-10;,firefox,bookmarks,en-US,1294542;1294576;,corkey1880
+1281067,2020-03-01 10:21:38 -0800,2020-03-01T17:13:13Z,Can I use my Fingerprint instead using Master Password for lockwise ?,"<p>Can I use my Fingerprint instead using Master Password for lockwise? It's quite depressing typing the password always.
+</p>",privacy-and-security_1;firefox-730;desktop;windows-10;,firefox,privacy-and-security,en-US,1294585;,kuruppu.duminda
+1281066,2020-03-01 09:41:51 -0800,2020-03-02T00:56:00Z,Firefox crashes. Couldn't load XPCOM. Clean reinstall didn't help,"<p>Firefox crashes. Couldn't load XPCOM. Clean reinstall didn't help. Scanned with antivirus - no malwares. Just found and deleted avery file\folder with ""Mozilla"" in it, cleaned the regystry - no luck... please help me
+</p>",desktop;fix-problems;windows-10;download-and-install;escalate;,firefox,fix-problems,en-US,1294566;1294581;1294627;1294631;,link_777
+1281064,2020-03-01 08:34:10 -0800,2020-03-01T18:53:48Z,I am on Firefox ESR in debian's computer. I have sync my firefox once and now all my profil has despeard... What appen?,"<p>when i launched firefox this morning, my profile was gone. I resynchronized, but it didn't load my profile. When I go to ""about profile"" none of the profiles offered matches mine. What should I do?
+</p>",firefox-680;sync;desktop;linux;,firefox,sync,en-US,1294604;,deboissezon.ortho
+1281063,2020-03-01 08:27:57 -0800,2020-03-01T21:53:44Z,"FF on the Mac does not support Text Replacement, how can I raise it as a feature request?","<p>macOS natively supports AHK like functionality. 
+Chrome and Electron apps have now started supporting the functionality. FF lacks behind in this regard and breaks my workflow, requiring me to go back to Safari for repetitive tasks. 
+</p><p>It would be great if this could raised in front the PMs rather than providing me with add-ons. 
+</p><p>I love FF and have contributed to the mozilla mission. But this is something that really really impacting not just mine but many people's workflow. 
+</p><p>Thank you!
+</p>",firefox-730;other;desktop;mac-os;,firefox,other,en-US,1294506;1294512;,vineet.vaishnav
+1281060,2020-03-01 07:13:09 -0800,2020-03-01T19:12:16Z,Headphones sound weird when listening to audio/watching videos on Firefox. What can I do?,"<p>So, I bought my Philips SHP9500 headphones two weeks back and they were working fine until today when I was watching gameplay videos on YouTube (on Firefox). They are working absolutely fine with Chrome but a crackling sound is bothering me when using Firefox. I also tried cleaning my headphones by following the steps mentioned here: 
+<a href=""https://headphonesproreview.com/how-to-clean-headphones/"" rel=""nofollow"">https://headphonesproreview.com/how-to-clean-headphones/</a>
+</p><p>But nothing seems to help. Is there a problem with my headphones or is there a compatibility issue with Firefox? Please help as I don't intend to buy new headphones. :(
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1294606;,sheena4
+1281059,2020-03-01 06:57:05 -0800,2020-03-01T10:25:31Z,Had a irefox Update and now all of my Bookmarks missing,"<p>after the new update I lost all of my favorites.
+I tried a few things they listed and I cant get them back or i am missing something.
+Can anyone help with this ?
+</p>",bookmarks;firefox-730;firefox-7301;desktop;windows-10;,firefox,bookmarks,en-US,1294513;,lookoutforthemoose
+1281058,2020-03-01 06:34:07 -0800,2020-03-01T06:34:07Z,Firefox won't open after each update.,"<p>I experienced something similar to this user (<a href=""https://support.mozilla.org/en-US/questions/1276847"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1276847</a>) in that for a few updates now I can't start Firefox after every automatic update, it gets me a busy cursor and I can't end it through Task Manager because the process keeps vanish-reappear-vanish.
+</p><p>Unlike that user though, I fixed this by following the method here (<a href=""https://support.mozilla.org/en-US/questions/1174236"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1174236</a>) REPEATEDLY. During those repeated reinstall process, I received error messages like ""missing mozglue.dll"", ""missing fir-(something)"", ""can't load xpcom"", and etc. (Yes, I'm sorry I couldn't screenshot them for proof and better explanation purpose.)
+</p><p>So I'm wondering, why am I getting so many error messages like that? Is there a way to fix this, so hopefully I won't have to do the whole reinstall process(es) every time there is an update?
+</p>",firefox-730;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,"",evithewriter
+1281056,2020-03-01 05:02:42 -0800,2020-03-01T07:44:07Z,Firefox is using a pathetically low amount of bandwidth when loading websites,"<p>I've only started having this problem recently. After upgrading to an ethernet cable and getting much faster internet speeds (around 70mbps on the speed test), I've noticed that for whatever reason, Firefox is actually running slower than it did when I had worse internet connection through Wi-Fi signal. Websites can take minutes to fully load. When checking the task manager, it shows that Firefox's network speed is either 0.1mbps or 0mbps. This can be somewhat inconsistent, for example YouTube's homepage is able to load somewhat quickly, however videos can take a few refreshes. This is also sometimes a problem on a few other programs like Discord, but it's never been a problem on Edge (which is where I'm writing this). Is there any way to fix this?
+</p>",desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1294495;,wahaller
+1281054,2020-03-01 04:20:28 -0800,2020-03-02T17:31:43Z,Caret browsing is not working.,"<p>I'm using caret browsing on other computers with a synced account. So the Add-Ons are the same. But on my laptop its not working.
+</p><p>I resetted firefox. I reinstalled it. Still not working.
+</p><p>Any ideas?
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1294608;1294628;1294637;1294639;1294640;1294641;1294651;1294655;1294669;1294673;1294817;,remixbarny
+1281053,2020-03-01 03:51:30 -0800,2020-03-01T14:46:20Z,Internet Explorer is grabbing browser links,"<p>In the past few weeks when I click in an Outlook email ""click here to view it in a web browser"", the page is opened by Internet Explorer.  It used to be Firefox.
+How can I clear out IE?  
+Firefox is listed as the default browser.
+Interestingly when I posted the question, the contents of this message was deleted and was not sent.  Is that MS at work?
+</p>",firefox-730;firefox-7301;customize;desktop;windows-10;,firefox,customize,en-US,1294485;1294497;1294544;1294549;1294551;1294556;1294558;,cvhorie
+1281052,2020-03-01 03:45:51 -0800,2020-03-01T03:45:51Z,Internet Explorer is grabbing browser links,"<p><em>locking this thread as duplicate, please continue at <a href=""https://support.mozilla.org/en-US/questions/1281053"" rel=""nofollow"">https://support.mozilla.org/en-US/que.../1281053</a></em>
+</p><p>In recent weeks, clicking on an Outlook email which says ""click here to view it in a web browser""  loads up Internet Explorer. It used to be Firefox which provided the web page.
+So it looks as though MS IE has infiltrated the computer.  How do I clear it out?
+In Options, Firefox is still listed as the default browser and searching the page produces no hits for Internet Explorer as an add-on etc.
+</p>","",firefox,customize,en-US,"",cvhorie
+1281051,2020-03-01 03:36:16 -0800,2020-03-01T03:46:43Z,"Facebook pages I administer have changed under Firefox, showing a beta message, OK in Explorer.  I have screenshots.  Is there a fix?","<p>All help gratefully accepted.  Suddenly yesterday (Friday 28th Feb 2020, the two Facebook community pages I administer suddenly started looking like the attached screenshot with the message about ""beta"" in the bottom left.  I am using a desktop, Windows 10 and Firefox as my browser.  THe option ""Posts"" on the left has completely disappeared so I can't view or administer ""Visitor Posts"".  
+</p><p>My personal page is fine.  
+</p><p>I tried looking at the pages via Internet explorer and everything looks OK.  Have attached the screenshot of that as well.  I despise Internet Explorer as a really resource heavy, insecure product and really want to continue with Firefox.  Is there a fix you know of for this problem?  I have reported it to Facebook.
+</p><p>I would not be using Facebook if I did not have to do this as part of a volunteer role supporting my local community.  It is a truly dire product.  Help would be really appreciated - many thanks to all the volunteers out there.
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1294479;,susan22
+1281049,2020-03-01 03:02:57 -0800,2020-03-02T13:57:27Z,No favicons with my bookmarks (Windows 10) - what to do?,"<p>I have moved my bookmarks form an iMac to a new Windows 10 PC. 
+Moving them was not a problem.
+But they have lost their favicons and now all have a grey globe as the only symbol.
+Very annoying.
+I had hoped that I could bring back the favicons one by one by using each bookmark.
+But that doesn't change anything.
+</p>",bookmarks;firefox-730;firefox-7301;desktop;windows-10;,firefox,bookmarks,en-US,1294511;1294713;1294714;1294777;,jesper.ditlefsen
+1281048,2020-03-01 02:05:11 -0800,2020-03-01T14:51:28Z,Facebook crashes,"<p>I can log onto Facebook but as soon as I get to my feed the tab crashes.  No other site but Facebook is causing this to happen.  I've submitted the crash reports but that is it.  Viewed it afterward but I can't make heads or tails of what it's saying.  The tab crashes in ""safe mode"" as well.
+Hopefully someone reading this can help.
+</p>",firefox-730;firefox-7301;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1294469;1294476;1294555;1294561;,sjacobs
+1281046,2020-03-01 01:23:30 -0800,2020-03-02T04:08:33Z,"Al abrir algunas páginas, me aparece esta ventana y se me bloquea la página. Qué puedo hacer?","<p>No puedo leer algunas páginas (principalmente de periódicos) porque me aparece esto. Cómo puedo eliminarlo?
+</p>",firefox-730;desktop;fix-problems;mac-os;,firefox,fix-problems,es,1294660;1294662;,danidepor
+1281043,2020-02-29 22:26:44 -0800,2020-03-01T11:43:20Z,Saved passwords are missing and logins.json file has .corrupt at the end of it. Is there any way to fix this?,"<p>Having two problems that might be related or might not. First of all, all the saved email logins are still there and still autofill in, but the passwords don't show up in the autofill anymore. Also, am seeing something called firefox lockwise for the first time and seeing 0 saved passwords, where it used to be this (<a href=""https://img.raymond.cc/images/show-firefox-saved-password.png)"" rel=""nofollow"">https://img.raymond.cc/images/show-firefox-saved-password.png)</a>. Looking in firefox in app data/roaming folder I found the logins.json file but it has .corrupt at the end of it and it just says corrupt file under the file type. Any info/possibilities on how to fix these issues
+</p>",privacy-and-security_1;firefox-730;desktop;windows-7;,firefox,privacy-and-security,en-US,1294468;1294523;,sirgeoffreymassey
+1281041,2020-02-29 21:19:49 -0800,2020-03-01T15:36:45Z,Can't Delete Bookmarks,"<p>After refreshing Firefox because of a different (and now solved) problem, I restored my Old Firefox Data to recover my customization settings. The problem from before remained solved as well, so don't worry about that. The only problem is that now, for whatever reason, I can't delete any bookmarks. I can still add and edit bookmarks, but I can't outright delete them. My version is 73.0.1 (64-bit).
+</p><p><br>
+I've gone to about:support and checked Places Database. This is what it gave me:
+</p><p>&gt; Task: checkIntegrity
+- Unable to check favicons.sqlite integrity: Error: Error(s) encountered during statement execution: database disk image is malformed
+&gt; Task: invalidateCaches
+- The task queue was cleared by an error in another task.
+&gt; Task: checkCoherence
+- The task queue was cleared by an error in another task.
+&gt; Task: expire
+- The task queue was cleared by an error in another task.
+&gt; Task: originFrecencyStats
+- The task queue was cleared by an error in another task.
+&gt; Task: vacuum
+- The task queue was cleared by an error in another task.
+&gt; Task: stats
+- The task queue was cleared by an error in another task.
+&gt; Task: _refreshUI
+- The task queue was cleared by an error in another task.
+</p><p><br>
+A solution that I've seen elsewhere is to delete the ""places.sqlite"" file after closing Firefox and letting it reset, but that hasn't worked. Again, I can add and edit bookmarks, just not delete them. It doesn't matter where I try to delete them from (within the browser), and they all still link to the right places. It's not an emergency, but I'd appreciate help with this.
+</p>",bookmarks;firefox-730;firefox-7301;desktop;windows-10;,firefox,bookmarks,en-US,1294462;1294467;1294471;1294562;1294563;,shabcarb
+1281039,2020-02-29 18:32:06 -0800,2020-03-03T07:57:59Z,Disabling image loading doesn't work,"<p>I am following the instructions found on the web:
+about:config
+set ""permission.default.image"" to 2
+reload pages or restart FireFox
+but images loading is not disabled.
+</p>",firefox-730;firefox-7301;customize;desktop;mac-os;,firefox,customize,en-US,1294434;1294437;1294438;1294444;1294446;1294882;1294888;,jean.christophe.helary
+1281038,2020-02-29 17:51:44 -0800,2020-03-01T06:51:01Z,How I can lock FF with password like password master+,"<p>I want to lock Firefox (portable 73.1) but master password + is no more compatible .. How I can do it ? I tried the xiaoxiao github script but it seem working only with full version and I have portable ...
+</p>",privacy-and-security_1;firefox-730;desktop;windows-10;,firefox,privacy-and-security,en-US,1294429;1294455;1294489;,sixgale
+1281035,2020-02-29 17:00:30 -0800,2020-03-01T02:48:21Z,Restoring history items in places.sqlite,"<p>I use Piriform CCleaner.
+</p><p>The most recent update ignored the settings to exclude Firefox and cleared my History.
+</p><p>I do have a backup but it isn't recent as I'd like.
+</p><p>I did have a look at the places.sqlite file with an editor - interestingly all the history is still there. So how is it ""enabled / disabled"" as far as Firefox is concerned?
+</p><p>I did a fair amount of Googling but can't see an explanation.
+</p><p>Your input would be appreciated!
+Adb
+</p>",bookmarks;firefox-730;desktop;windows-10;,firefox,bookmarks,en-US,1294432;1294475;,info1767
