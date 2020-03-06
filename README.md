@@ -6,7 +6,7 @@ Roland's Kitsune API scripts version 2
 * 1\. What is the bug? The bug is we don't remove carriage returns!
 * 2\. fix by using:
 ```ruby
-tr("\n","")
+tr("\n"," ") # replace with space to ensure words are separated!
 ```
 
 ### 05march2020 Command Line fun to get title,content
