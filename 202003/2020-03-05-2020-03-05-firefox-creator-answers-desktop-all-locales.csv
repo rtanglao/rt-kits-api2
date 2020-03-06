@@ -1,0 +1,197 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1281376,2020-03-05 15:20:13 -0800,2020-03-05T15:28:45Z,"How do I add URLs to automatically open when I open Firefox? Thanks, Steve","<p>How do I add sites to a Startup Menu?
+</p>",firefox-730;websites;desktop;mac-os;,firefox,websites,en-US,1295505;,ssponar
+1281375,2020-03-05 15:18:40 -0800,2020-03-05T16:24:35Z,"How to ""open in a New Tab"" automatically and not right clicking all the time?","<p>I just want to press on a link to open in a new tab and not go to it straight away. I know this behavior can be done but I don't know how deep I need to go.
+</p>",tabs;firefox-730;desktop;windows-10;,firefox,tabs,en-US,1295509;1295530;,Redmark
+1281373,2020-03-05 14:54:51 -0800,2020-03-05T18:25:30Z,What do you call those thingies that pop-up and scroll with you as you scroll down?,"<p>For example:  <a href=""https://news.yahoo.com/california-holds-cruise-ship-offshore-075705456.html"" rel=""nofollow"">https://news.yahoo.com/california-holds-cruise-ship-offshore-075705456.html</a>
+</p><p>As you scroll down the page, the video positioned at the top of the page appears as a pop-up in the lower right of the screen and stays there as you scroll down.  This is annoying to me for several reasons.  First, it seems like every time there is a FireFox update, they change how you stop video autoplay.  So, many times when I scroll, that pop-up video starts playing and I don't want it to autoplay.  Second, many times I click on the ""X"" to close the thingie, scroll down some more, and, it pops up again - some times playing again.  Third, I seem to have no control of this type of thingie and I don't know what possible damage it can do to my computer.  And, yes, you will see this thingie on certain types of web sites where the semi-naked girl rolls up from the bottom, dances, and, then rolls away.
+</p><p>I am a novice/intermediate web developer, so, I am familiar with what HTML and Javascript can do.  I use ADBlock Plus in Firefox, but, when I try to block that element, it doesn't seem to be able to identify it.  I am guessing that this type of thingie is a Javascript script, but, looking at the page's source code, I can't identify what is producing this effect.
+</p><p>Other than calling it a generic ""pop-up"", does this type of thingie have a name (so that I can research further with Google)?  How is it generated?  How can I identify it in the source code?  What can I do to control, stop, or, block it?
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1295506;1295507;1295515;1295522;1295523;1295527;1295537;1295540;1295560;,the_steve_randolph
+1281369,2020-03-05 12:51:02 -0800,2020-03-05T15:02:12Z,Scaling issue,"<p>Toolbar menus are smaller and/or cropping list items when screen resolution is st to anything other than 100%.
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1295498;,mwilliams247
+1281368,2020-03-05 12:09:57 -0800,2020-03-05T13:16:39Z,"Send tab to device, huge history","<p>Hi!
+</p><p>I would like to use the send-tab-to-device function, but the history of my devices is very big to oversee. I want to remove all entries of the past from my Firefox account, but I assume there is no option to do this with a few clicks, lol. If you frequently reinstall operating systems like me, and Firefox account preserves them all, from years ago, it's not really funny. I spend half an hour to clear the history, and I can't find this yet.
+</p><p>Kind regards,
+Lajos
+</p>",firefox-730;other;desktop;,firefox,other,en-US,1295477;,lajosilles
+1281365,2020-03-05 11:52:17 -0800,2020-03-05T13:26:16Z,"Want  ""Other Bookmarks""  and ""recently bookmarked"" lists to open to left of Bookmark list instead of right. Can this be done? works on my older computer.","<p>I am accustomed to additional lists (other and recent) in bookmarks popping up to the left of the 'main' bookmark list. I have a new McBook Air with current browser and they pop up to the right. Would really like to move them to the left, but unable to determine how to accomplish that feat. Thank you.
+</p>",bookmarks;firefox-730;desktop;mac-os;,firefox,bookmarks,en-US,1295476;1295478;,carolleewoodstock
+1281361,2020-03-05 11:13:26 -0800,2020-03-05T14:59:40Z,Firefox full screen size on high resolution display,"<p>Hi,
+</p><p>I have a screen of 13152 x 3872 pixel and Mozilla Firefox cannot be maximized more than 8180 x 3872.
+</p><p>Do you have any idea how I can be able to have a full screen mode with 13152 x 3872 resolution ?
+</p>",desktop;fix-problems;needsinfo;,firefox,fix-problems,en-US,1295494;1295497;,ilyasse.belkacem
+1281359,2020-03-05 10:29:57 -0800,2020-03-05T16:49:03Z,Permanently disable: Do you want FF to remember your location?,"<p>About config, dom.webnotifications.enabled, change to false does not work.
+How do I fix this?
+</p><p>Thank you.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1295445;1295446;1295488;1295491;1295510;1295517;1295526;1295531;1295539;1295542;1295544;,CiaoBella1
+1281356,2020-03-05 10:18:01 -0800,2020-03-05T16:32:53Z,Can't import passwords from chrome or edge to firefox. Help?,"<p>Tried every solution but import works only for bookmarks, cookies, history and not the passwords.
+When i try to import, it says successful but nothing happens.
+Tested in both the browsers in their closed state.
+Earlier also i faced the same problem (i think a year back) which forced me to reject firefox.
+Please help if u know any solution.
+Thanks in advance.
+</p>",bookmarks;firefox-730;firefox-7301;desktop;windows-10;needsinfo;,firefox,bookmarks,en-US,1295457;1295470;1295486;1295487;1295492;1295493;1295495;,dabas111
+1281353,2020-03-05 08:58:28 -0800,2020-03-05T10:48:01Z,consistency check failed error,"<p>I Repeatedly get ""consistency Check failed"" and Firefox requires a new login.  How can I prevent this?
+</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1295417;1295442;1295447;,jacitti2
+1281352,2020-03-05 08:51:20 -0800,2020-03-05T12:04:11Z,"remove yahoo from firefox startup, my default browser is Google and when I open a new window it is Google but always when I open Firefox Yahoo appears/??","<p>How can I stop this from happening?
+</p>",firefox-730;firefox-7301;customize;desktop;mac-os;,firefox,customize,en-US,1295409;1295421;1295459;,steve.w.jones
+1281351,2020-03-05 08:32:19 -0800,2020-03-05T11:56:52Z,User reviews don't load on websites on Firefox. They do show when I use IE. Have cleared all cache etc and all other tricks,"<p>Firefox is really frustrating. Never had problem until about 6 months ago. Have to use IE to pull up reviews
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1295410;1295423;1295424;1295425;1295458;,saw1950saw
+1281350,2020-03-05 08:29:10 -0800,2020-03-05T15:06:41Z,"When saving as PDF on MacOS it is now ""untitled.pdf"" instead of ""nameofdoc.pdf""","<p>Used to be able to Print &gt; Save as PDF &gt; and the document name would be the page Title + .pdf exetension. Now, in FF 73.0.1, when the PDF file name appears it is always Untitled.pdf.   Sure, I can change it but is there a way to reset this to the way that it was that the name of the PDF will automatically be the page Title/ document name?
+</p><p>E.g. for this page, it is Untitled.pdf, when in the past it would be ""Ask a Question | Mozilla Support.pdf""
+</p><p>Thank you!
+</p>",firefox-730;other;desktop;mac-os;,firefox,other,en-US,1295499;,muzzle
+1281347,2020-03-05 07:56:12 -0800,2020-03-05T12:16:46Z,"After trying all of the solutions, I still can't get Firefox to play any sound.","<p>I've tried all of the solutions. Clearing the cache, allowing autoplay, disabling add-ons, and refreshing Firefox. After all of that, tabs still won't play sound. The volume icon doesn't appear by tabs. Other apps work fine.
+</p>",firefox-730;firefox-7301;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1295406;1295463;,codbl4l
+1281345,2020-03-05 07:43:36 -0800,2020-03-05T09:07:06Z,Can't i install any add-ons ot download any file in firefox version 73.0.1 (windows 10 pro) f.eks privacy badger,"<p>Hi
+Just installed a new Windows 10 pro on my girlfriend laptop. Then installed Firefox (version 73.0.1) and then tried to install Privacy Badger and Origin. I get some errors like: ... cannot modify the needed file and check your internetconnection. And I cannot download any file from any place. I like to change the language but firefox wont let me.
+I seem to be some permission i needed. Perhaps some folder is write protected
+Any suggestion?
+</p><p>Thanks in advance
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1295418;,bjarne.olesen
+1281341,2020-03-05 06:53:28 -0800,2020-03-05T09:07:06Z,firefox 73 profile location problem,"<p>I seem to be encountering various problems since the update to 73, the main one is the profile folder, I dislike the default location so have previously just put my preferred location in appdata\roaming\mozila\profiles.ini but 73 regularly ignores this and puts a basic profile in the default location and alters profile.ini. Using the profile manager does not get any better results. I am also having problems with the home page, I have set a custom page but 73 often resets this to a blank page or sometimes the default home page.
+I have had to resort to a 'portable' version as 73 constantly resetting things was getting so annoying but the portable does not work well as a default browser.
+</p>",firefox-730;customize;desktop;windows-10;download-and-install;profile;,firefox,customize,en-US,"",mikebravo
+1281339,2020-03-05 05:53:12 -0800,2020-03-05T07:58:59Z,Right Click Context Menu - Why No Print?,"<p>Why is there not an option to print from the right click menu? This is one of the two irritants that keep me from using Firefox as my primary browser. Why should I have to add an extension, if one is even available, to enable this?
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1295404;,ScrewFirefox
+1281338,2020-03-05 05:52:37 -0800,2020-03-05T10:55:19Z,Right Click Context Menu - Why No Print?,"<p>Why is there not an option to print from the right click menu? This is one of the two irritants that keep me from using Firefox as my primary browser. Why should I have to add an extension, if one is even available, to enable this?
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1295396;1295403;1295415;1295434;1295435;1295448;,ScrewFirefox
+1281334,2020-03-05 04:53:50 -0800,2020-03-05T15:35:37Z,"stop ""reconnect to firefox account""","<p>I have set up Firefox Sync but keep my various FF installs signed out, and only login when I want to. BUT I now keep getting an ! On the hamburger menu symbol asking me to reconnect. How can I disable this?
+</p>",firefox-730;sync;desktop;windows-10;,firefox,sync,en-US,1295511;,henryg1
+1281333,2020-03-05 04:27:58 -0800,2020-03-05T04:56:15Z,I cannot connect to firefox and a lot of other websites with my firefox browser,"<p>I can't connect to Firefox account but to  many other websites too, see message below:
+</p><p><a href=""https://accounts.firefox.com/?action=email&amp;context=fx_desktop_v3&amp;entrypoint=activity-stream-firstrun&amp;utm_source=activity-stream&amp;utm_campaign=firstrun-release&amp;utm_term=trailhead-join-supercharge&amp;device_id=&amp;flow_id=&amp;flow_begin_time=&amp;style=trailhead&amp;email=anstersteeg%40gmail.com"" rel=""nofollow"">https://accounts.firefox.com/?action=email&amp;context=fx_desktop_v3&amp;entrypoint=activity-stream-firstrun&amp;utm_source=activity-stream&amp;utm_campaign=firstrun-release&amp;utm_term=trailhead-join-supercharge&amp;device_id=&amp;flow_id=&amp;flow_begin_time=&amp;style=trailhead&amp;email=anstersteeg%40gmail.com</a>
+</p><p>Uitgever van certificaat van peer wordt niet herkend.
+</p><p>HTTP Strict Transport Security: true
+HTTP Public Key Pinning: true
+</p><p>Certificaatketen:
+</p>
+<hr>BEGIN CERTIFICATE-----
+<p>MIIEfzCCA2egAwIBAgIMBAAAAPlKSjXAlCd3MA0GCSqGSIb3DQEBCwUAMFQxGTAX
+BgNVBAoMEEFPIEthc3BlcnNreSBMYWIxNzA1BgNVBAMMLkthc3BlcnNreSBBbnRp
+LVZpcnVzIFBlcnNvbmFsIFJvb3QgQ2VydGlmaWNhdGUwHhcNMTAwMzA4MTEzNzQy
+WhcNMzAwMzAzMTEzNzQyWjCBjzELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlm
+b3JuaWExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxGzAZBgNVBAoTEk1vemlsbGEg
+Rm91bmRhdGlvbjEXMBUGA1UECxMOQ2xvdWQgU2VydmljZXMxHTAbBgNVBAMTFGFj
+Y291bnRzLmZpcmVmb3guY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAuzQXuKCp2VnZsy2H6r5hNYLm9CYcHyDz1l0rgW9pCGGGmoIZSor76NMnFAZi
+d9kjU15dvCFVckdRqa0WfPpwRt+kyB83ATGknB7TxWdxerH+QNoBAJgVKKB0j3I6
+24Ezx6keobFmUuOZ1dR7URaogtWRD58/axYEvCWuiAY+XVbB0uouMOnOL1KPTtFw
+MRSGS79g4eTt4JM+Ryej0g3eJvEDeSj98SWgmCDKghfZEWpBNFPfoP4vPCljzJV9
+FtFcoeOeEbsh4JH39uPtehupkjjcZ7XMVtmom6NZ3ED/c/asdxWOLYDmvBBN3vlt
+5dMfgvdSoKzP+VTM6wgDEtQkeQIDAQABo4IBEzCCAQ8wgc8GA1UdEQSBxzCBxIIU
+YWNjb3VudHMuZmlyZWZveC5jb22CGGFwaS5hY2NvdW50cy5maXJlZm94LmNvbYIb
+c2NyeXB0LmFjY291bnRzLmZpcmVmb3guY29tgh12ZXJpZmllci5hY2NvdW50cy5m
+aXJlZm94LmNvbYIab2F1dGguYWNjb3VudHMuZmlyZWZveC5jb22CHHByb2ZpbGUu
+YWNjb3VudHMuZmlyZWZveC5jb22CHGNvbmZpcm0uYWNjb3VudHMuZmlyZWZveC5j
+b20wDAYDVR0TAQH/BAIwADAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYB
+BQUHAwEGCCsGAQUFBwMCMA0GCSqGSIb3DQEBCwUAA4IBAQBS3SaA2Q/RkUr4Td73
+pkOrqL5N6oJjJd5obLycGKt6bfd/FO+hWC/EnRlZYdthCg/Wiak4Sd9fTC+nPhOD
+B3N1GGmw+INpGIQitFhQAFe9KsBsAae3yNr3fZL5fzrrK8up4frzD7kgmvLUlMyw
+I1GdEMT882EmTlg80C62fj30iJUgkjxh8SCMhP/Cs87r6u0UbtbMWJIgbOcAFSdj
+5hIZsk7uoZNGW9PTGIOZhhIQzNcqw6apH9Dm0tMbKbF+VXrJPXAP0XRfaU9Nrx3P
+GKme5U/EJQEQs5yGZVezzREb2F574xxN80RcwvOWy6nIi02SdrwsTtoG1pSHhJ2z
+MIKU
+</p>
+<hr>END CERTIFICATE-----
+<hr>BEGIN CERTIFICATE-----
+<p>MIIDXzCCAkegAwIBAgIIcpdzWGauMrUwDQYJKoZIhvcNAQELBQAwVDEZMBcGA1UE
+CgwQQU8gS2FzcGVyc2t5IExhYjE3MDUGA1UEAwwuS2FzcGVyc2t5IEFudGktVmly
+dXMgUGVyc29uYWwgUm9vdCBDZXJ0aWZpY2F0ZTAeFw0wNzAxMTIxNDAwMThaFw0y
+NzAxMDcxNDAwMThaMFQxGTAXBgNVBAoMEEFPIEthc3BlcnNreSBMYWIxNzA1BgNV
+BAMMLkthc3BlcnNreSBBbnRpLVZpcnVzIFBlcnNvbmFsIFJvb3QgQ2VydGlmaWNh
+dGUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC7NBe4oKnZWdmzLYfq
+vmE1gub0JhwfIPPWXSuBb2kIYYaaghlKivvo0ycUBmJ32SNTXl28IVVyR1GprRZ8
++nBG36TIHzcBMaScHtPFZ3F6sf5A2gEAmBUooHSPcjrbgTPHqR6hsWZS45nV1HtR
+FqiC1ZEPnz9rFgS8Ja6IBj5dVsHS6i4w6c4vUo9O0XAxFIZLv2Dh5O3gkz5HJ6PS
+Dd4m8QN5KP3xJaCYIMqCF9kRakE0U9+g/i88KWPMlX0W0Vyh454RuyHgkff24+16
+G6mSONxntcxW2aibo1ncQP9z9qx3FY4tgOa8EE3e+W3l0x+C91KgrM/5VMzrCAMS
+1CR5AgMBAAGjNTAzMA8GA1UdEwEB/wQFMAMBAf8wCwYDVR0PBAQDAgIEMBMGA1Ud
+JQQMMAoGCCsGAQUFBwMBMA0GCSqGSIb3DQEBCwUAA4IBAQAY6FfCnn5J31KZnUhd
+UUfeGA0xFpt3uaqSYL4/eJjbLrduzYlPIfOEGnOhlMuTxVoASxgxR4dQjrpQJHRK
+lNaQACiwkvRC1F7cqPD/tJqkxlzpbe5VAzdkg+tX6dS5TFga2PuI9Ff5KAVWlj1l
+YVoU7wp3wnzjAjQqfQMm45r+x/uFDH9kt8JWXpLLKj6LQA7IUwD+LYxhCGd6L7ys
+Kk2Vu2XdM0Lh3CSZ+csMXdQlXcbLgFbSfo6uti9ogqeqOryS3np/M8blhC2sEyGo
+mKm1VcPHsiUaqqssHn0QzCjuFDp7D7LoY+XtZiZuLjq8+s8+zTvWp0QoX8Pql4mi
+WWfT
+</p>
+<hr>END CERTIFICATE-----",privacy-and-security_1;desktop;windows-10;certificates;escalate;,firefox,privacy-and-security,en-US,1295381;,jh.tersteeg
+1281329,2020-03-05 02:18:38 -0800,2020-03-05T12:26:22Z,how to sync firefox services like monitor in browser and stay signed in after reopening the browser next time?,"<p>how to sync firefox services like monitor in browser and stay signed in after reopening the browser next time?
+when I exit my FF browser then I am automatically logged out of these sevices but stays signed in on main FF account.
+besides all the addons does not work while it is active and not showing icon in browser.
+</p>",firefox-730;sync;desktop;windows-10;,firefox,sync,en-US,1295380;1295390;1295460;1295466;,sen.annek111
+1281328,2020-03-05 01:41:56 -0800,2020-03-05T04:41:36Z,Can't stop Firefox recovering previous sessions,"<p>Normally Firefox opens on start page. But once in a while it re-creates all last-used windows. It's a shared computer so I'd rather it didn't. I already have under preferences ""restore previous session"" not ticked, and history: Clear history when Firefox closes (all boxes ticked). And under config: 
+browser.sessionstore
+browser.sessionstore.cleanup.forget_closed_after	1209600000	
+browser.sessionstore.debug	false	
+browser.sessionstore.debug.no_auto_updates	false	
+browser.sessionstore.dom_storage_limit	2048	
+browser.sessionstore.idleDelay	180000	
+browser.sessionstore.interval	15000	
+browser.sessionstore.interval.idle	3600000	
+browser.sessionstore.max_resumed_crashes	1	
+browser.sessionstore.max_serialize_back	10	
+browser.sessionstore.max_serialize_forward	-1	
+browser.sessionstore.max_tabs_undo	25	
+browser.sessionstore.max_windows_undo	3	
+browser.sessionstore.max_write_failures	5	
+browser.sessionstore.privacy_level	0	
+browser.sessionstore.restore_hidden_tabs	false	
+browser.sessionstore.restore_on_demand	false	
+browser.sessionstore.restore_pinned_tabs_on_demand	false	
+browser.sessionstore.restore_tabs_lazily	false	
+browser.sessionstore.resume_from_crash	false	
+browser.sessionstore.resume_session_once	false	
+browser.sessionstore.resuming_after_os_restart	false	
+browser.sessionstore.upgradeBackup.latestBuildID	20190918103427	
+browser.sessionstore.upgradeBackup.maxUpgradeBackups	3	
+browser.sessionstore.warnOnQuit	false
+</p><p>Is there any more that I can actually do? I don't see how it's managing to remember, let alone re-create, presvious sessions. 
+</p><p>Thanks for help and advice!
+</p>",privacy-and-security_1;firefox-730;desktop;linux;,firefox,privacy-and-security,en-US,1295357;1295363;1295377;,nospam3
+1281327,2020-03-05 01:36:03 -0800,2020-03-05T14:58:21Z,"Hi there,the mouse wheel does not work and tab pages go up and down by itself. What to do?","<p>On an update, the behavior of my web pages scroll down within involving the mouse wheel. I want to use the mouse as to read and view at my own time. How does one stop this? I can't even see what I am typing as the page keeps going down. Cheers.
+</p>",tabs;firefox-730;desktop;windows-10;,firefox,tabs,en-US,1295443;1295496;,Redmark
+1281326,2020-03-05 01:11:24 -0800,2020-03-05T09:22:02Z,Cannot access unofficialwarmoth.com forum when using firefox,"<p>When I try to access <a href=""http://www.unofficialwarmoth.com"" rel=""nofollow"">www.unofficialwarmoth.com</a> using Firefox I got this error:
+</p><p>""An Error Has Occurred!
+Sorry Guest, you are banned from using this forum!
+bestkunmaza
+This ban is not set to expire. ""
+</p><p>However, there are no issues if I access using Microsoft Edge. So, the problem lies within my Firefox.
+</p><p>I have contacted with the forum administrators and they can't find any reason why I should be blocked.
+</p><p>Any suggestion?
+</p><p>Thank you
+</p>",firefox-730;websites;desktop;windows-10;,firefox,websites,en-US,1295353;1295427;,manuel31416
+1281321,2020-03-04 22:50:37 -0800,2020-03-05T12:40:54Z,"used to connect to radio.garden/listen, but cannot anymore?","<p>From 3 March I have not been able to connect to radio.garden/listen - it keeps showing 'waiting for radio.garden""
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1295330;1295383;1295385;1295473;,sky4
+1281320,2020-03-04 21:21:48 -0800,2020-03-04T21:28:31Z,"Can't modify or save new bookmarks, how do I fix this?","<p>I've tried the troubleshooter, I've uninstalled &amp; reinstalled, and verify integrity have all failed. Saving a new bookmark is grayed out. Not really sure what to do at this point.
+</p>",bookmarks;firefox-730;firefox-7301;desktop;windows-10;,firefox,bookmarks,en-US,1295319;,strawfarmhat
+1281319,2020-03-04 20:50:50 -0800,2020-03-04T20:50:50Z,Recovery Key field missing when resetting password,"<p>Hello, 
+</p><p>I had to reset my PC tonight and forgot my password for my Firefox account, luckily I have a recovery key. My issue is when I reset my password, the field is missing to enter the key. 
+</p><p>The recovery instructions state: 
+</p><p>If you forgot your password and need to reset it, follow these steps.
+</p><pre>  1. Click the Forgot your password? link on the sign in page.
+  2.  Check your email and click the password reset link in it.
+  3.  Enter recovery key.
+  4.  Create a new password.
+  5.  Create a new recovery key. 
+</pre>
+<p><br>
+If I try to enter a new password will the recovery key option appear after? My fear is I would reset my account accidentally and unable to revert afterwards.
+</p>",firefox-7202;other;firefox-720;desktop;windows-10;,firefox,other,en-US,"",ugoodltd
+1281317,2020-03-04 20:06:23 -0800,2020-03-04T21:25:10Z,How do I open my bookmarks library in a new tab?,"<p>At one point I had a bookmark that took me to my bookmarks library, one that worked like any other webpage using a chrome:// link. Well I accidentally deleted it and now can't get it back. I've tried making a bookmark that goes to chrome://bookmarks and chrome://browser/content/places/places.xul, but neither work. All the other questions I've found about this are from 2013 or earlier.
+</p>",bookmarks;firefox-730;desktop;windows-10;,firefox,bookmarks,en-US,1295316;1295318;,cooleosis
+1281312,2020-03-04 19:24:09 -0800,2020-03-04T19:41:38Z,How long does it takes for your add-on to be reviewed and to show up in the add-on store after you submitted it ?,"<p>I recently uploaded an add-on through the Add-on Developer Hub, my add-on (extension) got approved with zero issue but I am still not able to see it in the Add-on store. How long will it take to show up ?
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1295300;,mattgomont
+1281311,2020-03-04 18:50:50 -0800,2020-03-05T10:13:21Z,"Is There a ""Copy (Text) and Search on Firefox"" From Windows?","<p>Is There a ""Copy (Text) and Search on Firefox"" From Windows? I literally have to copy text, file names and program names from Windows and do do searches on them. Is there a way I can select file names and right Click Search Using Firefox via Windows?
+</p>",firefox-730;other;desktop;windows-81;,firefox,other,en-US,1295301;1295303;1295332;1295439;,mrbunnylamakins
+1281307,2020-03-04 17:07:22 -0800,2020-03-04T19:52:27Z,Importing from Chrome in Version 73.01,"<p>Hi
+</p><p>I've recently installed version 73.01 of FF and have been trying to import all my Chrome data into it. The online instructions are using an old UI, and I cannot find ""Import"" under any bookmarks pop out menu or toolbar. I have tried searching setting for ""Import"" to no avail. Has import been removed with this version or am I looking in the wrong spot?
+</p><p>Thanks
+</p>",download-and-install_1;firefox-730;desktop;windows-10;,firefox,download-and-install,en-US,1295275;1295279;1295302;,liam.hedge
+1281306,2020-03-04 17:02:43 -0800,2020-03-05T19:50:52Z,"update to 72.0.2 would not open, said profile was missing or inaccessible, but it WAS NOT","<p>I just downloaded and installed Firefox 72.0.2 for my Mac. I had been using 67, which had become problematic with screen freezes requiring Force Quit. The 72.0.2 appeared to install, showing the new icon in the Dock. I opened it and updated Shockwave Flash to the latest, which asked for a restart of the browser. Once restarted, I tried to open Firefox a pop-up claimed the profile was missing or inaccessible, but I could find it easily in its normal place.
+</p>",download-and-install_1;desktop;firefox-650;,firefox,download-and-install,en-US,1295484;1295572;,NonoOno
+1281305,2020-03-04 16:38:13 -0800,2020-03-05T06:51:07Z,How do I get URL autocomplete (in the address bar) to work again?,"<p>I am not sure what I did (other than upgrade to the latest version of Firefox), but the autocomplete URLs doesn't work any more for new websites (autocomplete works for some older websites). I have reinstalled, refreshed settings and restarted my computer (and also ensured that the browser autofill (about:config urlb) is set to ""true"").
+</p><p>I am not sure what I may have done, or if it is associated with the upgrade... Any assistance would be greatly appreciated,
+</p>",privacy-and-security_1;firefox-730;firefox-7301;desktop;,firefox,privacy-and-security,en-US,1295284;1295340;1295341;1295346;1295356;1295365;1295372;1295394;,brian.fischer
+1281304,2020-03-04 16:13:48 -0800,2020-03-04T19:38:45Z,Bookmarks are changing on tool bar constantly. How do I stop it?,"<p>Bookmarks on toolbar are rearranging themselves every few seconds. I tried removing old unused bookmarks, creating and (re)arranging into folders and replacing the bookmarks I use often in their old familiar places. It took a couple hours to do that. It appeared to have worked as they were staying put. I closed the browser to do some other tasks and when I reopened the browser again everything was back to its chaotic state as if I hadn't touched it. This started on its own a few days ago and I need it to stop immediately as its driving me nuts not being able to quickly find the ones i need and use regularly. Please help!
+</p>",bookmarks;firefox-730;firefox-7301;desktop;windows-10;,firefox,bookmarks,en-US,1295263;1295268;1295270;1295271;1295274;1295278;1295287;1295293;1295295;1295296;1295297;1295298;,sales78
