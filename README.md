@@ -1,6 +1,29 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 05march2020 BUG in printing 4 questions for mechanical turk
+
+* 1\. What is the bug? The bug is we don't remove carriage returns!
+* 2\. fix by using:
+```ruby
+tr("\n","")
+```
+
+### 05march2020 Command Line fun to get title,content
+
+```bash
+mkdir FOUR_FF73_QUESTIONS_FOR_CANOSP_MTURK
+cd FOUR_FF73_QUESTIONS_FOR_CANOSP_MTURK
+#create four-ids-for-canosp-mturk.txt (just a text file with 1 integer id per line
+# https://github.com/rtanglao/rt-kits-api2/blob/master/FOUR_FF73_QUESTIONS_FOR_CANOSP_MTURK/four-ids-for-canosp-mturk.txt 
+../get-by-id-creator-answers-questions.rb four-ids-for-canosp-mturk.txt 
+# the above script creates:
+#https://github.com/rtanglao/rt-kits-api2/blob/master/FOUR_FF73_QUESTIONS_FOR_CANOSP_MTURK/id-1281304-unixtime-1583475446-by-id-firefox-creator-answers-desktop-all-locales.csv
+../print-all-questions-just-title-content.rb id-1281304-unixtime-1583475446-by-id-firefox-creator-answers-desktop-all-locales.csv
+# the above script creates:
+# https://github.com/rtanglao/rt-kits-api2/blob/master/FOUR_FF73_QUESTIONS_FOR_CANOSP_MTURK/title-parsed-content-id-1281304-unixtime-1583475446-by-id-firefox-creator-answers-desktop-all-locales.csv
+
+
 ## 02march2020 counting the number of support questions sunday-saturday by week:
 
 * output is here: [2018-11-01-2020-03-02-num-ff-desktop-aaq-questions-created-2020-03-02.csv](https://github.com/rtanglao/rt-kits-api2/blob/master/PRODUCT_INTEGRITY_4WEEK_RELEASE_CYCLE/2018-11-01-2020-03-02-num-ff-desktop-aaq-questions-created-2020-03-02.csv)
