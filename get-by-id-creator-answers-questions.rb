@@ -94,7 +94,7 @@ ARGF.each_line do |id|
 end
 headers = ['id', 'created', 'updated', 'title', 'content', 'tags', 'product', 'topic', 
   'locale', 'answers', 'creator']
-FILENAME = sprintf("id-%s-%s-by-id-firefox-creator-answers-desktop-all-locales.csv", 
+FILENAME = sprintf("id-%s-unixtime-%s-by-id-firefox-creator-answers-desktop-all-locales.csv", 
   first_id, Time.now.to_i.to_s)
 CSV.open(FILENAME, "w", write_headers: true, headers: headers) do |csv_object|
   csv.each {|row_array| csv_object << row_array }
