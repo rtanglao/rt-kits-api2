@@ -31,7 +31,7 @@ CSV.foreach(FILENAME, :headers => true) do |row|
   title_content_array.push(
     [
       row['title'],
-      content.tr("\n",""),
+      content.tr("\n"," "),
     ])
 end
 
