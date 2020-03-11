@@ -1,22 +1,69 @@
 id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1281758,2020-03-11 06:24:54 -0800,2020-03-11T06:24:54Z,"I keep getting the ""Gah. Your tab just crashed","<p>I only get this so far on a couple of sites: <a href=""http://Comporium.net"" rel=""nofollow"">Comporium.net</a> email, and <a href=""http://NRA.org"" rel=""nofollow"">NRA.org</a>. Everything worked fine yesterday - just started this morning. No upgrades in the interim and I tried logging into e-mail with another computer/browser and had no problems.
+</p>",tabs;firefox-730;firefox-7301;desktop;windows-7;,firefox,tabs,en-US,"",dougflanagin
+1281757,2020-03-11 06:24:50 -0800,2020-03-11T06:24:50Z,Microsoft Surface YouTube playback choppy in Firefox,"<p>Hi, I just bought a Surface Go. It's got quite modest specs, Pentium dual core and 4 gb of ram.
+</p><p>However, I'm noticing playback of video, especially Youtube, is incredibly choppy, with lost frames and cuts. It's unwatchable. There is no such problem using Chrome or Edge. 
+</p><p>What could be the cause of this? I notice there's some scaling weirdness in some menus in Firefox, as by default the surface scales apps to 150%, could this be a cause? 
+</p><p>Thanks 
+</p><p>E
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US,"",spinhorizon
+1281756,2020-03-11 06:17:43 -0800,2020-03-11T06:19:44Z,Save/synchronize added search bar engines,"<p>Hello,
+</p><p>I would like to save some settings that would take a lot of time to be done manually again, after an update. 
+I have added about twenty search engines with the help of different Firefox addons. During my last update, these were lost (the search bar only had the default searche engines) although Firefox was synchronized (and conserved my bookmarks and other settings).
+</p><p>Would anybody have an idea how to save or synchronize them?
+</p><p>Thank you very much for any help!
+</p>",firefox-660;sync;desktop;windows-10;,firefox,sync,en-US,1296716;,ulrikealbers
+1281755,2020-03-11 06:13:31 -0800,2020-03-11T06:13:31Z,"Why did a ""Welcome, Padamilyia""  display with information about Philippine users as I followed a link to install on my mobile device? I am in concerned- USA","<p>After downloading latest Firefox browser, I choice to get a link for mobile installation also; however, when I followed the link on ios, a ""Welcome Padamilyia"" screen popped up and information related to Philippine users. I am afraid to use my mobile device now. What was attached to your link?
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,"",slhawkins
+1281754,2020-03-11 06:01:18 -0800,2020-03-11T06:01:18Z,¿Por qué la cuenta de Firefox se desconecta al cerrar el navegador?,"<p>Antes no sucedía eso. Y es tedioso conectar la cuenta una y otra vez.
+</p>",firefox-730;desktop;fix-problems;windows-7;,firefox,fix-problems,es,"",ftrujilloc90
+1281753,2020-03-11 05:48:11 -0800,2020-03-11T05:48:11Z,Una pagina web ralentiza su navegador,"<p>Desde hace cosa de un mes, aproximadamente, no puedo acceder a la web de mi banco ING. Lo he venido haciendo durante años y de repente, en un momento determinado, se queda bloqueada la página y de ahí no pasa.
+He intentado instalar una versión anterior, por si el error fuera consecuencia de algún cambio en la última versión, pero tampoco he tenido éxito.
+Tampoco me funciona con el navegador Chrome, aunque los de ING me han dicho que se debía a un error de la última versión del navegador.
+Sí me funciona con Explorer, pero habitualmente no lo uso.
+Muchas gracias por adelantado.
+Un saludo.
+Carlos
+</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,es,"",CUSIN
+1281751,2020-03-11 05:29:16 -0800,2020-03-11T05:29:16Z,Facebook page won't open after installation of Facebook Container add-on,"<p>I installed Facebook Container add-on, after which I couldn't even open the Facebook page in Firefox and in Chrome. I first disabled the add-on, then removed it, then uninstalled Firefox and installed it again (restarting my computer at each operation). The problem is not solved. The message I get that there is an error loading the page - as if there was no internet connection.
+</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",pati1
+1281748,2020-03-11 04:25:58 -0800,2020-03-11T04:38:05Z,"Flagging an entry as ""problem solved""","<p>How do I flag an entry here as ""Problem Solved""?  Was looking for that when I posted my last entry but couldn't find it.
+</p>",firefox-740;other;desktop;linux;,firefox,other,en-US,1296700;1296701;,jackie.n.ross
+1281746,2020-03-11 04:04:21 -0800,2020-03-11T05:05:04Z,"I am unable to bring up the Firefox browser this evening. <label value=""&editBookmarkOverlay.name.label;"" ------^","<p>I am unable to bring up  the Firefox browser this evening. It shows the following message...
+XML Parsing Error: undefined entity
+Location: chrome://browser/content/browser.xhtml
+Line Number 564, Column 7:
+</p><pre>     &lt;label &lt;="""" pre="""" value=""&amp;amp;editBookmarkOverlay.name.label;""&gt;
+<hr>^
+<p>What should I do?
+</p>&lt;/label&gt;</pre>",desktop;fix-problems;,firefox,fix-problems,en-US,1296704;,noton2morrow
+1281741,2020-03-10 23:29:50 -0800,2020-03-11T02:33:13Z,Is there any future plan to Block TLSv1.0 and TLSv.1.1 in Firefox ESR Browser like it is announced for the regular FIrefox Browser ?,"<p><a href=""https://www.zdnet.com/article/browsers-to-block-access-to-https-sites-using-tls-1-0-and-1-1-starting-this-month/"" rel=""nofollow"">https://www.zdnet.com/article/browsers-to-block-access-to-https-sites-using-tls-1-0-and-1-1-starting-this-month/</a>
+</p><p>Firefox  74.0 has stopped allowing TLSv1.0 and TLSv.1.1 
+</p><p>Does latest version of Firefox ESR also blocking them ? Or any chances of blocking them in future ?
+</p>",other;desktop;,firefox,other,en-US,1296678;1296685;1296687;,bhavana.v1
+1281740,2020-03-10 22:54:46 -0800,2020-03-10T22:54:46Z,firefox wont open a local pi hosted site http://192.168.1.147:9091/ is the port format right?,"<p>when i enter the above address into the address bar firefox doesnt show ANY response. ps: the site is for transmission client remote access.
+</p>",firefox-730;websites;desktop;,firefox,websites,en-US,"",ntn.ajit
+1281738,2020-03-10 22:15:25 -0800,2020-03-11T01:12:13Z,"how can i use or create a shortcut for ""duplicate tab""?","<p>how can i use or create a shortcut for ""duplicate tab""? i use it constantly!
+thanks!
+</p>",tabs;firefox-730;firefox-7301;desktop;mac-os;,firefox,tabs,en-US,1296676;1296679;1296680;,coatli
 1281735,2020-03-10 20:13:53 -0800,2020-03-10T20:51:43Z,How do I sync multiple profiles (in my Profile Manager)? I'm changing to a new computer.,"<p>I have Profile Manager with 5 profiles in my old computer. When I initially logged-in to Mozilla/sync in both my old and new computers, it synced my (main) profile. How can I sync the other 4 profiles I have as well?
-</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1296659;1296662;,cfam1
-1281734,2020-03-10 20:13:18 -0800,2020-03-10T20:13:18Z,"On update to 74.0  several sites do not work - yahoo.com, weather,com, harborfreight.com and others.  Most work OK.  dom.storage.next_gen is false","<p>Two computers updated to 74.0 (64 bit) today.  Prior to the update no problems.  After the update several sites are ignored on both machines.  No errors, warnings, etc.  It is as if you never entered the url.  Tried about 50 sites, found 4 that don't work (ones I use regularly).  Found a thread about 70.1 that sounded similar which suggested setting dom.storage.next_gen to false.  Checked and it was already false.  Tried safe mode - no difference.
-</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",rbsmith1000
+</p>",firefox-740;other;desktop;windows-10;sync;,firefox,other,en-US,1296659;1296662;,cfam1
+1281734,2020-03-10 20:13:18 -0800,2020-03-11T02:36:23Z,"On update to 74.0  several sites do not work - yahoo.com, weather,com, harborfreight.com and others.  Most work OK.  dom.storage.next_gen is false","<p>Two computers updated to 74.0 (64 bit) today.  Prior to the update no problems.  After the update several sites are ignored on both machines.  No errors, warnings, etc.  It is as if you never entered the url.  Tried about 50 sites, found 4 that don't work (ones I use regularly).  Found a thread about 70.1 that sounded similar which suggested setting dom.storage.next_gen to false.  Checked and it was already false.  Tried safe mode - no difference.
+</p>",firefox-740;desktop;fix-problems;windows-10;weathercom;harborfreightcom;yahoocom;domstoragenext_gen;troubleshootingdetailsmissing;,firefox,fix-problems,en-US,1296688;,rbsmith1000
 1281730,2020-03-10 18:35:50 -0800,2020-03-10T18:48:49Z,"I ""upgraded"" to 73 and can't find a way to move tabs below address bar.","<p>I found instructions on how to move them but they seem to be only up to 71. Let me make this very clear. This is way beyond my comprehension.  I asked someone for help but they were lost, too.  What is wrong with a simplified way of doing things? Just a move tabs like before...it seems there are a lot of people who want that.  I'm thinking I either have to quit using FF or back up to a different version.
 </p>",tabs;firefox-730;desktop;windows-10;,firefox,tabs,en-US,1296638;1296639;,miriama591
 1281729,2020-03-10 18:13:51 -0800,2020-03-10T18:20:27Z,"How do I make Firefox quit ruining all VOIP services I use? It drops calls constantly, or flat-out rejects them. On all platforms I've tried.","<p>TextNow, Google Voice, anything RTC.... Calls drop CONSTANTLY, and sometimes are flat out rejected before I even get a ring. It is obviously caused by firefox itself, too, not each and every individual platform can possibly be responsible for this issue. That would be absurd. Absurd, such as myself having to open up windows task manager and end Firefox manually so the calls stop getting rejected before they even ring. Another thing, why does this browser hog up SO MUCH MEMORY?!? It's ridiculous that this thing sometimes eats up as much RAM as a VM, on all of my machines. It's like I'm watching this platform become glitchier and glitchier over the years, and I just wish it actually worked like it used to.
 And before you even ask... I keep firefox up to date, I have uBlock and Strict Pop-Up Blocker installed, so please, nobody try to pass off blame to either of these add-ons. Because, frankly, these should be mandatory and included features on a web browser that does nothing but brag about how safe and secure it is for your privacy.
 I shouldn't have to be a software engineer to understand how to make this thing work.
-</p>",firefox-730;firefox-7301;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1296635;,pridesage991
+</p>",firefox-730;firefox-7301;desktop;fix-problems;windows-10;webrtc;textnow;googlevoice;,firefox,fix-problems,en-US,1296635;,pridesage991
 1281723,2020-03-10 16:42:58 -0800,2020-03-10T16:42:58Z,images do not show until completely loaded,"<p>Hello. I recently got a new operating system and ever since then images in firefox are not shown until they are completely loaded, unlike before where they were partially shown from top to bottom during loading. I am using the firefox profile from the old OS but I've tried the troubleshooting steps on this link: <a href=""https://support.mozilla.org/en-US/kb/fix-problems-images-not-show"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/fix-problems-images-not-show</a> including trying a default profile. 
 </p><p>The old OS was Windows 7, and the new and current OS I use is Windows 10. I'm currently on Firefox 73.0.1, 64-bit
 </p><p>I've had difficulty finding people with a similiar issue. When googling I'd mostly get articles and forums posts about web developers who wish to make the images on their site either not show until fully loaded, or only load when the users actually sees that part of the site. But that is not what I'm having trouble with. I want the images on the sites I visit to begin to show BEFORE they're fully loaded, dropping down like a curtain.
 </p><p>This may seem like a minor issue but it can become very annoying when you're browsing wallpapers or such, since I'm simply staring at a blank screen for a moment before the entire image pops up.
 </p><p>I hope someone can help me. Thanks.
 </p><p>/S
-</p>",firefox-730;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",simpn123
-1281722,2020-03-10 16:24:29 -0800,2020-03-10T16:24:29Z,The What's New menu item not updating,"<p>The What's New menu item/widget has not updated since January 7, 2020. I'm not sure if there are just no new updates being posted there, or if there is something wrong with the feature. I've seen this error on all versions of Firefox Nightly and Firefox (stable release) from, well January, to present date.
-</p>",other;desktop;mac-os;,firefox,other,en-US,"",kyle.hakala
-1281721,2020-03-10 16:23:54 -0800,2020-03-10T16:53:21Z,How can I restore my Firefox after I refreshed it.  I lost everything.  I want a human to walk me through this.,"<p>The bottom of my Firefox page said to refresh if running slow or something like that.  I clicked it and lost EVERYTHING.  It says that my passwords and many other things would be saved.  They weren't.  Is there someone who can talk me through this?
-</p>",firefox-730;other;desktop;mac-os;,firefox,other,en-US,1296614;1296619;,bbengi
+</p>",firefox-730;desktop;fix-problems;windows-10;images;troubleshootingdetailsmissing;,firefox,fix-problems,en-US,"",simpn123
+1281722,2020-03-10 16:24:29 -0800,2020-03-11T03:16:34Z,The What's New menu item not updating,"<p>The What's New menu item/widget has not updated since January 7, 2020. I'm not sure if there are just no new updates being posted there, or if there is something wrong with the feature. I've seen this error on all versions of Firefox Nightly and Firefox (stable release) from, well January, to present date.
+</p>",other;desktop;mac-os;wnp;whatsnewpage;firefoxnightlyproblem;,firefox,other,en-US,1296692;,kyle.hakala
+1281721,2020-03-10 16:23:54 -0800,2020-03-10T22:02:54Z,How can I restore my Firefox after I refreshed it.  I lost everything.  I want a human to walk me through this.,"<p>The bottom of my Firefox page said to refresh if running slow or something like that.  I clicked it and lost EVERYTHING.  It says that my passwords and many other things would be saved.  They weren't.  Is there someone who can talk me through this?
+</p>",firefox-730;other;desktop;mac-os;,firefox,other,en-US,1296614;1296619;1296664;,bbengi
