@@ -1,0 +1,42 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1281809,2020-03-11 20:02:33 -0800,2020-03-11T20:02:33Z,Cookies can't be set in Firefox,"<p>I'm developing React App and it's involving Cookies in its authentication process, but the problem is the ""set-cookies"" function is not working on Firefox, it is working on Chrome. but i don't know why it doesn't work in Firefox.
+I've try to settings anything related to Cookies like ""Allow Cookies"" for my React App url and even customize Privacy Protections to not blocking all of the things listed there.
+</p><p>Thank you for your help,
+</p>",firefox-740;cookies;desktop;windows-10;devedition;development;,firefox,cookies,en-US,"",elangbayu17
+1281805,2020-03-11 18:28:12 -0800,2020-03-11T19:33:41Z,Google Docs Download Fail (since last Firefox update),"<p>When trying to download my files from Google Docs I get the following errors:
+</p><p>""The page isn’t redirecting properly"" ""An error occurred during a connection to <a href=""http://doc-0k-38-docs.googleusercontent.com"" rel=""nofollow"">doc-0k-38-docs.googleusercontent.com</a>"".
+</p><p>This only happens in Firefox.  IE and Chrome download files just fine.
+</p><p>I have done the following with no change in this symptom:
+-  Cleared Data (cookies and cache)
+-  Set Enhanced Tracking Protection to OFF
+-  Changed Browser Privacy to Custom with all options unchecked
+-  Unchecked ""Block pop-up windows""
+-  Added Permission Exclusions for Pop-ups and Cookies
+-  Run Firefox in Safe Mode
+</p><p>None of the steps above either together or alone changed the error message.
+</p><p>Any ideas would be greatly appreciated!
+</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1296898;,dp.pare
+1281802,2020-03-11 17:51:35 -0800,2020-03-11T17:51:35Z,Youtube video stuttering,"<p>Most videos on youtube seem choppy, like they're playing at 5 fps. However, whenever I move the mouse it snaps out of it and the video plays ok. But a few seconds after I stop moving the mouse, back to the choppyness.
+I've noticed that anything in 60fps tends to be ok.
+This is a brand new computer, fresh install of windows, latest updates/drivers installed.
+Everything seems fine on Microsoft Edge.
+</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",ian83123
+1281801,2020-03-11 17:31:42 -0800,2020-03-11T20:06:29Z,Firefox slow on a brand new machine,"<p>I use Firefox on all of my devices. On a new Windows Surface Laptop 3 (Ryzen 5 3580U, 8GB RAM) the speed is unbearable. Competitor product is fine as a workaround. Firefox in safe mode works great. Behaviour is observed on a brand new install (no extensions, etc.). Firefox is updated to latest version (74.0). Any help would be appreciated. 
+</p><p>Thanks
+</p><p>Edit 1:
+- Confirmed that no performance decrease when not using an external dock (Dell Universal Dock).
+- Performance decrease most notable when displaying Firefox on 4K monitor connected to DP in dock. Performance better when displaying on 1080P monitor connected through HDMI (but still not as smooth as no Dock).
+- Dock or monitor has no impact on Firefox behaviour with other laptops.
+</p>",desktop;fix-problems;windows-10;windows10n;,firefox,fix-problems,en-US,1296903;,ariehen
+1281800,2020-03-11 17:13:10 -0800,2020-03-11T17:39:31Z,How to see browsing history in chronological order?,"<p>In history, prior visits to pages are hidden. The information appears to be retained. How can that filter be removed so all visits are visible? My goal is a list of URLs visited sorted chronologically.
+</p>",firefox-750;beta;customize;desktop;mac-os;,firefox,customize,en-US,1296886;,shendrick
+1281799,2020-03-11 16:52:10 -0800,2020-03-11T20:54:36Z,"When using import wizard, chrome doesn't show up as an option. I am trying to import all data from chrome.","<p>I am new to firefox so I am wanting to import all data from Chrome. I already worked around this issue for bookmarks by downloading to html but there is no option for passwords. Chrome, or any form of google, is not showing up as an option. I personally dont want to go to every site I have ever been to just to reenter passwords. Some of which I relied on the password fill on google. I'd really appreciate a solution to this problem.
+</p>",download-and-install_1;firefox-740;desktop;windows-10;,firefox,download-and-install,en-US,1296906;1296913;1296916;1296918;,gregorymaguire2002
+1281798,2020-03-11 16:29:39 -0800,2020-03-11T19:08:54Z,"Why do I get ""sending request to www.facebook.com"" in apparently unrelated pages?","<p>I was using this site <a href=""https://donativos.unicef.pt/criancas-refugiadas/?utm_term=Amigos+da+UNICEF%3A+Mostre+que+nao+se+esqueceu&amp;utm_campaign=Siria+9+Anos&amp;utm_source=e-goi&amp;utm_medium=email"" rel=""nofollow"">https://donativos.unicef.pt/criancas-refugiadas/?utm_term=Amigos+da+UNICEF%3A+Mostre+que+nao+se+esqueceu&amp;utm_campaign=Siria+9+Anos&amp;utm_source=e-goi&amp;utm_medium=email</a>, but I've seen this happening in other sites, and after submitting a form I got ""Sending request to <a href=""http://www.facebook.com"" rel=""nofollow"">www.facebook.com</a>"" in the bottom bar.
+</p><p>What does it mean? Is this some kind of tracking?
+</p>",privacy-and-security_1;firefox-730;firefox-7301;desktop;linux;,firefox,privacy-and-security,en-US,1296875;1296878;1296882;1296883;1296884;1296888;1296890;1296891;1296895;,jmss
+1281797,2020-03-11 16:29:17 -0800,2020-03-11T20:52:18Z,What is firefox's cookie limit and how does it handle corrupt cookies store,"<p>I've been digging into an issue about the ""A web page is slowing down your browser,"" and it seems that the most frequent explanation for this is corrupt cookies/cache. However, the issue wasn't repeatable on my site. After some digging, I found that its possible for a corrupt `cookies.sqlite` if the max file size has been reached and a suggestion that FF automatically resets this `cookies.sqlite` store when this happens. 
+</p><p>I suspect that this issue happened when the user maxed out their cookies, causing a corrupt `cookies.sqlite` file. Then, when they restarted FF, their store had been cleared and they had no problems.
+</p><p>However, I cannot find any documentation about FF behavior when in handling corrupt cookies or resetting the `cookies.sqlite` file. I'm looking for some concrete answers. What is FF's cookie store limit, and what is its behavior (if any) when the store is maxed?
+</p><p>Worth mentioning, this was FF on Linux. I don't know the specs beyond that.
+</p>",firefox-730;cookies;desktop;linux;,firefox,cookies,en-US,1296905;,jmcgoffin
