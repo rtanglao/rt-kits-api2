@@ -1,12 +1,96 @@
 id,created,updated,title,content,tags,product,topic,locale,answers,creator
-1281758,2020-03-11 06:24:54 -0800,2020-03-11T06:24:54Z,"I keep getting the ""Gah. Your tab just crashed","<p>I only get this so far on a couple of sites: <a href=""http://Comporium.net"" rel=""nofollow"">Comporium.net</a> email, and <a href=""http://NRA.org"" rel=""nofollow"">NRA.org</a>. Everything worked fine yesterday - just started this morning. No upgrades in the interim and I tried logging into e-mail with another computer/browser and had no problems.
-</p>",tabs;firefox-730;firefox-7301;desktop;windows-7;,firefox,tabs,en-US,"",dougflanagin
+1281794,2020-03-11 15:33:56 -0800,2020-03-11T17:12:20Z,"Update to FF 74. Now ""Whatsapp web"" & Google ""messages for web"" don't work.  They won't even load but they both work on latest Chrome.  Works on FF 73.0.1.","<p>I have another machine running FF 73.0.1 and everything is fine.  FF 74 won't present QR code for either web app.  I just get an ""about:blank"" page.  Just started this morning after upgrading to 74.  I have cleared cookies and cache and restarted.  Any ideas?
+</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1296859;1296871;1296872;1296881;,wab124
+1281793,2020-03-11 15:09:23 -0800,2020-03-11T16:13:47Z,Some favicons do not appear in bookmarks toolbar,"<p>I have returned to Firefox after a long hiatus.  I imported my bookmarks from Chrome and recreated the bookmarks toolbar. After clicking on each one, most of them populate with their favicon, but a few do not.  Any idea why?  The icons do appear on the tab.  This is a brand new installation so I can't imagine that clearing the cache would help.
+</p>",bookmarks;desktop;firefox-740;windows-10;,firefox,bookmarks,en-US,1296852;1296854;1296857;1296866;,phdarch
+1281791,2020-03-11 14:20:47 -0800,2020-03-11T18:30:01Z,Pop-ups have opaque background in High Contrast after last update.,"<p>When I click on a tab the pop-up background appears opaque against the webpage making it invisible to see in High Contrast Mode. The previous update displayed black bars across web pages in High Contrast which was corrected in about:config.
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1296861;1296874;1296877;1296893;,phonyaddress
+1281789,2020-03-11 14:15:52 -0800,2020-03-11T16:09:27Z,youtube video error,"<p>youtube keeps getting an error and i cant watch any video help? and yes i tried safe mode
+</p>",firefox-730;websites;desktop;mac-os;,firefox,websites,en-US,1296863;,bxf9000
+1281788,2020-03-11 13:56:41 -0800,2020-03-11T13:56:41Z,I have sucessfully my synced my history and all saved passwords but im unable to get my bookmarks? I was able to get it before . I also checked my sync settings,"<p>I was able to get it before . I also checked my sync settings sync for bookmarks is enabled but its still not showing up please help
+</p>",firefox-730;firefox-7301;desktop;sync;windows-10;,firefox,sync,en-US,"",asliladaku
+1281787,2020-03-11 13:48:13 -0800,2020-03-11T13:48:13Z,Gostaria de saber porque quando entro no site www.aveli.com.br algumas imagens não aparece? Obrigado!,"<p>Quando tento acessar o site <a href=""http://www.aveli.com.br"" rel=""nofollow"">www.aveli.com.br</a> algumas imagens não carrega em outros navegadores carregam. O que pode estar havendo? Obrigado.
+</p>",websites;firefox-560;desktop;windows-7;,firefox,websites,pt-BR,"",elisssandrodias
+1281785,2020-03-11 13:34:09 -0800,2020-03-11T13:52:37Z,Firefox 67 and above is flickering after startup,"<p>nVidia Geforce 7600 W10P. Starting with the version of firefox 67, and, at least, until the last after launching firefox begins to flash: you press the PCM - let go-something flashes, then again disappears and hangs. You can't use it. In 66.0.5 and earlier, this was not the case. I've seen similar crap on my computer in the latest versions of Google Earth plus and iFunBox. It seems that either this OpenGL or this Webrender is to blame, which they introduced from version 67. Starting with the 67th version, there and about: config shoveled and so on - how to start again, infections, your cool-Vert and again everything flies. Hardware acceleration enabled-disabled-sense-0. On the Internet, information 0.
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US,1296825;,scutums
+1281784,2020-03-11 13:01:54 -0800,2020-03-11T13:51:16Z,I am getting a redirect error that it says is connected to cookies,"<p>I am completely unable to view the web page for tumblr when I sign in, getting this error: ""The page isn’t redirecting properly
+</p><p>An error occurred during a connection to <a href=""http://www.tumblr.com"" rel=""nofollow"">www.tumblr.com</a>.
+</p><pre>   This problem can sometimes be caused by disabling or refusing to accept cookies.""
+</pre>
+<p>I have cleared the cache, deleted cookies, cleared the site history, checked cookie permissions, and updated firefox and the error is still happening. Help!
+</p>",firefox-7202;cookies;firefox-720;desktop;mac-os;,firefox,cookies,en-US,1296813;1296821;1296824;,sheinkopfb
+1281783,2020-03-11 12:49:08 -0800,2020-03-11T15:53:41Z,"Auto-update 74.0 (I declined Facebook Container) but now Twitter, Wordpress.com and Gmail pages won't load in FF, even using links I always use from the Toolbar","<p>Very annoyed that I can't access the above sites that I use all the time to tweet, blog and email. Having to use Chrome.
+</p>",firefox-740;other;desktop;windows-10;regression;,firefox,other,en-US,1296817;1296822;1296828;1296830;1296831;1296839;1296843;1296851;1296853;1296856;,ecowburn
+1281782,2020-03-11 12:26:26 -0800,2020-03-11T12:59:39Z,How can I reinstall firefox with only passwords/bookmarks?,"<p>I want to COMPLETELY wipe firefox, and then reinstall it and bring back only my passwords and bookmarks. I'm trying to troubleshoot some graphical glitches in firefox. How do I restore passwords and bookmarks after restoring? Thanks
+</p>",download-and-install_1;firefox-730;desktop;windows-10;,firefox,download-and-install,en-US,1296810;,bhybodus
+1281781,2020-03-11 12:20:39 -0800,2020-03-11T14:02:18Z,Firefox refuses to allow me to connect to my centurylink.net email page,"<p>before the most recent update I have no trouble connecting to my <a href=""http://centurylink.net"" rel=""nofollow"">centurylink.net</a> email.....and now after the update I get this message:
+</p><p>Secure Connection Failed
+</p><p>An error occurred during a connection to <a href=""http://webmail.centurylink.net"" rel=""nofollow"">webmail.centurylink.net</a>. PR_CONNECT_RESET_ERROR
+</p><pre>   The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.
+   Please contact the website owners to inform them of this problem.
+</pre>
+<p>Nothing I do will allow it to connect. yet it seems to work fine in chrome or internet explorer, just not firefox.
+</p>",firefox-740;websites;desktop;windows-10;,firefox,websites,en-US,1296808;1296829;,draculas.tomb
+1281780,2020-03-11 11:49:00 -0800,2020-03-11T11:49:00Z,I am unable to convert  a webpage to Foxit PDF. Foxit tells me it is a Firefox issue.,"<p>When I attempt to convert a webpage into a Foxit PDF document, the system stalls and does not finish the conversion. This is a ""new"" problem with Windows 10. Foxit tells me that this is a Firefox problem. How can this be fixed.
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,"",tbookwormj
+1281779,2020-03-11 11:41:45 -0800,2020-03-11T16:58:35Z,"Since the recent update, I can't visit Twitter or Gmail","<p>If I type in the URL for Twitter or Gmail and press enter, the address bar simply goes back to whatever was in there before.  This is whether I do it in a tab or a new page.  BBC News is fine.  Facebook is fine.  Gmail and Twitter were pinned as tabs before the update.  Other tabs are broken in the same way, e.g. Google Photos, but Google Calendar and Google Drive tabs are fine.  Please help!
+</p>",firefox-740;desktop;fix-problems;windows-10;regression;needsinfo;,firefox,fix-problems,en-US,1296818;1296823;,chris12dec
+1281777,2020-03-11 09:48:55 -0800,2020-03-11T09:48:55Z,How to replace all the white icons/images in customize?,"<p>All the custom icons/images in Customize are white and can be confusing, is there a way to replace them?
+</p>",other;desktop;windows-10;,firefox,other,en-US,"",rdwray
+1281775,2020-03-11 09:26:59 -0800,2020-03-11T14:45:41Z,Auto form fill tip covers the form,"<p>I can't see what I am typing. May be there's a way how to change the position relative to the form?
+</p>",firefox-730;firefox-7301;customize;desktop;,firefox,customize,en-US,1296845;,ilja.jebrun5
+1281774,2020-03-11 09:26:02 -0800,2020-03-11T14:51:15Z,"Firefox opens blank windows and pages after v74.0 update installation in Win 7 Pro 64 bit; refresh, re-install, safe mode, Win 7 compatibility do not fix","<p>Firefox opens blank windows and pages after v74.0 update installation(from 72.0.2) in Win 7 Pro 64 bit.
+Refresh, re-install, safe mode, Win 7 compatibility uncheck do not fix (latter leads to perpetual Programme change prompts).
+Have had to restore to 72.0.2.
+</p>",download-and-install_1;firefox-7202;firefox-720;desktop;windows-7;regression;,firefox,download-and-install,en-US,1296766;1296771;1296846;,philipj.louw
+1281773,2020-03-11 09:18:23 -0800,2020-03-11T09:44:14Z,Can't connect to accounts.firefox.com,"<p>I cannot load <a href=""https://accounts.firefox.com"" rel=""nofollow"">https://accounts.firefox.com</a>. I get the ""Unable to connect"" page. Opening a dev console doesn't show anything odd in logs. I tried following the steps on this page <a href=""https://support.mozilla.org/en-US/kb/firefox-cant-load-websites-other-browsers-can"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/firefox-cant-load-websites-other-browsers-can</a> to no avail. It doesn't work under safe mode either. Other browsers on this same machine load the site just fine. Anything else I can test?
+</p>",firefox-740;sync;desktop;,firefox,sync,en-US,1296772;,stephen27
+1281770,2020-03-11 09:11:12 -0800,2020-03-11T16:50:50Z,Added single pane extension - Firefox now unusable.,"<p>At Firefox' recommendation, I added an extension/addon called 'single pane extension' where I think the idea was that Firefox could be save better.  But since the install Firefox has become unusable.  I can only use it in safe mode.  Here is a screenshot.  Sorry, but I can't figure out how to fix this.
+</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1296764;1296860;1296862;1296864;1296865;1296867;1296868;1296873;,webnick
+1281769,2020-03-11 09:02:22 -0800,2020-03-11T09:02:22Z,Wrong offset for the right-click menu → Right-click on link immediately opens link in new tab unless button is held (at least three years old bug),"<p>Hi.
+There is this at least three years old GUI bug that is not yet fixed, I'm writing this post to show the temporary workaround and hopefully get more interest in the bug itself.
+This would be an urgent usability bug, but it's still here because probably not everyone can reproduce it.
+</p><p>Link to one of the bug reports:
+<a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=1504021"" rel=""nofollow"">https://bugzilla.mozilla.org/show_bug.cgi?id=1504021</a>
+</p><p><br>
+&gt; Description
+</p><p>Removing the title bar doesn't set an offset for the right-click menu → the right-click menu will appear slightly wrong positioned, with its first entry below the mouse cursor → the first entry of the menu will get a mouse-release event and will trigger.
+</p><p>The effect of this can be different depending on what you right-click:
+</p>
+<ul><li> right-click some empty area in a web-page: you will be taken back to the previous page (because the first menu entry does that)
+</li><li> right-click a link: you will open the link in a new tab (because the first menu entry does that)
+</li></ul>
+<p><br>
+&gt; Steps
+</p>
+<ul><li> Have a non-maximized Firefox window.
+</li><li> Disable the title bar (through the ""Customize..."" option)
+</li><li> Right-click anywhere on a webpage: you will be taken to the previous page.
+</li></ul>
+<p><br>
+&gt; Workaround
+</p><p>Enable user styles by setting toolkit.legacyUserProfileCustomizations.stylesheets to true.
+Create ""chrome"" folder in your profile directory. Inside, create ""userChrome.css"", and write:
+</p><pre>   #contentAreaContextMenu{ margin: 20px 0 0 20px }
+</pre>",firefox-740;customize;desktop;,firefox,customize,en-US,"",SamXubuntu
+1281767,2020-03-11 08:44:50 -0800,2020-03-11T09:08:42Z,address bar and bookmarks not working,"<p>I seem to have got myself into a real mess with this. Attempted some of the fixes without success. Decided that that  a re-install might work. couldn't find firefox.exe in programs or apps but firefox helper is there, but refuses to uninstall. Attempted new download which was OK but installation failed. Are there any easy answers to this. Edge works ok and have checked for malware. I'm not very tech savvy. Any help would be appreciated
+</p>",desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1296759;,john.mills6
+1281765,2020-03-11 08:23:24 -0800,2020-03-11T09:13:02Z,"Why won't Gmail & Twitter not open since ""upgrading"" to new version this morning.","<p>Since ""upgrading"" to the new Firefox this morning the Gmail and Twitter tabs on my bookmarks don't respond at all.  I can't even open Gmail from the Google home page.  Why is this happening?
+</p>",firefox-740;websites;desktop;windows-7;regression;,firefox,websites,en-US,1296741;1296744;1296746;1296749;1296751;1296753;1296754;1296758;1296760;,therealgary17
+1281764,2020-03-11 08:21:52 -0800,2020-03-11T08:21:52Z,"Since changing my security from AVG to Kaspersky on my desktop, Firefox wil not access my gmail account  Just the https header . How do I fix this?","<p>I also run Firefox on my laptop &amp; android phone.  No problems there ???
+</p>",download-and-install_1;firefox-740;desktop;windows-7;,firefox,download-and-install,en-US,"",johnbgrier
+1281761,2020-03-11 07:31:04 -0800,2020-03-11T07:31:04Z,F5 gomb megnyomásakor sokáig tart az oldal újratöltése. Chromban ez lényegesen gyorsabb. Mivel lehet gyorsítani?,"<p>F5 gomb megnyomásakor sokáig tart az oldal újratöltése. Chromban ez lényegesen gyorsabb. Mivel lehet gyorsítani?
+</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,hu,"",zsolt1
+1281759,2020-03-11 07:01:37 -0800,2020-03-11T07:01:37Z,"After changing the PDF viewing setting, it changes back within a few days","<p>I am constantly changing my PDF viewing application.  It says my default is Adobe Acrobat Reader DC, but then it changes to Save File after a few days.  I change it back to DC  Over and over again.
+</p>",firefox-740;customize;desktop;windows-10;,firefox,customize,en-US,"",hoquiamgirl
+1281758,2020-03-11 06:24:54 -0800,2020-03-11T09:46:52Z,"I keep getting the ""Gah. Your tab just crashed","<p>I only get this so far on a couple of sites: <a href=""http://Comporium.net"" rel=""nofollow"">Comporium.net</a> email, and <a href=""http://NRA.org"" rel=""nofollow"">NRA.org</a>. Everything worked fine yesterday - just started this morning. No upgrades in the interim and I tried logging into e-mail with another computer/browser and had no problems.
+</p>",tabs;firefox-730;firefox-7301;desktop;windows-7;,firefox,tabs,en-US,1296773;,dougflanagin
 1281757,2020-03-11 06:24:50 -0800,2020-03-11T06:24:50Z,Microsoft Surface YouTube playback choppy in Firefox,"<p>Hi, I just bought a Surface Go. It's got quite modest specs, Pentium dual core and 4 gb of ram.
 </p><p>However, I'm noticing playback of video, especially Youtube, is incredibly choppy, with lost frames and cuts. It's unwatchable. There is no such problem using Chrome or Edge. 
 </p><p>What could be the cause of this? I notice there's some scaling weirdness in some menus in Firefox, as by default the surface scales apps to 150%, could this be a cause? 
 </p><p>Thanks 
 </p><p>E
-</p>",desktop;fix-problems;,firefox,fix-problems,en-US,"",spinhorizon
+</p>",desktop;fix-problems;surfacego;youtube;,firefox,fix-problems,en-US,"",spinhorizon
 1281756,2020-03-11 06:17:43 -0800,2020-03-11T06:19:44Z,Save/synchronize added search bar engines,"<p>Hello,
 </p><p>I would like to save some settings that would take a lot of time to be done manually again, after an update. 
 I have added about twenty search engines with the help of different Firefox addons. During my last update, these were lost (the search bar only had the default searche engines) although Firefox was synchronized (and conserved my bookmarks and other settings).
@@ -43,13 +127,13 @@ Line Number 564, Column 7:
 </p>",other;desktop;,firefox,other,en-US,1296678;1296685;1296687;,bhavana.v1
 1281740,2020-03-10 22:54:46 -0800,2020-03-10T22:54:46Z,firefox wont open a local pi hosted site http://192.168.1.147:9091/ is the port format right?,"<p>when i enter the above address into the address bar firefox doesnt show ANY response. ps: the site is for transmission client remote access.
 </p>",firefox-730;websites;desktop;,firefox,websites,en-US,"",ntn.ajit
-1281738,2020-03-10 22:15:25 -0800,2020-03-11T01:12:13Z,"how can i use or create a shortcut for ""duplicate tab""?","<p>how can i use or create a shortcut for ""duplicate tab""? i use it constantly!
+1281738,2020-03-10 22:15:25 -0800,2020-03-11T16:58:23Z,"how can i use or create a shortcut for ""duplicate tab""?","<p>how can i use or create a shortcut for ""duplicate tab""? i use it constantly!
 thanks!
-</p>",tabs;firefox-730;firefox-7301;desktop;mac-os;,firefox,tabs,en-US,1296676;1296679;1296680;,coatli
+</p>",tabs;firefox-730;firefox-7301;desktop;mac-os;,firefox,tabs,en-US,1296676;1296679;1296680;1296827;1296876;,coatli
 1281735,2020-03-10 20:13:53 -0800,2020-03-10T20:51:43Z,How do I sync multiple profiles (in my Profile Manager)? I'm changing to a new computer.,"<p>I have Profile Manager with 5 profiles in my old computer. When I initially logged-in to Mozilla/sync in both my old and new computers, it synced my (main) profile. How can I sync the other 4 profiles I have as well?
 </p>",firefox-740;other;desktop;windows-10;sync;,firefox,other,en-US,1296659;1296662;,cfam1
-1281734,2020-03-10 20:13:18 -0800,2020-03-11T02:36:23Z,"On update to 74.0  several sites do not work - yahoo.com, weather,com, harborfreight.com and others.  Most work OK.  dom.storage.next_gen is false","<p>Two computers updated to 74.0 (64 bit) today.  Prior to the update no problems.  After the update several sites are ignored on both machines.  No errors, warnings, etc.  It is as if you never entered the url.  Tried about 50 sites, found 4 that don't work (ones I use regularly).  Found a thread about 70.1 that sounded similar which suggested setting dom.storage.next_gen to false.  Checked and it was already false.  Tried safe mode - no difference.
-</p>",firefox-740;desktop;fix-problems;windows-10;weathercom;harborfreightcom;yahoocom;domstoragenext_gen;troubleshootingdetailsmissing;,firefox,fix-problems,en-US,1296688;,rbsmith1000
+1281734,2020-03-10 20:13:18 -0800,2020-03-11T15:47:17Z,"On update to 74.0  several sites do not work - yahoo.com, weather,com, harborfreight.com and others.  Most work OK.  dom.storage.next_gen is false","<p>Two computers updated to 74.0 (64 bit) today.  Prior to the update no problems.  After the update several sites are ignored on both machines.  No errors, warnings, etc.  It is as if you never entered the url.  Tried about 50 sites, found 4 that don't work (ones I use regularly).  Found a thread about 70.1 that sounded similar which suggested setting dom.storage.next_gen to false.  Checked and it was already false.  Tried safe mode - no difference.
+</p>",firefox-740;desktop;fix-problems;windows-10;weathercom;harborfreightcom;yahoocom;troubleshootingdetailsmissing;regression;,firefox,fix-problems,en-US,1296688;1296745;1296781;1296814;1296820;1296833;1296836;1296840;1296841;1296855;,rbsmith1000
 1281730,2020-03-10 18:35:50 -0800,2020-03-10T18:48:49Z,"I ""upgraded"" to 73 and can't find a way to move tabs below address bar.","<p>I found instructions on how to move them but they seem to be only up to 71. Let me make this very clear. This is way beyond my comprehension.  I asked someone for help but they were lost, too.  What is wrong with a simplified way of doing things? Just a move tabs like before...it seems there are a lot of people who want that.  I'm thinking I either have to quit using FF or back up to a different version.
 </p>",tabs;firefox-730;desktop;windows-10;,firefox,tabs,en-US,1296638;1296639;,miriama591
 1281729,2020-03-10 18:13:51 -0800,2020-03-10T18:20:27Z,"How do I make Firefox quit ruining all VOIP services I use? It drops calls constantly, or flat-out rejects them. On all platforms I've tried.","<p>TextNow, Google Voice, anything RTC.... Calls drop CONSTANTLY, and sometimes are flat out rejected before I even get a ring. It is obviously caused by firefox itself, too, not each and every individual platform can possibly be responsible for this issue. That would be absurd. Absurd, such as myself having to open up windows task manager and end Firefox manually so the calls stop getting rejected before they even ring. Another thing, why does this browser hog up SO MUCH MEMORY?!? It's ridiculous that this thing sometimes eats up as much RAM as a VM, on all of my machines. It's like I'm watching this platform become glitchier and glitchier over the years, and I just wish it actually worked like it used to.
