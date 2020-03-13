@@ -1,78 +1,103 @@
 id,created,updated,title,content,tags,product,topic,locale,answers,creator
-1281845,2020-03-12 08:06:51 -0800,2020-03-12T08:06:51Z,How can I change the bookmark icon in the bookmar toolbar?,"<p>I have bookmarks to multiple pages in the same domain and they show up with the same icon. How can I change them so that I can differentiate them? I prefer to just have icons instead of names/text for my bookmarks.
-</p>",bookmarks;firefox-730;desktop;linux;,firefox,bookmarks,en-US,"",djabberdaddy
-1281844,2020-03-12 08:04:48 -0800,2020-03-12T08:04:48Z,after a security scare 5days ago!now ive diffrent firefox accnt bookmarks gone.wot happened?,"<p>bloody disgracefull cant even sort your own mess u made
-</p>",firefox-740;other;desktop;windows-81;,firefox,other,en-US,"",daveycrow
-1281843,2020-03-12 07:56:05 -0800,2020-03-12T08:06:06Z,Your support sucks,"<p>WTF.   I'm having an issue with your software and trying to get to your support bulletin board and all it does is take me round and round through the same set of menus giving me a bunch of pre-written articles.   Stop with this shit.  I want to ask a question, not read your stupid articles that don't apply.   This is your lazy attempt to avoid having to answer people.   You mask it under the idea that these ""articles"" will discuss common issue and how to fix them, but all it really does is distract people to the point that they give up.
+1281862,2020-03-12 13:56:51 -0800,2020-03-12T21:48:10Z,Firefox EDIT (tags) feature no longer works.  Please <b>HELP</b>,"<p>When I want to EDIT my submission to any website, the Firefox's EDIT feature doesn't work.  Can you restore the Edit Feature?
+</p>",firefox-740;customize;desktop;windows-7;,firefox,customize,en-US,1297071;1297074;1297078;1297080;1297082;1297085;1297090;1297091;1297107;1297113;1297119;1297120;1297122;1297128;1297143;1297145;1297146;1297155;,ronfraz
+1281858,2020-03-12 12:09:45 -0800,2020-03-12T12:15:45Z,Is there a Firefox recommended extension for video conferencing?,"<p>Hello,
+I am curious if the Firefox browser has any recommended extensions for video conferencing (something like Webex...although that particular extension is not recommended by Firefox).
+Thank you
+</p>",firefox-740;other;desktop;mac-os;,firefox,other,en-US,1297052;,wh4595
+1281857,2020-03-12 12:00:16 -0800,2020-03-12T15:17:55Z,change vertical slider color,"<p>When I open a tab and visit a website, the vertical slider on the right is sometimes black with a black background, or grey with a grey background. When it's grey, the slider bar is slightly darker than the line. When it's black on black, the color is exactly the same and I can't see the slider bar.
+</p><p>Is there an option to change the color of the slider line or the bar?
+</p>",firefox-740;other;desktop;windows-10;needsinfo;,firefox,other,en-US,1297088;,nykerk
+1281856,2020-03-12 11:42:55 -0800,2020-03-12T16:13:28Z,After updating to 74.0 Gmail will only load in private mode.,"<p>Since I opened Firefox today after the update to 74.0, Gmail won't load unless I am in private mode. YouTube is fine, as are the other Google apps. I have cleared the recent history and cache but that didn't work. Before I clear everything and start all over again, I wanted to see if anyone else had any suggestions for me. Thanks!!
+</p>",firefox-740;other;desktop;mac-os;regression;bug1621301;needsinfo;,firefox,other,en-US,1297046;1297053;1297081;1297084;1297109;,ihtempleton
+1281855,2020-03-12 11:39:38 -0800,2020-03-12T15:40:24Z,Firefox slows down as I try to type a username while it tries to create a drop down menu.,"<p>I have about 1000 saved usernames and passwords for the same website. Every time I try to type or I just click in the field for the username, Firefox tries to create a drop down menu with every saved username and password. It really slows down everything. Even just typing in the username and password has become slow. I have tried deleting some of the older logins (not being used anymore) but I found out that I can only delete them one by one.
+The same thing on chrome works incredibly fast (as it did on Firefox until a while ago). I did not exactly notice when it started becoming so slow. Chrome has the same number of logins stored (for anyone wandering), so it is not about the number but it is how it is handled by each browser.
+</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1297087;1297097;1297101;,nickkiousis
+1281852,2020-03-12 09:34:20 -0800,2020-03-12T09:34:20Z,Mozilla no muestra de caja de facebook en la web,"<p>El navegador no muestra la caja de Facebook en una página web, como hago para que esto se pueda hacer.
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,es,"",jogsir70
+1281851,2020-03-12 09:22:56 -0800,2020-03-12T15:36:03Z,whenever I search ff puts a little green ball next to the site and asks me to add it to search. how do I turn this off permanently?,"<p>right now, when it shows the little green ball next to the site name I add it to ff's search area in Options to make the green nag go away and then I uncheck the site so it doesn't use it. this is INCREDIBLY tedious and dumb. this is not a feature, but rather a pita. if I wanted these sites I would have already put them in the search area of Options. please PLEASE tell me there is a way to make this unfortunate ff non-feature go away. thank you.
+</p>",firefox-730;customize;desktop;windows-10;,firefox,customize,en-US,1297096;,pghpghpgh
+1281846,2020-03-12 08:13:29 -0800,2020-03-12T08:13:29Z,No puedo acceder pagina DGSFP: Error HTTP 403.7 - Prohibido: se requiere un certificado de cliente SSL,"<p>No puedo entrar en la sede electronica de la DGSFP. Direccion general seguros
+La página requiere un certificado de cliente
+La página a la que está intentando tener acceso requiere que el explorador tenga un certificado de cliente Secure Sockets Layer (SSL) reconocido por el servidor Web. El certificado de cliente sirve para identificarle como usuario válido del recurso. 
+Tengo un certificado de la FNMT
+</p><p>Tambien tengo dificultades dentro de la pagina del banco Santander.
+</p>",firefox-740;desktop;privacy-and-security_1;windows-7;,firefox,privacy-and-security,es,"",Andross
+1281845,2020-03-12 08:06:51 -0800,2020-03-12T15:11:02Z,How can I change the bookmark icon in the bookmar toolbar?,"<p>I have bookmarks to multiple pages in the same domain and they show up with the same icon. How can I change them so that I can differentiate them? I prefer to just have icons instead of names/text for my bookmarks.
+</p>",bookmarks;firefox-730;desktop;linux;,firefox,bookmarks,en-US,1297083;,djabberdaddy
+1281844,2020-03-12 08:04:48 -0800,2020-03-12T08:40:35Z,after a security scare 5days ago!now ive diffrent firefox accnt bookmarks gone.wot happened?,"<p>bloody disgracefull cant even sort your own mess u made
+</p>",firefox-740;other;desktop;windows-81;,firefox,other,en-US,1296990;,daveycrow
+1281843,2020-03-12 07:56:05 -0800,2020-03-12T09:42:38Z,Bookmarks drop-down missing,"<p>WTF.   I'm having an issue with your software and trying to get to your support bulletin board and all it does is take me round and round through the same set of menus giving me a bunch of pre-written articles.   Stop with this shit.  I want to ask a question, not read your stupid articles that don't apply.   This is your lazy attempt to avoid having to answer people.   You mask it under the idea that these ""articles"" will discuss common issue and how to fix them, but all it really does is distract people to the point that they give up.
 </p><p><br>
 I am having a problem with my bookmarks.   I am using Firefox 74.   If I bookmark a page it used to add it to my Bookmarks drop down.  Sometime ago it stopped working.   Now it only shows Bookmarks under ""Recent Bookmarks"" and they drop off the menu after I think 10 bookmarks.    
 </p><p>I can still find them when I show ""all bookmarks"" under the ""show all bookmarks"" option in the Bookmark drop down menu, but otherwise if I don't immediately drag them from ""Recent bookmarks"" to an existing Bookmark folder, then they drop off the menu entirely and can only be found when showing all bookmarks.
 </p><p>Is this a holdover from when you guys eliminated showing the file drop down menus by default?
 </p><p>Why isn't this working properly.  When I bookmark a page it used to bring up a dialogue box asking me where I'd like to bookmark it.   Bring this back.
-</p>",bookmarks;desktop;firefox-740;windows-10;,firefox,bookmarks,en-US,1296975;1296976;1296977;,theopheus
-1281842,2020-03-12 07:51:41 -0800,2020-03-12T07:51:41Z,Netflix nsez-403 error,"<p>When trying to login to Netflix I keep getting it can't load the page because ""Something Went Wrong. Sorry We having trouble with your request. You'll find lots to explore on Home page.   |NSEZ-403 ""
+</p><p><em>title edited to represent issue. See <a href=""/en-US/kb/forum-rules-and-guidelines"" rel=""nofollow"">Forum rules and guidelines</a></em>
+</p>",bookmarks;desktop;firefox-740;windows-10;,firefox,bookmarks,en-US,1296975;1296976;1296977;1296982;1296984;1296985;1296993;1296998;1297007;1297009;,theopheus
+1281842,2020-03-12 07:51:41 -0800,2020-03-12T11:47:47Z,Netflix nsez-403 error,"<p>When trying to login to Netflix I keep getting it can't load the page because ""Something Went Wrong. Sorry We having trouble with your request. You'll find lots to explore on Home page.   |NSEZ-403 ""
 It's only when I try and sign in. I've cleared the cache &amp; cookies, and restarted Firefox multiple times, but still get this message.
 I also tried Chrome and had same problem, but don't get it with Safari.
-</p>",firefox-740;other;desktop;mac-os;,firefox,other,en-US,"",mccurdyp
-1281840,2020-03-12 07:25:01 -0800,2020-03-12T08:07:16Z,PR_CONNECT_RESET_ERROR for internal LAN IP,"<p>When going to internal IP <a href=""https://192.168.0.253:10000/"" rel=""nofollow"">https://192.168.0.253:10000/</a>, receiving PR_CONNECT_RESET_ERROR and there is no Advanced to add exception
-</p>",firefox-740;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US,1296978;,roedel
-1281839,2020-03-12 07:20:00 -0800,2020-03-12T07:20:00Z,firefox 74.0 (64-bit) not showing image type (like jpg or png) while saving pictures,"<p>When im using firefox 74 it's not showing the image type (like jpg or png) while using SAVE IMAGE AS command for pictures. 
+</p>",firefox-740;other;desktop;mac-os;,firefox,other,en-US,1297043;1297048;,mccurdyp
+1281840,2020-03-12 07:25:01 -0800,2020-03-12T16:43:38Z,PR_CONNECT_RESET_ERROR for internal LAN IP,"<p>When going to internal IP <a href=""https://192.168.0.253:10000/"" rel=""nofollow"">https://192.168.0.253:10000/</a>, receiving PR_CONNECT_RESET_ERROR and there is no Advanced to add exception
+</p>",firefox-740;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US,1296978;1297002;1297008;1297014;1297037;1297039;1297050;1297057;1297112;1297118;,roedel
+1281839,2020-03-12 07:20:00 -0800,2020-03-12T10:35:06Z,firefox 74.0 (64-bit) not showing image type (like jpg or png) while saving pictures,"<p>When im using firefox 74 it's not showing the image type (like jpg or png) while using SAVE IMAGE AS command for pictures. 
 </p><p>But it does show image the types options when i'm choosing what image types while opening them with such as HTML XML Image or Text Files.
 </p><p>I just installed this browser less than a week ago and didn't tamper with anything. How do i fix this.
-</p>",firefox-740;other;desktop;,firefox,other,en-US,"",kstanni87
+</p>",firefox-740;other;desktop;,firefox,other,en-US,1296992;1297022;1297024;1297033;,kstanni87
 1281838,2020-03-12 06:59:06 -0800,2020-03-12T08:10:40Z,Bookmarks form Firefox on old PC,"<p>I had a lot of important bookmarks in Firefox without signed in Firefox account on my old PC. Before moving away from that old PC, I signed in to firefox account to it connect Firefox data with my mail and account. I even tested that in way that I signed out from my account, removed all the data from Firefox, and when I signed in again, it was all there. It was about 5 months ago. Now, on my new PC, when I signed in with same account, there is no any those bookmarks. I tried to restore bookmarks, but it offers me only two time points in past for restoring, and none of those gives me back bookmarks or any other data. I didn't use that account with Firefox until now. Please help, there was a lot of important bookmarks to me for work.
 </p>",bookmarks;firefox-730;desktop;windows-10;sync;syncerr;escalate;,firefox,bookmarks,en-US,1296980;,darian.pesut.poslovni
-1281837,2020-03-12 06:54:26 -0800,2020-03-12T06:54:26Z,"""already running"" message when I click on links in documents","<p>I used to have two profiles.  I deleted one.  But I still got profile manager first when starting FF.  So I clicked the box to load the default without asking.  I'm almost sure that it was immediately after that, when clicking on links elsewhere (e.g. shortcuts I've created, links in pdfs) I get the ""FF is already running message.""  So I manually opened profile manager and unclicked the ""use selected profile without asking"" button (and I've gone back and confirmed its unchecked) and I'm still getting the message.
-</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",zarky1
+1281837,2020-03-12 06:54:26 -0800,2020-03-12T14:55:49Z,"""already running"" message when I click on links in documents","<p>I used to have two profiles.  I deleted one.  But I still got profile manager first when starting FF.  So I clicked the box to load the default without asking.  I'm almost sure that it was immediately after that, when clicking on links elsewhere (e.g. shortcuts I've created, links in pdfs) I get the ""FF is already running message.""  So I manually opened profile manager and unclicked the ""use selected profile without asking"" button (and I've gone back and confirmed its unchecked) and I'm still getting the message.
+</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1296995;1297012;1297015;1297075;1297077;,zarky1
 1281836,2020-03-12 06:48:08 -0800,2020-03-12T06:48:08Z,buenas tardes desde la ultima actualizacion de Firefox no me deja entrar en el juego online https://plarium.com/es/juegos-de-estrategia/vikings-war-of-clans/,"<p>Desde el dia 11/03/2020 que actualice el navegador firefox no me deja entrar en el juego de la pagina <a href=""https://plarium.com/es/juegos-de-estrategia/vikings-war-of-clans/"" rel=""nofollow"">https://plarium.com/es/juegos-de-estrategia/vikings-war-of-clans/</a>, me sale una ventana que adjunto en fotos y no puedo entrar salta al 50% de la carga , que puedo hacer para solucionarlo ya que funciona perfectamente antes.
 </p>",firefox-740;other;desktop;windows-10;,firefox,other,es,"",f.morillalopez
 1281834,2020-03-12 06:28:00 -0800,2020-03-12T08:08:28Z,How do I change the Firefox shortcuts?,"<p>I have a KVM switch that is improperly made.  It will not recognize the Back/Forward buttons on my mouse.  The current shortcuts require me to move my hand off the mouse as they use a modifier (ALT+Left Arrow).
 </p><p>I want to create a single key Back/Forward shortcuts so I can keep my hand on the mouse.  Specifically, I want to reassign (or add, not fussy) the F2 and F3 keys to Back and Forward.
 </p><p>How do I do that?  (And to quote Gene Krantz, failure is NOT an option.)
 </p>",firefox-740;customize;desktop;windows-10;,firefox,customize,en-US,1296979;,jss1138
-1281830,2020-03-12 05:58:50 -0800,2020-03-12T05:58:50Z,Has Mozilla changed the bookmark logic?,"<p>Hello There,
+1281830,2020-03-12 05:58:50 -0800,2020-03-12T21:31:42Z,Has Mozilla changed the bookmark logic?,"<p>Hello There,
 </p><pre>to describe my problem in more detail, I first have to explain the following: 
 </pre>
 <p>There were two ways to bookmark:
 1. CTRL + D (manually save each bookmark in the folder)
 2. Via ""Show all bookmark folders"" I was able to select a folder and with CTRL + D all bookmarks were automatically saved in the selected folder
 </p><p>The second option no longer appears to be available. I have to assign all bookmarks individually to a folder. Does anyone have information?
-</p>",bookmarks;desktop;windows-10;beta;,firefox,bookmarks,en-US,"",joni_mond
-1281826,2020-03-12 03:40:25 -0800,2020-03-12T03:40:25Z,How do I change which app Firefox uses to open PDFs?,"<p>In my settings I have Firefox set to open PDFs using the app 'okular' (see screenshot). In my file browser, PDFs open in 'Okular' (see screenshot). However, when I click a pdf in the Firefox downloads pane, it opens with 'GNU Image Manipulation Program'. Why is this, and how can I change it to 'Okular'?
+</p>",bookmarks;desktop;windows-10;beta;,firefox,bookmarks,en-US,1297086;1297111;1297114;1297153;,joni_mond
+1281826,2020-03-12 03:40:25 -0800,2020-03-12T15:42:08Z,How do I change which app Firefox uses to open PDFs?,"<p>In my settings I have Firefox set to open PDFs using the app 'okular' (see screenshot). In my file browser, PDFs open in 'Okular' (see screenshot). However, when I click a pdf in the Firefox downloads pane, it opens with 'GNU Image Manipulation Program'. Why is this, and how can I change it to 'Okular'?
 </p><p>I'm running latest version of Kubuntu, with current updates.
-</p>",firefox-730;customize;desktop;,firefox,customize,en-US,"",megamasha1
-1281825,2020-03-12 03:39:45 -0800,2020-03-12T03:39:45Z,FF 74.0: issue with menu keyboard shortcut Alt+D,"<p>With the German language pack ""Deutsch (DE)"", the keyboard shortcut for the file menu is Alt+D (Datei=File). Since FF 74.0 (64-Bit), it doesn't work anymore. Instead, the shortcut sets the focus to the location bar. Any other keyboard shortcut works.
+</p>",firefox-730;customize;desktop;linux;linuxnotwindows;,firefox,customize,en-US,1297102;,megamasha1
+1281825,2020-03-12 03:39:45 -0800,2020-03-12T19:23:59Z,FF 74.0: issue with menu keyboard shortcut Alt+D,"<p>With the German language pack ""Deutsch (DE)"", the keyboard shortcut for the file menu is Alt+D (Datei=File). Since FF 74.0 (64-Bit), it doesn't work anymore. Instead, the shortcut sets the focus to the location bar. Any other keyboard shortcut works.
 </p><p>Is it a bug? Is there a work around?
-</p>",firefox-740;other;desktop;linux;,firefox,other,en-US,"",ebfried2000
+</p>",firefox-740;other;desktop;linux;,firefox,other,en-US,1297089;1297106;1297139;1297141;,ebfried2000
 1281824,2020-03-12 03:16:09 -0800,2020-03-12T04:45:41Z,unrequested firefox upgrades,"<p>For the second time recently, Firefox has done an unauthorized upgrade despite my settings being to advise rather than do so automatically.  The first I know about it is when everything locks up and a screen message tells me that Firefox is doing an upgrade and will restart shortly.  Even more annoying is that the upgrade totally wipes all my settings, bookmarks, etc. and I have to waste a lot of time trying to reset everything - whilst losing a lot of bookmarked items of course.    Any ideas please?
 </p>",download-and-install_1;firefox-730;desktop;windows-10;,firefox,download-and-install,en-US,1296956;,858590
-1281823,2020-03-12 03:13:48 -0800,2020-03-12T06:37:49Z,"need to use scrapbook addon but it only runs on firefox v56 mac, plese advise","<p>Hello, i saved many website pages using scrapbook and firefox mac v56, 
+1281823,2020-03-12 03:13:48 -0800,2020-03-12T10:53:38Z,"need to use scrapbook addon but it only runs on firefox v56 mac, plese advise","<p>Hello, i saved many website pages using scrapbook and firefox mac v56, 
 this addon seems to no longer exists , i was aware that it was not supported in firefox v.quantum but i had no idea it was taken down and woke up to this today.
 </p><p>the addon web-scrapbook seems dodgy, you have to create an account and use a cloud server contradicts the whole idea with scrapbook which was about saving webpages to read them offline.
 </p><p>can anyone ease advise on a  solution to this?
-</p>",download-and-install_1;firefox-680;desktop;mac-os;,firefox,download-and-install,en-US,1296946;1296951;1296953;1296966;1296967;1296968;1296969;1296971;,mia.raphael.mail
+</p>",download-and-install_1;firefox-680;desktop;mac-os;,firefox,download-and-install,en-US,1296946;1296951;1296953;1296966;1296967;1296968;1296969;1296971;1297006;1297034;1297036;1297038;,mia.raphael.mail
 1281820,2020-03-12 02:18:35 -0800,2020-03-12T02:23:56Z,Task manager shows 12 instances of firefox when 1 browser is open,"<p>I only have 1 browser open, but in my task manager, it shows 11 instances.  some times when downloading, it came to a complete stop and it jams the internet.  I can't even get Chrome and Edge to browse anything. I had to force Firefox to stop and it kills my downloads. it did not do this on the previous version of Firefox, but this latest version, it does that. currently on 74.0 (64-bit). 
 2 questions:
 why do I have this man instances opened?
 Why is Firefox freezing and blocked the internet connection? Once Firefox is force to end task, other browser is moving.
 </p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1296936;,swon888
-1281819,2020-03-12 01:34:41 -0800,2020-03-12T06:41:30Z,"Errors accessing various sites ..  ""java.lang.ClassCastException: java.lang.Long incompatible with java.lang.String"".","<p>Unable to access various sites , and various keyboard operations are being ignored on other sites.. getting this error on some pages ""java.lang.ClassCastException: java.lang.Long incompatible with java.lang.String"".
-</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1296973;,g.j.slope28
+1281819,2020-03-12 01:34:41 -0800,2020-03-12T11:00:28Z,"Errors accessing various sites ..  ""java.lang.ClassCastException: java.lang.Long incompatible with java.lang.String"".","<p>Unable to access various sites , and various keyboard operations are being ignored on other sites.. getting this error on some pages ""java.lang.ClassCastException: java.lang.Long incompatible with java.lang.String"".
+</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1296973;1297003;1297005;1297017;1297035;1297040;,g.j.slope28
 1281817,2020-03-12 00:23:59 -0800,2020-03-12T02:26:38Z,"i have trouble with loosing my login and password, should recover them","<p>As a Firefox suggestion, to remove all usernames and passwords, add-ons, and favorite sites to improve performance
 I desperately need usernames and passwords
 please recover them
 </p>",firefox-730;other;desktop;windows-7;,firefox,other,en-US,1296937;,mahdi6171
-1281815,2020-03-12 00:05:21 -0800,2020-03-12T02:29:30Z,"after i always remove al search engines except startpage, suddenly i got search result from Amazon and had to remove this with a other engine i forgot the name.","<p>when i was trying to search from the search field in top of my browser i aspect Start page to search because that is the only engine is present in my search engine list, but after no changes from me, suddenly Amazon was there, and a other search engine i forgot the name of. How can engines come back like that I do not en did not use amazon, Some amazon trick i don't know off?
-</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1296938;,lexioerlemans
+1281815,2020-03-12 00:05:21 -0800,2020-03-12T10:30:30Z,"after i always remove al search engines except startpage, suddenly i got search result from Amazon and had to remove this with a other engine i forgot the name.","<p>when i was trying to search from the search field in top of my browser i aspect Start page to search because that is the only engine is present in my search engine list, but after no changes from me, suddenly Amazon was there, and a other search engine i forgot the name of. How can engines come back like that I do not en did not use amazon, Some amazon trick i don't know off?
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1296938;1296988;1297000;1297029;,lexioerlemans
 1281814,2020-03-12 00:00:22 -0800,2020-03-12T02:30:45Z,Feature request: right-click a folder in bookmark bar to collect current web page in this folder.,"<p>I hope Firefox can offer a feature like this: right-click a folder in my bookmark bar, than I can collect current webpage in this folder (just like Chrome works).
 Now the steps of adding a webpage to a folder are too tedious.
 </p>",bookmarks;firefox-730;desktop;windows-10;feature-request;,firefox,bookmarks,en-US,1296939;,julianisme
 1281811,2020-03-11 21:36:00 -0800,2020-03-12T04:43:30Z,Remove 'Ted Talks' item from the Bookmarks Toolbar.,"<p>Right clicking on Bookmarks Toolbar, and selecting delete on menu, doesn't seem to work.
 </p>",bookmarks;firefox-730;desktop;mac-os;,firefox,bookmarks,en-US,1296940;1296944;1296955;,BobC4wine
-1281809,2020-03-11 20:02:33 -0800,2020-03-11T20:02:33Z,Cookies can't be set in Firefox,"<p>I'm developing React App and it's involving Cookies in its authentication process, but the problem is the ""set-cookies"" function is not working on Firefox, it is working on Chrome. but i don't know why it doesn't work in Firefox.
+1281809,2020-03-11 20:02:33 -0800,2020-03-12T19:26:14Z,Cookies can't be set in Firefox,"<p>I'm developing React App and it's involving Cookies in its authentication process, but the problem is the ""set-cookies"" function is not working on Firefox, it is working on Chrome. but i don't know why it doesn't work in Firefox.
 I've try to settings anything related to Cookies like ""Allow Cookies"" for my React App url and even customize Privacy Protections to not blocking all of the things listed there.
 </p><p>Thank you for your help,
-</p>",firefox-740;cookies;desktop;windows-10;devedition;development;webdev;,firefox,cookies,en-US,"",elangbayu17
+</p>",firefox-740;cookies;desktop;windows-10;devedition;development;webdev;,firefox,cookies,en-US,1297103;1297142;,elangbayu17
 1281805,2020-03-11 18:28:12 -0800,2020-03-11T19:33:41Z,Google Docs Download Fail (since last Firefox update),"<p>When trying to download my files from Google Docs I get the following errors:
 </p><p>""The page isn’t redirecting properly"" ""An error occurred during a connection to <a href=""http://doc-0k-38-docs.googleusercontent.com"" rel=""nofollow"">doc-0k-38-docs.googleusercontent.com</a>"".
 </p><p>This only happens in Firefox.  IE and Chrome download files just fine.
@@ -86,11 +111,11 @@ I've try to settings anything related to Cookies like ""Allow Cookies"" for my R
 </p><p>None of the steps above either together or alone changed the error message.
 </p><p>Any ideas would be greatly appreciated!
 </p>",firefox-740;desktop;fix-problems;windows-10;googledocs;googledocs74;webcompat;googledrive;googledrive74;,firefox,fix-problems,en-US,1296898;,dp.pare
-1281802,2020-03-11 17:51:35 -0800,2020-03-11T17:51:35Z,Youtube video stuttering,"<p>Most videos on youtube seem choppy, like they're playing at 5 fps. However, whenever I move the mouse it snaps out of it and the video plays ok. But a few seconds after I stop moving the mouse, back to the choppyness.
+1281802,2020-03-11 17:51:35 -0800,2020-03-12T15:46:45Z,Youtube video stuttering,"<p>Most videos on youtube seem choppy, like they're playing at 5 fps. However, whenever I move the mouse it snaps out of it and the video plays ok. But a few seconds after I stop moving the mouse, back to the choppyness.
 I've noticed that anything in 60fps tends to be ok.
 This is a brand new computer, fresh install of windows, latest updates/drivers installed.
 Everything seems fine on Microsoft Edge.
-</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",ian83123
+</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1297104;,ian83123
 1281801,2020-03-11 17:31:42 -0800,2020-03-12T02:35:15Z,Firefox slow on a brand new machine,"<p>I use Firefox on all of my devices. On a new Windows Surface Laptop 3 (Ryzen 5 3580U, 8GB RAM) the speed is unbearable. Competitor product is fine as a workaround. Firefox in safe mode works great. Behaviour is observed on a brand new install (no extensions, etc.). Firefox is updated to latest version (74.0). Any help would be appreciated. 
 </p><p>Thanks
 </p><p>Edit 1:
@@ -98,15 +123,15 @@ Everything seems fine on Microsoft Edge.
 - Performance decrease most notable when displaying Firefox on 4K monitor connected to DP in dock. Performance better when displaying on 1080P monitor connected through HDMI (but still not as smooth as no Dock).
 - Dock or monitor has no impact on Firefox behaviour with other laptops.
 </p>",desktop;fix-problems;windows-10;windows10n;,firefox,fix-problems,en-US,1296903;1296941;,ariehen
-1281800,2020-03-11 17:13:10 -0800,2020-03-12T00:00:53Z,How to see browsing history in chronological order?,"<p>In history, prior visits to pages are hidden. The information appears to be retained. How can that filter be removed so all visits are visible? My goal is a list of URLs visited sorted chronologically.
-</p>",firefox-750;beta;customize;desktop;mac-os;,firefox,customize,en-US,1296886;1296933;,shendrick
+1281800,2020-03-11 17:13:10 -0800,2020-03-12T19:05:54Z,How to see browsing history in chronological order?,"<p>In history, prior visits to pages are hidden. The information appears to be retained. How can that filter be removed so all visits are visible? My goal is a list of URLs visited sorted chronologically.
+</p>",firefox-750;beta;customize;desktop;mac-os;,firefox,customize,en-US,1296886;1296933;1297134;,shendrick
 1281799,2020-03-11 16:52:10 -0800,2020-03-11T21:43:18Z,"When using import wizard, chrome doesn't show up as an option. I am trying to import all data from chrome.","<p>I am new to firefox so I am wanting to import all data from Chrome. I already worked around this issue for bookmarks by downloading to html but there is no option for passwords. Chrome, or any form of google, is not showing up as an option. I personally dont want to go to every site I have ever been to just to reenter passwords. Some of which I relied on the password fill on google. I'd really appreciate a solution to this problem.
 </p>",download-and-install_1;firefox-740;desktop;windows-10;,firefox,download-and-install,en-US,1296906;1296913;1296916;1296918;1296924;,gregorymaguire2002
 1281798,2020-03-11 16:29:39 -0800,2020-03-11T19:08:54Z,"Why do I get ""sending request to www.facebook.com"" in apparently unrelated pages?","<p>I was using this site <a href=""https://donativos.unicef.pt/criancas-refugiadas/?utm_term=Amigos+da+UNICEF%3A+Mostre+que+nao+se+esqueceu&amp;utm_campaign=Siria+9+Anos&amp;utm_source=e-goi&amp;utm_medium=email"" rel=""nofollow"">https://donativos.unicef.pt/criancas-refugiadas/?utm_term=Amigos+da+UNICEF%3A+Mostre+que+nao+se+esqueceu&amp;utm_campaign=Siria+9+Anos&amp;utm_source=e-goi&amp;utm_medium=email</a>, but I've seen this happening in other sites, and after submitting a form I got ""Sending request to <a href=""http://www.facebook.com"" rel=""nofollow"">www.facebook.com</a>"" in the bottom bar.
 </p><p>What does it mean? Is this some kind of tracking?
 </p>",privacy-and-security_1;firefox-730;firefox-7301;desktop;linux;,firefox,privacy-and-security,en-US,1296875;1296878;1296882;1296883;1296884;1296888;1296890;1296891;1296895;,jmss
-1281797,2020-03-11 16:29:17 -0800,2020-03-11T20:52:18Z,What is firefox's cookie limit and how does it handle corrupt cookies store,"<p>I've been digging into an issue about the ""A web page is slowing down your browser,"" and it seems that the most frequent explanation for this is corrupt cookies/cache. However, the issue wasn't repeatable on my site. After some digging, I found that its possible for a corrupt `cookies.sqlite` if the max file size has been reached and a suggestion that FF automatically resets this `cookies.sqlite` store when this happens. 
+1281797,2020-03-11 16:29:17 -0800,2020-03-12T09:43:34Z,What is firefox's cookie limit and how does it handle corrupt cookies store,"<p>I've been digging into an issue about the ""A web page is slowing down your browser,"" and it seems that the most frequent explanation for this is corrupt cookies/cache. However, the issue wasn't repeatable on my site. After some digging, I found that its possible for a corrupt `cookies.sqlite` if the max file size has been reached and a suggestion that FF automatically resets this `cookies.sqlite` store when this happens. 
 </p><p>I suspect that this issue happened when the user maxed out their cookies, causing a corrupt `cookies.sqlite` file. Then, when they restarted FF, their store had been cleared and they had no problems.
 </p><p>However, I cannot find any documentation about FF behavior when in handling corrupt cookies or resetting the `cookies.sqlite` file. I'm looking for some concrete answers. What is FF's cookie store limit, and what is its behavior (if any) when the store is maxed?
 </p><p>Worth mentioning, this was FF on Linux. I don't know the specs beyond that.
-</p>",firefox-730;cookies;desktop;linux;,firefox,cookies,en-US,1296905;,jmcgoffin
+</p>",firefox-730;cookies;desktop;linux;needsinfo;,firefox,cookies,en-US,1296905;1297010;,jmcgoffin
