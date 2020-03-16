@@ -1,0 +1,250 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1281956,2020-03-13 15:47:03 -0800,2020-03-14T15:06:32Z,Norton Password Manager requires two sign-ins with private browsing,"<p>I recently acquired a new computer and downloaded a fresh version of Firefox, which I set up to start in Private Browsing mode.  I also installed Norton 360 as my virus and firewall service, which is slightly different from the Norton Internet Security I was using on the old computer.  I installed the Norton extension for its password manager on Firefox.  On the old computer, I became accustomed to signing in to the password manager every time I restarted Firefox, but now I have to first sign in to my Norton account before I can even see the password manager sign-in page.  I suspect that I haven't managed the exceptions for cookies, etc. properly, but a long chat with Norton support didn't succeed in getting rid of the double sign-in problem.  Anybody know how to fix this problem or what I should try?  I already made exceptions for what the Norton guy told me were the web addresses for the manager and the account.
+</p>",firefox-740;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US,1297456;1297459;1297597;1297643;,steve183
+1281955,2020-03-13 15:28:32 -0800,2020-03-14T11:41:13Z,today's update made my Yahoo mail micro text(unreadable) how can i fix this?,"<p>a few hours ago, my firefox updated and destroyed my yahoo mail. i can no longer read any text in my mail box. it is micro(unreadable) all other tabs/sites are fine. even <a href=""http://yahoo.com"" rel=""nofollow"">yahoo.com</a> is fine but, NOT MAIL. attached is a screen-shot of my inbox.
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1297415;1297590;,quirke21
+1281953,2020-03-13 15:19:59 -0800,2020-03-13T15:19:59Z,"Miten löydän lisäosan, jolla voin jakaa sivuja ystäville, näyttää punaiselta tai siniseltä ristiltä?","<p>En löydä lisäosaa, joka näyttää punaiselta ristiltä, jolla voi meilata eteenpäin sivuja ja youtube-videoita ystäville. Vai onko se laajennus´,
+MIKÄÄN HAKUSANA EI TOIMI MILLÄÄN KIELELLÄ.
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,fi,"",maijalipiittari
+1281950,2020-03-13 14:35:54 -0800,2020-03-13T15:08:39Z,I want to print in Black and White but the print dialog has no properties options,"<p>I have a color  printer but I want to print in black and white and so to change this option, you need to the print properties button but the button does not come up in the print dialog. There is a preferences button but I am pretty sure that is not it because that just opens another app with no option to change the color setting.
+</p>",other;desktop;windows-10;,firefox,other,en-US,1297384;,neelshah603
+1281944,2020-03-13 13:05:34 -0800,2020-03-14T09:34:28Z,"Firefox keeps turning ""cookies.sqlite"" into .bak since it updated to version 74.0","<p>Immediately after updating to version 74.0, I noticed Firefox had logged me out from all sites I usually am automatically logged into at the start of a session. 
+It was not the first time I encountered this problem, as it had been happening at irregular intervals, and found that it was caused by firefox replacing the ""cookies.sqlite"" file in my profile folder with a new one, while also dubbing the old one ""cookies.sqlite.bak"".
+I always resolved the problem by:
+</p><p>-Closing Firefox
+</p><p>-Deleting the recently created ""cookies.sqlite"" in my profile folder
+</p><p>-Renaming ""cookies.sqlite.bak"" into ""cookies.sqlite""
+</p><p>-(Usually) Creating a copy of the .bak file and keeping it in a folder as insurance, in case I found no recent .bak the next time it happened or it got corrupted somehow
+</p><p>After doing this, upon starting firefox I would find all my cookies in place and myself logged in all sites I cared about (I set it up so that firefox restores a long-running, multi-windowed session at startup).
+</p><p>On a side note, I was always able to know whether my ""cookies.sqlite"" file had been rewritten by checking its size: if it had been just created, it would always be 512 Kb; the backup .bak file is instead 1.50 Mb.
+</p><p><br>
+Onto the problem at hand: after updating to 74.0 and finding that I lost all cookies and logins, I repeated the process highlighted above, as usual. 
+It didn't resolve the problem though: I still didn't recover any cookie even though I switched the ""good"" .bak file with the newly created ""cookies.sqlite"". Upon starting firefox, instead of loading my 1.50 Mb .sqlite it keeps immediately renaming it .bak and creating its own cookies.sqlite. 
+I even tried using a slightly older .bak, one that I had successfully switched before: the result was the same.
+</p><p>I am at my wits' end: I checked and tried various cookie and privacy settings, but since firefox updated it seems determined to shun my old cookie backup in favor of creating its own empty, useless file. There also doesn't seem to be any recent documentation on this problem I can find. I even considered opening and checking both .sqlite and .bak files for any obvious differences, but I'm afraid I just don't know how.
+</p><p><br>
+Those cookies are critical for my navigation. ""Major Annoyance"" wouldn't even begin to describe starting a session without those.
+</p>",firefox-740;cookies;desktop;windows-10;,firefox,cookies,en-US,1297353;1297364;1297396;1297402;1297445;1297452;1297555;,chibi95
+1281943,2020-03-13 12:53:29 -0800,2020-03-13T15:17:09Z,Why can I not watch Channel4,"<p>Dear Community,
+</p><p>I am trying to watch a programme on Channel4 in UK,  When I try to download the programme, the content will not play, since it thinks I am using an Ad Blocker.  But even when I do disable it, the content will not stream properly.  Does anybody have any suggestions, please?
+Marek
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1297387;,MAREK_WES
+1281941,2020-03-13 12:41:12 -0800,2020-03-13T22:47:07Z,When I am working Firefox wants to update.  After working I cannot find a way to do the update.  Where did the Update tool go???,"<p>It never fails.  While I am working I keep getting that irritating Notification over-and-over that there is an update.  After I quit working I cannot find a way to do the update.  What is Mozilla doing?  Why do we no longer have control to do Updates Manually?  When we want to.  Not have them shoved into our face over-and-over?  I would love to at least have the option to not have these irritating Notifications.  Especially since Mozilla seems to do constant updates.  Almost weekly.  Thanks
+</p>",other;firefox-720;desktop;windows-10;,firefox,other,en-US,1297337;1297457;1297458;,AndeAnderson
+1281940,2020-03-13 12:41:11 -0800,2020-03-13T12:46:21Z,"Dashlane extension opens when I open mozzilla, can I hide it?","<p>I open firefox. 2 seconds later another page opens asking me to sign up for dashlane
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1297338;,frank101
+1281938,2020-03-13 12:26:46 -0800,2020-03-14T19:23:17Z,won't access mic for google phone after latest update,"<p>Mint 19.2 / Lenovo X230 - latest update for firefox broke mic input for google phone app. Is there a fix to get mic to work? 
+Update before, box would open asking to use mic. Before that earlier update, there was a box to tick that would always allow mic and I was never asked again.
+</p>",firefox-740;other;desktop;linux;,firefox,other,en-US,1297319;1297692;,bth731
+1281937,2020-03-13 12:25:49 -0800,2020-03-13T12:39:02Z,contextual menu on macOS,"<p>The contextual menu on macOS seems to defy all macOS conventions.
+It doesn't respect dark mode.
+It doesn't include services.
+It doesn't, for example, highlight a word when I double-click on one, and doesn't offer me the standard 'Look Up' option, and it ignores system-wide services that I've enabled...
+</p><p>The UI is also prone to misclicks, given that the first layer of the contextual menu is navigation controls.
+The only other browser that doesn't respect the OS conventions is Tor Browser.
+</p>",firefox-740;other;desktop;mac-os;,firefox,other,en-US,1297332;,dtpman
+1281936,2020-03-13 12:21:51 -0800,2020-03-14T16:35:02Z,"¿Como activo javascript en firefox 74? Ya que no exite la opcion en panle de opciones y no carga las paginas, ejemplo: facebbok.","<p>el foros y ayuda de firefox, no existe la opcion de como se activa.
+Aparecen otras opciones de firefox antiguos pero ninguno para versiones actuales.
+</p>",firefox-740;other;desktop;windows-7;,firefox,other,es,1297663;,davicillo_1
+1281933,2020-03-13 11:39:47 -0800,2020-03-13T14:07:27Z,Minimum window size increased by 25% and won't go any smaller?,"<p>Last night I suddenly started having issues with resizing the Firefox window in Windows 10. It seems to have increased its minimum size by 25% when adjusted to the side of the screen. I haven't installed anything new that would've suddenly caused this, it just suddenly happened after readjusting it once, something I do regularly with no issue. I've tried restarting my PC and it won't go back to being able to be resized to what I used to be able to do (the red line). Any help or insight would be greatly appreciated.
+</p><p>Current window size vs the size I used to be able to adjust to:
+<a href=""https://cdn.discordapp.com/attachments/590602245586812930/688093403979972638/firefoxwindowsize.png"" rel=""nofollow"">https://cdn.discordapp.com/attachments/590602245586812930/688093403979972638/firefoxwindowsize.png</a>
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1297333;1297342;1297347;1297352;1297357;,eric_pace
+1281931,2020-03-13 11:06:34 -0800,2020-03-13T13:17:59Z,Firefox changes it's language(s) itself,"<p>I have my languages in General -&gt; Set Alternatives set to English (US) and English (UK) (because not all websites and even Firefox by default supports US IIRC). Also my default display language is US and keyboard is US (because some games and apps like CS:GO enforce US locale :( so cannot use UK, else I will have two English keyboards).
+</p><p>So for some reason Firefox just resets my alternatives or something to English (US) and my secondary language, so a lot of Firefox content is in the second language, not in English (US), and not in English (UK) because this one was removed for some reason.
+</p><p>Happened to me before, happens like a few times a month and I have to fix it every time manually. Appreciate any help.
+</p>",firefox-740;customize;desktop;windows-10;language;,firefox,customize,en-US,1297310;1297351;,iv.misticos
+1281930,2020-03-13 11:04:20 -0800,2020-03-13T12:31:09Z,Firefox version 74 noot showing window actions and is extremely slow,"<p>I restarted firefox today on Mac Catalina and now firefox is slow to respond to any actions at all. It takes like 30+ seconds to type anything in the URL, open a new tab, etc. Seems like it is extremely laggy.  If I click a link to open it in firefox from another app, it seems to load just fine. Also the window close, minimize, and maximize are missing.
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US,1297295;1297296;1297325;,phil.brocker+firefox
+1281928,2020-03-13 11:02:17 -0800,2020-03-13T15:45:45Z,"Close, resize and minimize buttons missing - what's happened?","<p>I've just begun using my new PC, all complete with Windows 10 - whereas I've been enjoying Windows 7 and I've struck problems immediately.
+The worst one is that on my browsing page the three buttons to minimize, resize and close, in the top right corner have all gone.
+Please find them for me...
+</p>",firefox-740;customize;desktop;windows-10;,firefox,customize,en-US,1297320;1297401;,leo9ine
+1281925,2020-03-13 10:34:21 -0800,2020-03-14T03:24:48Z,Spell check not working,"<p>Spell checking doesn't seem to be working in form text inputs, both single and multi-line. I have my language set to English (United Kingdom) and I've also tried setting layout.spellcheckDefault to 2.
+</p><p>When I right click over such a form text input, the context menu has no mention of spelling or languages. I'm in a corporate environment so it's possible they're doing something with the config?
+</p>",firefox-730;other;desktop;windows-10;spellchecker;,firefox,other,en-US,1297284;1297312;1297484;,geoff.firefox
+1281924,2020-03-13 10:33:20 -0800,2020-03-13T12:30:02Z,"When using ""chrome_url_overrides"" in the manifest.json of my addon to change the new tab page, is it possible to focus on an element in the page?","<p>My manifest is this:
+</p><pre>   {
+   	""manifest_version"": 2,
+   	""name"": ""Simple Startpage"",
+   	""version"": ""1.0"",
+   
+   	""description"": ""My very simple start page"",
+   
+   	""chrome_url_overrides"": {
+   		""newtab"": ""index.html""
+   	}
+   }
+</pre>
+<p>`index.html` is a normal HTML page that references an `index.js` which contains code something like this:
+</p><pre>   window.onload = () =&gt; {document.getElementById(""search"").focus()}
+</pre>
+<p>However, when I open a new page, it focuses the address bar at the top instead of my element. Is there an approach I could take to this that would let me focus that element? Directly opening the file verifies that the focus() works.
+</p>",customize;desktop;firefox-720;linux;,firefox,customize,en-US,1297323;,vityavv
+1281922,2020-03-13 10:14:45 -0800,2020-03-13T14:03:56Z,"When I start to type an address in the URL bar, I get a drop down search box directly below the url/address bar.  I do not want this","<p>I had this problem 2 years ago and somebody helped me fix it as follows:
+</p><p>(1) In a new tab, type or paste about:config in the address bar and press Enter/Return.
+(2) In the search box above the list, type or paste URLB and pause while the list is filtered
+(3) Double-click the browser.urlbar.autocomplete.enabled preference to switch the value from true to false 
+</p><p>HOWEVER --- I don't seem to have browser.urlbar.autocomplete.enabled in my new version 74.0.  
+What happened to it? Does it have a new name now?
+</p><p>Note that I tried in Options / Preferences  / Search
+</p><pre>    I unchecked ""Show search suggestions in location bar results
+
+</pre>
+<p>In Options / Preferences / Privacy
+</p><pre>   I uncheck each of the boxes in the Location Bar section (History, Bookmarks, Open tabs).
+</pre>",download-and-install_1;firefox-600;desktop;,firefox,download-and-install,en-US,1297285;1297290;1297344;1297365;,dmcentee
+1281921,2020-03-13 10:09:26 -0800,2020-03-13T19:39:18Z,How can I force all images now downloading as webp to download to jpg,"<p>I need to be able to download images as .jpg.  Currently all are forced to download as webp which is useless for me. This change from .jpg to webp happened with my last Firefox update around 3/2020.
+</p>",download-and-install_1;firefox-740;desktop;windows-10;,firefox,download-and-install,en-US,1297334;1297409;1297442;,kathy12
+1281920,2020-03-13 10:06:37 -0800,2020-03-13T15:40:54Z,"Nameless plugin (Plugin """" crashed) crashes on Amazon music and Crunchyroll","<p>Every time i try to play music on Amazon Music or a video on Crunchyroll, some nameless plugin crashes and i can't stream the media files. If i try to send a report, nothing happens. It's not even listed in about:crashes.
+The funny thing is, that even if crunchyrolls videos are embedded into another website, the plugin crashes there too. But since it doesn't show a plugin name, i'm not sure what crashes there exactly...
+I tried to start firefox in safe mode and even reinstalled it, nothing changes, so it can't be my add-ons (i disabled / deinstalled them).
+</p><p>I hope, someone can help me.
+</p><p>I'm german by the way, so my screenshot is in german, too.
+</p>",firefox-740;desktop;fix-problems;windows-10;plugin;crash;escalate;,firefox,fix-problems,en-US,1297278;1297281;1297309;1297324;1297343;1297368;1297398;1297399;,niko.goetze
+1281919,2020-03-13 10:00:56 -0800,2020-03-15T04:51:08Z,"What happened to my history, all I get is today?","<p>What happened to my history, all I get is today?
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1297280;1297773;1297775;,richwasman
+1281918,2020-03-13 09:42:36 -0800,2020-03-15T03:49:46Z,How could I batch update AD password in firefox Lockwise web page.,"<p>I use active directory account in my company.
+There are a lot of intranet website to login, and I saved the AD password to lockwise.
+But in AD security strategy, password will expire within 90 days and I have to update it.
+So how can I sync the new password for all intranet website ?
+</p>",firefox-740;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US,1297341;1297766;1297768;,qrqhuangcy
+1281917,2020-03-13 09:23:06 -0800,2020-03-13T16:05:35Z,Can not send tab to device - device not in list,"<p>Hi
+</p><p>On win 10 Firefox v74.0 I created and singed into Firefox account.
+Then I have installed Firefox on Samsung S8 android 9.
+</p><p>Back to win 10 I want to send tab to device, but device list is empty.
+I tried signing out and in again, restarting Firefox. Still no devices are listed (just the S8 should be there).
+</p><p>Please advise 
+</p><p>Tx
+</p><p>OJ
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1297326;1297410;,OJNSim
+1281916,2020-03-13 08:41:53 -0800,2020-03-13T10:10:39Z,Youtube Is So Slow To Load!,"<p>I Try To Load Videos, But Youtube Is So Slow To Load! Can Anyone To Fix This?
+</p>",firefox-740;other;desktop;windows-7;,firefox,other,en-US,1297279;,Mailruagentr
+1281915,2020-03-13 08:37:48 -0800,2020-03-13T12:33:47Z,Cannot load security module in security devices,"<p>$ uname -r
+5.5.8-200.fc31.x86_64
+$ rpm -qa | grep firefox
+firefox-74.0-3.fc31.x86_64
+</p><p>Unable to load this module -&gt; /usr/lib64/<a href=""http://opensc-pkcs11.so"" rel=""nofollow"">opensc-pkcs11.so</a>
+</p>",firefox-740;desktop;privacy-and-security_1;linux;fedora31;,firefox,privacy-and-security,en-US,1297327;,un1xadmin
+1281912,2020-03-13 07:57:34 -0800,2020-03-13T15:20:46Z,"New highlighted text on tabs is annoying, is there any way to turn this off? (Screenshots included)","<p>The most recent update has changed it so that the text on tabs is highlighted, and it has been bothering me. Below are two images, one of the current highlighted text on the tabs, and the second one of the previous version of the tabs before I installed the most recent update.
+</p><p>Is there any way to turn the highlight off? If there isn't, where can I suggest that there be an option to turn it off? Thank you.
+</p>",firefox-740;customize;desktop;mac-os;,firefox,customize,en-US,1297339;1297388;1297389;,officialowlpostalservice
+1281909,2020-03-13 07:43:57 -0800,2020-03-13T08:50:26Z,Is there any feature in Firefox that acts like Chrome's bookmark feature?,"<p>So I want to know if there's a feature that can perform similar perfromances as the chrome's bookmark will do, so what i want is that to have a bookmark below the address bar.
+</p>",tabs;firefox-750;beta;desktop;windows-10;,firefox,tabs,en-US,1297254;,justinwang0801
+1281908,2020-03-13 07:43:52 -0800,2020-03-13T15:11:44Z,Recover deleted history - any chance?,"<p>Hey guys, i just deleted my firefox history with the program CCleaner. 
+</p><p>How can i get my history back? 
+I could only save my bookmarks but what about my history? 
+</p><p>Can anyone help me? 
+</p><p><br>
+Greetings
+</p>",bookmarks;windows-10;,firefox,basic-browsing-firefox,en-US,1297356;1297377;1297385;,fitzhilda
+1281906,2020-03-13 07:32:02 -0800,2020-03-13T07:43:43Z,"When I log into my bank account, the username and password suddenly are already there, for anyone to see. How do I fix this?","<p>After a Windows 10 update on 3/12/2010, when go to my bank website, instead of me typing my username and password in, suddenly my username and password are already there, for anyone to see.  Refreshing the page doesn't help. How do I go back to having a blank page, and my entering username/password myself, for security reasons?
+</p>",firefox-740;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US,1297235;,johnm_a
+1281905,2020-03-13 07:29:02 -0800,2020-03-13T08:53:40Z,"Websites load in private mode, but not in normal- or safe-mode.","<p>I am running a nextcloud and a matrix-synapse instance on my own web-server in two subdomains. After doing some changes (basically changing the hostname of the server) and running some updates (yum update) I realized I couldn't reach both of these websites. Another website (dummy page for my OnlyOffice document server) is working fine.
+Also, running a web-app (<a href=""http://Riot.im"" rel=""nofollow"">Riot.im</a>) is not able to connect to my matrix-server within Firefox. Safari works properly, though..
+</p><p>This is only happening in normal and in safe-mode, the sites work fine in private mode and also in Safari. 
+Also, I could not solve the problem after manually uninstalling and installing a freshly downloaded firefox - still the same issue.
+</p><p>When I try to connect to my matrix-subdomain (which should serve an nginx-created dummy page) Firefox also fails in normal and safe-mode, and only shows me the GET request (see screenshot).
+</p><p>Do you have any ideas on how to troubleshoot this / in what direction to look?
+</p>",firefox-740;websites;desktop;,firefox,websites,en-US,1297255;,mozilla86
+1281904,2020-03-13 07:25:03 -0800,2020-03-13T13:02:30Z,"Chrome and Firefox cannot load site on HTTPS, Firefox throws PR_CONNECT_RESET_ERROR, but Internet Explorer and Edge can","<p>I read related posts on this ""PR_CONNECT_RESET_ERROR"" error such as <a href=""https://support.mozilla.org/en-US/questions/1281840"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1281840</a> and followed their suggestions without luck.
+</p><p>-Not using DoH
+-Tried new profile, new FF installation, load site over HTTPS from multiple locations
+-No AV on workstation
+</p><p>I have a web app hosted on Azure Government which was recently patched on 03/02/2020 with FEB 2020 Windows OS patches and all of a sudden FF (and Chrome, Safari and Opera) cannot load the site over HTTPS, but they can over HTTP. Interestingly, IE and Edge can load the site on HTTP and HTTPS without issues.
+</p><p>Curl and OpenSSL can ""load"" the site over HTTPS with no issues.
+</p><p>Azure support mentioned the issue is on FF (and Chrome, Safari and Opera), so I'm here looking for assistance.
+</p><p>I used Browserling to test FF (and Chrome, Safari and Opera) with different versions including the latest version and get the same result, cannot load the HTTPS site.
+</p><p>When loading the site over HTTPS, but using the IP address instead of the hostname, FF throws a warning ""SSL_ERROR_BAD_CERT_DOMAIN"" as expected. After accepting risk and continue, FF throws PR_CONNECT_RESET_ERROR.
+</p><p>I do believe the issue is on the Azure web app, so I run Qualys SSL Server Test against the web app, see links below for the report images (cannot upload the PDF file), can you review and point out if there is any encryption ciphers supported by the server, but not supported by FF, so I can follow up with Azure on this?
+</p><p>Your assistance is greatly appreciated.
+</p><p><a href=""https://pasteboard.co/IYUtIt1.png"" rel=""nofollow"">https://pasteboard.co/IYUtIt1.png</a>
+<a href=""https://pasteboard.co/IYUtVqS.png"" rel=""nofollow"">https://pasteboard.co/IYUtVqS.png</a>
+<a href=""https://pasteboard.co/IYUDhvt.png"" rel=""nofollow"">https://pasteboard.co/IYUDhvt.png</a>
+<a href=""https://pasteboard.co/IYUDrGw.png"" rel=""nofollow"">https://pasteboard.co/IYUDrGw.png</a>
+<a href=""https://pasteboard.co/IYUDAH3.png"" rel=""nofollow"">https://pasteboard.co/IYUDAH3.png</a>
+</p>",websites;desktop;,firefox,websites,en-US,1297256;1297263;1297346;,neualex
+1281903,2020-03-13 06:55:11 -0800,2020-03-13T12:29:42Z,When will FIDO U2F second-factor authentication for firefox accounts be implemented?,"<p>It would be very nice to not have to rely on an app and instead on a key such as YubiKey. As far as I know its not possible yet.
+</p>",privacy-and-security_1;firefox-730;desktop;linux;,firefox,privacy-and-security,en-US,1297322;,christian.schoeberl
+1281901,2020-03-13 06:14:10 -0800,2020-03-13T12:08:03Z,"Firefox ""unable to connect"" after windows update.","<p>Firefox was working fine until the latest windows update after which I am now receiving the ""unable to connect"" message. 
+</p><p>After uninstalling and then re-installing, firefox connects and I'm able to browse! However, when I exit and reopen the browser, I get the same ""unable to connect"" message.
+</p><p>The same issue applies to Chrome, however Bing (unsurprisingly) is working fine! 
+</p><p>Using Kasperksy (no settings appear to have changed).
+</p><p>Any help appreciated. 
+</p><p>Thank you in advance!
+</p>",desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1297251;1297253;1297260;1297307;,user2342527
+1281900,2020-03-13 04:19:56 -0800,2020-03-15T04:58:29Z,Wrong Right-click menu displayed on some web sites,"<p>On several web sites (such as Google - but also on Mozilla Release Notes) right-clicking on a URL link displays an incorrect drop-down menu.
+See attached screenshot with Mozilla URL visible.
+This issue makes it impossible to e.g. open a link in a new Tab.
+</p><p>Same issue seen on Mac and Windows 10 platforms (Firefox 73.0.1)
+</p>",firefox-730;firefox-7301;desktop;fix-problems;,firefox,fix-problems,en-US,1297215;1297221;1297259;1297779;,jukka.lindgren
+1281899,2020-03-13 04:14:45 -0800,2020-03-13T12:34:44Z,Verizon page result from DNS over HTTPS with bad domain name?,"<p>I have DNS over HTTPS enabled to Cloudflare (also tried using Custom 1.1.1.1 version)
+Have noticed over the last few days that a bad domain name will take me to a <a href=""http://searchassist.verizon.com"" rel=""nofollow"">searchassist.verizon.com</a> page.
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1297328;,SteveBresson
+1281898,2020-03-13 03:53:04 -0800,2020-03-13T06:09:57Z,Con nuova versione 74.0 non funziona Alice mail. Errore: SSL_ERROR_RX_RECORD_TOO_LONG,"<p>Con la nuova versione 74.0 scaricata, non funziona più la casella di posta Alice mail. 
+dopo aver inserire username e password compare Errore: SSL_ERROR_RX_RECORD_TOO_LONG
+La versione precedente di Firefox non dava alcun problema.
+Segnalo che con il browser Chrome è tutto OK e riesco ad entrare nella mia casella di posta.
+Attendo news.
+</p>",firefox-740;desktop;fix-problems;windows-81;,firefox,fix-problems,en-US,1297216;1297217;,norton.953
+1281897,2020-03-13 03:49:36 -0800,2020-03-15T03:32:22Z,Firefox Monitor Dashboard Error,"<p>This one day happened, and since then persisted. (See screenshot)
+</p><p>Any experience with that and maybe a solution? Thx.
+</p>",firefox-740;desktop;fix-problems;mac-os-x-109;firefox-monitor;escalate;,firefox,fix-problems,en-US,1297329;1297518;1297764;,yRRe
+1281896,2020-03-13 03:46:31 -0800,2020-03-15T00:58:52Z,How can I get Java to work with Firefox?,"<p>I had Java working with a JRE using Java  SE7 or SE8.  
+I just let Java install an update;  now no valid JRE is installed to let my Java applications using Java to run.
+How do get a version of Java that will work with the Firefox browser on Windows 10.
+</p>",firefox-730;other;firefox-7301;desktop;windows-10;java;,firefox,other,en-US,1297219;1297637;1297639;1297739;,ga.lanphear
+1281892,2020-03-13 01:48:21 -0800,2020-03-13T02:10:22Z,I have had trouble with Google Crome and now I have Firefox. I do need a very fast upload to You Tube; at the moment I do not have that???,"<p>I upload to You Tube on a daily basis and need a fast upload system and it did appear to work but for some unknown reason it has reverted to stalling and taking ages with no results. I need this to work urgently?????
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1297187;,musician40
+1281891,2020-03-13 01:42:32 -0800,2020-03-15T00:20:34Z,can't connect to some websites after update,"<p>pc working fine and after going to the store and restarting I cannot connect to my gmail accounts and a few other websites. Other pc's are fine. I could be wrong but I think I allowed a ffox update to 74.0 which would have installed with that restart. Pages are 100% white. I can go to gmail and sign in but it goes to the same blank page. I tried clearing cache and cookies, no go. Restated ffox and even the whole pc. I do not want to possibly mess up things worse with my browser. Could this be caused by the update and how do I fix it without making a mess?
+</p>",firefox-740;websites;desktop;windows-7;,firefox,websites,en-US,1297188;1297406;1297414;1297419;1297425;1297430;1297441;1297446;1297690;1297729;1297732;1297734;,helpful55
+1281889,2020-03-13 01:34:17 -0800,2020-03-14T03:39:11Z,Firefox Monitor and local-parted emails,"<p>Firefox Monitor has a limit on the number of monitored email addresses (15). However, I use the ""+"" symbol to register on sites - just to determine which site caused the leak. That is, email@mail.com and email+forum@mail.com are the same email address. I have hundreds of such modified addresses. However, the Firefox Monitor allows you to track only 15 of them.
+</p><p>Is it possible to remove the limit on the number of addresses served, or make the FM perceive email@mail.com and email+forum@mail.com (etc.) as one address?
+</p>",firefox-750;other;beta;desktop;windows-10;,firefox,other,en-US,1297331;1297491;,ale-aka-korwin
+1281887,2020-03-13 01:28:08 -0800,2020-03-13T06:16:30Z,Slider images won't load,"<p>There is a slider on the main page of my site <a href=""https://www.reclinerland.com/"" rel=""nofollow"">https://www.reclinerland.com/</a>. I've got an email that said that the slider is constantly loading. I've noticed it is only happening using Mozilla (73.0.1). All extensions turned off. Can't figure it out.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1297220;,welcome5
+1281886,2020-03-13 01:02:02 -0800,2020-03-13T01:03:21Z,"Toolbar bookmarks subfolders are not indented any more, so cannot navigate bookmarks","<p>Hi,
+</p><pre> I have organized my (many) toolbar bookmarks with folders and subfolders; from some time to now (maybe since 73.0.1, maybe before) the subfolders are not shown with an indentation as it has always been, so if the subfolder has many bookmarks inside (also common to me) it is not possible to ""get out"" from the subfolder and show the containing folder. I can do it only by closing the menu and start again from the top.
+</pre>
+<p>Does anybody have the same problem or can help me please?
+</p><p>Thank you,
+Andrea
+</p><p>Firefox 73.0.1 on Fedora 31
+</p>",bookmarks;firefox-730;desktop;linux;,firefox,bookmarks,en-US,1297174;,angus73
+1281885,2020-03-13 00:54:25 -0800,2020-03-13T01:03:32Z,Cannot scroll down toolbar bookmarks any more,"<p>Hi,
+</p><pre> since I have many bookmarks in my bookmarks toolbar, I get a double arrow  (""&gt;&gt;"") on the right and I click on it to show and scroll the whole of them, and there has always been an ""^"" on the top to scroll up and a ""v"" at the bottom to scroll down in the list. From some time to now (maybe since 73.0.1, maybe before), the ""v"" sign disappeared, so I cannot scroll down any more.
+</pre>
+<p>Am I missing something or would it be worth to file a bug?
+</p><p>Thank you,
+Andrea
+</p><p>Firefox 73.0.1, Fedora 31
+</p>",bookmarks;firefox-730;desktop;linux;,firefox,bookmarks,en-US,1297175;,angus73
+1281884,2020-03-13 00:11:12 -0800,2020-03-13T00:32:42Z,Latest update (74.0.0.7373) does not launch,"<p>Well two updates ago I had the problem of firefox not being able to connect to anything on the net. Next update fixed everything. Now  with this latest update (v74.0.0.7373) it will not launch at all. Event viewer is telling me this: 
+</p><p>Faulting application name: firefox.exe, version: 74.0.0.7373, time stamp: 0x5e662a88
+Faulting module name: unknown, version: 0.0.0.0, time stamp: 0x00000000
+Exception code: 0xc0000005
+Fault offset: 0x00007ff9ce90012a
+Faulting process id: 0x11b4
+Faulting application start time: 0x01d5f90498961d60
+Faulting application path: C:\Program Files\Mozilla Firefox\firefox.exe
+Faulting module path: unknown
+Report Id: d6797f56-64f7-11ea-8381-00241d8dcb2d
+Faulting package full name: 
+Faulting package-relative application ID: 
+</p><p>This is on Windows 8.1 64bit version. What to do what to do...
+</p>",firefox-720;desktop;fix-problems;windows-81;,firefox,fix-problems,en-US,1297168;,djsg3
+1281882,2020-03-12 22:50:02 -0800,2020-03-15T00:16:11Z,exif viewer does not work,"<p>Exif viewers no longer work.
+</p>",download-and-install_1;firefox-740;desktop;windows-10;,firefox,download-and-install,en-US,1297330;1297485;1297707;1297733;,kevinlillard
+1281875,2020-03-12 20:08:07 -0800,2020-03-13T16:57:54Z,"If I delete and then reinstall Firefox, will all the history come back completely safe or will some of it be lost?","<p>I deleted Firefox from my Windows PC and then reinstalled it. I noticed that some of my history came back when I reinstalled it, but do the entire history comeback complete, safe, and uncompromised or will some of it be lost due to installing and reinstalling?
+</p>",other;desktop;,firefox,other,en-US,1297152;1297157;1297159;1297169;1297189;1297214;1297390;1297421;,the.xtreme.enigma.360
+1281872,2020-03-12 17:59:20 -0800,2020-03-13T16:29:35Z,searching mozilla forum key words,"<p>Can I search the mozilla forum for specific word inside the forum? for example searching for a key word inside a forum response.
+</p>",firefox-740;other;desktop;mac-os;,firefox,other,en-US,1297125;1297135;1297136;1297408;1297411;1297412;1297418;,mace2
+1281871,2020-03-12 17:49:23 -0800,2020-03-15T01:58:21Z,how can i download multiple files a from Facebook group at the same time?,"<p>how can i download multiple files a from Facebook group at the same time?
+Firefox is my browser..
+</p>",download-and-install_1;firefox-740;desktop;windows-10;,firefox,download-and-install,en-US,1297137;1297151;1297726;1297754;,maged_najeh
+1281870,2020-03-12 17:38:09 -0800,2020-03-12T19:23:20Z,Text on websites displaying as a ? in a box. Current version of Firefox. No idea how to fix it.,"<p>Updated to the current version of Firefox. Many websites are displaying text as ? in a box. Screen grab attached. Cannot for the life of me find anything in the support pages. If only Firefox had actual customer support.
+</p>",firefox-740;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,1297126;1297140;,fakeleg112
+1281867,2020-03-12 17:01:12 -0800,2020-03-15T17:44:17Z,Search engines options like in the past,"<p>It used to be when you went to ""Find more search engines"", the list was only search engines.  Not now.  is there any way to bring up a list of just search engines.  For instance, I'd like to add Reddit, but the only thing I can come up with it a Reddit search engine addon.
+</p>",firefox-750;other;beta;desktop;windows-10;,firefox,other,en-US,1297130;1297131;1297915;1297920;,noel_envoide
+1281865,2020-03-12 16:22:50 -0800,2020-03-14T14:21:25Z,cómo entro a la página del banco de Venezuela,"<p>Banco de Venezuela
+</p>",desktop;fix-problems;,firefox,fix-problems,es,1297633;,edicsonleal956
