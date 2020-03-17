@@ -1,0 +1,206 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1282023,2020-03-14 14:56:34 -0800,2020-03-14T23:25:03Z,"estou com problema ao carregar um determinado site, ele nao abre, fica tela vazia ou preta, somente no firefox.","<p>estou tentando abrir um determinado site ao qual sempre entrei pelo firefox, porem depois da atualização do navegador, o mesmo site fica tela vazia, não carrega no firefox. obs nos outros navegadores carrega normalmente.
+</p>",firefox-740;websites;desktop;windows-10;,firefox,websites,pt-BR,1297725;,profgueunnae
+1282022,2020-03-14 14:38:03 -0800,2020-03-15T03:17:02Z,"Stop resetting about:config settings on update! Can this ""feature"" be turned off?","<p>These settings right here: <a href=""https://support.mozilla.org/en-US/questions/1280071"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1280071</a>
+</p><p>They get reset with every update. This needs to stop. Can I turn this off so that I don't have to keep resetting them?
+</p>",firefox-750;other;beta;desktop;windows-81;,firefox,other,en-US,1297655;1297662;1297741;1297760;,metalphoenixrising
+1282021,2020-03-14 14:32:40 -0800,2020-03-15T13:45:38Z,Previously pinned tabs are restored as blank,"<p>Several pinned tabs are not restoring properly (upon restart) after upgrading to 74.0.  The tab icon is there, but clicking on the pinned tab results in a blank page with no URL.
+</p>",firefox-740;desktop;fix-problems;linux;,firefox,fix-problems,en-US,1297720;1297876;,joe95
+1282017,2020-03-14 12:23:05 -0800,2020-03-14T16:00:14Z,update to version 74 gives me blank screens and shortcuts in wrong place,"<p>Instead of having my bookmarks under the toolbar, it's along the left side. I have many things in chrome.css, like one that gives me 4 rows of bookmarks, but on the side, it's only one.  If I click on one of the ones I can see, it does go to the website, as I can see the correct url in the address bar. However, everything is blank. Even about:config is blank. Safe mode works, but of course doesn't give me my bookmarks or anything else. The extensions that Safe Mode says are disabled are: Amazon Assistant for Firefox, Dashlane, and New Tab Override. Do you need the things from chrome.css to help me troubleshoot? I can't keep using Safe Mode, don't care for Chrome, and refuse to use IE.
+</p>",firefox-740;desktop;fix-problems;windows-81;,firefox,fix-problems,en-US,1297625;1297644;1297648;1297660;,KathrynBassett
+1282016,2020-03-14 12:08:50 -0800,2020-03-15T00:35:26Z,Had Kapersky. I uninstalled. It screens everything that I do online and blocks some things. How do I get rid of it online?,"<p>When I am on different sites, everything I do goes through a Kapersky site, even though I have uninstalled it on my computer.  It won't let me search document of Ancestry, for example.
+</p>",firefox-740;customize;desktop;windows-7;,firefox,customize,en-US,1297626;1297628;1297632;1297735;,helenp5311
+1282015,2020-03-14 12:02:05 -0800,2020-03-14T13:53:27Z,Isn't there a keyboard shortcut to cast searches on text selections using the default search engine?,"<p>I know Firefox has 'Search [default search engine's name] for ""[selected text]""' in context menus for text selections. Is this feature bound to a key combination?
+</p>",firefox-740;desktop;tips;windows-7;,firefox,tips,en-US,1297627;,benbowen
+1282014,2020-03-14 11:56:07 -0800,2020-03-14T19:48:38Z,Need to explain the software to be downloaded,"<p>This is a reoccurring theme.
+</p><p>Webmasters making false assumption the end user can read webmaster’s minds.
+</p><p>This link states to download “Container” with a vague description.
+<a href=""https://www.mozilla.org/en-US/firefox/74.0/whatsnew/all/?oldversion=73.0.1"" rel=""nofollow"">https://www.mozilla.org/en-US/firefox/74.0/whatsnew/all/?oldversion=73.0.1</a>
+</p><p>vague descriptions is what selfish jerks do.
+</p><p>I need the Webmasters to provide the useful information before I and many others will download.
+How does this file work?
+What exactly does the file do?
+Provide screenshots of the interface?
+File size?
+</p><p>Why do Webmasters in general from all websites think the consumer should trust them and download software without providing detailed information what the software actually does?
+</p>",download-and-install_1;firefox-740;desktop;windows-10;,firefox,download-and-install,en-US,1297611;1297624;1297698;,den99hd
+1282012,2020-03-14 11:17:31 -0800,2020-03-14T17:25:02Z,Can't use LastPass anymore to enter my password for Firefox accounts.,"<p>Not sure what happened. But after the upgrade to 74.0 while trying to login to Sync it popped a message up that I did not quite understand, but followed the instructions. Before 74.0 when I wanted to login LastPass would show with a 2 on it because I have a password for the main Firefox account and another for Support. That 2 was gone and when I right clicked where the password enter space is on login LastPass was there but when I moved my point to it it no longer extends to show the 2 possible passwords to fill in the entry space.
+</p>",firefox-740;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US,1297670;,roxy.craig42
+1282011,2020-03-14 10:57:26 -0800,2020-03-15T14:38:55Z,"How can I change a tab to a new window, or start a new window from the ""duplicate tab"" dropdown?","<p>I work in applications where I need several windows open at once.  And I often start one, then need to spawn a new one.  I can do that with 'duplicate tab"", but then I'm always switching back and forth.  I need multiple windows open at once.  So what I need is an easy way to duplicate a tab as a different window, so I can have two or more open at once.
+</p>",firefox-730;firefox-7301;customize;desktop;windows-10;,firefox,customize,en-US,1297614;1297623;1297893;,spthomas01
+1282009,2020-03-14 10:41:53 -0800,2020-03-16T18:03:11Z,Performing TLS Handshake slowdowns,"<p>Recently Firefox has become nearly unusable. Opening links are *_sluggish_*... They eventually complete but it's annoying - I've switched back to brave for now.  <a href=""https://support.mozilla.org/en-US/questions/1175357"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1175357</a> seems to be the exact same issue however nothing in the thread resolved my problem.
+</p><p>I'd like to stay with Firefox but it's not worth it at this time. :(
+</p><p>Any thoughts/help are much appreciated.
+</p>",firefox-740;desktop;fix-problems;windows-10;escalate;slowness-and-hanging;,firefox,fix-problems,en-US,1297642;1297647;1297678;1297680;1297685;1297708;1297794;1297798;1297808;1297814;1298169;,dovholuk
+1282006,2020-03-14 09:39:53 -0800,2020-03-14T09:39:53Z,Barcode?,"<p>Hello, Im trying to view VR videos and getting a bar code when I try and switch to VR by hitting the Headset button. Any advice?
+</p>",other;desktop;,firefox,other,en-US,"",derekrosen1
+1282004,2020-03-14 07:29:31 -0800,2020-03-15T00:43:30Z,Firefox geolocation returns wrong coordinates,"<p>I want to build a progressive web app. This app requires the user's GPS coordinates.
+In order to test this functionality cross-browser, I use w3schooll geolocation implementation.
+Link: <a href=""https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_geolocation"" rel=""nofollow"">https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_geolocation</a>
+</p><p>Compared to Chrome, Firefox sometimes returns the wrong coordinates.
+For example yesterday (13/03/2020) the coordinates were wrong all day. Today (14/03/2020) the coordinates are right.
+The coordinates are crucial for the success of the app.
+I use Firefox 74.0
+</p>",other;desktop;windows;geolocation;,firefox,other,en-US,1297537;1297561;1297592;1297638;1297736;,mare.sergiu
+1282003,2020-03-14 07:27:03 -0800,2020-03-15T02:12:10Z,"Po upgrade na verzi 74.0. nefunguje Google mail. Funguje pouze po otevreni pres ""nove anonymni okno"", pres odkaz z main google page nebo primou adresu nejde.","<p>Gmail funguje pouze po otevreni pres ""nove anonymni okno"", pres odkaz z main google page nebo primou adresu <a href=""https://main.google.com"" rel=""nofollow"">https://main.google.com</a> nefunguje. Pres Gmail ikonu v google aplikacich nefunguje. Vcera pred instalaci Firefox 74.0 fungovalo normalne.
+Pres Edge funguje normalne.
+Provedeno vycisteni cache, cookies and browsing history, nepomohlo.
+</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,cs,1297558;1297573;1297577;1297671;1297756;,druhepatro
+1282002,2020-03-14 07:14:56 -0800,2020-03-14T07:59:49Z,My firefox keeps crashing. Crash reports seem to go nowhere. Is a HUMAN available to talk to????,"<p>I have restarted my computer. I have tried to report the crashes. I hit the restart button, the screen shows what I want to do and immediately another crash happens. This is happening over and over. No amount of ""crash reporting"" seems to have any effect.
+I would like to talk to someone about this. Is anyone out there??
+</p>",firefox-740;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,1297538;1297539;,dorbach2004
+1282001,2020-03-14 06:50:44 -0800,2020-03-14T21:47:33Z,"Why are email msgs, when I dbl click on them, showing up blank as pop-ups?","<p>Upon double clicking my email msgs, I used to get a pop-up showing the entire message. Now, when dbl-clicking on the msg, a pop-up comes up, but the entire page is black and no message is showing at all. This just happened upon the latest Firefox 64bit for Windows10 having downloaded. I also added my email website as an exception under ""block pop ups"" in Firefox.
+</p>",firefox-740;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US,1297564;1297574;1297712;,usanm
+1282000,2020-03-14 06:24:47 -0800,2020-03-14T06:26:08Z,the develop -> user agent has disappeared from my menu after  Fire Fox update,"<p>i upload to instagram via firefox browser, b/c i  can better  edit my  fotos. I was able to  do this by selecting develop and switching the user agent to  ""iphone"" from the  firefox menu. It  appears firefox updated last night and i do not  see the option to  switch  user  agents anymore. looking restore that option. thank you.
+</p>",firefox-740;customize;desktop;mac-os;,firefox,customize,en-US,1297524;,scottnmari
+1281998,2020-03-14 05:02:25 -0800,2020-03-15T03:40:09Z,Doble barra de marcadores,"<p>Hola, he actualizado a 74.0 y las multiples barras de marcadores me han desaparecido. (ver imagen)
+He editado de muchas formas "" userChrome.css"" y no hay manera, me estoy volviendo loco.
+Ayuda por favor.
+Gracias.
+</p>",bookmarks;desktop;firefox-740;windows-10;,firefox,bookmarks,es,1297669;1297767;,rafa_rmm
+1281997,2020-03-14 05:01:12 -0800,2020-03-14T23:56:17Z,Verification nag,"<p>Signing in to Firefox will constantly nag me for a verification code by email when I'm using Internet outside the home (which is all the time).
+</p><p>This is a pain as the email provider will also nag for a verification code.
+</p><p>I'm really just lucky the last email provider (where the verification code for the first email goes), is not in the same business of nagging for a verification code, or i would be locked out.
+</p><p>Way too cumbersome to use Firefox account in this way.
+</p>",firefox-740;desktop;privacy-and-security_1;windows-7;2fa;,firefox,privacy-and-security,en-US,1297542;1297543;1297544;1297565;1297731;,hodinson
+1281996,2020-03-14 04:40:51 -0800,2020-03-14T05:16:04Z,Disabling or changing f12 shortcut,"<p>Hello everyone, I need to disable the F12 shortcut (which opens the console) or at least change it, since I already have other softwares which use this shortcut.
+Thank you
+</p>",firefox-740;customize;desktop;windows-81;,firefox,customize,en-US,1297515;,davide29m29
+1281993,2020-03-14 03:26:50 -0800,2020-03-14T03:35:26Z,An error occurred during a connection to example.org.  The page you are trying to view cannot be shown.,"<p>More details should be provided please, not just a generic ""Secure Connection Failed"" error page with a generic link to the generic <a href=""https://support.mozilla.org/en-US/kb/secure-connection-failed-did-not-connect"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/secure-connection-failed-did-not-connect</a> page.  I'm sure the information there is well-meaning, but it will never be useful in diagnosing a specific problem if you obfuscate the details of the error from the user with bland, generic error pages and/or messages.
+</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1297487;,jake12
+1281992,2020-03-14 03:02:20 -0800,2020-03-14T03:53:42Z,Why Firefox can't open the Adnkronos.com? reporting that such us dangerous site,"<p><a href=""http://Adnkronos.com"" rel=""nofollow"">Adnkronos.com</a> doesn't function and reporting that such us dangerous site with this message: ""Secure connection not working""
+</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1297489;1297498;,rag.vitocavallo
+1281991,2020-03-14 02:58:21 -0800,2020-03-14T03:38:49Z,"Someone some how edited this it might be a duckduckgo problem, it is not on the article itself though i think...","<p>Content because yeah...
+</p>",firefox-740;websites;desktop;windows-10;,firefox,websites,en-US,1297490;,akileshaathipan
+1281989,2020-03-14 02:39:05 -0800,2020-03-15T04:50:32Z,Stored session not be updated after close Firefox and return to the state last time.,"<p>Hi, currently I opened many tabs in Firefox with tree style tab. 
+Recently I found that my session not restore to the point I closed it but the specific time. (In this case, the session I close on 2020/03/12). For the tab I opened/closed after that seems not be stored. 
+I also checked and found that the sessionstore.jsonlz4 was not updated. 
+As my knowledge that this file should be removed when Firefox executed but it seems not. 
+I may wish to ask if there is any solution to fix this problem while keep my current open tabs.
+Thanks for the help.
+</p>",tabs;firefox-740;desktop;windows-10;,firefox,tabs,en-US,1297493;1297771;1297774;,yes6310
+1281988,2020-03-14 02:30:50 -0800,2020-03-15T03:38:06Z,"Hi! I have problem with emoji in Firefox (Linux Ubuntu 18.04). Not all emoji are normal shown, some of them are black and white.","<p>Not all emoji are normal shown, some of them are black and white. I tried to find how to change emoji font, but unsucceful
+</p>",firefox-740;other;desktop;linux;,firefox,other,en-US,1297673;1297765;,alexfilipas
+1281987,2020-03-14 01:32:53 -0800,2020-03-16T01:28:01Z,facebook container,"<p>Hello good people,
+This is rather a request for advice than an issue report.
+I' ve learned about the facebook container add-on and wanted to know if there is a need for it if someone was making sure to exclusively open <a href=""http://facebook.com"" rel=""nofollow"">facebook.com</a> in its own profile. 
+Say you set up a profile(from about:profiles) namely ""BIg Brothers"" for notorious trackers like google, facebook , twitter etc so they can perpetually track each other with simple rules to observe like :
+- Never open an external(shared) link 
+- Never access any other website through that profile.
+</p><p>Is there a particular feature the add-on is bringing up that the native interface is missing ? The other reason is add-ons are great but they tend to bloat the system impeding the browsing experience. I am the kind of guy who opens 7 concurrent tabs each running heavy js code so the lighter the better.
+</p><p>Thank you in advance,
+</p><p>Dom
+</p>",firefox-700;customize;desktop;linux;,firefox,customize,en-US,1297709;1297966;,domignon
+1281985,2020-03-14 00:23:19 -0800,2020-03-14T02:19:01Z,"running firefox 68.6.0esr on LMDE3 cindy successfully on PC. running same versions of OS and firefox on my laptop, i cannot get past the immediate crash report.","<p>i performed a fresh install of LMDE3 cindy on the laptop so firefox install is vanilla 68.6.0esr ( no addons until it has synched).
+running firefox from Terminal on 2 occasions gives 
+grahamj@aspire:~$ firefox
+IPDL protocol error: Error deserializing 'focusTarget' (FocusTarget) member of 'TransactionInfo'
+ExceptionHandler::GenerateDump cloned child 2186
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+grahamj@aspire:~$ Exiting due to channel error.
+</p><p><br>
+</p><p>grahamj@aspire:~$ firefox
+IPDL protocol error: Error deserializing 'focusTarget' (FocusTarget) member of 'TransactionInfo'
+ExceptionHandler::GenerateDump cloned child 4830
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+Sandbox: Unexpected EOF, op 0 flags 00 path /usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf
+</p><p>(/opt/firefox/firefox-bin:4818): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'DejaVu Sans Mono 5.25'
+</p><p>(/opt/firefox/firefox-bin:4818): Pango-WARNING **: font_face status is: &lt;unknown error status&gt;
+</p><p>(/opt/firefox/firefox-bin:4818): Pango-WARNING **: scaled_font status is: out of memory
+Exiting due to channel error.
+grahamj@aspire:~$ 
+</p><p>here is a dump from the first instance
+</p><p>AdapterDeviceID: 0x9804
+AdapterDriverVendor: mesa/r600
+AdapterDriverVersion: 13.0.6.0
+AdapterVendorID: 0x1002
+BuildID: 20200305175243
+ContentSandboxCapabilities: 87
+ContentSandboxCapable: 1
+ContentSandboxLevel: 4
+CrashTime: 1584095434
+DOMIPCEnabled: 1
+FramePoisonBase: 9223372036600930304
+FramePoisonSize: 4096
+IPCFatalErrorMsg: Error deserializing 'focusTarget' (FocusTarget) member of 'TransactionInfo'
+InstallTime: 1584095053
+IsWayland: 0
+MozCrashReason: MOZ_CRASH(IPC FatalError in the parent process!)
+Notes: LMDE 3 CindyFP(D00-L1000-W00000000-T000) WR? WR- OMTP? OMTP+1 
+ProductID: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+ProductName: Firefox
+ReleaseChannel: default
+SafeMode: 0
+SecondsSinceLastCrash: 348
+StartupCrash: 0
+StartupTime: 1584095430
+TelemetryEnvironment: {""build"":{""applicationId"":""{ec8030f7-c20a-464f-9b0e-13a3a9e97384}"",""applicationName"":""Firefox"",""architecture"":""x86-64"",""buildId"":""20200305175243"",""version"":""68.6.0"",""vendor"":""Mozilla"",""displayVersion"":""68.6.0esr"",""platformVersion"":""68.6.0"",""xpcomAbi"":""x86_64-gcc3"",""updaterAvailable"":true},""partner"":{""distributionId"":null,""distributionVersion"":null,""partnerId"":null,""distributor"":null,""distributorChannel"":null,""partnerNames"":[]},""system"":{""memoryMB"":3683,""virtualMaxMB"":null,""cpu"":{""count"":2,""cores"":2,""vendor"":""AuthenticAMD"",""family"":20,""model"":1,""stepping"":null,""l2cacheKB"":512,""l3cacheKB"":512,""speedMHz"":1000,""extensions"":[""hasMMX"",""hasSSE"",""hasSSE2"",""hasSSE3"",""hasSSSE3""]},""os"":{""name"":""Linux"",""version"":""4.9.0-12-amd64"",""locale"":""en-NZ""},""hdd"":{""profile"":{""model"":null,""revision"":null,""type"":null},""binary"":{""model"":null,""revision"":null,""type"":null},""system"":{""model"":null,""revision"":null,""type"":null}},""gfx"":{""D2DEnabled"":null,""DWriteEnabled"":null,""ContentBackend"":""Skia"",""Headless"":false,""adapters"":[{""description"":""\u0000\u0001\u0002\u0003\u0004\u0005\u0006\u0007\b\t\n\u000b\f\r\u000e\u000f\u0010\u0011\u0012\u0013\u0014\u0015\u0016\u0017\u0018\u0019\u001a\u001b\u001c\u001d\u001e\u001f !\""#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@"",""vendorID"":""0x1002"",""deviceID"":""0x9804"",""subsysID"":null,""RAM"":null,""driver"":null,""driverVendor"":""mesa/r600"",""driverVersion"":""13.0.6.0"",""driverDate"":null,""GPUActive"":true}],""monitors"":[{""screenWidth"":1024,""screenHeight"":600}],""features"":{""compositor"":""none"",""gpuProcess"":{""status"":""unused""},""wrQualified"":{""status"":""blacklisted""},""webrender"":{""status"":""opt-in""}}},""appleModelId"":null},""settings"":{""blocklistEnabled"":true,""e10sEnabled"":true,""e10sMultiProcesses"":8,""telemetryEnabled"":false,""locale"":""en-US"",""intl"":{},""update"":{""channel"":""default"",""enabled"":true},""userPrefs"":{""browser.search.widget.inNavBar"":false},""sandbox"":{""effectiveContentProcessLevel"":4},""addonCompatibilityCheckEnabled"":true,""isDefaultBrowser"":null},""profile"":{}}
+ThreadIdNameMapping: 1635:""Gecko_IOThread"",1637:""JS Helper"",1636:""JS Watchdog"",1638:""JS Helper"",1639:""Timer"",1640:""Link Monitor"",1641:""Socket Thread"",1650:""Cache2 I/O"",1651:""Cookie"",1652:""StreamTrans #1"",1653:""GMPThread"",1654:""Worker Launcher"",1655:""SoftwareVsyncThread"",1656:""Compositor"",1657:""ImgDecoder #1"",1658:""ImageIO"",1663:""ImageBridgeChild"",1664:""IPDL Background"",1665:""DOM Worker"",1666:""StreamTrans #2"",1667:""Breakpad Server"",1671:""FS Broker 1670"",1672:""ProcessHangMon"",1678:""DataStorage"",1680:""DNS Resolver #1"",
+Throttleable: 1
+UptimeTS: 4.3305486
+Vendor: Mozilla
+Version: 68.6.0
+useragent_locale: en-US
+</p><p>This report also contains technical information about the state of the application when it crashed.
+</p><p>running firefox in 'safe mode from terminal gave the same error messages,
+</p><p>submitted Crash ID: bp-a399fa88-e9bb-478e-87e8-8d6750200313
+</p>",firefox-680;desktop;fix-problems;,firefox,fix-problems,en-US,1297469;,grahamleonardjones
+1281984,2020-03-14 00:13:58 -0800,2020-03-14T00:35:41Z,I need someone who has knowledge with Firefox open source browsers,"<p>Hello, we have made a Firefox open source browser that allows a list of websites and words
+And block any other URL that is not in the list
+</p><p>Now, we need a new programmer who could check the source code we have for this browser and improve it for us by making new functions and adding more websites to the allowed list
+So check the browser and see if you could do this job
+</p><p>You can check the browser here
+<a href=""https://drive.google.com/file/d/1RcR4x7o_iUm43Bvv4mC1xXiTD3kE3iJj/view?usp=sharing"" rel=""nofollow"">https://drive.google.com/file/d/1RcR4x7o_iUm43Bvv4mC1xXiTD3kE3iJj/view?usp=sharing</a>
+</p><p><br>
+Thank you
+</p>",customize;desktop;,firefox,customize,en-US,1297464;,mohamedfawzy.dr
+1281979,2020-03-13 22:44:40 -0800,2020-03-14T13:18:34Z,"When I was seaching on Google, a website katysdogs.com appeared, and I could not close it or close the window","<p>While searching on Google, a website called <a href=""http://katysdog.com"" rel=""nofollow"">katysdog.com</a> or <a href=""http://katysdogs.com"" rel=""nofollow"">katysdogs.com</a> appeared and took over Firefox and my computer. I could not close the window or get rid of this website. I had to restart my computer.
+</p>",firefox-740;websites;desktop;windows-10;,firefox,websites,en-US,1297495;1297496;1297619;,dseco
+1281978,2020-03-13 22:29:49 -0800,2020-03-15T21:55:02Z,Firefox update signed me out of all websites.,"<p>I am not keen on saving all login information to the master password. Firefox update never did this to me, until yesterday on 03/12/20, it did. Is there a way to prevent this from happening again, or is resistance futile?
+</p>",firefox-740;desktop;privacy-and-security_1;windows-7;,firefox,privacy-and-security,en-US,1297497;1297939;1297940;1297947;,knam1488
+1281977,2020-03-13 22:25:48 -0800,2020-03-14T22:15:09Z,Why does fire fox show usernames for a secure site?,"<p>I have Win 7 . I use the Fire Fox browser. Someone could go to my secure site and click the login box and retrieve all my user names. Why is this necessary to show these on a secure site?
+</p>",firefox-740;other;desktop;windows-7;needsinfo;,firefox,other,en-US,1297463;1297519;1297713;,woodust
+1281976,2020-03-13 22:25:11 -0800,2020-03-13T22:25:11Z,Dashlane sign up tab,"<p>JUst upgraded to latest version, I use Dashlane but since last update on start up I get Dashlane tab open up
+moz-extension://18c1714d-78d0-4f07-be6e-f935e95cc536/signup.  I have looked to get rid of it but it doesn't appear in start / home settings.  
+I would like to get rid of it.
+I am OK on technology but just a normal user rather than programmer.
+</p>",firefox-740;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US,"",shite
+1281975,2020-03-13 21:08:59 -0800,2020-03-13T21:41:58Z,"firefox is blocking sites from ""remembering"" my browser so I do not have to authenticate every single time I want to log in","<p>every secure site like facebook, amazon, credit cards, bank sites, etc., I have to authenticate several times a day with phone calls or text  messages or emails just to check my bank balance or credit cards, how do I disable whatever firefox has done to ""secure"" the browser so I can log into sites again like I did yesterday??
+</p>",firefox-740;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US,1297454;,jerieggg
+1281972,2020-03-13 20:03:57 -0800,2020-03-13T21:20:41Z,Custom theme made through Firefox color isn't staying enabled. How to I keep it enabled? A picture is used.,"<p>I created a custom theme using a picture from online through Firefox Colors. Whenever I log out of Firefox browser, I have to go to Firefox colors in order for me to get that custom theme to show by going under my saved themes. When I try to export, it just makes me open it in a picture program on my computer. I can't keep this sucker enabled as it seems Firefox doesn't want to save and apply it. I have gone all over the settings about light, dark, and other themes. Nothing should be causing this. Uninstalling the Firefox Colors, reinstalling it, and redoing the ENTIRE theme all over again has only resulted in it not being saved and me going through Firefox Colors every time just to get the theme I want.
+</p>",firefox-740;customize;desktop;windows-10;,firefox,customize,en-US,1297450;,poppy_red_knox07
+1281971,2020-03-13 19:50:36 -0800,2020-03-13T19:51:53Z,"I cannot login to my firefox account, reason it gives is ""state""","<p>I have no idea what state is on file as being my state of residence (I move a lot for a civilian), but I've lived at this address for the last three or four years and never had any issue with logging in to my firefox account before. I have plenty of trouble with my location WITHIN the state (Oklahoma), because apparently the only cities that exist in the state are OKC and Tulsa <a href=""/eyeroll"" rel=""nofollow"">/eyeroll</a>, but I've never had an issue with the state itself being misidentified. I could understand if a VPN was causing the issue, but I'm not using a VPN (I know, I probably should, but imagine the login issue THEN! lol). 
+Thanks in advance for any help.
+</p>",firefox-740;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US,1297443;,kesrareulen
+1281970,2020-03-13 19:36:17 -0800,2020-03-14T06:31:21Z,cannot make my gmail account primary.,"<p>I have 2 accounts.  aaaaaa@yahoo.com and same name at <a href=""http://gmail.com"" rel=""nofollow"">gmail.com</a>.  I tried changing primary account on my @yahoo.com a/c but it told me my @gmail.com account was 'already verified by another user!'  When I tried to login to my @gmail.com account, it says primary account email required for signin - ie the @yahoo.com account.
+so I can't change my @yahoo to my @gmail account of the same name.  I want to close the yahoo one.  catch 22.  i cannot upload the file in pdf or in odf format as I use liber office.  but I ahve copied the relevant error message above.  pl advise.
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1297525;,anonysubscribe
+1281969,2020-03-13 19:19:54 -0800,2020-03-15T03:28:35Z,firefox 74 tab crashes after update,"<p>Tabs crashing ofeten after update?
+</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1297759;1297763;,homers0072001
+1281967,2020-03-13 19:15:33 -0800,2020-03-13T19:15:33Z,"Firefox is default browser, yet Duck Duck Go is on both search boxes as the browzer","<p>Firefox is listed as my default browser. I am unable to remove Duck Duck Go from either search boxes. Going to options and subcategory general does not provide a list to pick and choose the default browser as it did the first time I used it. This is an amazon fire tablet, HD 8, I am trying to set up
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,"",Lawrencepat44
+1281962,2020-03-13 16:59:28 -0800,2020-03-13T17:07:46Z,Feedback: Give more options to make Firefox's UI more like chrome to ease transition for people making the switch.,"<p>Some minor ideas:
+&gt;allow the option to move the ctrl+f bar to the top of the window (under the bookmark bar)
+&gt;allow the option to keep the x button on compacted tabs
+&gt;make the context menu customizable
+&gt;make hotkeys customizable
+</p>",firefox-740;other;desktop;windows-10;feature-request;,firefox,other,en-US,1297423;,abu.mohamed49
+1281961,2020-03-13 16:57:32 -0800,2020-03-13T20:31:23Z,Security Error: Content at chrome://(...)aboutPrivateBrowsing.css may not load data (...),"<p>When I open the console in an empty private navigation tab, I get this error message every few minutes.
+</p><p>Security Error: Content at chrome://browser/skin/privatebrowsing/aboutPrivateBrowsing.css may not load data from blob:null/97d4ac60-f4c1-420c-8da6-5f73bc23634b.
+</p><p>(I have never installed Chrome on this system)
+</p>",firefox-740;desktop;fix-problems;,firefox,fix-problems,en-US,1297447;,ignaciomilia91
+1281960,2020-03-13 16:53:57 -0800,2020-03-13T16:53:57Z,I have 6 different emails that have accumulated from early yahoo (priv. early prof.) to mid-prof. (google) & est.Patient Commun. Can I put them all in 1 place?,"<p>I need to find a secure place like Firefox or Mozilla to put my 3 yahoo email accounts and 3 google email accounts, some of the older yahoo and google accounts are in my first and last name and are attached to bills and God only knows what except through those old email addresses. I am computer challenged and that is the way it is, so ideally, I would like to have them in ONE place where I can monitor their Inbox activity and answer the more important things such as patient emails an or problems and the random student loan document telling me that my loan XX qualifies for a .3% interest deduction if I pay the remaining $1,000 off in 30 days. 
+</p><p>I would appreciate ANY HELP! Thank You Very Much!!!
+</p>",firefox-740;other;desktop;mac-os;,firefox,other,en-US,"",dianemulvey.md
+1281959,2020-03-13 16:18:26 -0800,2020-03-13T16:18:26Z,Boomarks for mobile from Chrome not imported,"<p>Hi, I did import the bookmarks from Chrome, but Boomarks for mobile from Chrome are not imported.
+</p>",bookmarks;desktop;firefox-740;windows-10;,firefox,bookmarks,en-US,"",liviu.bica
+1281958,2020-03-13 16:09:09 -0800,2020-03-13T17:23:13Z,why do firefox group their officially-recommended-addons into different categories for what they do on their Recommended-Addons listing?,"<p>Hi, I notice that mozilla/firefox don't seem to show types of addons into groups, especially their officially-recommended-addons <a href=""https://addons.mozilla.org/en-US/firefox/search/?recommended=true&amp;type=extension"" rel=""nofollow"">https://addons.mozilla.org/en-US/firefox/search/?recommended=true&amp;type=extension</a> - into different categories, as to what each add-on does, i.e. which productivity activities they might fall under for what they do. what good is 4 or more pages of add-ons in a list? I would want them in groups that fall under categories as a Type/dropdown. For example  add that is great for taking notes, another for tracking protection, another for music, etc, etc. The listing page is simply a four page list with no divisions. 
+</p><p>Could there be an additional Filter on the left side of the page that drops down showing all the different types of OFFICIALLY RECOMMENDED-addons depending on their function/purpose, please. not just by their names? 
+I hope I can get my point across well enough, being a visual type, I might be unable to place it into the correct framework in a written way. My apologies in that case.
+Thank you and best regards!
+</p>",firefox-750;other;beta;desktop;windows-10;,firefox,other,en-US,1297413;1297416;1297424;1297427;,nmainferme
+1281957,2020-03-13 16:07:42 -0800,2020-03-13T17:22:30Z,Keyboard shortcuts do not work anymore,"<p>Keyboard shortcuts stopped working yesterday. Copy/paste still works, and tab, but for example ctrl-f (find), ctrl-b (open the bookmarks sidebar), alt-arrow for next/previous, ctrl-w (close tab), etc no longer do anything. Any ideas why that might happen?
+</p><p>This is not the only thing that broke yesterday (e.g. context menu text no longer appears except for icons and some plug-in items) but I don't know whether that is related.
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1297426;,jh.dale
