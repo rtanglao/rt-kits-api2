@@ -1,0 +1,171 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1282170,2020-03-16 15:42:52 -0800,2020-03-16T15:42:52Z,"Hi, I'm having trouble watching, streaming videos on my computer from serveral different sites. I keep getting error message saying plugin has crashed","<p>Trying to play,stream videos from several different site I'm continually being told that the plugin has crashed, I have uninstalled and reinstalled adobe flash player, changed the setting for hardware acceleration to no avail. These site used to play but no longer do. Prime video, Popcorn time, Netflix, TVNZ, all none functioning. Youtube still plays ok though? Can you please help this very frustrating. Thanks in advance Mick
+</p>",firefox-740;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,"",mickbell10
+1282169,2020-03-16 15:13:58 -0800,2020-03-16T15:36:45Z,How can I open Firefox in normal mode?,"<p>It's stuck in safe mode.  I opened it in Safe Mode, tried to Refresh, but it hung up.  Nonetheless, when I reopened it initially, it opened  normally but then stopped opening tabs.  So I rebooted and now it won't open in normal mode.  None of the posted articles seem to address this.
+</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1298122;,jhcross
+1282168,2020-03-16 14:47:26 -0800,2020-03-16T16:23:31Z,cut and paste,"<p>cut and paste and spell check mechanisms not working since newest update.
+</p>",firefox-730;other;desktop;windows-10;,firefox,other,en-US,1298102;1298109;,Amberbratz554
+1282167,2020-03-16 14:32:58 -0800,2020-03-17T00:34:36Z,Spell check not working,"<p>Hi,
+I've read through the other questions and none seem to solve my problem.
+</p><p>I cannot get spell check to work. 
+• I have a dictionary installed (British - Marco Pinto)
+• I have the English GB language pack.
+• I've checked config settings and it is marked as true 
+• I have the tick box enabled in settings under Language.
+</p><p>When I right click on text I do not get the language option or Check spelling option. I've tried disabling, re-enabling. Uninstalling and re-installing with no luck.. :(
+</p>",firefox-740;customize;desktop;windows-7;spellchcker;,firefox,customize,en-US,1298123;1298202;,sophiemayking
+1282165,2020-03-16 14:18:54 -0800,2020-03-16T15:21:33Z,"After upgrading to 74, downloads do not work.","<p>Download links do not work.  No download arrow is visible in header.  Nothing happens when clicking on download link.  I am stuck.  Sorry I updated.
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1298103;1298105;1298110;1298115;1298116;,svtdoug
+1282164,2020-03-16 14:07:44 -0800,2020-03-16T15:09:32Z,firefox blocks www.ziprecruiter.com.,"<p>When I click on anything ziprecruiter, I get ""the page isn't redirecting properly.
+I've unblocked cookies, taken down firewalls, but still Firefox doesn't allow it. When I click on allow, I get the above response.
+</p>",firefox-740;websites;desktop;windows-10;,firefox,websites,en-US,1298096;1298108;,howfields
+1282162,2020-03-16 13:56:57 -0800,2020-03-16T14:15:34Z,Waterfox support,"<p>How do I report a page that can not be accessed using Waterfox? See Attached
+Also, is ""Facebook Container"" ever going to be available for use with Waterfox?
+</p>",firefox-560;other;desktop;windows-7;,firefox,other,en-US,1298092;1298093;,simpleman2
+1282161,2020-03-16 13:42:40 -0800,2020-03-16T15:33:10Z,why has privacy badger icon been removed from my ribbon?  How do I get it back?,"<p>I used to be able to click on the badger and specify how it dealt with each site.  That seems to be no longer available to me
+</p>",firefox-740;customize;desktop;windows-10;,firefox,customize,en-US,1298106;1298118;1298120;,fred_conklin
+1282160,2020-03-16 13:38:55 -0800,2020-03-16T15:40:03Z,Beta Versionen,"<p>Warum erhalte ich bei Updates ""BETA-Versionen"", ohne dass ich diesen ""Service"" gewählt habe? Was ist mein ""Vorteil""? Ich denke, dass Beta-Versionen per se nicht ausgereift und daher lückenhaft bzw. noch fehlerbehaftet sind. Wie kann ich diesen Status wieder loswerden?
+</p>",firefox-750;other;beta;desktop;windows-10;,firefox,other,en-US,1298125;,rubel1960
+1282159,2020-03-16 13:38:29 -0800,2020-03-16T13:38:29Z,I have a new HP windows 10 laptop firefox keeps opening to the MSN home page all by itself  it has opened ten tabs of it is I let it set there.,"<p>When Firefox is open as I let it set it will automatically open additional tabs every 10 minutes of so to <a href=""http://MSN.com"" rel=""nofollow"">MSN.com</a> home page.  I have seen up to ten repetitions of these tabs.  It is annoying.
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,"",dave.boylen
+1282157,2020-03-16 12:38:47 -0800,2020-03-16T20:06:49Z,ctrl-I >> media >> save as,"<p>under "" tools &gt;&gt; page info "" (ie, ctrl-i)
+</p><p>when you save an item, and that filename already exists, can we have (an option) to automatically add (2), (3), (4) (and so on) to the saved file? (ie, not over write it, but to save as 'next number')
+</p><p>at the moment, if you don't manually add a number,  it's ""overwrite file yes/no"". it would be convenient to have (an option) to automatically add filename (number).ext
+</p>",firefox-740;customize;desktop;windows-7;,firefox,customize,en-US,1298112;1298117;1298178;,tp_2346
+1282156,2020-03-16 12:27:16 -0800,2020-03-17T04:51:20Z,Secure Connection Failed PR_CONNECT_RESET_ERROR,"<p>By using the last version of Firefox (74.0) when visiting a website with security connection I got the following error :
+""Secure Connection Failed
+An error occurred during a connection to .............. PR_CONNECT_RESET_ERROR
+The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.
+Please contact the website owners to inform them of this problem.""
+With the previous versions of Firefox there was no such problem and I could visit the above website.
+So, please inform me what happened with ver. 74.0 ? 
+By ver. 74.0 is no more supported some older security protocols which might have the above website, or this is a bug by the new ver. 74.0 ?
+Please inform me how this issue can be fixed ?
+</p>",firefox-740;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US,1298076;1298232;,eladopoulos
+1282155,2020-03-16 12:26:16 -0800,2020-03-16T15:17:22Z,bookmarks star not working,"<p>no action on it...it is blue and does nothing
+</p>",bookmarks;desktop;firefox-740;windows-10;,firefox,bookmarks,en-US,1298111;,krfoyer
+1282154,2020-03-16 12:22:37 -0800,2020-03-16T12:22:37Z,"Configurar ICA Client, Citrix Receive for linux","<p>Tengo instalado icaclient  13.10.0.20-amd64- Citrix Receiver for Linux en Ubuntu 18.04.2 LTS.
+En la versión de firefox 67 cuando ejecutaba un archivo .iCA automáticamente se iniciaba el cliente ICA, 
+yo lo había resuelto haciendo:
+</p><p>cd /usr/lib/firefox-addons/extensions
+sudo ln -s /opt/Citrix/ICAClient/<a href=""http://npica.so"" rel=""nofollow"">npica.so</a> <a href=""http://npica.so"" rel=""nofollow"">npica.so</a>
+</p><p>Pero no funciona en 73
+Alguna sugerencia
+</p>",firefox-730;customize;desktop;linux;,firefox,customize,es,"",eduantgomez
+1282150,2020-03-16 11:46:43 -0800,2020-03-17T00:41:08Z,"When I use double spaces in a message, it prints as a character string: i/1/2.  Why?","<p>For example: ""back many fond memories.ï¿½ At that time, I, too, was astonished at how small the cottage seemed.ï¿½ Those were the days, huh?ï¿½ We are sticking close to home during this time.ï¿½ Our""
+</p>",firefox-740;desktop;tips;windows-10;,firefox,tips,en-US,1298064;1298066;1298079;1298101;1298121;1298127;1298128;1298191;1298193;1298195;1298204;,sfwalt
+1282145,2020-03-16 10:39:45 -0800,2020-03-16T16:02:42Z,Some characters display as boxes.,"<p>On Nightly fx76 Windows 10 1909.  The Windows 10 default system font is Segoe UI.  For readability reasons on my 3840x2160 4K monitor I changed the system font to a font that is a little larger than Segoe UI.  No matter what font I choose I get boxes instead of the characters that should be displayed.  The characters in question are the &lt; and &gt; characters.  So far I've only seen this problem on a Bugzilla bug report which happens to be mine.  The link is <a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=1618336"" rel=""nofollow"">https://bugzilla.mozilla.org/show_bug.cgi?id=1618336</a>.  The characters are at the top and look like this... Bug List (411 of 500)❰❰ First❰ PrevNext ❱Last ❱❱   The boxes should be &lt; and &gt; signs.  
+</p><p>I haven't come across any problems like this in any other Windows programs I use and so far in Firefox only on my bug report.  It appears that Segoe UI has all the characters in it while other fonts do not.  Unicode issue perhaps?  Any ideas on how to fix this other than going back to Segoe UI?  So far I haven't found a font that doesn't produce the boxes.
+</p>",desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1298135;,streetwolf
+1282142,2020-03-16 09:36:16 -0800,2020-03-16T15:39:21Z,random crashes,"<p>3/16/2020:  V. 74 still randomly crashes under Linux Mint 19.3 xfce 32-bit and has to be reloaded.  Checking out newer browsers from independent developers.
+</p>",firefox-740;desktop;fix-problems;linux;,firefox,fix-problems,en-US,1298113;1298124;,rwp728
+1282140,2020-03-16 08:56:34 -0800,2020-03-16T23:13:14Z,"I can no longer access a website that I have been using for years: www.wga.hu, a database of art works.","<p>Suddenly I get the message from Firefox: ""This link needs to be opened with an application."" What is going on here?
+</p>",firefox-740;websites;desktop;mac-os;,firefox,websites,en-US,1298104;1298197;,lkabor
+1282139,2020-03-16 08:55:18 -0800,2020-03-16T16:34:24Z,"From ""albums"" in FB to a particula album gives error most of the time :""""Sorry, something went wrong.  We're working on getting this fixed as soon as we can.""""","<p>From ""albums""  in any FB profile to a particular album gives error most of the time :""""Sorry, something went wrong.  We're working on getting this fixed as soon as we can.""""
+</p><p>If no one else encounters this problem then It might be best may be to reinstall Firefox, unless anyone has other suggestions.
+Thanksin advance
+</p>",firefox-740;websites;desktop;windows-10;,firefox,websites,en-US,1298142;,cp5806
+1282138,2020-03-16 08:39:46 -0800,2020-03-16T08:39:46Z,"Youtube TV, Weather,Com maps not working","<p>They used to work. When I select a program Youtube TV (after logging in) it just buffers. It will work on Chrome. <a href=""http://Weather.com"" rel=""nofollow"">Weather.com</a> maps animations don't move today but they do on Chrome. Is this a common problem? Thanks
+</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",bbob8
+1282137,2020-03-16 08:23:31 -0800,2020-03-16T08:23:31Z,How can I transfer my user names an passwords from a PC running windows 7 to NS Edge on a new Windows 10-s PC,"<p>I'm new to windows 10, and think I like the idea of the security stuff with the -s option. I've got 100 or so user names and passwords on the old Pc. Can I do it?
+</p>",download-and-install_1;firefox-730;desktop;windows-7;,firefox,download-and-install,en-US,"",denisudall
+1282135,2020-03-16 07:56:49 -0800,2020-03-16T11:02:50Z,I want to quickly turn on and off proxy from toolbar.,"<p>I've tried a couple of plugins, but none work correctly.  I use ssh to set up a local SOCKS proxy for support tasks, but also use Firefox for other things.  I'm frequently going into Hamburger -&gt; Settings -&gt; scroll scroll scroll scroll Network Settings -&gt; Proxy: None or SOCKS
+</p><p>It would be super nice to bring up the proxy settings, or toggle on or off, from a single button.
+</p>",firefox-740;customize;desktop;linux;,firefox,customize,en-US,1298047;,kriebz
+1282134,2020-03-16 07:25:56 -0800,2020-03-16T07:34:57Z,I downloaded Firefox on my MacBook Pro and I can't find it to open it. Where is it?,"<p>I'm not proficient with computers.
+</p>",other;desktop;,firefox,other,en-US,1298007;,tgdunham52
+1282133,2020-03-16 07:24:16 -0800,2020-03-17T05:02:34Z,Bookmarks don't work,"<p>Updated Firefox a couple of days ago and, since then, bookmarks don't work. Now on 74.0, 64-bit.
+</p><p>Bookmarks bar is visible and the bookmarks themselves contain the correct URLs.  But when I click on a bookmark, nothing happens - page refreshes but does not go to the bookmark.  Bookmarks *do* work in incognito mode.
+</p>",bookmarks;desktop;firefox-740;windows-10;,firefox,bookmarks,en-US,1298210;1298236;,elise.latorre
+1282132,2020-03-16 07:11:34 -0800,2020-03-16T16:48:16Z,"where ever I click, the cursor turns on instead of being clicked","<p>please check the screen shot.
+see, between ""Ask"" my cursor is on and I don't want it at all. 
+Wherever i click the cursor goes on and its giving me so much pain.
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1298005;,wwwqweasd147
+1282130,2020-03-16 06:27:10 -0800,2020-03-16T16:33:51Z,PDF is always downloaded,"<p>A PDF file is always instantly downloaded to my downloads directory, without asking anything. I've set it to this behaviour at some point, long long ago. Now I want Firefox to use its built-in viewer, but I can't get it to work.
+</p><p>See the attached image for how it's set in the options panel.
+</p><p>I'm a bit confused as to why there's both ""Portable document Format (PDF)"" and ""PDF file"". The latter one does NOT have an option ""Preview in Firefox"". So I've set that one to ""Always Ask"", but even that won't work. It seems whatever I set these two to, makes absolutely no difference to how Firefox behaves when I click a link to a PDF.
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1298141;,thany
+1282129,2020-03-16 06:18:11 -0800,2020-03-16T06:18:11Z,"Following 75.0 update on Firefox Developer Edition, I am unable to access old accounts, create a master password, or customize my broswer. Any ideas?","<p>So I have been Firefox Developer Edition on three different devices for the past year and just a few days ago on one of my devices, Firefox would not keep my theme settings, extensions, or accept my master password, so I closed Firefox. But that didn't help and since i needed to reboot my system anyway, I did a reboot and when I logged back on and tried to open Firefox it gave me an XUL Runner error saying that 75.0 is not compatible with min version &gt;=74.0. So I uninstalled FDE and then re-downloaded it, reinstalled 75.0 since I do believe that the update to 75.0 had hung up on this particular device a week before. So then a day later my other two devices started having issues, so I tried to sign into another Firefox account, that didn't work so I did a reinstall and it seemed fine for a minute until I realized all my passwords/logins/history were gone, so I tried to sync again and then it gave me the message to set my master password, so I tried and kept getting the 'Cannot change master password' error. I have reinstalled twice and create a new Firefox account, tried to sign into an older one. I know someone will say just use the regular Firefox, but I use the FDE because my other Firefox browser is set with a work account that I keep to backup user data at work and I cannot use for my personal device. 
+Any ideas?
+</p>",download-and-install_1;firefox-750;beta;desktop;windows-10;,firefox,download-and-install,en-US,"",nights.in.hell.nih
+1282126,2020-03-16 05:17:07 -0800,2020-03-17T09:22:53Z,Office 365 is not working,"<p>Hello,
+</p><p>Does Firefox support Office 365 online? I opened a Word document on Dropbox website and I got a message that office is not supported in this web browser. My computer has Windows 10 OS and I used Mozilla Firefox Developer as well as Mozilla Firefox. A colleague of mine has the same issue while using macOS Mojave 10.14.6 and Mozilla Firefox.
+</p><p>BTW I have Dark Reader plug-in enabled in my browser, that's why the picture is in reversed colours. It doesn't affect the problem described.
+</p><p>Thanks.
+</p>",firefox-750;other;beta;desktop;windows-10;,firefox,other,en-US,1297992;1298263;1298264;1298266;1298269;1298274;1298282;1298285;,michele.oneill
+1282125,2020-03-16 04:09:30 -0800,2020-03-16T17:17:46Z,Can't set action for application when downloading,"<p>Hello,
+</p><p>I want to set the handling of DLC-files during download to a default application. Firefox should pass the downloaded dlc-files directly to the default application without any questions.
+</p><p>In the download dialog I miss the checkbox to set the application as default.
+</p><p>How could this be done?
+</p><p>Greetings
+</p><p>Stefan
+</p>",firefox-740;desktop;tips;windows-10;,firefox,tips,en-US,1298114;1298119;1298150;,westner1
+1282123,2020-03-16 03:30:07 -0800,2020-03-16T10:21:29Z,White border in maximized window,"<p>Whenever I maximize (not fullscreen) my Firefox a white border surrounds my windows expect on the top. It even hides my taskbar.
+I already reinstalled it and tried to delete the remaining files in C:\Program Files but without any success.
+My Windows is 1909 and Firefox 74.0.
+Maybe some of you experienced the same problem and know how to fix it.
+Thanks for you help :)
+</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1297987;1297989;1297998;1298000;1298008;1298030;1298038;,dreia2k
+1282122,2020-03-16 03:26:17 -0800,2020-03-17T06:09:41Z,Change time period of search results,"<p>Looking for a way via ""config"" to permanently change the default ""any time"" for the search period for searches to a set period of days, i.e. 30, 60, 90, etc. Have not been able to find anything in forum conversations or in browsing through the config file that addresses such a change. Thanks for any help you can give. Mark
+</p>",firefox-750;other;beta;desktop;,firefox,other,en-US,1297985;1297991;1297993;1298009;1298011;1298016;1298024;1298049;1298054;1298055;1298061;1298151;1298157;1298159;1298163;1298192;1298209;1298211;1298215;,mwcrouch
+1282120,2020-03-16 02:15:02 -0800,2020-03-16T02:15:02Z,Why Firefox can't load .js file from a website?,"<p>Hi Guys,
+Can you explain why FireFox can't upload .js files? 
+Apparently Firefox can't upload either external or internal .js file. Therefore the website rendering is not what it should looks like.
+I don't know where it's coming from since on Chrome it looks as it should be.
+</p><p>Thank you in advance for your help.
+Nicolas
+</p>",firefox-740;websites;desktop;windows-10;,firefox,websites,en-US,"",nicolas10
+1282118,2020-03-16 01:28:48 -0800,2020-03-16T04:03:43Z,"PR_END_OF_FILE_ERROR, connection problem.","<p>After Firefox automatically updated two months ago, non stop problem with PR_END_OF_FILE_ERROR, connection problem when trying to open web pages that always opened before. I have never had this problem before, have tried all troubleshooting and online solutions but nothing has worked. How do I fix this problem?
+Thank You,
+</p><pre>Best Regards
+</pre>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1297988;,globuselectric
+1282116,2020-03-16 01:26:29 -0800,2020-03-16T01:26:29Z,how to copy mail from office outlook to thunderbird,"<p><em>duplicate of <a href=""https://support.mozilla.org/en-US/questions/1282117"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1282117</a></em>
+</p><p>i use outlook from office 365 and want to change to thunderbird. How can I copy all mail to thunderbird from my 6 accounts?
+</p>",other;desktop;,firefox,other,en-US,"",bert.wissink9
+1282115,2020-03-16 01:12:41 -0800,2020-03-16T01:12:41Z,How to set Bookmark to always open in a container,"<p>The option to always open a link in a particular container seems to be linked to the domain; right-click link, Open link in new Container Tab, click the Always open link in this container. This then sets all links to that domain to open in that container.
+</p><p>Often I want to log in to the same domain, but as a different user. So I open them in different containers so as to keep the sessions separate.
+</p><p>It would be useful to specify the container in the bookmark rather, so I can have multiple bookmarks all pointing to the same domain, but each always open in the container I choose for them.  I tried various add-ons, but they use the domain-based container feature built into FireFox.
+</p><p>How can I force a bookmark to always open in a set container?
+</p>",firefox-740;customize;desktop;windows-10;,firefox,customize,en-US,"",PeterBrand
+1282112,2020-03-15 22:03:44 -0800,2020-03-16T16:07:02Z,Google Services font weight bold issue.,"<p>Since January 2020, I'm facing a font weight issue with all Google Services wherein everything is BOLD, I uninstalled all extensions but the issue still persists.
+</p>",firefox-740;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,1298136;,paramvirgill
+1282110,2020-03-15 21:05:03 -0800,2020-03-15T22:48:14Z,How can I stop every time I click on a bookmark from opening in a new tab. As I open bookmarks I want them to stay within one window and one tab.,"<p>Need fix for bookmarks to not open in new tabs.
+</p>",tabs;firefox-740;desktop;windows-10;,firefox,tabs,en-US,1297948;1297949;1297951;1297954;,bm2525
+1282108,2020-03-15 20:49:38 -0800,2020-03-17T09:42:50Z,Why doesn't Firefox have email or webmail ?,"<p>Something private that has no dependency on anything google. If they have to charge a fee for it let low income people pay monthly. Storage? Okay, 3gb for $5.00.  You could call it FIREmail. Let's face it, Gmail and Google are out of control.
+</p>",firefox-740;other;desktop;windows-7;,firefox,other,en-US,1297941;1297963;1298034;1298067;1298149;,ComputerPain
+1282106,2020-03-15 20:38:01 -0800,2020-03-17T02:32:31Z,Images not loading after updating to 74.0. Also high CPU usage,"<p>I have searched through the questions and none of them have the exact same problem as I do so I'll post one more.
+</p><p>As the title suggests, none of the images on websites are shown after the 74.0 update. I have tried disabling all add-ons, started in safe mode and the images are still not displaying. I have also found that FF is now using 90% of my i9 and a lot of the sites are in perpetual loading mode. I've tried installing an older version and everything's fine, but after updating to 74, the same issue. The other web browsers are displaying images just fine.
+</p><p>Please advise. Thank you!
+</p>",download-and-install_1;firefox-740;desktop;windows-10;,firefox,download-and-install,en-US,1297973;1298219;,anironorina
+1282104,2020-03-15 20:24:37 -0800,2020-03-16T18:15:44Z,"Latest reason why the ""don't let Flash run automatically"" decision was a FAIL","<p>Once again, we have a new release (74.0).  Once again, the developers who believe themselves to be gods do not think users should be allowed to set Firefox to allow Flash on specific sites without asking EVERY SESSION, somehow believing that inconveniencing the users is somehow going to force website admins to move away from Flash before the announced deprecation at the END of the year.
+</p><p>Now one of my daily-visited sites (the one for Daily Jumble) will not wait for me to enable Flash, and when I do enable it I then have to refresh the page to make it work.  It is obvious that if what I have been asking for all along -- being able to tell Firefox to enable Flash always FOR THIS SITE ONLY -- would alleviate the problem, but since the gods cannot see through the eyes of the users, I am now further inconvenienced by their decision.
+</p><p>I maintain that they moved too quickly and too drastically to implement this change, and I have no reason to believe posting this will make any difference, but I again want them to know that instead of Firefox being the most user-friendly browser in the world (as it USED to be) it now has enough user-UNfriendliness to be as despised as Internet Explorer was.
+</p><p>I do not believe it to be an unreasonable request to allow this, because they could simply put that functionality in, then take it out along with all Flash support in the first release of 2021.  But they think they know better.  Sorry, guys, but you DO NOT.
+</p>",firefox-740;customize;desktop;windows-7;,firefox,customize,en-US,1297937;1297961;1297962;1298085;1298086;1298094;1298097;1298146;1298154;1298170;,Kymber
+1282101,2020-03-15 19:29:00 -0800,2020-03-15T19:29:00Z,symbols dont work when in a vm console.,"<p>When using the browser normally it seems to work fine, when ever I go into a vm console (promox or xen orchestra) I can no longer type in the symbols via Shift and some number. Capitalization still works.. I got the some issue in a private widow but, chromium is still working as expected.
+</p><p>I'm using Manjaro 19 &amp; firefox 71.0
+</p><p>It's seems to be working on the firefox-nightly 75.0
+</p>",firefox-680;desktop;fix-problems;linux;,firefox,fix-problems,en-US,"",tabs23
+1282096,2020-03-15 18:51:20 -0800,2020-03-16T12:11:40Z,"picture is extended too far to the right, I can't reach the scroll button. Need help.","<p>See question
+</p>",firefox-740;other;desktop;windows-7;,firefox,other,en-US,1297938;1298056;,brinkmann0911
+1282095,2020-03-15 18:10:41 -0800,2020-03-16T10:57:10Z,userChrome.css code for changing active tab colour,"<p>I've just been customising Firefox's look by selecting the dark theme (which appears to be the only way to get some things like the dark NTP), then using userChrome.css to alter various elements to what I want. I don't actually 'know' CSS but searching has found the code to copy into my userChrome.css and then edit the colour values for almost everything. I've changed the toolbar, tabs toolbar, url bar, bookmark bar, menus, context menus, everything I wanted ... except one thing. The background colour of the active tab (just the actual tab in the tabs bar) is stubbornly staying the colour it gets from the Mozilla Dark theme, and I want to change it to the (slightly different) shade of grey that I've changed the toolbar to. Can somebody please tell me what the lines are to put in userChrome.css to change the background colour of the active tab? Thanks.
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1297934;1297936;1298032;1298035;1298045;,DavidGB
+1282094,2020-03-15 17:11:57 -0800,2020-03-15T17:11:57Z,The system font has changed to lantinghei and made my numbers (and symbols) unreadable,"<p>Hi guys i need your help.I upgraded to firefox 74&amp;now the system font (that i can't change) is weird and the numbers show up as squiggles.The inspector says the font is lantinghei something or other. What is going on? I'm really annoyed that my system font has been changed and there is nothing I can do to change it back to what I am familiar with. And I have tried changing the default font in the preferences and it DOESNT work.
+</p>",firefox-740;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,"",africantanman
+1282092,2020-03-15 16:42:32 -0800,2020-03-15T19:26:54Z,On the facebook login page how do i stop my email address's and passwords appearing in the email address drop down box .,"<p>When I open the Facebook log in screen my emails and passwords are displayed in the email box drop down . How do I stop that without interfering with web address bar search suggestions?
+</p>",privacy-and-security_1;firefox-730;firefox-7301;desktop;windows-10;,firefox,privacy-and-security,en-US,1297923;1297928;,muzaj
+1282091,2020-03-15 16:39:38 -0800,2020-03-15T16:39:38Z,firefox inresponsive after dragging link to file browser,"<p>hello, i have an exotic, but easily reproducable hang-up (no crash, process and window still exist, but UI gets inresponsive, also the close-window-x in top right window corner stops working and active downloads don't continue) when dragging a link from firefox 74.0 (64-bit) on windows 10 to my favourite file browser ""total commander"".
+i use this link dragging almost everyday, dragging the lock symbol from the url entry line to a folder in my file browser. this always worked and stopped since updating firefox to 74.0.
+</p><p>now the really weird stuff:
+when i drag the link to a explorer window (i mean the windows file browser), it works.
+when i drag a link first to explorer and then the same link from firefox to total commander it works.
+when i drag a link that i never dragged to explorer to total commander, firefox UI becomes inresponsive, downloads hang, i can't change tabs or even click the close-windows-x. i can only quit firefox by right-clicking its icon in the windows task bar and select quit firefox there. even more interesting: when firefox is then quit, the .url file has been successfully created in the folder where i dragged it. also on resuming firefox, all tabs are successfully restored to where i just left it.
+</p><p>summary: my work flow: i drag a link using the lock icon in firefox to my file browser to store the url in a "".url"" file. explorer works. total command not. this bug probably got introduced in firefox 74 (i didn't update total commander recently).
+</p><p>i hope you can reproduce this bug (total commander is free for testing at <a href=""https://www.ghisler.com/index.htm"" rel=""nofollow"">https://www.ghisler.com/index.htm</a> ). it might not hit many users, but it hits me several times per day.
+</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,"",robert135
+1282090,2020-03-15 16:34:01 -0800,2020-03-16T01:30:45Z,"Addon settings revert to default, pages not behaving correctly","<p>Firefox 75.03b
+</p><p>Has anybody noticed some odd behavior with Firefox lately?
+</p><p>I have numerous pages I have frequented in the past that now either don't load at all, or are very slow/stubborn to load, or once they do load, don't work correctly.  Most of these page are fine in Chrome.
+</p><p>I also have pages that were the current page before Firefox was relunched, that don't load at all, but they have addresses in the navigation bar.  If I relaunch the browser again, sometimes the page comes back.  However, If I try to refresh the page before relaunching the browser, the address disappears, the page cannot be recovered, and is not listed in history.
+</p><p>Also, I have random addons that have been reset to default at different times.  I thought it was my imagination at first.  That I must have forgotten to customize them, but it keeps happening, so far to at least 6 different addons.  The time period is hard to gauge because I don't notice until I see things no working right.
+</p>",firefox-750;other;beta;desktop;windows-10;,firefox,other,en-US,1297924;1297968;,noel_envoide
