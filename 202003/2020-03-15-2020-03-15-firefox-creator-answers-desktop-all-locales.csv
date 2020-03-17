@@ -1,0 +1,163 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1282083,2020-03-15 14:23:01 -0800,2020-03-16T02:07:16Z,I cannot figure out how to sync bookmarks and settings onto a new device from a previously synced profile,"<p>I had a PC that had all of my bookmarks and such synched to my Firefox profile. Unfortunately that computer's HDD crashed, I'm trying to find out if I am able to ""download"" the old synched data to a new PC, but I can't seem to find how to do so. Is this even possible or are my old bookmarks lost?
+</p>",firefox-740;sync;desktop;windows-7;,firefox,sync,en-US,1297894;1297975;,bjj5020
+1282081,2020-03-15 13:55:11 -0800,2020-03-15T13:55:11Z,Updating Firefox changes PDF handling to Preview in Firefox which I don't want.,"<p>I want to use Acrobat to view PDFs, but every time Firefox updates it changes Acrobat back to Preview in Firefox.  Shouldn't Firefox ask if I want it to change any preferences I set?
+</p>",firefox-730;other;firefox-7301;desktop;windows-7;,firefox,other,en-US,"",cwalkermsi
+1282080,2020-03-15 13:49:50 -0800,2020-03-16T17:20:35Z,I have two Firefox icons in my Win10 start menu.  How do I remove one of them?,"<p>My Win10 start menu has two Firefox icons and both are version 74.0.  When I click on the second icon, I receive a pop-up box that says Firefox is not my default browser.  When I look at my list of programs to uninstall through the Control Panel, I only see one instance of Firefox in the list of programs.  How can I delete the second icon?  Thank you for any assistance you can provide.
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1297895;1298153;,scortese70
+1282079,2020-03-15 13:40:20 -0800,2020-03-15T13:40:20Z,firefox luego de un timepo de uso deja de guardar favoritos y enlaces visitados,"<p>firefox luego de un tiempo de uso deja de guardar favoritos y enlaces visitados, con linuxmint 19.1 xface, al reiniciar se soluciona por un tiempo luego vuelve a fallar lo mismo.
+</p>",firefox-720;desktop;fix-problems;linux;,firefox,fix-problems,es,"",juansantiago
+1282078,2020-03-15 12:32:25 -0800,2020-03-15T12:38:41Z,Automation Selenium c# Sendkeys not working,"<p>Am doing automatiin for a application. Am trying using login with incognito mode in ESR version 68.4. In authentication login popup username is not getting typed.
+Same code in the version of ESR version 60 working fine. please find the below code
+</p><p>Code :
+var alert = driver.Switchto().Alert();
+</p><p>alert.SendKeys($""username"" +Keys.Tab + $""password"" + Keys.Tab);
+alert.Accept();
+</p><p>Same code works in older version of mozila esr and not working in latest
+</p><p>Could you please help
+</p>",mobile;fix-problems;,firefox,fix-problems,en-US,1297860;1297861;,vr46vino
+1282077,2020-03-15 12:21:42 -0800,2020-03-16T02:38:43Z,Beats Bluetooth headphones not giving play/pause options. Only happens in Firefox.,"<p>Hi, 
+</p><p>When using the chrome browser, I can play, pause, skip etc directly from the Beats headphone themselves. 
+</p><p>However, in Firefox the only thing that I can control with the headphones is the volume. The connection is always there, but I don't know why Firefox does not have the control options available that chrome does. Is there any fix or this? 
+</p><p>I should add that I'm using Windows 10.
+</p><p>Thanks
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1297979;,danielmurphy.murphy75
+1282075,2020-03-15 11:09:12 -0800,2020-03-15T16:45:09Z,Synced Addons for Normal and Developer Edition separately,"<p>Hello
+I'm working currently on Windows and MacOS , on both I recently switched to Firefox and Firefox Developer Edition. 
+I want to have synced dev-only extensions (like wapplyzer, vuejs inspector etc.) on developer edition and daily extensions only for normal firefox. 
+I've searched and found something about profiles, but when I installed Vue.js devtools on DE it installed on normal version too.
+Can I separate it in any way keeping everything on one account?
+Best
+</p>",firefox-740;sync;desktop;,firefox,sync,en-US,1297916;,own404410
+1282074,2020-03-15 11:05:07 -0800,2020-03-15T11:05:07Z,How to setup a Firefox Kiosk via CLI on Linux with no Desktop Environment (only X + openbox),"<p>I've found plenty of instructions for setting up a web kiosk on linux with just X and openbox, but they all use the chromium browser.  I've searched the web as to how to do this with firefox.  I've tried to simply use the instructions for chromium but change things over to  firefox, but I'm not sure what the equivalent paths/files are in firefox.
+</p><p>I've got a VM (to test with) and got the chromium setup working (just so that I know X and openbox are behaving).  Here is where I'm getting stuck in /etc/xdg/openbox/autostart:
+</p>
+<h6 id=""w_"">===</h6>
+<p>sed -i 's/""exited_cleanly"":false/""exited_cleanly"":true/' ~/.config/chromium/'Local State'
+</p><p>sed -i 's/""exited_cleanly"":false/""exited_cleanly"":true/; s/""exit_type"":""[^""]\+""/""exit_type"":""Normal""/' ~/.config/chromium/Default/Preferences
+</p><p>chromium-browser --disable-infobars --kiosk '&lt;http://your-url-here&gt;'
+</p>
+<h6 id=""w__2"">===</h6>
+<p>I'm not at all sure where the equivalent of ""~/.config/chromium/""Local State"" would be for firefox.  Surely under the ./mozilla/firefox directory, but I know not where.
+</p><p>Same thing for the second sed line, no idea about the equivalent.
+</p><p>The actual command I presume is 'firefox --kiosk 'url of choice'
+</p><p>I've commented out the 'sed' lines and get firefox to start ONCE, but it alwasy exits X uncleanly and times out with getting a lock on .Xauthority.  If I remove firefox and delete the .mozilla folder and then reinstall firefox, it will again work only once.  When it does work like this, it takes about two minutes for firefox to come up as compared to the chromium setup that only takes several seconds.
+</p><p>Any thoughts or help would be VERY appreciated.  
+</p><p>TIA,
+</p><p>Joe
+</p>",other;desktop;,firefox,other,en-US,"",joemurph+firefox
+1282073,2020-03-15 10:40:33 -0800,2020-03-16T01:48:03Z,How to unsubscribe from Firefox mailing list when I'm locked out of my account?,"<p>Recently I've begun getting a few emails a week from Firefox. When I follow the link to unsubscribe, I'm prompted to log into my account. When I log in, I'm prompted to confirm my account via a verification link sent via email. However, that email to my iCloud account never arrives. I've tried repeatedly to have it resent without success. I've had a case escalated via Apple support up to their engineering department, and they say the email isn't getting filtered by them but in fact never reaches their servers, so there's nothing they can do. So now I'm stuck on this mailing list because I can't access my account. Blocking me from leaving the list seems illegal per the CAN-SPAM act. Even being able to log in here seems short-lived, since it appears that tomorrow (16 March) my Mozilla support account will be merged into that same Firefox account that I can't access. Unbelievable, really.
+</p><p>The irony isn't lost on me: I can't stop getting email from Firefox because I'm not getting the verification email from Firefox. I see the dark humor, but this is a problem that needs to be resolved. I don't know where else to turn for help, so hoping someone here can provide some guidance. The real ask here is not to just get off the mailing list (I could set up a filter to automatically delete it, though I shouldn't have to do that) but instead to be able to receive the email to verify my account or, barring that, get help changing the email address on the existing account to one that can actually receive the email, e.g. my Gmail account.
+</p>",other;desktop;escalate;,firefox,other,en-US,1297840;1297841;1297851;1297856;1297889;1297898;1297971;,brossow
+1282072,2020-03-15 10:36:06 -0800,2020-03-16T02:14:43Z,When I click the back arrow in the upper left sometimes I have to click it 5 -10 or more times to go back a page?,"<p>Often I will be on a web page and I hit the back arrow up in the upper left to go back a page and it doesn't work. I see the activity arrow thing just to the right activate for a fraction of a sec. but nothing else happens, I stay on the same page. Sometimes if I hit the back arrow many times really fast it goes back but not always.
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1297842;1297844;1297884;1297977;,sundance410
+1282071,2020-03-15 10:27:00 -0800,2020-03-15T14:10:35Z,Why is Firefox not displaying the image resolution?,"<p>When you had a page of images found by Google, and you hovered your mouse of one of them, the image resolution was displayed (say 300x600). Now this no longer occurs.
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1297828;1297883;,groucho3
+1282070,2020-03-15 10:01:23 -0800,2020-03-15T10:01:23Z,Google Docs lagging in a strange way – see attached video of test doc.,"<p>I tried safe mode and refreshing, neither helped. In the video, I tapped each key of the sequence in a rhythmic manner. Contrast this with the manner in which the characters are displayed: out of order and in bursts.
+<a href=""https://send.firefox.com/download/2230bf9d54fcf394/#q1mzhtejbocWyC1czWt8NA"" rel=""nofollow"">https://send.firefox.com/download/2230bf9d54fcf394/#q1mzhtejbocWyC1czWt8NA</a>
+</p>",firefox-740;desktop;fix-problems;mac-os;,firefox,fix-problems,en-US,"",nmfwaterman
+1282068,2020-03-15 09:13:40 -0800,2020-03-15T09:36:14Z,why not page open payment of ocwindia,"<p>It's showing error code 500
+</p>",websites;desktop;,firefox,websites,en-US,1297822;,sachinshinde353
+1282066,2020-03-15 09:11:20 -0800,2020-03-15T15:23:30Z,Meine Frage,"<p>Hallo, ich benutze Mozilla Firefox gerne, alledings ist mir aufgefallen, dass Ihr Browser im Vergleich zum IE keine Verwaltungsmöglichkeit hat. Damit meine ich , wenn Sie oben rechts auf Lesezeichen gehen und unter Verwaltung gehen und dort ein neuen Ordner anlegen, werden die Internetseiten zwai im neuen Ordner gespeichert aber sowald Sie wieder auf Lesezeichen gehen sieht man leider von dieser Ordnung nicht, sprich: Nicht einmal das neue angelegte Ordner ist zu sehen.
+</p>",firefox-740;other;desktop;windows-81;,firefox,other,en-US,1297823;1297900;,sabantemuer
+1282065,2020-03-15 09:08:00 -0800,2020-03-15T11:16:10Z,Firefox goes completely blank with no address bar or anything else on display,"<p>A few days ago Firefox just stopped working entirely. I don't know if there was an automatic update which caused this, but there was no graphics driver update or anything else on my part. Now the window is just completely blank, I can't see the buttons, even though they seem to work beneath the blankness. (so when I click at the space where the close button is supposed to be, it still closes the window). I tried reinstalling, tried installing a previous version, changing the compatibility settings, nothing worked so far. Firefox is just completely useless like this right now. Please help, what else can I try? 
+Oh, I also tried running it in Safe Mode. It didn't solve the problem. No other softwares seem to be affected by it, it's only Firefox.
+</p>",desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1297825;1297838;1297843;,vr.percze
+1282064,2020-03-15 09:06:50 -0800,2020-03-16T01:53:04Z,"just downloaded Firefox. How do I set up a mail account ""myname @firexox.com""","<p>Hello. I've just installed Firefox. How do I set up a mail account ""myname @firexox.com""? I presume that that's what will happen - am I wrong?
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1297815;1297830;1297964;1297972;,TaffyOutlane
+1282062,2020-03-15 08:42:05 -0800,2020-03-15T10:39:05Z,Unable to access my Gmail on Firefox browser since last update.,"<p>Following the recent update of Firefox I can't access my Gmail account.  The Gmail tab is there but clicking on it the screen stays blank.  All other tabs, such as weather, bank etc., are working as expected.  I can access my emails if I change the browser to Google Chrome but Firefox is my default browser and I would like to keep it as my default.
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1297832;,jfcollins1941
+1282060,2020-03-15 07:42:37 -0800,2020-03-15T07:42:37Z,OMG I reported issues with update (70) now the same issue with update (74) sites not opening functioning,"<p>after 74th update. Gmail not opening using 3 different ways (desktop) many hyper links are not opening and are not forwarding to the appropriate website. many other sites are not functioning properly.... how is it even possible.... in short time so many issues with updates. so many bugs... i've never seen other browser to have such issues.... not opening gmail this is very serious...
+</p>",desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,"",samsimonusa
+1282057,2020-03-15 07:26:19 -0800,2020-03-16T17:46:54Z,How can I get use of my book marks back ?,"<p>I got a message saying that another site is using firefox that has all my bookmarks and passwords saved so it locked my bookmarks .I can't bookmark anything and my bookmarks link says it is empty, H E L P !
+</p>",fix-problems;,firefox,bookmarks,en-US,1298161;1298162;,TAZ57
+1282055,2020-03-15 07:16:23 -0800,2020-03-16T19:23:05Z,"I can’t open reddit, but all other websites are working well","<p>Within 2 or 3 days I can’t access in the reddit webpage, it doesn’t even load (see Screenshots). Disabling add-ons did not help. It opens normally on Edge and in the mobile Firefox, and Reddit app. Any other sites work well.
+</p>",firefox-740;websites;desktop;windows-10;escalate;reddit;bug1621301;,firefox,websites,en-US,1297800;1297805;1297880;1297907;1297919;1298037;1298057;1298174;,danya-koshkin
+1282054,2020-03-15 06:54:49 -0800,2020-03-16T08:39:38Z,Not syncing my information with the Mozilla browser,"<p>Hi
+I had a lot of information in my browser that I synced with my email.
+But it's not synced now and it looks like my browser information has been deleted or missing.
+</p><p><br>
+I entered the email and password in Firefox and pressed the sync key. But sync is not done.
+please guide me...
+please help me :(
+</p>",firefox-740;sync;desktop;linux;,firefox,sync,en-US,1297980;1298020;,lordman247
+1282053,2020-03-15 06:48:36 -0800,2020-03-15T06:48:36Z,client certificate on smartcard leads to SEC_ERROR_LIBRARY_FAILURE,"<p>SSL client certificates do not work on Firefox 74.0 64-bit (Windows 10) and smartcards as expected. The smartcard gets accessed via PKCS #11 library.
+</p><p>When the client certificate is placed into the software security module, Firefox can send it to the requesting web server and it works as expected.
+</p><p>Once the very same certificate was successfully imported into a smartcard and removed from the software security module, authentication fails in Firefox with ""SEC_ERROR_LIBRARY_FAILURE"". The nginx web server reports:
+SSL_do_handshake() failed (SSL: error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:SSL alert number 80) while SSL handshaking, client: xxx.xxx.xxx.xxx, server: 0.0.0.0:443
+</p><p>When using Chrome, the same client certificate from the same smartcard gets used and successfully connects to the web server.
+</p><p>Is there a known issue for this?
+How can this problem be narrowed down?
+Is there some kind of debug log file to get further information?
+</p>",firefox-740;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US,"",emradiation
+1282052,2020-03-15 06:32:53 -0800,2020-03-15T07:07:02Z,Since I updated to version 74.0 some websites do not display images,"<p>The previous version of Firefox worked fine but since I updated to version 74.0 some websites do not display images.
+</p>",firefox-740;websites;desktop;windows-10;,firefox,websites,en-US,1297790;,ccpjr
+1282047,2020-03-15 04:32:02 -0800,2020-03-16T14:20:11Z,As of last week (March 8 to now) I can no longer receive a email from noreply@coastalcruisers.net  How do I fix this?,"<p>I have been receiving e-mails from this site since it was created about 8 years ago.  Suddenly Firefox won't allow them.  I switched to Chrome as my browser and the e-mails come through just fine.
+</p>",firefox-740;websites;desktop;windows-10;,firefox,websites,en-US,1297776;1298091;1298095;,salnrichnfl
+1282046,2020-03-15 04:15:08 -0800,2020-03-15T10:44:49Z,Is there a way to identify firefox tabs in task manager and force close only one of them?,"<p>As with all of us, sometimes I get an annoying tab open in Firefox with a javascript (or similar) prompt that stops me from closing it
+For now what I do is force close Firefox using task manager and then open it again and close the annoying tab before it loads
+However I think it would be better to have the tabs identifiable in task manager so I can force the one I want without shutting down Firefox altogether
+Is there a way to do that?
+</p><p>PS: I already have the ublock origin addon installed but some scripts go past the filter
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1297806;1297834;,subs_n_spams
+1282044,2020-03-15 03:17:06 -0800,2020-03-15T11:18:13Z,How to create a link (tuile in french) into the start menu,"<p>Hi
+It is very easy to create a tile into the Windows 10 start menu using Microsoft Edge via the  (...) menu : more tools + pink this link into the start menu)
+Do you have this feature available into Firefox ? If not, I would suggest you add it.
+Currently I am using copy/paste to Edge !!!
+Best regards
+</p>",firefox-740;other;desktop;windows-10;needsinfo;,firefox,other,en-US,1297824;1297827;1297845;,guylesire
+1282039,2020-03-14 23:17:30 -0800,2020-03-15T16:12:14Z,History does not delete despite all measures,"<p>History does not delete despite all measures at: <a href=""https://support.mozilla.org/en-US/questions/1273024#answer-1266862"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1273024#answer-1266862</a>. Got the switch set to delete my history when cosing, but this problem IS NOT SOLVED.
+</p>",firefox-740;other;desktop;,firefox,other,en-US,1297722;1297724;1297850;1297888;1297910;,robertson007
+1282034,2020-03-14 20:34:47 -0800,2020-03-14T20:34:47Z,Who Has a Fix for This Zoom.us Google Calendar 400 Error Inside Firefox?,"<p>Who has a fix, please?:  Until recently Zoom would play nice with Firefox and Google Calendar. I'd launch the Zoom desktop client, schedule an event inside Zoom, then Zoom would ask Firefox for renewed permissions on one of my Google accounts. Then I'd give it permission and Google Calendar would launch it's event scheduling window inside Firefox. 
+</p><p>But now instead of the Google Calendar event scheduling window I get this Google 400 message:  ""400. That’s an error.
+</p><p>The requested URL was not found on this server. That’s all we know.""
+</p>",desktop;fix-problems;,firefox,fix-problems,en-US,"",TheSoulRider
+1282033,2020-03-14 19:58:50 -0800,2020-03-16T10:40:24Z,Change the Findbar's search matches background / foreground color for the FOCUSED search match,"<p>Apparently, the preference names for the currently selected / focused, highlighted search match have changed.  I can't find any CSS code on the web to modify this behavior.  Though I made a note years ago about switching from using prefs for it in about:config, to using a CSS style.
+</p><p>The ""unfocused"" highlighted search matches do allow me to change both FG &amp; (BG=bright pink) colors - to a point.
+I think I had to create these prefs, or some of them.
+The UNfocused search matches color prefs are:
+ui.textHighlightBackground #EF0FFF
+ui.textHighlightForeground #000000
+</p><p>They allow me to use black (vs. default white) for the text color on the fuchsia BG.
+</p><p>The pref names for focused search match apparently changed, based on an old profile.
+ui.textSelectBackgroundAttention  #00FF00
+ui.textSelectForegroundAttention  #FFFFFF  (I can change the white FG to anything, but it always defaults to white.
+The green BG  w/ white FG / text, is really hard for me to read.  
+</p><p>Fx won't allow me to change the FG color on the currently focused / selected search match.  No matter if I select a BG color that black - or many non-white Foreground colors have a much higher contrast values than the default green BG w/ white FG.
+</p><p>Even if the colors I try have a much higher contrast value than the green / white. <a href=""http://snook.ca/technical/colour_contrast/colour.html#fg=B6C9D0,bg=0004FF"" rel=""nofollow"">http://snook.ca/technical/colour_contrast/colour.html#fg=B6C9D0,bg=0004FF</a>
+</p><p>EXCEPT, for the focused / selected match, if I enter white or very light BG, the super smart code still uses white text, making it invisible.
+But it won't let me use green / black, or yell BG with Red or Blk FG.
+</p><p>I think this problem is because of some algorithm Mozilla uses to calculate contrast values, that obviously doesn't work very well.
+Anyone know of a way around this issue, or CSS code that might override Mozilla's contrast algorithm?
+</p>",firefox-740;desktop;tips;linux;,firefox,tips,en-US,1297723;1297946;1298040;,Joebt
+1282031,2020-03-14 19:47:43 -0800,2020-03-15T05:28:55Z,The web page casually become blank suddenly? Reloading won't help. You have to restart the browser.,"<p>Completely white blank pages. Happens on different sites, happens suddenly when even you are browsing that page.
+</p>",firefox-740;websites;desktop;windows-10;,firefox,websites,en-US,1297710;1297738;1297769;1297770;1297772;1297780;,dspjm
+1282030,2020-03-14 18:07:54 -0800,2020-03-14T21:14:38Z,Firefox not wanting to open even after clean install/boot scan.,"<p>Alright, so I've tried installing a previous version, deleting all files in Local, LocalLow, Roaming, and Users/Program Files related to firefox, even deleting registry keys, but every time I try to use firefox I just get a flickering loading circle on my mouse.  I open task manager, and see that firefox is in there, and constantly opening and closing new processes on itself.  I try to kill the process and cannot as whatever one I'm trying to close is already dead and a new one takes its place.
+</p>",desktop;fix-problems;windows-10;download-and-install;,firefox,fix-problems,en-US,1297681;1297711;,nemoracvgmaster
+1282029,2020-03-14 17:53:00 -0800,2020-03-16T09:38:16Z,I can't get Firefox to save login info for Norton,"<p>I have the Norton Password Manager (PWM) extension installed.  When I want to log in to any protected site for which I have already stored the login info, I have to log in to my Norton account before I can log in to the PWM itself.*  The box for that has a checkbox ""Remember me on this device,"" which I leave checked, but if I close Firefox and open it again, the box pops up exactly as before, whereas on Chrome, the login info is entered already.  I have tried restoring Firefox to its default configuration and entering the Norton login info on both the logins page and on the cookie exceptions page, but nothing works.  What's up?
+</p>
+<ul><li>This seems to be a relatively new requirement by Norton, which I already explored in another thread.
+</li></ul>",firefox-740;websites;desktop;windows-10;norton;notafirefoxproblem;,firefox,websites,en-US,1297696;1297700;1297706;1297801;1298017;1298022;1298023;1298025;1298026;1298027;,steve183
+1282028,2020-03-14 16:43:38 -0800,2020-03-15T01:26:39Z,Firefox 74 tabs on bottom - Overlapping panel issue,"<p>Please see <a href=""https://stackoverflow.com/questions/60678417/firefox-74-tabs-on-bottom-overlapping-panel-issue"" rel=""nofollow"">https://stackoverflow.com/questions/60678417/firefox-74-tabs-on-bottom-overlapping-panel-issue</a> or <a href=""https://www.reddit.com/r/firefox/comments/fhoelc/firefox_74_tabs_on_bottom_overlapping_panel_issue"" rel=""nofollow"">https://www.reddit.com/r/firefox/comments/fhoelc/firefox_74_tabs_on_bottom_overlapping_panel_issue</a>. Thank you!
+</p>",tabs;firefox-740;desktop;windows-10;,firefox,tabs,en-US,1297674;1297695;1297746;,aleksandr.blekh
+1282027,2020-03-14 16:21:18 -0800,2020-03-15T11:22:31Z,A Firefox update disabled/killed the Firefox on my Desktop... Twice.,"<p>I'm fed up with the lack of support from Firefox. This issue has been going on for three weeks.
+The last Firefox update crashed TWICE!
+When I opened a Google/Firefox, An Update window popped up. Since I normally let them download or whatever they do, I wasn't concerned. Then it showed an ""Error"". I didn't see an ""Error Code Number or Name"" as it disappeared quickly. I tried to open Firefox/Google. To my surprise, all I got was a Blank Window. I tried clicking on the ""Home Icon"". Nothing changed. I tried my Bookmarks. No affect. I WAS Signed In. I tried finding the Fictional ""Firefox Support"". I got nowhere. I would've Googled the issue, but I couldn't even use that. Nothing Worked.
+I finely decided to download a NEW Firefox/Google. Once I did, it worked fine all day. 
+The next day, I opened the newly Downloaded one. Again I was greeted by the Firefox ""Update"" It started, then showed an Error. 
+Again, I tried to open Firefox/Google. I got the same blank page as before. I decided to Remove, ALL Firefox/Google. from my Computer. Then I download another New Firefox. I made ONE change. I stopped Firefox from Updating Automatically. 
+Day three, I opened Firefox, I opened  normally... Almost. Now I have the SAME Firefox Update waiting. If I let it Download, it may Crash again. I lost ALL of my Bookmarks too. I went to the Recommended Firefox Site to retrieve them... It was a LIE!
+Now I have the SAME Firefox Update waiting. I have NEVER missed an Update 
+Let me guess what Firefox is going to say. That is IF they reply at all;
+No one else reported this issue. ( And I have Ocean front property in Arizona).
+Make sure your operating system is up to date. 
+(I must be too stupid to keep my system up and maintain this Machine).
+I should upgrade to the (The Digital Pile of...... that goes by the name) Windows 10, and (The Garbage called) Google Chrome.
+(Why would I Downgrade to one System that didn't work when it was released, a Browser that was Garbage when it was offered the first time (In 2008), and they WON'T Fix? I'd be better off taking a hammer to my PC. and my own head).
+</p><pre>Just a quick note. When I first signed up for Google (Prior to the 2008 Google Chrome fiasco.) my Gmail stopped working. I could receive Mail, but I couldn't Open, Read, Delete, or anything else. This lasted for Five Years. I tried getting Help. I never got a reply from anyone. Then it started working. No explanation from Google. 
+</pre>
+<p>Don't bother telling me ""Well... It is Free"".  It isn't.
+</p>",firefox-740;desktop;fix-problems;,firefox,fix-problems,en-US,1297668;1297672;1297686;1297697;1297783;1297846;,kingofnicepeople
+1282026,2020-03-14 16:12:20 -0800,2020-03-15T01:44:13Z,tree tabs issues,"<p>Using Firefox Portable (call it ONE), just updated to 74.  T T blinks about every 2 seconds, and the groups are not shown.  Tree Style Tabs works okay, but there is no toolbar or groups on T S T.  I uninstalled T T and re-installed, no change.  A firefox update and a windows 10 update happened just before I noticed this, don't know if they are related.
+</p><p>Downloaded another portable installation file (call it it TWO), and added T T.   No Blinking, and toolbar and groups are there.  Any ideas on how I can make it work in ONE?  All help appreciated.  Thanks!
+</p>",tabs;firefox-740;desktop;,firefox,tabs,en-US,1297675;1297752;,hipockets
