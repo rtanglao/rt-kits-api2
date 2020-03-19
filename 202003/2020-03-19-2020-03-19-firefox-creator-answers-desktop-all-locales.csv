@@ -1,0 +1,63 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1282361,2020-03-19 05:43:02 -0800,2020-03-19T05:43:02Z,de repente han desaparecido todos los certificados digitales que tenía en el navegador y no puedo acceder a ellos.,"<p>De repente se cerró la sesión de firefox con la que venía trabajando, y el navegador; se reinició solo, dijo estar actualizando y si quería reiniciar o iniciar en modo seguro. Cuando quedó abierta la página del navegador, accedí a opciones, privacidad y seguridad, certificados, y no existe ningún certificado instalado. Es para mi un problema muy grave. Necesito restablecerlos todos.
+</p>",firefox-7202;firefox-720;desktop;privacy-and-security_1;windows;,firefox,privacy-and-security,es,"",yurenadeleon.clientes
+1282358,2020-03-19 04:27:29 -0800,2020-03-19T04:27:29Z,Cannot use our self signed client certificates,"<p>In order to monitor our application at client sites, we have added a monitoring page (using apache). To prevent preying eyes, we require clients to identify them selves using a client certificate. This used to work until a few weeks ago, but now we are having problems using firefox. It keeps stating a SSL_ERROR_HANDSHAKE_FAILURE_ALERT error, and we cannot accessing the pages.
+</p><p>I have already added our Root CA and intermediate CA (used to sign the client certs) in both firefox and the windows certificate store, But the problem is not yet resolved.
+</p><p>The subdomain is protected with a an Organization Validated certficate from an official CA authority. Apparently we are missing something, but i can't see what is causing this issue. 
+</p><p>If i disable the requirement for a client certificate, the site is accessible, but that is not really an option here.
+</p>",firefox-740;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US,"",fhdumay
+1282356,2020-03-19 03:32:19 -0800,2020-03-19T03:32:19Z,¿CÓMO IMPRIMIR CONTRASEÑAS Y USUARIOS?,"<p>Quiero imprimir mis contraseñas y usuarios que tengo guardados en  Firefox lockwise o tenerlos en archivo,¿cómo lo hago?Gracias
+</p>",download-and-install_1;firefox-740;desktop;windows-10;,firefox,download-and-install,es,"",raspcris
+1282355,2020-03-19 03:11:09 -0800,2020-03-19T05:27:55Z,removed sites links from firefox start page,"<p>hi everybody. just goofed while removing one ""site link tab"" from firefox's start page: clicked the wrong command and deleted all instead; now it seems that it also disabled the automatic ""recording of the prefered sites"" -i don't know the exact name of it even in italian- on firefox opening page...not a terrible issue, but it was handy to have them...
+tried preferences/options but was not able to find any tool to get them back.
+thanks in advance for providing some help to one who was born in the age of the vacuum tubes... ;-)
+</p>",firefox-740;customize;desktop;windows-10;,firefox,customize,en-US,1298680;,bobo53
+1282354,2020-03-19 02:53:53 -0800,2020-03-19T05:10:40Z,Firefox does not allow me to log out from Hotmail,"<p>Normally when leaving Hotmail I click on my user name and am presented with a number of options including ""Sign Out"". Now no options are presented, but Microsoft Edge does show these options and I can log out with no problem. Can anyone help?
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1298676;,smcc
+1282353,2020-03-19 02:50:18 -0800,2020-03-19T02:50:18Z,I have many (>50) tabs open in a window - and need a better & easier way to rearrange them than by mouse-dragging them,"<p>I keep many tabs open, as a part of many activities I work on, all within my primary-use window. Additional windows contain other secondary clusters of pending projects. When trying to rearrange my work (=tabs), dragging a tab with the mouse across 50 other tabs is quite cumbersome and difficult to find the right place to sort it into. I'm looking for an easy way, like in Powerpoints slide-sorter where you can see 50+ slides in a matrix grid layout, or in the Mac OS Finder, where you can see thumbnail pictures and rearrange them. Mouse-dragging is great and much appreciated, but has its limits when dragging the tab ""far"" across the tabs to a new location many tabs away.
+Solutions would be most appreciated. Thanks. Robert.
+</p>",tabs;firefox-740;desktop;mac-os;,firefox,tabs,en-US,"",robert126
+1282349,2020-03-19 01:45:13 -0800,2020-03-19T01:45:13Z,about:logins hangs,"<p>when i try to manage my logins, the about:logins page hangs and never loads.  all other about pages work fine.  i am using 68.6.0esr (64-bit) on this computer, but i use the latest firefox normally and i have firefox sync.  i have never enabled syncing of logins, only history.  i'm not sure what causes about:logins to hang.  i'm pretty sure it worked in the past on this computer.
+</p>",other;desktop;linux;,firefox,other,en-US,"",jayenashar
+1282348,2020-03-19 01:36:54 -0800,2020-03-19T02:26:56Z,"autoplay options have effect - cnn.com, etc","<p>I have never been able to get autoplay options to prevent blasting out audio when stumbling onto a malicious website like CNN. This is a major privacy problem as perhaps you don't want the world to know you are studying how to seek legal or medical help etc with audio blasting out at max level.
+</p><p>I don't know why this is so hard to manage since detecting loud audio isn't that difficult and it seems like browsers have all sort of hooks into media features of the operating systems they run on.
+</p><p>Can't firefox take samples of the audio (we don't need advanced signal processing here), determine that it is blasting out, and kill it?
+</p><p>In any case I have never been able to get any impact from autoplay settings other than to screw up my browsing experience so bad I have to reset to defauts to even manually play a video.
+</p><p>Addins like no script are so restrictive they render browsing impossible.
+</p>",firefox-740;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US,1298665;,robert.leyendecker
+1282347,2020-03-19 01:31:49 -0800,2020-03-19T01:31:49Z,"Firefox loads https://cdn.jsdelivr.net/npm/vue/dist/vue.js once, but not a second time","<p>A web app I am building seems to be broken in Firefox. It loads ok the first time, but not the second.
+</p><p>I checked the console and I found I get an error message that says: 
+</p><p>Loading failed for the &lt;script&gt; with source “<a href=""https://cdn.jsdelivr.net/npm/vue/dist/vue.js”"" rel=""nofollow"">https://cdn.jsdelivr.net/npm/vue/dist/vue.js”</a>.
+</p><p>I tried loading the URL <a href=""https://cdn.jsdelivr.net/npm/vue/dist/vue.js"" rel=""nofollow"">https://cdn.jsdelivr.net/npm/vue/dist/vue.js</a> in another tab, and it loads ok the first time, but if I reload it I get a security error:
+</p><p>Did Not Connect: Potential Security Issue
+</p><p>and when I hit advanced I see
+</p><p>Someone could be trying to impersonate the site and you should not continue.
+[...]
+Error code: SEC_ERROR_UNKNOWN_ISSUER
+</p><p>and under view certificate:
+</p><p><a href=""https://cdn.jsdelivr.net/npm/vue/dist/vue.js"" rel=""nofollow"">https://cdn.jsdelivr.net/npm/vue/dist/vue.js</a>
+Peer’s Certificate issuer is not recognized.
+</p><p>Neither Chrome nor Safari seem to be affected.
+</p><p>Another weird symptom is that pictures on stackoverflow are all broken.
+</p><p>I appreciate any help - thanks.
+</p>",firefox-740;desktop;privacy-and-security_1;mac-os;,firefox,privacy-and-security,en-US,"",simonecesano
+1282342,2020-03-18 22:50:58 -0800,2020-03-18T22:50:58Z,Font size on menus and tabs is not changing with devp setting,"<p>Currently the font size on menus and tabs is very small. I have changed the setting in the following location and it changes the frame sizes / icons etc but not the font.
+</p><p>layout.css.devPixelsPerPx
+</p>",firefox-740;other;desktop;,firefox,other,en-US,"",richgkav
+1282338,2020-03-18 19:43:53 -0800,2020-03-19T03:36:59Z,Can the current PINK!!! web page be destroyed and return to the better ADULT web page?,"<p>For the THIRD TIME: The current Firefox PINK!!! web page header is atrocious. I am NOT a child and this web page is an insult to users.
+The icons at the top left hand corner are difficult to read but now they are worse. PLEASE return to the previous ADULT web page that was so much friendlier than the current PINK!!!! monstrosity.
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1298632;1298637;1298649;1298668;1298669;,bda1
+1282336,2020-03-18 18:49:31 -0800,2020-03-18T20:41:10Z,Refresh (Reset) button missing,"<p>Refresh Firefox (Reset) Button missing from Troubleshooting Information page. Using Firefox PortableApp 74.0 in Safe Mode.
+</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1298634;1298636;,rykellim
+1282333,2020-03-18 18:21:28 -0800,2020-03-19T00:12:18Z,ERROR:Network.http.sendRefererHeader = 0 Please fix your browser settings,"<p>I already did the following steps:
+</p><p><br>
+</p><pre>   Type ‘about:config’ in the URL bar, and hit enter (you may have to click though a, ‘I’ll be careful, I promise!’ warning)
+</pre>
+<pre>   In the search bar type ‘network.http.sendRefererHeader’
+</pre>
+<pre>   Double-click on the ‘network.http.sendRefererHeader’ preference when it comes up
+</pre>
+<pre>   Enter an integer value of 0, 1, or 2 or in the dialog box, then hit OK and close the ‘about:config’ tab
+</pre>
+<p>but this error keeps coming up, what do I do?
+</p>",firefox-740;websites;desktop;windows-10;,firefox,websites,en-US,1298635;1298642;1298651;1298657;,Lars.Frusch
