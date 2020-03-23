@@ -1,6 +1,17 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 23march2020 getting 50 for JR
+
+```bash
+../print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb \
+2020-03-20-2020-03-22-firefox-creator-answers-desktop-all-locales.csv csv # get it from the last 3 days
+# remove first line and shuffle
+sed '1d' sorted-all-desktop-en-us-2020-03-20-2020-03-22-firefox-creator-answers-desktop-all-locales.csv\
+| shuf > shuffled-sorted-all-desktop-en-us-2020-03-20-2020-03-22-firefox-creator-answers-desktop-all-locales.csv
+```
+
+
 ## 05march2020 BUG in printing 4 questions for mechanical turk
 
 * 1\. What is the bug? The bug is we don't remove carriage returns!
