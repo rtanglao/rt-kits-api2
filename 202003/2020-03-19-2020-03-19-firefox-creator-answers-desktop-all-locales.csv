@@ -1,31 +1,95 @@
 id,created,updated,title,content,tags,product,topic,locale,answers,creator
-1282361,2020-03-19 05:43:02 -0800,2020-03-19T05:43:02Z,de repente han desaparecido todos los certificados digitales que tenía en el navegador y no puedo acceder a ellos.,"<p>De repente se cerró la sesión de firefox con la que venía trabajando, y el navegador; se reinició solo, dijo estar actualizando y si quería reiniciar o iniciar en modo seguro. Cuando quedó abierta la página del navegador, accedí a opciones, privacidad y seguridad, certificados, y no existe ningún certificado instalado. Es para mi un problema muy grave. Necesito restablecerlos todos.
-</p>",firefox-7202;firefox-720;desktop;privacy-and-security_1;windows;,firefox,privacy-and-security,es,"",yurenadeleon.clientes
+1282396,2020-03-19 15:34:31 -0800,2020-03-19T15:34:31Z,Password,"<p><em>duplicate of <a href=""https://support.mozilla.org/en-US/questions/1282394"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1282394</a></em>
+</p><p>Having trouble logging into my account I don't remember the password
+</p>",privacy-and-security_1;desktop;,firefox,privacy-and-security,en-US,"",josenieves.jn7
+1282395,2020-03-19 15:34:30 -0800,2020-03-19T15:34:30Z,Password,"<p><em>duplicate of <a href=""https://support.mozilla.org/en-US/questions/1282394"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1282394</a></em>
+</p><p>Having trouble logging into my account I don't remember the password
+</p>",privacy-and-security_1;desktop;,firefox,privacy-and-security,en-US,"",josenieves.jn7
+1282394,2020-03-19 15:34:22 -0800,2020-03-19T17:33:58Z,Password,"<p>Having trouble logging into my account I don't remember the password
+</p>",privacy-and-security_1;desktop;,firefox,privacy-and-security,en-US,1298775;1298795;,josenieves.jn7
+1282390,2020-03-19 15:10:50 -0800,2020-03-19T15:22:38Z,"Can't Download, FFox Freezes","<p>Just had my OS reinstalled with Win 10. When I try to download anything from the web, FFox 74.0 freezes and need to exit it with End Task.
+</p><p>are there some settings I can look at? I tried Chrome and no problem downloading, Hope someone can help I like FFox more then the others.
+</p><p>Joe
+</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1298766;,JoeFromSD
+1282389,2020-03-19 14:50:03 -0800,2020-03-19T15:58:38Z,Selecting specific search results in google,"<p>Mission is to select some of my google search results (links) in order to copy their urls using Firefox add-on Copy Selected links.
+It use to work that by pressing Ctrl I could select with mouse left button different links in search results but now it is selecting all previous links as well and I cannot have a control over the selections. I want only some of the links in google not all. Are you able to help me?
+</p>",firefox-740;desktop;tips;windows-7;,firefox,tips,en-US,1298768;1298777;,erik27
+1282386,2020-03-19 12:13:12 -0800,2020-03-19T13:03:53Z,Firefox 74.0 (64-bit) for Ubuntu. Music Library asks me to update but this is latest version. Unable to get around update firefox pop up from Amazon.,"<p>Installed latest version of firefox 74.0 (64-bit). Logged into Amazon. Went to music library. Spun for a bit. Pop up comes up that browser is no longer supported and update. I am on the latest version 74.0 (64-bit). I've removed and re-installed a few times to no avail. 
+Are there other non standard libraries I need to install ?
+</p>",firefox-740;websites;desktop;linux;,firefox,websites,en-US,1298742;,DresdenWulf
+1282384,2020-03-19 12:06:14 -0800,2020-03-19T12:06:14Z,On PC and Android-tablet I activated the same Firefox-account to sync from Tablet to PC. Doesn't work. Only new registrations are added on the PC ...,"<p>On the PC I have Firefox 75.0b5 (32-bits).
+On the Android-tablet (Samsung Tab S2) I have Firefox 68.6.0. So, both the newest versions.
+I created the PC-account today, because the Tablet-screen should be repaired and I don't want to leave any personal information there. So before cleaning I wanted to sync the personal data to the PC via the Firefox-account.
+</p>",firefox-750;beta;sync;desktop;windows-10;,firefox,sync,en-US,"",jannyzelf
+1282379,2020-03-19 11:00:09 -0800,2020-03-20T18:04:32Z,geo.wifi.uri not working properly,"<p>Hi,
+</p><p>Months ago I learnt the Firefox geolocalize you by using Google's API, and that if you want to get a fix position, then you have to change the geo.wifi.uri property to
+</p><pre>   ""data:application/json,{""location"": {""lat"": your_lat, ""lng"": your_long}, ""accuracy"": 27000.0}"".
+</pre>
+<p>A month or two months ago I remember I used google maps and was working as expected, with the coordinates I put in geo.wifi.uri. Today I was very surprised to find that Firefox was giving me my real coordinates even that geo.wifi.uri hasn't changed. I haven't changed my ISP provider, and the updates haven been the normal ones, for Windows 10 and firefox. Now I'm using Firefox 74.0 (64-bit). What's happening here?
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,es,1299003;,dalsim
+1282377,2020-03-19 10:19:21 -0800,2020-03-19T14:08:00Z,Spell check works on all sites except Gmail... Sometimes - Linux,"<p>I'm using Firefox 74.0 x64 on Pop!_OS 19.10. I do not know for sure if this issue was happening before 74.0, but I believe it was. Spellcheck is enabled and the English US dictionary is downloaded. Spellcheck seems to work perfectly everywhere, with one weird exception. It doesn't work in Gmail... usually. Most of the time it does not work, but in testing different scenarios for this report, I found it often does work.
+</p><p>Some other notes about my setup. I'm using Firefox containers. I notice this issue most in my ""Work"" container. I tried opening Gmail in my personal container and in no container. It was working at this moment.
+</p><p>Attached is a screenshot from my ""work"" container. It shows two gmail drafting windows open on the same page at the same time. In one, spell check is working. In the other it is not. It doesn't matter if the drafting window is inline or popped out, the same issue persists. All tests were done while on the URL: <a href=""https://mail.google.com/mail/u/0/"" rel=""nofollow"">https://mail.google.com/mail/u/0/</a>...
+</p><p>I'm not really sure what else to do to identify the issue at this time. Maybe there's just good advice for clearing the browser cache or something that would help?
+</p>",firefox-740;websites;desktop;linux;,firefox,websites,en-US,1298726;1298761;,Anxiety35
+1282373,2020-03-19 09:00:51 -0800,2020-03-19T09:34:08Z,download stuck,"<p>so i was downloading a movie about 12.5 gb size and after six hours at the last moment it got stuck and i couldnt download it i restarted my pc and resumed download but it didnt work it just gets stuck when time left to download is 1min50s and the disk usage goes up to 100 % .
+</p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1298704;,alipooramirhossein73
+1282372,2020-03-19 08:52:14 -0800,2020-03-19T19:04:33Z,How can I navigate to a specific folder when downloading? not the preselected options displayed when downloading. I want to navigate to any local folder.,"<p>When downloading the option for ""Always ask you where to save files"" option is already selected; however, when I got to save the download I can only navigate to preselected folders. That is not useful as I need to download to one of many options. This is a very frustrating error that diminishes firefox.
+</p>",download-and-install_1;firefox-740;desktop;mac-os;,firefox,download-and-install,en-US,1298793;1298803;,hifromthisguy
+1282370,2020-03-19 08:31:20 -0800,2020-03-23T05:05:56Z,Website works only in Private Mode and not in Normal mode,"<p>Hi,
+</p><p>we have a website that runs without any issues on Chrome/IE/Firefox (private mode only). When we browse the website in Firefox (normal mode) it logs in fine but subseqent HTTP GET/POST are automatically redirect to our login page without any errors in the network/console developer tools. 
+</p><p>If we disable the cache in Developer tools then the website works without any issues in Normal mode. This has started happening from last 2 months (hopefully due to the chagnes in Firefox) 
+</p><p>Any advice on how to diagnose the problem will be helpful
+</p><p>Thanks in advance.
+</p>",firefox-740;websites;desktop;windows-10;,firefox,websites,en-US,1298753;1298772;1298798;1298841;1298853;1298857;1298862;1298863;1298877;1298890;1298918;1299604;,rajeshsv_5
+1282369,2020-03-19 08:12:23 -0800,2020-03-19T08:12:23Z,Why can't I change browser cache capacity ?,"<p>Firefox ""builds up"" internet cache capacity to 1.0 GB fairly quick.  I can easily delete it &amp; do it about once a day.  I go to about:config &amp; change: browser.cache.disk.capacity from 1048576 to the default, which shows 256000 (kilobytes, I believe).  I close Firefox &amp; reopen.  It goes back to the 1048576 KB every time.  How can I ""save"" the default capacity?  I believe that 1.0 GB is too large.
+</p><pre> I also notice that before I change the value, it is written in bold print &amp; then change it to default, it is not in bold type.
+ DOES ANYONE know the ""answer"" to my question????
+</pre>
+<p>Thank you
+</p>",firefox-740;other;desktop;windows-7;,firefox,other,en-US,"",hgw53t
+1282367,2020-03-19 07:34:58 -0800,2020-03-19T13:39:51Z,Version 74.0 (64 bit) on Windows 7 is taking all physical memory,"<p>The sites on which this is occurring include those with multiple, frequently refreshing ads and other content: BBC News, Discover Magazine blogs, Boston Globe newspaper. Over a fairly short time, e.g., 20 minutes or so, physical memory usage as reported by Task Manager climbs to over 95%. Closing the tab for the offending web site almost always immediately drops memory usage to under 40%. If that fails, closing and then reopening Firefox fixes the problem. Please note that this did not occur with the previously installed version. I have Firefox set to automatically update.
+</p>",firefox-740;desktop;fix-problems;,firefox,fix-problems,en-US,1298752;,mmshesko
+1282365,2020-03-19 07:20:43 -0800,2020-03-19T07:20:43Z,"Firefox is listed in Windows 10 as my default browser, but on Firefox it shows Firefox IS NOT my default browser, why isn't Firefox correctly recognizing this?","<p>How do I get Firefox to recognize that Firefox IS my default browser?
+</p>",firefox-740;customize;desktop;windows-10;,firefox,customize,en-US,"",logofaisle
+1282364,2020-03-19 07:14:06 -0800,2020-03-19T16:14:49Z,I can not load a website if the address ends with #Something.,"<p>So I am looking at this web site (<a href=""https://www.theroot.com/john-cornyn-blaming-coronavirus-on-chinese-culture-is-o-1842402254)"" rel=""nofollow"">https://www.theroot.com/john-cornyn-blaming-coronavirus-on-chinese-culture-is-o-1842402254)</a>, and I have an account on the site and I want to read the comments which is this website (with the #) (<a href=""https://www.theroot.com/john-cornyn-blaming-coronavirus-on-chinese-culture-is-o-1842402254#replies)"" rel=""nofollow"">https://www.theroot.com/john-cornyn-blaming-coronavirus-on-chinese-culture-is-o-1842402254#replies)</a>... but I can not see the comments on the site.. nothing just the text and then the adds at the bottom.
+</p><p>If I were to go to my settings and delete my Cached Web Content ,,,, I can see the comments, but i have to do that for EVERY web page... not once a session... every time I go to a new page.
+</p><p>This does not happen with my other browser (Chrome).. this has been happening for a few months, I thought it was the web site, but no. I also tried toggling off Ipv6.. no change.
+</p><p>For follow up, I did some testing:
+- This happens when I run in safe mode (ie: without extensions)
+- This happens with I turn off Hardware acceleration
+- This happens with I toggle DNS prefetching..
+</p><p>Thanks in Advance
+</p>",firefox-740;websites;desktop;windows-10;,firefox,websites,en-US,1298694;1298701;1298703;1298707;1298719;1298725;1298728;1298783;,markjfedorov
+1282363,2020-03-19 07:07:54 -0800,2020-03-22T07:57:11Z,hoe kan ik mijn bladwijzers (rechts boven in) ordenen ??,"<p>Heb natuurlijk via alle bladwijzers tonen mijn bladwijzers kunnen ordenen, maar als ik daarna mijn bladwijzer menu (rechts boven in ) open staat ze nog steeds ongeordend, hoe kan deze blijven ordenen ?
+</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1298687;1298710;1298713;1298762;1298765;1298790;1298816;1298825;1298828;1298830;1298832;1298834;1298840;1298843;1298845;1298846;1298848;1298852;1298858;1298876;1298881;1298944;1298998;1299098;1299284;1299324;1299332;1299349;1299370;1299387;,Cees1941
+1282361,2020-03-19 05:43:02 -0800,2020-03-20T18:15:56Z,de repente han desaparecido todos los certificados digitales que tenía en el navegador y no puedo acceder a ellos.,"<p>De repente se cerró la sesión de firefox con la que venía trabajando, y el navegador; se reinició solo, dijo estar actualizando y si quería reiniciar o iniciar en modo seguro. Cuando quedó abierta la página del navegador, accedí a opciones, privacidad y seguridad, certificados, y no existe ningún certificado instalado. Es para mi un problema muy grave. Necesito restablecerlos todos.
+</p>",firefox-7202;firefox-720;desktop;privacy-and-security_1;windows;,firefox,privacy-and-security,es,1299010;,yurenadeleon.clientes
 1282358,2020-03-19 04:27:29 -0800,2020-03-19T04:27:29Z,Cannot use our self signed client certificates,"<p>In order to monitor our application at client sites, we have added a monitoring page (using apache). To prevent preying eyes, we require clients to identify them selves using a client certificate. This used to work until a few weeks ago, but now we are having problems using firefox. It keeps stating a SSL_ERROR_HANDSHAKE_FAILURE_ALERT error, and we cannot accessing the pages.
 </p><p>I have already added our Root CA and intermediate CA (used to sign the client certs) in both firefox and the windows certificate store, But the problem is not yet resolved.
 </p><p>The subdomain is protected with a an Organization Validated certficate from an official CA authority. Apparently we are missing something, but i can't see what is causing this issue. 
 </p><p>If i disable the requirement for a client certificate, the site is accessible, but that is not really an option here.
 </p>",firefox-740;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US,"",fhdumay
-1282356,2020-03-19 03:32:19 -0800,2020-03-19T03:32:19Z,¿CÓMO IMPRIMIR CONTRASEÑAS Y USUARIOS?,"<p>Quiero imprimir mis contraseñas y usuarios que tengo guardados en  Firefox lockwise o tenerlos en archivo,¿cómo lo hago?Gracias
-</p>",download-and-install_1;firefox-740;desktop;windows-10;,firefox,download-and-install,es,"",raspcris
-1282355,2020-03-19 03:11:09 -0800,2020-03-19T05:27:55Z,removed sites links from firefox start page,"<p>hi everybody. just goofed while removing one ""site link tab"" from firefox's start page: clicked the wrong command and deleted all instead; now it seems that it also disabled the automatic ""recording of the prefered sites"" -i don't know the exact name of it even in italian- on firefox opening page...not a terrible issue, but it was handy to have them...
+1282356,2020-03-19 03:32:19 -0800,2020-03-22T16:09:03Z,¿CÓMO IMPRIMIR CONTRASEÑAS Y USUARIOS?,"<p>Quiero imprimir mis contraseñas y usuarios que tengo guardados en  Firefox lockwise o tenerlos en archivo,¿cómo lo hago?Gracias
+</p>",download-and-install_1;firefox-740;desktop;windows-10;needsinfo;,firefox,download-and-install,es,1299505;,raspcris
+1282355,2020-03-19 03:11:09 -0800,2020-03-19T12:42:50Z,removed sites links from firefox start page,"<p>hi everybody. just goofed while removing one ""site link tab"" from firefox's start page: clicked the wrong command and deleted all instead; now it seems that it also disabled the automatic ""recording of the prefered sites"" -i don't know the exact name of it even in italian- on firefox opening page...not a terrible issue, but it was handy to have them...
 tried preferences/options but was not able to find any tool to get them back.
 thanks in advance for providing some help to one who was born in the age of the vacuum tubes... ;-)
-</p>",firefox-740;customize;desktop;windows-10;,firefox,customize,en-US,1298680;,bobo53
+</p>",firefox-740;customize;desktop;windows-10;,firefox,customize,en-US,1298680;1298711;1298712;1298718;1298720;1298731;1298732;,bobo53
 1282354,2020-03-19 02:53:53 -0800,2020-03-19T05:10:40Z,Firefox does not allow me to log out from Hotmail,"<p>Normally when leaving Hotmail I click on my user name and am presented with a number of options including ""Sign Out"". Now no options are presented, but Microsoft Edge does show these options and I can log out with no problem. Can anyone help?
-</p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1298676;,smcc
-1282353,2020-03-19 02:50:18 -0800,2020-03-19T02:50:18Z,I have many (>50) tabs open in a window - and need a better & easier way to rearrange them than by mouse-dragging them,"<p>I keep many tabs open, as a part of many activities I work on, all within my primary-use window. Additional windows contain other secondary clusters of pending projects. When trying to rearrange my work (=tabs), dragging a tab with the mouse across 50 other tabs is quite cumbersome and difficult to find the right place to sort it into. I'm looking for an easy way, like in Powerpoints slide-sorter where you can see 50+ slides in a matrix grid layout, or in the Mac OS Finder, where you can see thumbnail pictures and rearrange them. Mouse-dragging is great and much appreciated, but has its limits when dragging the tab ""far"" across the tabs to a new location many tabs away.
+</p>",firefox-740;other;desktop;windows-10;hotmail;,firefox,other,en-US,1298676;,smcc
+1282353,2020-03-19 02:50:18 -0800,2020-03-19T07:31:30Z,I have many (>50) tabs open in a window - and need a better & easier way to rearrange them than by mouse-dragging them,"<p>I keep many tabs open, as a part of many activities I work on, all within my primary-use window. Additional windows contain other secondary clusters of pending projects. When trying to rearrange my work (=tabs), dragging a tab with the mouse across 50 other tabs is quite cumbersome and difficult to find the right place to sort it into. I'm looking for an easy way, like in Powerpoints slide-sorter where you can see 50+ slides in a matrix grid layout, or in the Mac OS Finder, where you can see thumbnail pictures and rearrange them. Mouse-dragging is great and much appreciated, but has its limits when dragging the tab ""far"" across the tabs to a new location many tabs away.
 Solutions would be most appreciated. Thanks. Robert.
-</p>",tabs;firefox-740;desktop;mac-os;,firefox,tabs,en-US,"",robert126
+</p>",tabs;firefox-740;desktop;mac-os;,firefox,tabs,en-US,1298689;,robert126
 1282349,2020-03-19 01:45:13 -0800,2020-03-19T01:45:13Z,about:logins hangs,"<p>when i try to manage my logins, the about:logins page hangs and never loads.  all other about pages work fine.  i am using 68.6.0esr (64-bit) on this computer, but i use the latest firefox normally and i have firefox sync.  i have never enabled syncing of logins, only history.  i'm not sure what causes about:logins to hang.  i'm pretty sure it worked in the past on this computer.
 </p>",other;desktop;linux;,firefox,other,en-US,"",jayenashar
-1282348,2020-03-19 01:36:54 -0800,2020-03-19T02:26:56Z,"autoplay options have effect - cnn.com, etc","<p>I have never been able to get autoplay options to prevent blasting out audio when stumbling onto a malicious website like CNN. This is a major privacy problem as perhaps you don't want the world to know you are studying how to seek legal or medical help etc with audio blasting out at max level.
+1282348,2020-03-19 01:36:54 -0800,2020-03-20T20:45:16Z,"autoplay options have effect - cnn.com, etc","<p>I have never been able to get autoplay options to prevent blasting out audio when stumbling onto a malicious website like CNN. This is a major privacy problem as perhaps you don't want the world to know you are studying how to seek legal or medical help etc with audio blasting out at max level.
 </p><p>I don't know why this is so hard to manage since detecting loud audio isn't that difficult and it seems like browsers have all sort of hooks into media features of the operating systems they run on.
 </p><p>Can't firefox take samples of the audio (we don't need advanced signal processing here), determine that it is blasting out, and kill it?
 </p><p>In any case I have never been able to get any impact from autoplay settings other than to screw up my browsing experience so bad I have to reset to defauts to even manually play a video.
 </p><p>Addins like no script are so restrictive they render browsing impossible.
-</p>",firefox-740;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US,1298665;,robert.leyendecker
-1282347,2020-03-19 01:31:49 -0800,2020-03-19T01:31:49Z,"Firefox loads https://cdn.jsdelivr.net/npm/vue/dist/vue.js once, but not a second time","<p>A web app I am building seems to be broken in Firefox. It loads ok the first time, but not the second.
+</p>",firefox-740;desktop;privacy-and-security_1;windows-10;autoplay;,firefox,privacy-and-security,en-US,1298665;1298814;1298818;1299058;1299060;1299061;,robert.leyendecker
+1282347,2020-03-19 01:31:49 -0800,2020-03-20T09:06:22Z,"Firefox loads https://cdn.jsdelivr.net/npm/vue/dist/vue.js once, but not a second time","<p>A web app I am building seems to be broken in Firefox. It loads ok the first time, but not the second.
 </p><p>I checked the console and I found I get an error message that says: 
 </p><p>Loading failed for the &lt;script&gt; with source “<a href=""https://cdn.jsdelivr.net/npm/vue/dist/vue.js”"" rel=""nofollow"">https://cdn.jsdelivr.net/npm/vue/dist/vue.js”</a>.
 </p><p>I tried loading the URL <a href=""https://cdn.jsdelivr.net/npm/vue/dist/vue.js"" rel=""nofollow"">https://cdn.jsdelivr.net/npm/vue/dist/vue.js</a> in another tab, and it loads ok the first time, but if I reload it I get a security error:
@@ -40,24 +104,19 @@ Peer’s Certificate issuer is not recognized.
 </p><p>Neither Chrome nor Safari seem to be affected.
 </p><p>Another weird symptom is that pictures on stackoverflow are all broken.
 </p><p>I appreciate any help - thanks.
-</p>",firefox-740;desktop;privacy-and-security_1;mac-os;,firefox,privacy-and-security,en-US,"",simonecesano
-1282342,2020-03-18 22:50:58 -0800,2020-03-18T22:50:58Z,Font size on menus and tabs is not changing with devp setting,"<p>Currently the font size on menus and tabs is very small. I have changed the setting in the following location and it changes the frame sizes / icons etc but not the font.
+</p>",firefox-740;desktop;privacy-and-security_1;mac-os;webdev;,firefox,privacy-and-security,en-US,1298842;1298871;,simonecesano
+1282342,2020-03-18 22:50:58 -0800,2020-03-19T23:07:45Z,Font size on menus and tabs is not changing with devp setting,"<p>Currently the font size on menus and tabs is very small. I have changed the setting in the following location and it changes the frame sizes / icons etc but not the font.
 </p><p>layout.css.devPixelsPerPx
-</p>",firefox-740;other;desktop;,firefox,other,en-US,"",richgkav
+</p>",firefox-740;other;desktop;,firefox,other,en-US,1298819;,richgkav
 1282338,2020-03-18 19:43:53 -0800,2020-03-19T03:36:59Z,Can the current PINK!!! web page be destroyed and return to the better ADULT web page?,"<p>For the THIRD TIME: The current Firefox PINK!!! web page header is atrocious. I am NOT a child and this web page is an insult to users.
 The icons at the top left hand corner are difficult to read but now they are worse. PLEASE return to the previous ADULT web page that was so much friendlier than the current PINK!!!! monstrosity.
 </p>",firefox-740;other;desktop;windows-10;,firefox,other,en-US,1298632;1298637;1298649;1298668;1298669;,bda1
 1282336,2020-03-18 18:49:31 -0800,2020-03-18T20:41:10Z,Refresh (Reset) button missing,"<p>Refresh Firefox (Reset) Button missing from Troubleshooting Information page. Using Firefox PortableApp 74.0 in Safe Mode.
 </p>",firefox-740;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1298634;1298636;,rykellim
-1282333,2020-03-18 18:21:28 -0800,2020-03-19T00:12:18Z,ERROR:Network.http.sendRefererHeader = 0 Please fix your browser settings,"<p>I already did the following steps:
-</p><p><br>
-</p><pre>   Type ‘about:config’ in the URL bar, and hit enter (you may have to click though a, ‘I’ll be careful, I promise!’ warning)
-</pre>
-<pre>   In the search bar type ‘network.http.sendRefererHeader’
-</pre>
-<pre>   Double-click on the ‘network.http.sendRefererHeader’ preference when it comes up
-</pre>
-<pre>   Enter an integer value of 0, 1, or 2 or in the dialog box, then hit OK and close the ‘about:config’ tab
-</pre>
-<p>but this error keeps coming up, what do I do?
-</p>",firefox-740;websites;desktop;windows-10;,firefox,websites,en-US,1298635;1298642;1298651;1298657;,Lars.Frusch
+1282333,2020-03-18 18:21:28 -0800,2020-03-19T18:12:37Z,ERROR:Network.http.sendRefererHeader = 0 Please fix your browser settings,"<p>I already did the following steps:
+</p><p>Type ‘about:config’ in the URL bar, and hit enter (you may have to click though a, ‘I’ll be careful, I promise!’ warning)
+</p><p>In the search bar type ‘network.http.sendRefererHeader’
+</p><p>Double-click on the ‘network.http.sendRefererHeader’ preference when it comes up
+</p><p>Enter an integer value of 0, 1, or 2 or in the dialog box, then hit OK and close the ‘about:config’ tab
+</p><p>but this error keeps coming up, what do I do?
+</p>",firefox-740;websites;desktop;windows-10;probablynotafirefoxproblem;,firefox,websites,en-US,1298635;1298642;1298651;1298657;1298789;1298797;,Lars.Frusch
