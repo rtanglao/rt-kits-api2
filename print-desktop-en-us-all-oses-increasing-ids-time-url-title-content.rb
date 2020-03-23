@@ -62,7 +62,7 @@ CSV.foreach(FILENAME, :headers => true) do |row|
 end
 logger.debug 'num_questions:' + num_questions.to_s
 sorted_array =  id_time_url_title_content_tags_array.sort_by { |h| h[0] }
-headers = ['id', 'created', 'url', 'title', 'content', 'tags']
+headers = ['id', 'created', 'url', 'title', 'content', 'tags','product', 'locale']
 
 if csv
   FILENAME = sprintf("sorted-all-desktop-en-us-%s", ARGV[0])
