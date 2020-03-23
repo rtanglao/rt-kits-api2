@@ -37,7 +37,9 @@ CSV.foreach(FILENAME, :headers => true) do |row|
   content = ""
   logger.debug row['tags']
   logger.debug row['title']
-  next if row['locale'] != "en-US" || row['product'] != 'firefox'
+  locale = row['locale']
+  product = row['product']
+  next if locale != "en-US" || product != 'firefox'
   
   content  = Nokogiri::HTML.fragment(row['content']).text 
   logger.debug 'CONTENT:' + content
@@ -53,7 +55,9 @@ CSV.foreach(FILENAME, :headers => true) do |row|
       "https://support.mozilla.org/questions/" + row['id'].to_s,
       row['title'][0..79],
       content.tr("\n"," "),
-      row["tags"]
+      row["tags"],
+      product,
+      locale
     ])
 end
 logger.debug 'num_questions:' + num_questions.to_s
