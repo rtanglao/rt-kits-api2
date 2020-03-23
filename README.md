@@ -1,9 +1,10 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
-## 23march2020 getting 50 for JR
+## 23march2020 getting random 50 support questions from 20-22march for JR
 
 ```bash
+../get-creator-answers-questions-for-arbitrary-time-period.rb 2020 3 20 2020 3 22
 ../print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb \
 2020-03-20-2020-03-22-firefox-creator-answers-desktop-all-locales.csv csv # get it from the last 3 days
 # remove first line and shuffle
