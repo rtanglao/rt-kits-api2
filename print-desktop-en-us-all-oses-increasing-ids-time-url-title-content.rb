@@ -52,7 +52,7 @@ CSV.foreach(FILENAME, :headers => true) do |row|
       row["created"],
       "https://support.mozilla.org/questions/" + row['id'].to_s,
       row['title'][0..79],
-      content,
+      content.tr("\n"," "),
       row["tags"]
     ])
 end
