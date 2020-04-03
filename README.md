@@ -3,9 +3,9 @@ Roland's Kitsune API scripts version 2
 
 ## 02April2020 sketch for B&E
 
-GOAL: in python (with tests) get answers created for a certain period when Firefox questions were updated (not created) from B&E.
+GOAL: in python (with tests) get Firefox Desktop answers created for a certain period when Firefox questions were updated (not created) from B&E.
 
-* 1\. The following does what you want but for `created` (see https://github.com/rtanglao/rt-kits-api2/blob/master/get-creator-answers-questions-for-arbitrary-time-period.rb#L61 ) time not `updated` and it's in ruby not python and there are no tests
+* 1\. The following two ruby scripts does what you want but for `created` (see https://github.com/rtanglao/rt-kits-api2/blob/master/get-creator-answers-questions-for-arbitrary-time-period.rb#L61 ) time not `updated` and it's in ruby not python and there are no tests
 ```bash
 ../get-creator-answers-questions-for-arbitrary-time-period.rb 2020 3 22 2020 3 22
 # which creates 2020-03-22-2020-03-22-firefox-creator-answers-desktop-all-locales.csv
@@ -35,9 +35,9 @@ url = "https://support.mozilla.org/api/2/question/"
     :format => "json",
     :question => id 
   } 
-  ```
-
-
+ ```
+* 5\. You should be able to combine the two ruby scripts into 1 script.I'm just lazy and minimized new work by using an old script, `get-creator-answers-questions-for-arbitrary-time-period.rb`
+* 6\. For initial testing to make sure the Kitsune questions API works with `updated`, +just use `wget` or `curl` instead of writing a python script
 
 ## 23march2020 getting random 50 support questions from 20-22march for JR
 
