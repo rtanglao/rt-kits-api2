@@ -1,6 +1,21 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 02April2020 sketch for B&E
+
+GOAL: in python with tests get answers created for a certain period from B&E.
+
+* 1\. The following does what you want but for `created` (see https://github.com/rtanglao/rt-kits-api2/blob/master/get-creator-answers-questions-for-arbitrary-time-period.rb#L61 ) time not `updated` and it's in ruby not python and there are no tests
+* 2\. I am not sure `updated` works
+
+```bash
+../get-creator-answers-questions-for-arbitrary-time-period.rb 2020 3 22 2020 3 22
+# which creates 2020-03-22-2020-03-22-firefox-creator-answers-desktop-all-locales.csv
+../print-question-url-answer-id-answer-creator.rb \
+2020-03-22-2020-03-22-firefox-creator-answers-desktop-all-locales.csv
+> [questions-answers-with-times.csv] 
+```
+
 ## 23march2020 getting random 50 support questions from 20-22march for JR
 
 ```bash
