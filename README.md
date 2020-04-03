@@ -27,7 +27,7 @@ url_params = {
 
 url = "https://support.mozilla.org/api/2/question/"
 ```
-* 4\. Relevant lines from [print-question-url-answer-id-answer-creator.rb](https://github.com/rtanglao/rt-kits-api2/blob/master/print-question-url-answer-id-answer-creator.rb
+* 4\. Relevant lines from [print-question-url-answer-id-answer-creator.rb](https://github.com/rtanglao/rt-kits-api2/blob/master/print-question-url-answer-id-answer-creator.rb)
 ```ruby
   url = "https://support.mozilla.org/api/2/answer/"
 
