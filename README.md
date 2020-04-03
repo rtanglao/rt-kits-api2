@@ -13,7 +13,7 @@ GOAL: in python (with tests) get Firefox Desktop answers created for a certain p
 2020-03-22-2020-03-22-firefox-creator-answers-desktop-all-locales.csv
 > [questions-answers-with-times.csv] 
 ```
-* 2\. I am not sure `updated` works
+* 2\. I am not sure `updated__gt` and `updated__lt` works
 * 3\. Relevant lines from [get-creator-answers-questions-for-arbitrary-time-period.rb](https://github.com/rtanglao/rt-kits-api2/blob/master/get-creator-answers-questions-for-arbitrary-time-period.rb)
 ```ruby
 
