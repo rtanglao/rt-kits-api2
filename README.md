@@ -44,6 +44,7 @@ My workaround in ruby:
 # the following hack has to be done for all times returned by the Kitsune API until 3686 is fixed
 answer_created = Time.parse(answer["created"].gsub("Z", "PST")) #issue 3686 time is in PST not UTC
 ```
+* 8\. delay 1 second between API calls
 
 ## 23march2020 getting random 50 support questions from 20-22march for JR
 
