@@ -39,6 +39,11 @@ url = "https://support.mozilla.org/api/2/question/"
 * 5\. You should be able to combine the two ruby scripts into one script.I'm just lazy and minimized new work by using an old script, `get-creator-answers-questions-for-arbitrary-time-period.rb`
 * 6\. For initial testing to make sure the Kitsune questions API works with `updated`, just use `wget` or `curl` instead of writing a python script.
 * 7\. Beware [issue:3686-timezone issue with time always being Pacific](https://github.com/mozilla/kitsune/issues/3686)
+My workaround in ruby:
+```ruby
+# the following hack has to be done for all times returned by the Kitsune API until 3686 is fixed
+answer_created = Time.parse(answer["created"].gsub("Z", "PST")) #issue 3686 time is in PST not UTC
+```
 
 ## 23march2020 getting random 50 support questions from 20-22march for JR
 
