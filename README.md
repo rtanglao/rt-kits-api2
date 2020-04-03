@@ -3,11 +3,9 @@ Roland's Kitsune API scripts version 2
 
 ## 02April2020 sketch for B&E
 
-GOAL: in python with tests get answers created for a certain period from B&E.
+GOAL: in python (with tests) get answers created for a certain period when Firefox questions were updated (not created) from B&E.
 
 * 1\. The following does what you want but for `created` (see https://github.com/rtanglao/rt-kits-api2/blob/master/get-creator-answers-questions-for-arbitrary-time-period.rb#L61 ) time not `updated` and it's in ruby not python and there are no tests
-* 2\. I am not sure `updated` works
-
 ```bash
 ../get-creator-answers-questions-for-arbitrary-time-period.rb 2020 3 22 2020 3 22
 # which creates 2020-03-22-2020-03-22-firefox-creator-answers-desktop-all-locales.csv
@@ -15,6 +13,31 @@ GOAL: in python with tests get answers created for a certain period from B&E.
 2020-03-22-2020-03-22-firefox-creator-answers-desktop-all-locales.csv
 > [questions-answers-with-times.csv] 
 ```
+* 2\. I am not sure `updated` works
+* 3\. Relevant lines from [get-creator-answers-questions-for-arbitrary-time-period.rb](https://github.com/rtanglao/rt-kits-api2/blob/master/get-creator-answers-questions-for-arbitrary-time-period.rb)
+```ruby
+
+url_params = {
+  :format => "json",
+  :product => "firefox", 
+  :created__gt => greater_than_time,
+  :created__lt => less_than_time,
+  :ordering => "+created",
+} 
+
+url = "https://support.mozilla.org/api/2/question/"
+```
+* 4\. Relevant lines from [print-question-url-answer-id-answer-creator.rb](https://github.com/rtanglao/rt-kits-api2/blob/master/print-question-url-answer-id-answer-creator.rb
+```ruby
+  url = "https://support.mozilla.org/api/2/answer/"
+
+  url_params = {
+    :format => "json",
+    :question => id 
+  } 
+  ```
+
+
 
 ## 23march2020 getting random 50 support questions from 20-22march for JR
 
