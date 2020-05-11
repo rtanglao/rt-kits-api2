@@ -5,16 +5,15 @@ Roland's Kitsune API scripts version 2
 ```bash
  grep download-and-install_1 sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
 grep privacy-and- sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
-   grep customize; sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
-   grep "customize;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
-   grep "fix-problems" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
-   grep "tips;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
-   grep "bookmarks;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
-   grep "cookies;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
-   grep "tabs;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
-   grep "websites;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-c
-reator-answers-desktop-all-locales.csv | wc -l
-   grep "sync;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
+grep customize; sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
+grep "customize;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
+grep "fix-problems" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
+grep "tips;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
+grep "bookmarks;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
+grep "cookies;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
+grep "tabs;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
+grep "websites;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
+grep "sync;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
 grep "other;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
 
 ```
