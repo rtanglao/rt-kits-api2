@@ -3,8 +3,7 @@ Roland's Kitsune API scripts version 2
 
 ## 11april2020 get count by aaq topic
 ```bash
- grep download-and-install_1 sorted-all-desktop-en-us-2020-01-01-2020-01-3
-1-firefox-creator-answers-desktop-all-locales.csv | wc -l
+ grep download-and-install_1 sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
 grep privacy-and- sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
    grep customize; sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
    grep "customize;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
