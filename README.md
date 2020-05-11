@@ -1,6 +1,23 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 11april2020 get count by aaq topic
+```bash
+ grep download-and-install_1 sorted-all-desktop-en-us-2020-01-01-2020-01-3
+1-firefox-creator-answers-desktop-all-locales.csv | wc -l
+grep privacy-and- sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
+   grep customize; sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
+   grep "customize;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
+   grep "fix-problems" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
+   grep "tips;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
+   grep "bookmarks;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
+   grep "cookies;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
+   grep "tabs;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
+   grep "websites;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-c
+reator-answers-desktop-all-locales.csv | wc -l
+   grep "sync;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
+
+```
 ## 02April2020 sketch for B&E
 
 GOAL: in python (with tests) get Firefox Desktop answers created for a certain period when Firefox questions were updated (not created) from B&E.
