@@ -15,6 +15,7 @@ grep privacy-and- sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator
    grep "websites;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-c
 reator-answers-desktop-all-locales.csv | wc -l
    grep "sync;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
+grep "other;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
 
 ```
 ## 02April2020 sketch for B&E
