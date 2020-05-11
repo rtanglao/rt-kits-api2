@@ -2,6 +2,24 @@
 Roland's Kitsune API scripts version 2
 
 ## 11april2020 get count by aaq topic
+
+* based on the stuff below, created this script:
+
+```bash
+roland@DESKTOP-KT6DGHC ~/GIT/rt-kits-api2/2020BYMONTH
+ % ../get-aaq-topic-counts.sh sorted-all-desktop-en-us-2020-04-01-2020-04-30-firefox-creator-answers-desktop-all-locales.csv
+70
+120
+235
+306
+21
+54
+12
+77
+105
+48
+377
+```
 ```bash
  grep download-and-install_1 sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
 grep privacy-and- sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-answers-desktop-all-locales.csv | wc -l
