@@ -1,6 +1,6 @@
 Number of questions:53
 
-| id:created | Title | Content | Tags |
+|id:created | Title | Content | Tags |
 | --- | --- | --- | --- |
 | [1287026](https://support.mozilla.org/questions/1287026)<br>2020-05-14 16:26:28 -0800 | Why can't Firefox detect the microphone in my webcam? |<details><summary>Firefox is oblivious to the existence of the microphone built into my webcam.  W</summary>hen connecting to video chats it gives the option to connect to...Realtek Audio but doesn't give the option that Chrome and other programs offer to select the correct mic option.  What gives?? </details> | [other](https://support.mozilla.org/en-US/questions/firefox?tagged=other);[desktop](https://support.mozilla.org/en-US/questions/firefox?tagged=desktop);[firefox-760](https://support.mozilla.org/en-US/questions/firefox?tagged=firefox-760);[windows-7](https://support.mozilla.org/en-US/questions/firefox?tagged=windows-7);|
 | [1287028](https://support.mozilla.org/questions/1287028)<br>2020-05-14 16:58:47 -0800 | I located a photo online that I would like to copy. After I copy it, where do I  |<details><summary>When a portion of text or a photo is copied, where does the copy go? I don't kno</summary>w where to look. Thanks. </details> | [firefox-750](https://support.mozilla.org/en-US/questions/firefox?tagged=firefox-750);[other](https://support.mozilla.org/en-US/questions/firefox?tagged=other);[desktop](https://support.mozilla.org/en-US/questions/firefox?tagged=desktop);[mac-os](https://support.mozilla.org/en-US/questions/firefox?tagged=mac-os);|
