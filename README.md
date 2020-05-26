@@ -1,6 +1,13 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 26may2020 wsl-open all questions in a markdown questions file
+
+```bash
+grep -o 'https*://support.mozilla.org/questions/[^)]*' \
+sorted-all-desktop-en-us-2020-05-06-2020-05-06-firefox-creator-answers-desktop-all-locales.md\
+| xargs -n 1 wsl-open
+```
 ## 11april2020 get count by aaq topic
 
 * based on the stuff below, created this script:
