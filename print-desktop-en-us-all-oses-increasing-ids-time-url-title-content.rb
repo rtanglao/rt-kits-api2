@@ -43,7 +43,8 @@ CSV.foreach(FILENAME, :headers => true) do |row|
   
   content  = Nokogiri::HTML.fragment(row['content']).text 
   logger.debug 'CONTENT:' + content
-  content = content[0..279] + "..." if content.length > 279
+  content = content[0..279] + "..." if content.length > 279 if markdown
+  content = content[0..1023] + "..." if content.length > 1023 if csv
 
   num_questions += 1
 
