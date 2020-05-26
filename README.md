@@ -1,6 +1,14 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 26may2020 wsl-open every fourth i.e 25% randomly shuffled question
+
+```bash
+ep -o 'https*://support.mozilla.org/questions/[^)]*' \
+sorted-all-desktop-en-us-2020-05-06-2020-05-06-firefox-creator-answers-desktop-all-locales.md\
+| shuf | awk 'NR % 4 == 0' |xargs -n 1 wsl-open
+```
+
 ## 26may2020 wsl-open all questions in a markdown questions file
 
 ```bash
