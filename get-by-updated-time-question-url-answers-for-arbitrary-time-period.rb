@@ -37,7 +37,7 @@ def getKitsuneResponse(url, params, logger)
 end
 
 if ARGV.length < 6
-  puts "usage: #{$0} yyyy mm dd end-yyyy mm id" 
+  puts "usage: #{$0} yyyy mm dd end-yyyy mm dd" 
   exit
 end
 
@@ -72,7 +72,6 @@ while !end_program
   sleep(1.0) # sleep 1 second between API calls
   questions  = getKitsuneResponse(url, url_params, logger)
   logger.ap questions
-  exit
   url = questions["next"]
   if url.nil?
     logger.debug "nil next url"
@@ -116,17 +115,13 @@ while !end_program
     logger.debug 'answers_str:' + answers_str
     logger.debug 'creator:' + creator
 
-    if created.to_i >= created_time.to_i && created.to_i <= end_time.to_i
-      logger.debug "NOT skipping"
-      csv.push(
-        [
-        id, created.to_s, q["updated"].to_s, q["title"], q["content"], 
-        tag_str, q["product"], q["topic"], q["locale"],
-        answers_str, creator
-          ])
-    else
-      logger.debug "SKIPPING"
-    end
+    csv.push(
+      [
+      id, created.to_s, q["updated"].to_s, q["title"], q["content"].tr("\n"," "), 
+      tag_str, q["product"], q["topic"], q["locale"],
+      answers_str, creator
+        ])
+
     if !url.nil?
       logger.debug 'url:' + url
     else
@@ -142,7 +137,7 @@ while !end_program
 end
 headers = ['id', 'created', 'updated', 'title', 'content', 'tags', 'product', 'topic', 
   'locale', 'answers', 'creator']
-FILENAME = sprintf("%4.4d-%2.2d-%2.2d-%4.4d-%2.2d-%2.2d-firefox-creator-answers-desktop-all-locales.csv", 
+FILENAME = sprintf("updated-%4.4d-%2.2d-%2.2d-%4.4d-%2.2d-%2.2d-ff-desktop-creator-answers-desktop-all-locales.csv", 
   ARGV[0].to_i, ARGV[1].to_i, ARGV[2].to_i,
   ARGV[3].to_i, ARGV[4].to_i, ARGV[5].to_i)
 CSV.open(FILENAME, "w", write_headers: true, headers: headers) do |csv_object|
