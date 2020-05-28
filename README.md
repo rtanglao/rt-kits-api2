@@ -1,6 +1,18 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 28may2020 open questions with the escalate tag
+
+* first get the questions by updated time i.le. updated may 28, 2020 and then open them in wsl
+
+```bash
+../get-by-updated-time-question-url-answers-for-arbitrary-time-period.rb 2020 5 28 2020 5 28 
+grep "escalate;" \
+updated-2020-05-28-2020-05-28-ff-desktop-creator-answers-desktop-all-locales.csv\
+| grep -o '^[0-9]*' |\
+xargs -I {} -n 1 wsl-open "https://support.mozilla.org/questions/"{}
+```
+
 ## 26may2020 wsl-open every fourth i.e 25% randomly shuffled question
 
 ```bash
