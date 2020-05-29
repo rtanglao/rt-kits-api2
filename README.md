@@ -3,7 +3,7 @@ Roland's Kitsune API scripts version 2
 
 ## 28may2020 open questions with the escalate tag
 
-* first get the questions by updated time i.le. updated may 28, 2020 and then open them in wsl
+* first get the questions by updated time i.e. updated may 28, 2020 and then open them in wsl
 
 ```bash
 ../get-by-updated-time-question-url-answers-for-arbitrary-time-period.rb 2020 5 28 2020 5 28 
