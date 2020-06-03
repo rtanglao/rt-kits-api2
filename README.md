@@ -1,6 +1,15 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 02june2020 open questions with id > 1289343
+
+```bash
+ grep -o '^[^0-9]*[0-9]*' \
+ sorted-all-desktop-en-us-2020-06-02-2020-06-02-firefox-creator-answers-desktop-all-locales.md |\
+ grep -o '[0-9]*' | awk '$1 > 1289343' |\
+ xargs -I {} -n 1 wsl-open "https://support.mozilla.org/questions/"{}
+```
+
 ## 28may2020 open questions with the escalate tag
 
 * first get the questions by updated time i.e. updated may 28, 2020 and then open them in wsl
