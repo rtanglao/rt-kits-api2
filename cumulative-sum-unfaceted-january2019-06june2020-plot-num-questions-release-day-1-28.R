@@ -1,7 +1,7 @@
 library(tidyverse)
 library(lubridate)
 library(directlabels)
-library("viridis")
+devtools::source_gist('45b49da5e260a9fc1cd7')
 add_release_day_number <-
   function(df_release,
            yyyy,
@@ -101,4 +101,8 @@ jan2019_06june2020_plot = jan2019_06june2020_plot +
   labs(color = 'DesktopAAQ65-77') +
   geom_dl(aes(label = release), method = list(dl.trans(x = x + 0.2), "last.points", cex = 0.8)) +
   geom_dl(aes(label = release), method = list(dl.trans(x = x - 0.2), "first.points", cex = 0.8)) +
-  scale_color_viridis(discrete = TRUE, option = "magma")
+  # following is from iwanthue(13) +
+  scale_color_manual(values=c("#4C2E67","#87D4A9","#4C3833","#CEBB4F","#9283CB","#7CD450","#C55A32", 
+                     "#58723B", "#CCA89D", "#723CCF", "#CD4FBE", "#70A2B7", 
+                     "#BE4A6C" ))
+  #scale_color_viridis(discrete = TRUE, option = "inferno") + theme_bw()
