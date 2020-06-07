@@ -101,4 +101,4 @@ jan2019_06june2020_plot = jan2019_06june2020_plot +
   labs(color = 'DesktopAAQ65-77') +
   geom_dl(aes(label = release), method = list(dl.trans(x = x + 0.2), "last.points", cex = 0.8)) +
   geom_dl(aes(label = release), method = list(dl.trans(x = x - 0.2), "first.points", cex = 0.8)) +
-  scale_color_viridis(discrete = TRUE, option = "D")
+  scale_color_viridis(discrete = TRUE, option = "magma")
