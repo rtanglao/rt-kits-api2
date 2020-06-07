@@ -1,7 +1,7 @@
 library(tidyverse)
 library(lubridate)
 library(directlabels)
-library(RColorBrewer)
+library("viridis")
 add_release_day_number <-
   function(df_release,
            yyyy,
@@ -100,5 +100,5 @@ jan2019_06june2020_plot = jan2019_06june2020_plot +
   coord_cartesian(clip="off") +
   labs(color = 'DesktopAAQ65-77') +
   geom_dl(aes(label = release), method = list(dl.trans(x = x + 0.2), "last.points", cex = 0.8)) +
-  geom_dl(aes(label = release), method = list(dl.trans(x = x - 0.2), "first.points", cex = 0.8)) #+
-  #scale_color_brewer(palette = "Dark2")
+  geom_dl(aes(label = release), method = list(dl.trans(x = x - 0.2), "first.points", cex = 0.8)) +
+  scale_color_viridis(discrete = TRUE, option = "D")
