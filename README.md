@@ -1,6 +1,14 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 07June2020 graphing cumulative sum of Firefox Desktop Messages
+```bash
+cd ARBITRARY_TIME_PERIOD
+../get-creator-answers-questions-for-arbitrary-time-period.rb 2019 1 1 2020 6 6 &
+./print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb 2019-01-01-2020-06-06-firefox-creator-answers-desktop-all-locales.csv csv
+# load cumulative-sum-unfaceted-january2019-06june2020-plot-num-questions-release-day-1-28.R into R Studio, run it and save plot
+```
+
 ## 02june2020 open questions with id > 1289343
 
 ```bash
