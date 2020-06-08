@@ -104,10 +104,10 @@ jan2019_06june2020_plot = jan2019_06june2020_plot +
   labs(color = 'DesktopAAQ65-77') +
   geom_dl(aes(label = release), method = list(dl.trans(x = x + 0.2), "last.points", cex = 0.8)) +
   geom_dl(aes(label = release), method = list(dl.trans(x = x - 0.2), "first.points", cex = 0.8)) +
-  # following is from iwanthue(13) +
-  scale_color_manual(values=c("#4C2E67","#87D4A9","#4C3833","#CEBB4F","#9283CB","#7CD450","#C55A32", 
-                     "#58723B", "#CCA89D", "#723CCF", "#CD4FBE", "#70A2B7", 
-                     "#BE4A6C" ))+
+  # following is from iwanthue(13); for some reason, iwanthue doesn't return a set?!?! unique() converts to a set
+  # iwanthue returns a vector of charactor strings
+  # scale_color_manual wants "a set of aesthetic values to map data values to" 
+  scale_color_manual(values = unique(iwanthue(13)))+
   annotate("text", x=13, y=750, label= "newAAQ 76")+
   geom_point(colour="red", x=13, y=720)+
   annotate("text", x = 25, y=1520, label="addon incident: 65")
