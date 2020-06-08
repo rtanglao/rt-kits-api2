@@ -2,6 +2,9 @@ library(tidyverse)
 library(lubridate)
 library(directlabels)
 devtools::source_gist('45b49da5e260a9fc1cd7')
+library(grid)
+library(gridExtra)
+
 add_release_day_number <-
   function(df_release,
            yyyy,
@@ -104,5 +107,16 @@ jan2019_06june2020_plot = jan2019_06june2020_plot +
   # following is from iwanthue(13) +
   scale_color_manual(values=c("#4C2E67","#87D4A9","#4C3833","#CEBB4F","#9283CB","#7CD450","#C55A32", 
                      "#58723B", "#CCA89D", "#723CCF", "#CD4FBE", "#70A2B7", 
-                     "#BE4A6C" ))
+                     "#BE4A6C" ))+
+  annotate("text", x=13, y=750, label= "newAAQ 76")+
+  geom_point(colour="red", x=13, y=720)+
+  annotate("text", x = 25, y=1520, label="addon incident: 65")
+#my_text <- "newAAQ FF76"
+#my_grob = grid.text(my_text, x=0.464,  y=0.375, gp=gpar(col="firebrick", fontsize=14, fontface="bold"))
+#jan2019_06june2020_plot = jan2019_06june2020_plot + annotation_custom(my_grob)
+#jan2019_06june2020_plot = jan2019_06june2020_plot + 
+#  annotation_custom(grid.text(my_text, x=13,  y=750, gp=gpar(fontsize=14, fontface="bold")))
+
   #scale_color_viridis(discrete = TRUE, option = "inferno") + theme_bw()
+  
+#grid.arrange(jan2019_06june2020_plot, right = textGrob("newAAQ:FF76Day13\nAddonmageddon:FF65", rot = 0, vjust = 0))
