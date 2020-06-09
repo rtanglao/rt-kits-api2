@@ -1,10 +1,7 @@
 library(tidyverse)
 library(lubridate)
 library(directlabels)
-devtools::source_gist('45b49da5e260a9fc1cd7')
-library(grid)
-library(gridExtra)
-
+library(hues)
 add_release_day_number <-
   function(df_release,
            yyyy,
@@ -104,19 +101,8 @@ jan2019_06june2020_plot = jan2019_06june2020_plot +
   labs(color = 'DesktopAAQ65-77') +
   geom_dl(aes(label = release), method = list(dl.trans(x = x + 0.2), "last.points", cex = 0.8)) +
   geom_dl(aes(label = release), method = list(dl.trans(x = x - 0.2), "first.points", cex = 0.8)) +
-  # following is from iwanthue(13); for some reason, iwanthue doesn't return a set?!?! unique() converts to a set
-  # iwanthue returns a vector of charactor strings
-  # scale_color_manual wants "a set of aesthetic values to map data values to" 
-  scale_color_manual(values = unique(iwanthue(13)))+
+
+  scale_color_iwanthue()+
   annotate("text", x=13, y=750, label= "newAAQ 76")+
   geom_point(colour="red", x=13, y=720)+
   annotate("text", x = 25, y=1520, label="addon incident: 65")
-#my_text <- "newAAQ FF76"
-#my_grob = grid.text(my_text, x=0.464,  y=0.375, gp=gpar(col="firebrick", fontsize=14, fontface="bold"))
-#jan2019_06june2020_plot = jan2019_06june2020_plot + annotation_custom(my_grob)
-#jan2019_06june2020_plot = jan2019_06june2020_plot + 
-#  annotation_custom(grid.text(my_text, x=13,  y=750, gp=gpar(fontsize=14, fontface="bold")))
-
-  #scale_color_viridis(discrete = TRUE, option = "inferno") + theme_bw()
-  
-#grid.arrange(jan2019_06june2020_plot, right = textGrob("newAAQ:FF76Day13\nAddonmageddon:FF65", rot = 0, vjust = 0))
