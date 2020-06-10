@@ -6,8 +6,10 @@ Roland's Kitsune API scripts version 2
 * 1\. get the questions
 ```bash
 ../get-creator-answers-questions-for-arbitrary-time-period.rb 2020 6 2 2020 6 8 &
-../print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb 2020-06-02-2020-06-08-firefox-creator-answers-desktop-all-locales.csv markdown
-../print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb 2020-06-02-2020-06-08-firefox-creator-answers-desktop-all-locales.csv csv
+../print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb \
+2020-06-02-2020-06-08-firefox-creator-answers-desktop-all-locales.csv markdown
+../print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb \
+2020-06-02-2020-06-08-firefox-creator-answers-desktop-all-locales.csv csv
 ```
 * 2\. get the question counts
 ```bash
@@ -32,6 +34,7 @@ Roland's Kitsune API scripts version 2
 ```bash
 grep "fix-problems;" sorted-all-desktop-en-us-2020-06-02-2020-06-08-firefox-creator-answers-desktop-all-locales.csv |\
 grep -o '^[0-9]*' | args -I {} -n 1 wsl-open "https://support.mozilla.org/questions/"{}
+grep "fix-problems;" sorted-all-desktop-en-us-2020-06-02-2020-06-08-firefox-creator-answers-desktop-all-locales.csv > ff77-week1-fix-problems-02-08june2020.csv
 ```
 
 ## 07June2020 graphing cumulative sum of Firefox Desktop Messages
