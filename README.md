@@ -1,6 +1,27 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 09june2020 preparing weekly report for week 1 of firefox 77 june 2-8, 2020
+
+* 1\. get the questions
+```bash
+../get-creator-answers-questions-for-arbitrary-time-period.rb 2020 6 2 2020 6 8 &
+../print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb 2020-06-02-2020-06-08-firefox-creator-answers-desktop-all-locales.csv markdown
+../print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb 2020-06-02-2020-06-08-firefox-creator-answers-desktop-all-locales.csv csv
+```
+* 2\. get the question counts
+```bash
+../get-aaq-topic-counts.sh sorted-all-desktop-en-us-2020-06-02-2020-06-08-firefox-creator-answers-desktop-all-locales.csv
+```
+* and manually copy them to a spreadsheet: [Firefox 77 Desktop AAQ Question Counts by Week](https://docs.google.com/spreadsheets/d/1hnse8GoMBuipiYrLSqj4x0OW0kMrAxskIU1S06Yj8u0/edit#gid=0)
+
+* 3\. open the "Fix slowness, crashing, error messages and other problems" links in a browser and save the links to a spreadsheet for notes
+
+```bash
+grep "fix-problems;" sorted-all-desktop-en-us-2020-06-02-2020-06-08-firefox-creator-answers-desktop-all-locales.csv |\
+grep -o '^[0-9]*' | args -I {} -n 1 wsl-open "https://support.mozilla.org/questions/"{}
+```
+
 ## 07June2020 graphing cumulative sum of Firefox Desktop Messages
 ```bash
 cd ARBITRARY_TIME_PERIOD
