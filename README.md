@@ -12,7 +12,7 @@ Roland's Kitsune API scripts version 2
 * 2\. get the question counts
 ```bash
 ../get-aaq-topic-counts.sh sorted-all-desktop-en-us-2020-06-02-2020-06-08-firefox-creator-answers-desktop-all-locales.csv
-#1 120 is "Fix slowness, crashing, error messages and other problems"
+# 120 is "Fix slowness, crashing, error messages and other problems", 166 is "other"
 34
 59
 87
