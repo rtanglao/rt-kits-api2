@@ -12,6 +12,18 @@ Roland's Kitsune API scripts version 2
 * 2\. get the question counts
 ```bash
 ../get-aaq-topic-counts.sh sorted-all-desktop-en-us-2020-06-02-2020-06-08-firefox-creator-answers-desktop-all-locales.csv
+#1 120 is "Fix slowness, crashing, error messages and other problems"
+34
+59
+87
+120
+16
+28
+5
+22
+74
+27
+166
 ```
 * and manually copy them to a spreadsheet: [Firefox 77 Desktop AAQ Question Counts by Week](https://docs.google.com/spreadsheets/d/1hnse8GoMBuipiYrLSqj4x0OW0kMrAxskIU1S06Yj8u0/edit#gid=0)
 
