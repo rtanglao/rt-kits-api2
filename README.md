@@ -42,6 +42,8 @@ printf '%s\n%s\n' \
 "$(cat ff77-week1-fix-problems-02-08june2020.csv)" >ff77-week1-fix-problems-02-08june2020.csv
 ```
 
+* 4\. upload CSV file to Google Sheets and add notes column and remove product and locale column which are always going to be firefox and en-us
+    * [ff77-week1-fix-problems-02-08june2020](https://docs.google.com/spreadsheets/d/1MMg8gz1gt6s4fsyu6OjoTBVuN1fK7ualSOEr0gbBdTQ/edit#gid=1678725887)
 ## 07June2020 graphing cumulative sum of Firefox Desktop Messages
 ```bash
 cd ARBITRARY_TIME_PERIOD
