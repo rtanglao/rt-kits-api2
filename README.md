@@ -1,6 +1,15 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 11june2020 email escalation report
+
+```bash
+../get-by-updated-time-question-url-answers-for-arbitrary-time-period.rb \
+2020 6 8 2020 6 10
+grep "escalate;" \
+202006/updated-2020-06-08-2020-06-10-ff-desktop-creator-answers-desktop-all-locales.csv\
+| grep -o '^[0-9]*' | ./email-escalations.rb
+```
 ## 09june2020 preparing weekly report for week 1 of firefox 77 june 2-8, 2020
 
 * 1\. get the questions
