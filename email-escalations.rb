@@ -65,11 +65,15 @@ if previous_escalations_file_exists
 end
 logger.ap previous_ids
 
+escalations_for_subject = ""
+no_changes = true
 new_ids_to_escalate = []
 ARGF.each_line do |escalate_id|
+  escalations_for_subject += " " + escalate_id.chomp + ","
   escalate_id = escalate_id.to_i
   logger.debug "escalate id:" + escalate_id.to_s
-  if !new_ids_to_escalate.include?(escalate_id)
+  if !previous_ids.include?(escalate_id)
+    no_changes = false
     logger.debug "new id to escalate:" + escalate_id.to_s
     new_ids_to_escalate.push("<li>escalate:" + "<a href =\"https://support.mozilla.org/questions/"+ escalate_id.to_s + "\">" + escalate_id.to_s + "</a></li>") 
     previous_ids.push(escalate_id)
@@ -80,21 +84,23 @@ logger.ap new_ids_to_escalate
 logger.debug "previous ids with new ids to escalate:"
 logger.debug previous_ids
 
-#   Launchy.open("https://support.mozilla.org/questions/" + id.to_s)
-# 	sleep(0.5)
-# end
-
 body = "<ul>"
 new_ids_to_escalate.each do |text|
   body += text
 end
 body += "</ul>"
-ap body
-  
+logger.debug "escalations for subject" + escalations_for_subject
+logger.debug "body" + body
+body = "Time:" + Time.now.to_s + "<br /><br/>" + body
+
+if no_changes
+  logger.debug "Exiting because there were no new escalations"
+  exit
+end
 user_id = "me"
 message              = Mail.new
 message.date         = Time.now
-message.subject      = 'test from roland '
+message.subject      = 'FF Desktop escalations:' + escalations_for_subject[0..79]
 message.body         = body
 message.content_type = 'text/html'
 message.from         =  user_id
@@ -104,3 +110,13 @@ msg = message.encoded
 message_object = Google::Apis::GmailV1::Message.new(raw:message.to_s)                 
 response = service.send_user_message("me", message_object) 
 ap response
+# cleanup
+# rename old file if it exists and if there were changes
+
+FileUtils.mv("previous-escalations.txt", "previous-escalations.txt~") if previous_escalations_file_exists
+# write out new file
+File.open('previous-escalations.txt', 'w') do |file| 
+  previous_ids.each do |id|
+    file.print id.to_s + "\n"
+  end
+end
