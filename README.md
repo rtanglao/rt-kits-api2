@@ -1,6 +1,30 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 16june200 support report week 2 of ff 77 june 9-15, 2020
+
+```bash
+cd 202006
+../get-creator-answers-questions-for-arbitrary-time-period.rb 2020 6 9 2020 6 15 &
+../print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb \
+2020-06-09-2020-06-15-firefox-creator-answers-desktop-all-locales.csv markdown
+../print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb \
+2020-06-09-2020-06-15-firefox-creator-answers-desktop-all-locales.csv csv
+../get-aaq-topic-counts.sh \
+sorted-all-desktop-en-us-2020-06-09-2020-06-15-firefox-creator-answers-desktop-all-locales.csv
+42
+40
+78
+99
+10
+27
+6
+11
+53
+20
+128
+```
+
 ## 11june2020 email escalation report
 
 ```bash
