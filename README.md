@@ -43,7 +43,7 @@ printf '%s\n%s\n' \
 ```
 
 * 4\. upload CSV file to Google Sheets and add notes column and remove product and locale column which are always going to be firefox and en-us
-    * [ff77-week2-fix-problems-09-15june2020](https://docs.google.com/spreadsheets/d/1MMg8gz1gt6s4fsyu6OjoTBVuN1fK7ualSOEr0gbBdTQ/edit#gid=1678725887)
+    * [ff77-week2-fix-problems-09-15june2020](https://docs.google.com/spreadsheets/d/18bJhloFEUsm6S4smJVZ0fJM-OQuG9rHAo_rtpq3SuMw/edit#gid=690198459)
     
 ## 11june2020 email escalation report
 
