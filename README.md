@@ -3,6 +3,7 @@ Roland's Kitsune API scripts version 2
 
 ## 16june200 support report week 2 of ff 77 june 9-15, 2020
 
+* 1\. get the questions
 ```bash
 cd 202006
 ../get-creator-answers-questions-for-arbitrary-time-period.rb 2020 6 9 2020 6 15 &
@@ -25,6 +26,25 @@ sorted-all-desktop-en-us-2020-06-09-2020-06-15-firefox-creator-answers-desktop-a
 128
 ```
 
+* 2\. and manually copy them to a spreadsheet: [Firefox 77 Desktop AAQ Question Counts by Week](https://docs.google.com/spreadsheets/d/1hnse8GoMBuipiYrLSqj4x0OW0kMrAxskIU1S06Yj8u0/edit#gid=0)
+
+* 3\. open the "Fix slowness, crashing, error messages and other problems" links in a browser and save the links to a spreadsheet for notes
+
+```bash
+grep "fix-problems;" \
+sorted-all-desktop-en-us-2020-06-09-2020-06-15-firefox-creator-answers-desktop-all-locales.csv |\
+grep -o '^[0-9]*' | xargs -I {} -n 1 wsl-open "https://support.mozilla.org/questions/"{}
+grep "fix-problems;" \
+sorted-all-desktop-en-us-2020-06-09-2020-06-15-firefox-creator-answers-desktop-all-locales.csv \
+> ff77-week2-fix-problems-09-15june2020.csv
+printf '%s\n%s\n' \
+`head -1 sorted-all-desktop-en-us-2020-06-09-2020-06-15-firefox-creator-answers-desktop-all-locales.csv` \
+"$(cat ff77-week2-fix-problems-09-15june2020.csv)" >ff77-week2-fix-problems-09-15june2020.csv
+```
+
+* 4\. upload CSV file to Google Sheets and add notes column and remove product and locale column which are always going to be firefox and en-us
+    * [ff77-week2-fix-problems-09-15june2020](https://docs.google.com/spreadsheets/d/1MMg8gz1gt6s4fsyu6OjoTBVuN1fK7ualSOEr0gbBdTQ/edit#gid=1678725887)
+    
 ## 11june2020 email escalation report
 
 ```bash
