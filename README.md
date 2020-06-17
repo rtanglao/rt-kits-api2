@@ -65,7 +65,8 @@ grep "escalate;" \
 * 3\. open the "Fix slowness, crashing, error messages and other problems" links in a browser and save the links to a spreadsheet for notes
 
 ```bash
-grep "fix-problems;" sorted-all-desktop-en-us-2020-06-02-2020-06-08-firefox-creator-answers-desktop-all-locales.csv |\
+grep "fix-problems;" \
+sorted-all-desktop-en-us-2020-06-02-2020-06-08-firefox-creator-answers-desktop-all-locales.csv |\
 grep -o '^[0-9]*' | xargs -I {} -n 1 wsl-open "https://support.mozilla.org/questions/"{}
 grep "fix-problems;" \
 sorted-all-desktop-en-us-2020-06-02-2020-06-08-firefox-creator-answers-desktop-all-locales.csv \
