@@ -66,7 +66,7 @@ grep "escalate;" \
 
 ```bash
 grep "fix-problems;" sorted-all-desktop-en-us-2020-06-02-2020-06-08-firefox-creator-answers-desktop-all-locales.csv |\
-grep -o '^[0-9]*' | args -I {} -n 1 wsl-open "https://support.mozilla.org/questions/"{}
+grep -o '^[0-9]*' | xargs -I {} -n 1 wsl-open "https://support.mozilla.org/questions/"{}
 grep "fix-problems;" \
 sorted-all-desktop-en-us-2020-06-02-2020-06-08-firefox-creator-answers-desktop-all-locales.csv \
 > ff77-week1-fix-problems-02-08june2020.csv
