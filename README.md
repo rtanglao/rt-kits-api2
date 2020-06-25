@@ -10,7 +10,7 @@ cd 202006
 cd ..
 grep "escalate;" \
 202006/updated-2020-06-22-2020-06-25-ff-desktop-creator-answers-desktop-all-locales.csv\
-| grep -o '^[0-9]*' | ./with-title-email-escalations.rb
+| ./with-title-email-escalations.rb
 ```
 
 ## 16june200 support report week 2 of ff 77 june 9-15, 2020
