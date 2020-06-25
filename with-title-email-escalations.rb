@@ -81,7 +81,7 @@ ARGF.each_line do |csv_line|
     no_changes = false
     logger.debug "new id to escalate:" + escalate_id.to_s
     escalations_for_subject += " " + escalate_id.to_s.chomp + ':' + title[0..39] + ","
-    new_ids_to_escalate.push("<li>escalate:" + "<a href =\"https://support.mozilla.org/questions/"+ escalate_id.to_s + "\">" + escalate_id.to_s + "</a>:" + title + "</li>") 
+    new_ids_to_escalate.push("<li> " + "<a href =\"https://support.mozilla.org/questions/"+ escalate_id.to_s + "\">" + escalate_id.to_s + "</a>:" + title + "</li>") 
     previous_ids.push(escalate_id)
   end
 end
