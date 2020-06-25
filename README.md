@@ -9,7 +9,7 @@ cd 202006
 2020 6 22 2020 6 25
 cd ..
 grep "escalate;" \
-202006/updated-2020-06-08-2020-06-10-ff-desktop-creator-answers-desktop-all-locales.csv\
+202006/updated-2020-06-22-2020-06-25-ff-desktop-creator-answers-desktop-all-locales.csv\
 | grep -o '^[0-9]*' | ./with-title-email-escalations.rb
 ```
 
