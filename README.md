@@ -1,6 +1,18 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 25june2020 add titles to email escalation report
+
+```bash
+cd 202006
+../get-by-updated-time-question-url-answers-for-arbitrary-time-period.rb \
+2020 6 23 2020 6 25
+cd ..
+grep "escalate;" \
+202006/updated-2020-06-08-2020-06-10-ff-desktop-creator-answers-desktop-all-locales.csv\
+| grep -o '^[0-9]*' | ./with-title-email-escalations.rb
+```
+
 ## 16june200 support report week 2 of ff 77 june 9-15, 2020
 
 * 1\. get the questions
@@ -48,8 +60,10 @@ printf '%s\n%s\n' \
 ## 11june2020 email escalation report
 
 ```bash
+cd 202006
 ../get-by-updated-time-question-url-answers-for-arbitrary-time-period.rb \
 2020 6 8 2020 6 10
+cd ..
 grep "escalate;" \
 202006/updated-2020-06-08-2020-06-10-ff-desktop-creator-answers-desktop-all-locales.csv\
 | grep -o '^[0-9]*' | ./email-escalations.rb
