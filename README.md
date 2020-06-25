@@ -6,7 +6,7 @@ Roland's Kitsune API scripts version 2
 ```bash
 cd 202006
 ../get-by-updated-time-question-url-answers-for-arbitrary-time-period.rb \
-2020 6 23 2020 6 25
+2020 6 22 2020 6 25
 cd ..
 grep "escalate;" \
 202006/updated-2020-06-08-2020-06-10-ff-desktop-creator-answers-desktop-all-locales.csv\
