@@ -78,7 +78,7 @@ CSV.foreach(FILENAME, :headers => true) do |row|
         ",created:" + answer_created.to_s +
          ",updated:" + answer_updated.to_s + 
          ",creator:" + creator + 
-        ",updated_by:" + answer["updated_by"].to_s +
+        ",updated_by:" + updated_by +
         ",is_spam:" + answer["is_spam"].to_s +
         ",num_helpful_votes" + answer["num_helpful_votes"].to_s +
         ",num_unhelpful_votes" + answer["num_unhelpful_votes"].to_s +
