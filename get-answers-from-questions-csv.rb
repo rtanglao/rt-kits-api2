@@ -88,7 +88,7 @@ CSV.foreach(FILENAME, :headers => true) do |row|
 end
 headers = ['id', 'created', 'updated', 'title', 'content', 'tags', 'product', 'topic', 
   'locale', 'answers', 'creator', 'synthetic_answers']
-OUTPUT_FILENAME = sprintf("with-flattened-answers-%s.csv", FILENAME)
+OUTPUT_FILENAME = sprintf("with-flattened-answers-%s.csv", FILENAME.rpartition('.').first)
 CSV.open(OUTPUT_FILENAME, "w", write_headers: true, headers: headers) do |csv_object|
   output_row_array.each {|row_array| csv_object << row_array }
 end
