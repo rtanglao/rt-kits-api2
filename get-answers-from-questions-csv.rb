@@ -67,6 +67,8 @@ CSV.foreach(FILENAME, :headers => true) do |row|
       id =  answer["id"]
       content = answer["content"].tr("\n"," ")
       creator = answer["creator"]["username"]
+      updated_by = ""
+      updated_by = answer["updated_by"]["username"] if !answer["updated_by"].nil?
       answer_created = Time.parse(answer["created"].gsub("Z", "PST")) #issue 3686 time is in PST not UTC
       logger.debug "answer created with PST correction:" + answer_created.to_s
       answer_updated = Time.parse(answer["updated"].gsub("Z", "PST")) #issue 3686 time is in PST not UTC
@@ -82,8 +84,8 @@ CSV.foreach(FILENAME, :headers => true) do |row|
         ",num_unhelpful_votes" + answer["num_unhelpful_votes"].to_s +
         ",content:" + content
     end
-    output_row_array.push(row)
   end
+  output_row_array.push(row)
   sleep(1) # wait 1 second before next API call
 end
 headers = ['id', 'created', 'updated', 'title', 'content', 'tags', 'product', 'topic', 
