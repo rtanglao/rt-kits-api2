@@ -1,6 +1,15 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 28june2020 get first two weeks questions for desktop and get their answers
+
+```bash
+cd /home/roland/GIT/rt-kits-api2/FIRST_TWO_WEEKS_DESKTOP
+ ../get-creator-answers-questions-for-arbitrary-time-period.rb 2020 2 11  2020 2 24 &
+ mv 2020-02-11-2020-02-24-firefox-creator-answers-desktop-all-locales.csv \
+ ff73-1st-2weeks-2020-02-11-2020-02-24-firefox-creator-answers-desktop-all-locales.csv
+```
+
 ## 25june2020 add titles to email escalation report
 
 ```bash
@@ -11,6 +20,8 @@ cd ..
 grep "escalate;" \
 202006/updated-2020-06-22-2020-06-25-ff-desktop-creator-answers-desktop-all-locales.csv\
 | ./with-title-email-escalations.rb
+../get-answers-from-questions-csv.rb \
+ff73-1st-2weeks-2020-02-11-2020-02-24-firefox-creator-answers-desktop-all-locales.csv 
 ```
 
 ## 16june200 support report week 2 of ff 77 june 9-15, 2020
