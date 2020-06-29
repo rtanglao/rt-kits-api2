@@ -80,8 +80,8 @@ CSV.foreach(FILENAME, :headers => true) do |row|
          ",creator:" + creator + 
         ",updated_by:" + updated_by +
         ",is_spam:" + answer["is_spam"].to_s +
-        ",num_helpful_votes" + answer["num_helpful_votes"].to_s +
-        ",num_unhelpful_votes" + answer["num_unhelpful_votes"].to_s +
+        ",num_helpful_votes:" + answer["num_helpful_votes"].to_s +
+        ",num_unhelpful_votes:" + answer["num_unhelpful_votes"].to_s +
         ",content:" + content
     end
   end
