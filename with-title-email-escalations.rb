@@ -97,16 +97,18 @@ end
 body += "</ol>"
 logger.debug "escalations for subject" + escalations_for_subject
 logger.debug "body" + body
-body = "Time:" + Time.now.to_s + "<br /><br/>" + body
+time = Time.now
+body = "Time:" + time.to_s + "<br /><br/>" + body
 
 if no_changes
   logger.debug "Exiting because there were no new escalations"
   exit
 end
 user_id = "me"
+
 message              = Mail.new
-message.date         = Time.now
-message.subject      = 'FF Desktop escalations:' + escalations_for_subject
+message.date         = time
+message.subject      = 'FF Desktop escalations:' + time.to_s
 message.body         = body
 message.content_type = 'text/html'
 message.from         =  user_id
