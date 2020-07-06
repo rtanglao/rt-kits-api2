@@ -5,9 +5,10 @@ Roland's Kitsune API scripts version 2
 
 ```bash
 cd /home/roland/GIT/rt-kits-api2/FIRST_TWO_WEEKS_DESKTOP
- ../get-creator-answers-questions-for-arbitrary-time-period.rb 2020 2 11  2020 2 24 &
- mv 2020-02-11-2020-02-24-firefox-creator-answers-desktop-all-locales.csv \
- ff73-1st-2weeks-2020-02-11-2020-02-24-firefox-creator-answers-desktop-all-locales.csv
+../get-creator-answers-questions-for-arbitrary-time-period.rb 2020 2 11  2020 2 24 &
+mv 2020-02-11-2020-02-24-firefox-creator-answers-desktop-all-locales.csv \
+ff73-1st-2weeks-2020-02-11-2020-02-24-firefox-creator-answers-desktop-all-locales.csv
+../get-answers-from-questions-csv.rb ff75-1st-2weeks-2020-04-07-2020-04-20-firefox-creator-answers-desktop-all-locales.csv
 ```
 
 ## 25june2020 add titles to email escalation report
