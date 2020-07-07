@@ -21,6 +21,7 @@ roland@DESKTOP-KT6DGHC ~/GIT/rt-kits-api2/202007
 21
 59
 31
+118
 ```
 
 ## 28june2020 get first two weeks questions for desktop and get their answers
