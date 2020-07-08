@@ -3,6 +3,8 @@ Roland's Kitsune API scripts version 2
 
 ## 06july2020 preparing week 1 report of firefox 78 june 30 - july 6, 2020
 
+* 1\. get the questions
+
 ```bash
  ../get-creator-answers-questions-for-arbitrary-time-period.rb 2020 6 30 2020 7 6
 ../print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb \
@@ -23,6 +25,8 @@ roland@DESKTOP-KT6DGHC ~/GIT/rt-kits-api2/202007
 31
 118
 ```
+
+* 2\. p and manually copy them to a spreadsheet: [Firefox 78 esktop AAQ Question Counts by Week](https://docs.google.com/spreadsheets/d/1hnse8GoMBuipiYrLSqj4x0OW0kMrAxskIU1S06Yj8u0/edit#gid=0)
 
 ## 28june2020 get first two weeks questions for desktop and get their answers
 
