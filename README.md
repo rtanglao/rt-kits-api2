@@ -26,7 +26,7 @@ roland@DESKTOP-KT6DGHC ~/GIT/rt-kits-api2/202007
 118
 ```
 
-* 2\. Manually copy them to a spreadsheet: [Firefox 78 esktop AAQ Question Counts by Week](https://docs.google.com/spreadsheets/d/1hnse8GoMBuipiYrLSqj4x0OW0kMrAxskIU1S06Yj8u0/edit#gid=0)
+* 2\. Manually copy them to a spreadsheet: [Firefox 78 Desktop AAQ Question Counts by Week](https://docs.google.com/spreadsheets/d/1hnse8GoMBuipiYrLSqj4x0OW0kMrAxskIU1S06Yj8u0/edit#gid=0)
 
 ## 28june2020 get first two weeks questions for desktop and get their answers
 
