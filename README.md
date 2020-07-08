@@ -28,6 +28,20 @@ roland@DESKTOP-KT6DGHC ~/GIT/rt-kits-api2/202007
 
 * 2\. Manually copy them to a spreadsheet: [Firefox 78 Desktop AAQ Question Counts by Week](https://docs.google.com/spreadsheets/d/1hnse8GoMBuipiYrLSqj4x0OW0kMrAxskIU1S06Yj8u0/edit#gid=0)
 
+* 3\. open the biggest category with 89 questions "Fix slowness, crashing, error messages and other problems" links in a browser and save the links to a spreadsheet for notes
+
+```bash
+grep "fix-problems;" \
+sorted-all-desktop-en-us-2020-06-30-2020-07-06-firefox-creator-answers-desktop-all-locales.csv |\
+grep -o '^[0-9]*' | xargs -I {} -n 1 wsl-open "https://support.mozilla.org/questions/"{}
+grep "fix-problems;" \
+sorted-all-desktop-en-us-2020-06-30-2020-07-06-firefox-creator-answers-desktop-all-locales.csv \
+> ff78-week1-fix-problems-30june-06july2020.csv
+printf '%s\n%s\n' \
+`head -1 sorted-all-desktop-en-us-2020-06-30-2020-07-06-firefox-creator-answers-desktop-all-locales.csv` \
+"$(cat ff78-week1-fix-problems-30june-06july2020.csv)" >f78-week1-fix-problems-30june-06july2020.csv
+```
+
 ## 28june2020 get first two weeks questions for desktop and get their answers
 
 ```bash
