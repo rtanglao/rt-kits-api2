@@ -42,6 +42,8 @@ printf '%s\n%s\n' \
 "$(cat ff78-week1-fix-problems-30june-06july2020.csv)" >f78-week1-fix-problems-30june-06july2020.csv
 ```
 
+   * spreadsheet is [ff78-week1-fix-slowness-crashes-error-messages-other-problems-30june-6july2020](https://docs.google.com/spreadsheets/d/1YC-vWL-bOYhripdxoZU2Y0CnL6Xo2lOpSE-UmMh03AU/edit#gid=798079733)
+
 ## 28june2020 get first two weeks questions for desktop and get their answers
 
 ```bash
