@@ -26,7 +26,7 @@ roland@DESKTOP-KT6DGHC ~/GIT/rt-kits-api2/202007
 118
 ```
 
-* 2\. Manually copy them to a spreadsheet: [Firefox 78 Desktop AAQ Question Counts by Week](https://docs.google.com/spreadsheets/d/1hnse8GoMBuipiYrLSqj4x0OW0kMrAxskIU1S06Yj8u0/edit#gid=0)
+* 2\. Manually copy them to a spreadsheet: [Firefox 78 Desktop AAQ Question Counts by Week](https://docs.google.com/spreadsheets/d/125SBrCuSo0KScZ0VGvnakYYdmqubeoV_2MJsZfvYiak/edit#gid=0)
 
 * 3\. open the biggest category with 89 questions "Fix slowness, crashing, error messages and other problems" links in a browser and save the links to a spreadsheet for notes
 
