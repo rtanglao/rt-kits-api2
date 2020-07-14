@@ -1,6 +1,29 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 13july2020 preparing week 2 report of firefox 78 June 7-13, 2020
+
+```bash
+./get-creator-answers-questions-for-arbitrary-time-period.rb 2020 7 7 2020 7 13
+../print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb \
+2020-07-07-2020-07-13-firefox-creator-answers-desktop-all-locales.csv mardown
+../print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb \
+2020-07-07-2020-07-13-firefox-creator-answers-desktop-all-locales.csv csv
+../get-aaq-topic-counts.sh sorted-all-desktop-en-us-2020-07-07-2020-07-13-firefox-creator-answers-desktop-all-locales.csv
+27
+50
+60
+112
+11
+31
+4
+12
+60
+20
+113
+```
+
+
 ## 06july2020 preparing week 1 report of firefox 78 june 30 - july 6, 2020
 
 * 1\. get the questions
