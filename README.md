@@ -40,7 +40,8 @@ printf '%s\n%s\n' \
 "$(cat ff78-week2-fix-problems-7-13july2020.csv)" >ff78-week2-fix-problems-7-13july2020.csv
 ```
 
-* 5\. Upload the spreadsheet into google drive and delete product and locale: 
+* 5\. Upload the spreadsheet into google drive and delete product and locale and add category and sub-category: 
+    * [ff78-week2-fix-slowness-crashes-error-messages-other-problems-7-13july2020](https://docs.google.com/spreadsheets/d/1zrj_ldzhEiU5fdJHzPbab1mPIVJHCex3C8u8ZogGMKs/edit#gid=221906619)
 
 
 ## 06july2020 preparing week 1 report of firefox 78 june 30 - july 6, 2020
