@@ -23,6 +23,25 @@ Roland's Kitsune API scripts version 2
 113
 ```
 
+* 2\. Manually copy them to a spreadsheet: [Firefox 78 Desktop AAQ Question Counts by Week](https://docs.google.com/spreadsheets/d/125SBrCuSo0KScZ0VGvnakYYdmqubeoV_2MJsZfvYiak/edit#gid=0)
+
+* 3\. Opened the fix problems, all 112 questions, in 112 tabs
+
+```bash
+grep "fix-problems;" \\nsorted-all-desktop-en-us-2020-07-07-2020-07-13-firefox-creator-answers-desktop-all-locales.csv |\
+grep -o '^[0-9]*' | xargs -I {} -n 1 wsl-open "https://support.mozilla.org/questions/"{}
+```
+
+* 4\. Saved the 112 questions into a spreadsheet
+
+```bash
+printf '%s\n%s\n' \
+`head -1 sorted-all-desktop-en-us-2020-07-07-2020-07-13-firefox-creator-answers-desktop-all-locales.csv` \
+"$(cat ff78-week2-fix-problems-7-13july2020.csv)" >ff78-week2-fix-problems-7-13july2020.csv
+```
+
+* 5\. Upload the spreadsheet into google drive and delete product and locale: 
+
 
 ## 06july2020 preparing week 1 report of firefox 78 june 30 - july 6, 2020
 
