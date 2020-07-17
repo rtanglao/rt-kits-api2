@@ -186,7 +186,7 @@ I already tried Safe mode, uninstalling Antivirus (Kaspersky), and everything of
 <a href=""https://support.mozilla.org/en-US/kb/cant-download-or-save-files"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/cant-download-or-save-files</a>
 Here are some examples, tried to save facebook images and failed, same to 'Malwarebytes' launcher.
 </p>",download-and-install_1;firefox-690;desktop;windows-10;needsinfo;,firefox,bookmarks,en-US,1257034;,matiasruiz94
-1270070,2019-10-04 19:32:46 UTC,2019-10-04T20:12:05Z,Dark Fox theme terminates and is replaced by default,"<p>Running Firefox v69.0.2 with the Dark Fox theme from ""randomaster"". Intermittently upon starting Firefox, this theme appears to have been terminated / disabled and automatically replaced with the default theme.
+1270070,2019-10-04 19:32:46 UTC,2019-10-04T20:12:05Z,Dark Fox theme terminates and is replaced by default,"<p>Running Firefox v69.0.2 with the Dark Fox theme from ""randooligarch"". Intermittently upon starting Firefox, this theme appears to have been terminated / disabled and automatically replaced with the default theme.
 </p>",firefox-690;customize;desktop;windows-10;,firefox,customize,en-US,1256799;,lalaustex
 1270069,2019-10-04 19:02:57 UTC,2019-10-04T20:13:58Z,"Firefox displays a ""failure to download"" when the download proceeded.","<p>When I go to download something from the internet, Firefox displays a ""failure to download message"". However upon looking in the download file the file appeared despite Firefox saying that it did not. AVG (my current antivirus) was also updated today if that helps.
 </p>",download-and-install_1;firefox-690;desktop;windows-10;bug1586228;,firefox,download-and-install,en-US,1256776;1256779;1256781;1256796;1256798;1256800;,JKAndersen2live
@@ -346,7 +346,7 @@ Thank you very much
 </p><p>/* .mozilla/firefox/~user~/chrome/userChrome.css */
 /* firefox quantum 65+ */
 /* note: '--tab-min-height' under 'height' - set both values to default:33px; compact:29px; touch:43px */
-</p><p>@namespace url(""<a href=""http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul</a>""); /* do not remove */
+</p><p>@namespace url(""<a href=""http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul</a>""); /* do not remove */
 </p><p>/* TABS: on bottom */
 </p>
 <ol><li>navigator-toolbox toolbar:not(#nav-bar):not(#toolbar-menubar) {-moz-box-ordinal-group:10}
@@ -469,7 +469,7 @@ box-shadow: ThreeDShadow 0 -1px inset, -moz-dialog 0 1px !important;
 1269987,2019-10-03 15:35:43 UTC,2019-10-04T00:26:16Z,How to permantly disable container tabs,"<p>I don't like ""container tabs"" as new containers do not populate the user ID and password fields.  Despite setting privacy.userContext.false this is reset to 'True' each time I restart Firefox, which is a pain in the arse.  Before I move over to making Chrome my default browser, is there a way to permanently disable container tabs?
 </p>",firefox-690;other;desktop;windows-10;,firefox,other,en-US,1256489;1256492;1256494;1256496;1256579;,nick-robertson
 1269986,2019-10-03 14:11:56 UTC,2019-10-04T00:15:53Z,Is it possible to manually add a password to the list ?,"<p>Windows 7 PC using Firefox 69
-On some websites I am not asked by FF whether I want to save the user name and password, so they are not in the list under ""Privacy and Security"". I do not use the master Password tool.
+On some websites I am not asked by FF whether I want to save the user name and password, so they are not in the list under ""Privacy and Security"". I do not use the oligarch Password tool.
 Is it possible to manually add such user info to the list, perhaps using a text editor ?
 </p>",firefox-690;other;desktop;windows-7;,firefox,other,en-US,1256488;1256497;1256502;1256558;1256577;,Helvetica
 1269982,2019-10-03 12:11:21 UTC,2019-10-04T02:12:41Z,Code displays in ad videos,"<p>Recently my Firefox (69.0.1 64-bit on Win 10) started displaying code overlaid on video ads. It happens only on ad videos, not other videos. I don't care very much because it's only for ads, but nevertheless...
@@ -609,7 +609,7 @@ Em outros navegadores tudo funciona. Somente no Firefox 69.0.1 (64-bit) é que o
 </p>",desktop;fix-problems;windows-10;,firefox,fix-problems,pt-BR,1261479;,maurograca
 1269916,2019-10-02 10:21:42 UTC,2019-10-04T15:50:33Z,Just another 'move tabs and address bar' to the bottom question.,"<p>Hi folks!
 I spent a significant amount of time trying to move tab and address bar to the bottom of the window including address suggestion popup involved stuff several years ago when Opera was deprecated and pulled out of Gentoo repository completely. My partly working recipe was:
-</p><pre>   @namespace ""<a href=""http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul</a>"";
+</p><pre>   @namespace ""<a href=""http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul</a>"";
    @-moz-document url(""chrome://browser/content/browser.xul"") {
        #PopupAutoCompleteRichResult {
            /* bindings.xml in the same folder as userChrome.css */

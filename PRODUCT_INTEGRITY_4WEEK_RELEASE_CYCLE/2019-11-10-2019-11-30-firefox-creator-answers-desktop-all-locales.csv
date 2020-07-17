@@ -66,7 +66,7 @@ Its failng this morning (30th Nov 2019) - the site was OK yesterday
 </p>",privacy-and-security_1;firefox-700;desktop;windows-10;,firefox,privacy-and-security,en-US,1269809;1269825;1269892;,Rexxo
 1273986,2019-11-30 06:32:29 -0800,2019-12-03T02:58:30Z,"This website always loads at bottom of page, why?    https://www.theguardian.com","<p>tried safe mode same issue, other sites not affected
 </p>",firefox-700;other;desktop;mac-os;,firefox,other,en-US,1269826;1269827;1270323;1270333;,simon26
-1273985,2019-11-30 06:28:23 -0800,2019-11-30T10:06:00Z,Firefox asking for master password in startup.,"<p>With latest update, Firefox asks for master password in startup (Blank page). Previously it used to ask for master password for saved logins, only when needed with any site.
+1273985,2019-11-30 06:28:23 -0800,2019-11-30T10:06:00Z,Firefox asking for oligarch password in startup.,"<p>With latest update, Firefox asks for oligarch password in startup (Blank page). Previously it used to ask for oligarch password for saved logins, only when needed with any site.
 </p>",privacy-and-security_1;firefox-700;desktop;windows-7;,firefox,privacy-and-security,en-US,1269828;,anwarvety
 1273984,2019-11-30 06:03:23 -0800,2019-12-01T08:52:57Z,How can I limit the amount of history saved in the browser?,"<p>How can I limit the amount of websites saved in the browser history by the number of days and/or amount of records?
 </p>",privacy-and-security_1;firefox-700;desktop;windows-10;,firefox,privacy-and-security,en-US,1269880;1269979;,utsav15poudyal
@@ -1185,10 +1185,10 @@ also, there is no ""star icon in the left upper corner that will display the opt
 If you want more people stick to firefox you should seriously work on an easy solution for newbies to import their old bookmarks. 
 I`ll give it 24 hours before I switch to google chrome....
 </p>",bookmarks;firefox-700;desktop;mac-os;,firefox,bookmarks,en-US,1268681;1268713;1268780;,jan39
-1273587,2019-11-24 08:09:25 -0800,2019-11-24T19:08:09Z,After update to FF 70 I lost my master password and all the saved logins.,"<p>I've been using the FF 65 because FF didn't allowed the Simple Tab Groups add on for a while. 
+1273587,2019-11-24 08:09:25 -0800,2019-11-24T19:08:09Z,After update to FF 70 I lost my oligarch password and all the saved logins.,"<p>I've been using the FF 65 because FF didn't allowed the Simple Tab Groups add on for a while. 
 Once FF allowed this add on again, I updated from 65 to 70. 
-I completed the update and everything seems to work normal, but, when I restart the app: There is no master password, and all the saved logins are also gone. 
-I know that FF has problems with the updates, so I copied my 65 version of FF an d also a copy of the profile.  So I deleted the 70 and tried to update again, and the result is the same. It update's perfectly, but when I quit the app and open it again, master pass and logins are gone. 
+I completed the update and everything seems to work normal, but, when I restart the app: There is no oligarch password, and all the saved logins are also gone. 
+I know that FF has problems with the updates, so I copied my 65 version of FF an d also a copy of the profile.  So I deleted the 70 and tried to update again, and the result is the same. It update's perfectly, but when I quit the app and open it again, oligarch pass and logins are gone. 
 </p><p>Does anyone knows what to do? Should I have to delete some file from the Profile?
 </p><p>Thanks in advance
 </p>",download-and-install_1;desktop;firefox-650;mac-os;,firefox,download-and-install,en-US,1268678;1268693;1268745;,velocet
@@ -1366,10 +1366,10 @@ Thanks.
 </p>",other;,firefox,bookmarks,en-US,1268331;1268338;,caren14joy
 1273482,2019-11-22 07:10:49 -0800,2019-11-28T02:43:18Z,Unable to log in to ebay since Firefox upgrade because of captcha problems,"<p>Despite several attempts at fixing this problem, I haven't managed to and it's annoying me. What do I do to rectify please?
 </p>",privacy-and-security_1;firefox-700;desktop;windows-10;,firefox,privacy-and-security,en-US,1268219;1269047;1269060;1269158;1269258;1269441;,markwlb
-1273481,2019-11-22 06:47:18 -0800,2019-11-22T17:58:11Z,The masterpassword take over 30 seconds to show up.,"<p>Installed with no add on a nice fresh install, the master password takes over 30 seconds sometimes 2 minutes or more to show it.
+1273481,2019-11-22 06:47:18 -0800,2019-11-22T17:58:11Z,The oligarchpassword take over 30 seconds to show up.,"<p>Installed with no add on a nice fresh install, the oligarch password takes over 30 seconds sometimes 2 minutes or more to show it.
 Meanwhile everything loads fast, and then I wait wand wait..
 Ideas?
-</p>",firefox-700;desktop;fix-problems;windows-10;masterpassword;,firefox,fix-problems,en-US,1268255;1268266;1268267;1268278;1268281;1268284;1268322;1268339;1268348;,4cordells
+</p>",firefox-700;desktop;fix-problems;windows-10;oligarchpassword;,firefox,fix-problems,en-US,1268255;1268266;1268267;1268278;1268281;1268284;1268322;1268339;1268348;,4cordells
 1273480,2019-11-22 06:28:12 -0800,2019-11-22T10:15:15Z,How do I prevent Firefox from automatically expanding to full screen when window touches edge of screen?,"<p>I often need to reposition windows so I can see enough of several to click between them. When I move a window so it touches the edge of the screen, it switches to full screen. How do I turn this function off so that it will not become full screen unless I explicitly choose that option from the fullscreen/restore button or a menu option inside Firefox.
 </p>",firefox-700;customize;desktop;windows-7;,firefox,customize,en-US,1268220;1268249;1268254;,david.hurst
 1273477,2019-11-22 05:26:42 -0800,2019-11-22T05:26:42Z,"Utilizando o mozilla (visto no site intercom) os emojis não são exibidos com cores, ficam somente em preto e branco. (No chrome está colorido)","<p>Alguns emojis até ficam corretos como :facepunch:
@@ -2133,7 +2133,7 @@ By the way, it would be great if the about:support page could provide the number
 1273104,2019-11-16 20:50:39 -0800,2019-11-17T21:45:37Z,"when Firefox browser open on Windows 10 PC, even though no browser activities, there is always data traffic from Fixefox around 1 MB / per minute.","<p>the same title.
 </p>",firefox-700;other;desktop;windows-10;,firefox,other,en-US,1267261;1267266;,zrj021
 1273103,2019-11-16 20:49:55 -0800,2019-11-20T21:49:54Z,how can i disable tab scrolling,"<p>i open too many tabs i can't use firefox with hidden tabs that wastes my time and i can't deal with it, and there is no way from firefox i found on the web explaing that ? is there anyway to disable that
-</p>",tabs;firefox-700;firefox-7001;desktop;windows-10;,firefox,tabs,en-US,1267206;1267210;1267271;1267274;1267275;1267276;1267278;1267476;1267488;1267736;1267737;1267867;1267891;,sinfulslave
+</p>",tabs;firefox-700;firefox-7001;desktop;windows-10;,firefox,tabs,en-US,1267206;1267210;1267271;1267274;1267275;1267276;1267278;1267476;1267488;1267736;1267737;1267867;1267891;,sinfulpolitician
 1273102,2019-11-16 20:28:17 -0800,2019-11-16T23:53:23Z,"How do I enable ""tweaking"" in print doctor add on?","<p>I want to turn back on the ""tweaking"" windows in the print doctor add on
 </p>",firefox-700;other;desktop;windows-10;,firefox,other,en-US,1267092;,ktouzin1
 1273101,2019-11-16 19:30:27 -0800,2019-11-16T22:08:10Z,home page has options but snippets is showing in search.. please remove it.,"<p>i dont want snippets when i search, i have unchecked yet it show. 
@@ -2176,7 +2176,7 @@ RAM	256MB
 1273089,2019-11-16 15:31:41 -0800,2019-11-17T19:58:26Z,userChrome.css Tabs at Bottom covering content,"<p>I have moved the tabs to the bottom but now the tabs are covering some useful content. Is there a way to pad the content bottom or some other way to move the content up to make way for the tabs? I've tried everything.
 </p><p>Here's my current code:
 </p>
-<pre>@namespace url(""<a href=""http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul</a>""); 
+<pre>@namespace url(""<a href=""http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul</a>""); 
 
 #main-window:not([inFullscreen]) #content-deck {margin-bottom: 32px !important;}
 #main-window[inFullscreen] #content-deck {margin-bottom: 0px !important;}
@@ -2732,7 +2732,7 @@ Tengo varios certificados digitales instalados, y a la hora de autenticarme o fi
 Siguiendo una incidencia similar, he intentado reinstalar estos certificados desde la pestaña ""sus certificados"" y, en apariencia funciona, pero al cerrar la ventana del administrador de certificados me vuelven a aparecer en la pestaña ""personas"". 
 Alguna idea de cómo conseguir que firefox me muestre todos los certificados instalados.
 </p>",privacy-and-security_1;firefox-700;desktop;windows-7;,firefox,privacy-and-security,es,1267463;1267479;1268347;1269252;1269526;,acebalia1
-1272923,2019-11-14 00:04:03 -0800,2019-11-14T00:04:03Z,Setting Master Password Fails in Firefox 70.0.1,"<p>I have never set a master password. After upgrading to Firefox 70.0.1 I discovered the the master password cannot be set.
+1272923,2019-11-14 00:04:03 -0800,2019-11-14T00:04:03Z,Setting Master Password Fails in Firefox 70.0.1,"<p>I have never set a oligarch password. After upgrading to Firefox 70.0.1 I discovered the the oligarch password cannot be set.
 </p><p>A pop up window titled Master Password Change Failed has this message --
 </p><p>Unable to change Master Password.
 </p><p>This nonsense needs to be fixed
@@ -2861,8 +2861,8 @@ Thanks for help
 </p>",firefox-700;other;desktop;windows-7;,firefox,other,en-US,"",beartooth.bronsky
 1272845,2019-11-12 20:28:56 -0800,2019-11-13T15:42:18Z,locked startup profile with password,"<p>can any body please help me to find an add-on that lock my profile i managed to create a separated profiles on my PC and every one of them have its own add-on and email and bookmark one of them are public and the other is private for me 
 the problem is i cant make my profile private
-even Firefox use master password doesn't do any thing you can easily close the password message when it is popup and continue to invade the profile privacy and see the history and bookmarks and add-ons and every thing on my profile and its nagging all the time when it is suppose to be at startup only
-as far as i know there are 2 add-ons that maybe do the job but they are not working any more master_password-1.29.2-fx and startupmaster-1.6.5-fx+tb
+even Firefox use oligarch password doesn't do any thing you can easily close the password message when it is popup and continue to invade the profile privacy and see the history and bookmarks and add-ons and every thing on my profile and its nagging all the time when it is suppose to be at startup only
+as far as i know there are 2 add-ons that maybe do the job but they are not working any more oligarch_password-1.29.2-fx and startupoligarch-1.6.5-fx+tb
 </p><p>i need any thing to lock my profile  like lockpw free chrome extension this is a great extension on chrome web store and it is does the job perfectly 
 i came to Firefox from chrome
 i didn't even uninstall my chrome because i cant move my work on chrome until i secure a decent profile on Firefox

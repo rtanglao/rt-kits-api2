@@ -44,10 +44,10 @@ Firefox 67.0.4 (64-bit)
 </p><p>Where might I look or troubleshoot to find out where the ads are being blocked? 
 I have McAfee Total Protection installed, and Privacy Badger also.
 </p>",firefox-670;firefox-6704;customize;desktop;windows-7;,firefox,customize,en-US,1232004;1232021;1232026;1232028;1232030;1232035;1232036;1232076;,e_s_jones
-1262791,2019-06-22 07:47:14 -0800,2019-07-08T14:43:05Z,Firefox stable and trunk keep asking for the master password without accepting it,"<p>On Ubuntu, after one the latest update for  Firefox 68 and Firefox Nightly 69, the master password feature started not working (OK on Firefox 67). First on Firefox stable, then a couple days later on Firefox Nightly.
-Both Firefox now keep asking for the master password and won’t accept it.
-If I go to Preferences &gt; Privacy and Security &gt; Saved Logins, the master password is accepted there.
-I tried deleting the master password, restarting Firefox, setting a master password again, be to no avail, the problem still persists.
+1262791,2019-06-22 07:47:14 -0800,2019-07-08T14:43:05Z,Firefox stable and trunk keep asking for the oligarch password without accepting it,"<p>On Ubuntu, after one the latest update for  Firefox 68 and Firefox Nightly 69, the oligarch password feature started not working (OK on Firefox 67). First on Firefox stable, then a couple days later on Firefox Nightly.
+Both Firefox now keep asking for the oligarch password and won’t accept it.
+If I go to Preferences &gt; Privacy and Security &gt; Saved Logins, the oligarch password is accepted there.
+I tried deleting the oligarch password, restarting Firefox, setting a oligarch password again, be to no avail, the problem still persists.
 </p><p>Any help would be welcome.
 </p>",other;desktop;linux;,firefox,other,en-US,1232022;1234420;1234432;1234689;1235681;1235711;1235771;,yahoe.001
 1262790,2019-06-22 07:47:26 -0800,2019-06-23T22:33:11Z,4e94b0e70fd7d8c9.2019-06-19.09:50:14 UTCFirefox crashes,"<p>PRIZE@EMAIL I WIN 22450$ AT THIS SIT BUT I DON'T  NO HOW CAN I GET IT PLS I NEED HELP
@@ -154,7 +154,7 @@ THANK YOU !
 </p><p>I've searched and read all I can about his topic but although I see many that are almost exactly like it, I don't see any that are exactly like it. The advice to set Firefox with all bookmarks, extension, etc. like I want it then click ""Disconnect"" in Sync the reconnect is a common ""fix"" but it does not work.
 </p><p>The problem is this: Evidently, some time ago I did a sync on some device or another that had Firefox, possibly Ubuntu on my laptop. Also evident is the fact that the bookmarks, extensions, etc. are a huge mess in that sync.
 </p><p>Now when I re-installed Firefox on my desktop yesterday and placed my good backup of the profile into the proper profile folder, which is exactly like I want everything , all is good at this point, I then sign in to Sync and instantly the ""bad"" sync comes ""in"" and garbles everything into a mess.
-</p><p>So my question is whether there is a way (I'm sure it's simple, I'm just dense) to use this current Firefox on my desktop to be the ""master"" that all other devices sync to? I just described above what happens when I set it exactly like I like it then sign in to sync, so that's no good as a solution.
+</p><p>So my question is whether there is a way (I'm sure it's simple, I'm just dense) to use this current Firefox on my desktop to be the ""oligarch"" that all other devices sync to? I just described above what happens when I set it exactly like I like it then sign in to sync, so that's no good as a solution.
 </p><p>Thank you in advance for any assistance you may be able to provide.
 </p>",firefox-670;sync;desktop;needsinfo;,firefox,sync,en-US,1231949;1232216;1235395;,ThinkingMonkey
 1262726,2019-06-21 14:26:51 -0800,2019-06-22T01:46:25Z,Firefox won't open YouTube or Facebook webpages,"<p>Both sites worked fine until this morning.  I checked via Chrome and Brave and both websites work fine under those browsers so I'm not sure why these sites will no longer load.  Other websites will open with Firefox, just not YouTube or Facebook.  Other websites with embedded YT videos will load, but the videos will not appear.
@@ -1139,7 +1139,7 @@ No error message. Just firefox not want to open new windows.
 </p>",firefox-670;privacy-and-security_1;desktop;windows-7;,firefox,privacy-and-security,en-US,1231110;1231125;1231128;,gsparrownz
 1262316,2019-06-18 03:02:12 -0800,2019-06-20T04:21:22Z,"BBC homepage looks different in Firefox; I prefer how it looks in Chrome or Edge, can I change it?","<p>BBC homepage looks different in Firefox; I prefer how it looks in Chrome or Edge, can I change it?
 </p>",firefox-670;websites;desktop;windows-10;,firefox,websites,en-US,1231108;1231141;1231149;1231153;1231156;1231163;1231544;1231546;1231551;1231552;1231555;,MicahClarke
-1262314,2019-06-18 02:10:00 -0800,2019-06-18T04:35:34Z,Firefox asking for master password twice on startup,"<p>For a couple of weeks Firefox is now asking at startup twice for my master password. This happens not always, but at about 8 of 10 startups of Firefox. I am not participating in any studies and do not have an addon installed related to the ""disabled add-ons problem"" a couple of weeks ago. However, I remember having applied a ""hotfix-update-xpi-signing-intermediate-bug"" at that time. In other threads I read that this could be related to my problem. 
+1262314,2019-06-18 02:10:00 -0800,2019-06-18T04:35:34Z,Firefox asking for oligarch password twice on startup,"<p>For a couple of weeks Firefox is now asking at startup twice for my oligarch password. This happens not always, but at about 8 of 10 startups of Firefox. I am not participating in any studies and do not have an addon installed related to the ""disabled add-ons problem"" a couple of weeks ago. However, I remember having applied a ""hotfix-update-xpi-signing-intermediate-bug"" at that time. In other threads I read that this could be related to my problem. 
 How can I get rid of such a hotfix or might my problem be related to something else?
 </p>",firefox-670;privacy-and-security_1;desktop;windows-10;,firefox,privacy-and-security,en-US,1231069;1231090;,Kurt.S
 1262311,2019-06-18 01:44:24 -0800,2019-06-18T06:39:58Z,login saved lost,"<p>I have exactly the same problem found here: <a href=""https://support.mozilla.org/en-US/questions/1261967"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1261967</a>

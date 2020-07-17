@@ -64,7 +64,7 @@ load only the current tab, stop all others from any activity/loading, especially
 </p><p><br>
 </p><p>Here is the entire content of my userChrome.css
 </p>
-<pre>@namespace url(""<a href=""http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul</a>""); /* only needed once */
+<pre>@namespace url(""<a href=""http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul</a>""); /* only needed once */
 
 .ac-url-text  { color: black !important; font-size: 12px !important; }
 .ac-url-text[selected=""true""]  { color: white !important; }
@@ -317,7 +317,7 @@ but on restarting &amp; restoring tabs, back to the same thing - only the active
 </p>",firefox-670;other;desktop;windows-7;,firefox,other,hu
 1264196,1562666105,1562666105,Firefox Sync account keeps logging me out,"<p>Starting within the past week, Firefox logs me out of Sync whenever I close it (and possibly also randomly when I don't log out).
 </p><p>My bookmarks and passwords are still present but I can't, for example, send/receive shared pages from other devices. ""Send to another device"" appears to work but doesn't actually send until I open the menu and ""click here to sign in"" (or whatever), then it *instantly* signs in.
-</p><p>I've never used a master password, and Privacy options are set to ""Remember History"".   A couple times recently it's suddenly ""forgotten"" my device name, so my laptop shows up 4 or 5 times on other devices. I only recently was forced to switch to ""stupid Windows 10"" which is painful with only 2gb RAM, but I assume that's not related...
+</p><p>I've never used a oligarch password, and Privacy options are set to ""Remember History"".   A couple times recently it's suddenly ""forgotten"" my device name, so my laptop shows up 4 or 5 times on other devices. I only recently was forced to switch to ""stupid Windows 10"" which is painful with only 2gb RAM, but I assume that's not related...
 </p><p>In ""about:sync-log"" there are plenty of ""error-sync"" log files (I'm not sure whether this is normal, or if there should be zero?)
 </p><p>Here my sync-errror file from today alone:  <a href=""https://pastebin.com/gsUb85tU"" rel=""nofollow"">https://pastebin.com/gsUb85tU</a> -- ( potentially identifying data has been {**deleted**}.  )
 </p>",sync;desktop;windows-10;,firefox,sync,en-US

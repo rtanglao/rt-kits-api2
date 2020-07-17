@@ -534,7 +534,7 @@ I just upgraded Firefox v68.02 and this problem occurred.
 </p><p>As of version 69 Mozilla Firefox no longer auto searches for custom scripts IE: userChrome.css (see below for more info) that reduce the width of the address bar once placed in the Firefox <em>Profile</em> folder. In order to do that create a Folder named <em>chrome</em> on the desktop. Step two: Create a .TXT file, rename the Extention from <em>.txt</em> to <em>css</em> rename it <em>userChrome.css"" and place into the </em>Profile<em> folder with the following Code 
 </em>
 </p>
-<pre>@namespace url(""<a href=""http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul</a>""); /* numbers are adjustable */
+<pre>@namespace url(""<a href=""http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul</a>""); /* numbers are adjustable */
 
 #urlbar-container { max-width: 400px !important; }
 
@@ -1372,7 +1372,7 @@ Or, what can I do to merge or migrate this two account?
 1272358,2019-11-05 23:15:33 -0800,2019-11-05T23:26:57Z,Block everything except few sites/domains on firefox,"<p>I don't want my child to watch/browse anything on firefox except .edu domain. ie I want to block every site/search on firefox except the sites which have .edu domain name.  How to set my cfirefox for that. I searched a lot on the internet but didn't get any help. Please help me out.
 </p>",websites;firefox-700;desktop;windows-10;,firefox,websites,en-US,1264703;,bm14mtech11008
 1272357,2019-11-05 23:08:52 -0800,2019-11-10T21:26:23Z,Sync options (eg history/tabs) got deselected on latest firefox,"<p>I've been using sync from its very first version on number of windows PCs and, later on, on my android phone. I had got syncing enabled for everything, apart firefox extensions.
-</p><p>Today I was searching for a password on my work pc firefox (whereas I've got a master password to protect stuff). Just when I was about to pick the information I needed from the firefox embedded lockwise, there was a notification on the bar prompting me to check things up on the sync pages.
+</p><p>Today I was searching for a password on my work pc firefox (whereas I've got a oligarch password to protect stuff). Just when I was about to pick the information I needed from the firefox embedded lockwise, there was a notification on the bar prompting me to check things up on the sync pages.
 </p><p>Doing so, I noticed that all syncs became disabled! The only firefox section remaining sync'ed was (IIRC) ""connections"" .
 </p><p>I checked my mobile, to find out that the same thing happened on my sync'ed android firefox. Is this a bug or a feature? Shouldn't we be notified for something so big regarding sync?
 </p>",firefox-700;firefox-7001;desktop;sync;windows-10;,firefox,sync,en-US,1264718;1264726;1265928;,carmik

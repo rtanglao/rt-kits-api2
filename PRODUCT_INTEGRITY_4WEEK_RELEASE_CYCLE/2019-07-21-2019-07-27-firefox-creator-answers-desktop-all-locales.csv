@@ -158,7 +158,7 @@ Have run FF in safe mode.
 In all cases the problem persists.
 </p><p>Have tried Edge and IE both of which work OK and they have different looking print routines.
 </p><p>All three laptops have Roboform password manager extension installed.
-One laptop recently developed a problem when typeing the master password. Incorrect random charactors were being entered instead of the chosen keystroke. Verified by using a keystrike logger.
+One laptop recently developed a problem when typeing the oligarch password. Incorrect random charactors were being entered instead of the chosen keystroke. Verified by using a keystrike logger.
 </p><p>Any info and help would be gratefully received
 </p>",firefox-6801;firefox-680;desktop;fix-problems;,firefox,fix-problems,en-US,1240487;1240544;,pillarbox
 1265553,2019-07-26 10:42:27 -0800,2019-07-29T07:33:24Z,¿al abrir una página en inglés que sea traducida al español?,"<p>quiero que se haga la traducción de inmediato
@@ -367,7 +367,7 @@ Dominique
 1265464,2019-07-25 08:53:41 -0800,2019-08-02T05:37:21Z,"Given FireFox high CPU usage problem has never been resolved, whats the next best privacy based browser?","<p>I first started using Firefox in 2013 , it suffered back then from High CPU so I changed to opera, I again came back in 2015 with a new Mac Book Pro and still the same issue, did all the trouble shooting and gave up, now I again have another powerful Macbook , I still want privacy and security online but still Firefox is using 70% CPU even after putting it in safe mode, No script extenion installed...ect etc.
 So what the next best browser or am I missing something here?
 </p>",firefox-680;desktop;fix-problems;,firefox,fix-problems,en-US,1240220;1240394;1240395;1241693;,ivorsweeney
-1265463,2019-07-25 08:52:17 -0800,2019-07-26T07:49:11Z,"Want to save Login name but not password (MacOS 10.14.5, FF V67.x.x)","<p>I used to be able to have ""ask to save login and passwords"" prompt off but still have a drop down list of login names for a given site that looked more like an autofill.  That is, the site prompts for login, I type a 2 (login names are a long string of numbers)  and I was prompted with a list of the login names that began with a 2.  I selected the desired number/login and then I entered the password myself so no stored passwords or master password etc.   I have tried various forms of Autofill and the prompt for login and password stuff but can't seem to get the desired result.  Any ideas about how to get to where I was? 
+1265463,2019-07-25 08:52:17 -0800,2019-07-26T07:49:11Z,"Want to save Login name but not password (MacOS 10.14.5, FF V67.x.x)","<p>I used to be able to have ""ask to save login and passwords"" prompt off but still have a drop down list of login names for a given site that looked more like an autofill.  That is, the site prompts for login, I type a 2 (login names are a long string of numbers)  and I was prompted with a list of the login names that began with a 2.  I selected the desired number/login and then I entered the password myself so no stored passwords or oligarch password etc.   I have tried various forms of Autofill and the prompt for login and password stuff but can't seem to get the desired result.  Any ideas about how to get to where I was? 
 </p><p>Thanks!
 </p>",firefox-670;privacy-and-security_1;desktop;mac-os;,firefox,privacy-and-security,en-US,1240327;1240400;1240408;1240409;1240410;,bonnetjay
 1265461,2019-07-25 08:18:29 -0800,2019-07-25T08:31:00Z,"Will allowing a Firefox ""Refresh"" create a restore point so that computer may be later restored to that point to view email account open at time of ""Refresh'?","<p>I went to an  institution computer lab/3-D printing site in regard to printing (manufacturing) my patented product.  During the interview I had to resort to my email about scheduling details and a pop up to ""Refresh"" Firefox came up.  Being somewhat tired I allowed it.  And being partly blind I failed to notice that my Yahoo email had the  "" Say signed in"" in their default ""Go"" position.  I signed out of my email but when I reopened the computer several minutes later,I noticed all my emails were there for anyone to read.  Since this involved a patent situation, where IP stealing is always a problem, this was a concern.  I logged out and was able to closed the email access only 10 or 20 minutes after the initial breach.  But I wonder if the Firefox ""Refresh"" created a restore point so that a person with administrative authority on the computer could do a system restore to the point of Firefox ""Refresh"" and gain access to all my sensitive emails.  Unfortunately the Yahoo default ""stay signed in"" often tends to put the user in rape- ready position.  Subsequent refreshes or restarts may inadvertently leave the front door open for hacking of all your emails involving lawyers, accountants, mistresses, political improprieties etc.
@@ -441,12 +441,12 @@ Wake up computer.
 All DNS fails. Servers All unfound. Must restart Firefox.
 </p><p>Bug
 </p>",firefox-680;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1240685;1240694;1240769;1240771;,ukdgpf82
-1265432,2019-07-24 21:06:52 -0800,2019-07-24T21:06:52Z,Firefox has started asking for the master password every time it is launched,"<p>Today Firefox has started asking for the master password every time it is launched. I tried updated to the latest release (60.8.0esr), but it did not address the issue. 
+1265432,2019-07-24 21:06:52 -0800,2019-07-24T21:06:52Z,Firefox has started asking for the oligarch password every time it is launched,"<p>Today Firefox has started asking for the oligarch password every time it is launched. I tried updated to the latest release (60.8.0esr), but it did not address the issue. 
 </p><p>I have spent hours looking for solutions online, but nothing seems to work... 
 </p><p>To cover some of the areas I have seen blamed for this issue, and some of the things I have tried:
 </p><p>1. I do not have AVG anti virus installed - I am currently using Bitdefender (free version)
 2. I do not have sync enabled... (in fact I did not even have a Firefox account until I created it to make this post)
-3. Removing the master password, restarting Firefox, and adding the master password again did not fix the problem
+3. Removing the oligarch password, restarting Firefox, and adding the oligarch password again did not fix the problem
 4. disabling all addons made no difference
 5. there is no ""hotfix-update-xpi-signing-intermediate-bug"" in ""about:studies""
 6. I am not using private browsing

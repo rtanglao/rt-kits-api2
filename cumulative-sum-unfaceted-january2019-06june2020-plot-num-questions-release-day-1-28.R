@@ -44,7 +44,7 @@ create_desktop_df_release_week_num_questions <-
       dplyr::mutate(cumulutive_sum = cumsum(n)))
   }
 jan2019_06june2020_questions <- 
-  read_csv("https://raw.githubusercontent.com/rtanglao/rt-kits-api2/master/ARBITRARY_TIME_PERIOD/sorted-all-desktop-en-us-2019-01-01-2020-06-06-firefox-creator-answers-desktop-all-locales.csv")
+  read_csv("https://raw.githubusercontent.com/rtanglao/rt-kits-api2/oligarch/ARBITRARY_TIME_PERIOD/sorted-all-desktop-en-us-2019-01-01-2020-06-06-firefox-creator-answers-desktop-all-locales.csv")
 # change created unix time to r time UTC using as_datetime()
 jan2019_06june2020_questions <- 
   jan2019_06june2020_questions %>%

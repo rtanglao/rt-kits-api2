@@ -183,7 +183,7 @@ I get image2 when I right click ""View image"" on the profile pictures that don'
 1274572,2019-12-08 02:45:00 -0800,2019-12-08T03:05:03Z,v71 appears to have eliminated the local disconnect/device clear feature,"<p>Usually when I disconnect a two (2) checkbox 'Disconnect Sync' box appears, which after checking removes bookmarks etc from browser.  V71 is not doing this and leaves my personal info in the browser I log in to.
 </p>",firefox-710;sync;desktop;windows-10;,firefox,sync,en-US,1271714;,kurtofthenorth
 1274571,2019-12-08 02:13:37 -0800,2019-12-10T01:04:07Z,Firefox synchronisiert keine offene Tabs. Alles andere wird synchronisiert.,"<p>auch die Einrichtung eines weiteren Gerätes hat das Problem nicht gelöst
-</p>",firefox-710;sync;desktop;windows-10;,firefox,sync,en-US,1272079;1272086;1272087;1272089;1272091;1272093;1272094;1272238;1272277;,master-marko
+</p>",firefox-710;sync;desktop;windows-10;,firefox,sync,en-US,1272079;1272086;1272087;1272089;1272091;1272093;1272094;1272238;1272277;,oligarch-marko
 1274568,2019-12-08 00:45:50 -0800,2019-12-08T01:35:25Z,youtube's relevant videos even in multi-account cointainer add-on,"<p>im concerning about youtubes feed! since im using multi-account container add-on im expecting youtube know nothing about me and my favorite videos but somehow youtube videos are still relevant to my account! ( im clrearing the caches as well!)
 what can be wrong ? or how can i fix this issue?
 </p>",privacy-and-security_1;firefox-710;desktop;windows-10;,firefox,privacy-and-security,en-US,1271707;1271709;1271710;,iman9543.arya

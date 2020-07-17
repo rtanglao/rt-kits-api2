@@ -152,7 +152,7 @@ thank you
 </p><p>So the main question is how to add a keyboard shortcut for the Eyedropper, with a more general question of how to add or customize keyboard shortcuts in general without extensions.
 </p>",firefox-690;customize;desktop;mac-os;,firefox,customize,en-US,1259528;1259892;,ingallsweb+firefox
 1270891,2019-10-18 16:07:51 UTC,2019-10-18T17:35:16Z,"Go to website and get ""an error has occurred"" works fine in Safari - cleared history, cashe... same error","<p>Go to <a href=""http://www.thedailywire.com"" rel=""nofollow"">www.thedailywire.com</a> and click on a link - get an error: ""An error has occurred"" no images, just a white screen. You can select any of the stories on the right side
-</p>",firefox-690;other;desktop;firefox-6901;mac-os;,firefox,other,en-US,1259431;1259433;1259434;1259435;,divemaster2
+</p>",firefox-690;other;desktop;firefox-6901;mac-os;,firefox,other,en-US,1259431;1259433;1259434;1259435;,diveoligarch2
 1270890,2019-10-18 15:59:27 UTC,2019-10-19T08:29:09Z,Found several more websites that I can no longer loginto,"<p>I have run across a couple more websites that firefox 69.0.3  will no longer allow me to log into from my PC. I have turned off all my ad blockers and anti tracker plug-ins but sites that I used to be able to get to while using windows 7, I can no longer access with windows 10. Has anyone else experienced this problem? One of the websites I can no longer access is the T-Mobile site. I can access the T-Mobile site using Firefox from my phone, but not my PC.
 Thanks for any help.
 Rgds
@@ -404,7 +404,7 @@ What was so wrong with the ability to hide update nags from about:config where c
 </p>",firefox-690;other;firefox-6903;desktop;mac-os;,firefox,other,en-US,1259159;,greg18
 1270773,2019-10-16 19:02:43 UTC,2019-10-17T00:12:09Z,Looks like multiline/multi-row tabs are broken again in FF 71.,"<p>As indicated in the question.  At some point (FF 69) I had to turn from Tab Mix Plus to a patch from off the web which worked for several versions.  Now that's broken (may have something to do with chrome/userChrome.css loading - but that's just a semi-informed speculation).  
 </p><p>Found this
-</p><p><a href=""https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme/tree/master/Multirow%20and%20other%20functions"" rel=""nofollow"">https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme/tree/master/Multirow%20and%20other%20functions</a>
+</p><p><a href=""https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme/tree/oligarch/Multirow%20and%20other%20functions"" rel=""nofollow"">https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme/tree/oligarch/Multirow%20and%20other%20functions</a>
 </p><p>I believe I've set it up correctly (correct files in the correct locations) but so far it's not working.  It seems the github site doesn't take bugs/questions so I'm trying to remember how to debug these files where the first question in this case would be: am I even loading what I think should be loading?  There's a JS loader patch to be put (in my case) under c:\program files\Firefox Developer Edition - and then the files for multirow in one's profile directory chrome subdirectory.  Roaming (users/xyz/appdata) as opposed to Local - however did notice that one should clear out one's startupCache directory (under Local).  Which I did.
 </p>",tabs;desktop;windows-7;nightly;710a1;,firefox,tabs,en-US,1259149;1259153;1259154;,patfla
 1270771,2019-10-16 18:38:42 UTC,2019-10-23T07:48:35Z,Firefox very slow after refresh or re-install .,"<p>Recently Firefox has become very slow to load pages. It starts up OK but is very slow to open the first page on a website, often over a minute. Once the first page opens however it will open links perfectly OK. It doesn't matter whether it's a bookmark I visit often or the first time I visit s website it's still very slow to open the first page.
@@ -584,7 +584,7 @@ I also have ipv6 disabled as it was recommended to me for a similar issue with d
 </p>",firefox-690;privacy-and-security_1;desktop;windows-10;,firefox,privacy-and-security,en-US,"",smclemente1
 1270672,2019-10-15 12:24:12 UTC,2019-10-15T12:58:07Z,Firefox 69.0.3 why java control panel is not launched from mac when opening a site containing applet.,"<p>Firefox 69.0.3 why java control panel is not launched from mac when opening a site containing applet. I have Jre version 8 221 installed.
 </p>",firefox-690;firefox-6903;customize;desktop;mac-os;,firefox,customize,en-US,1258851;,soumitra.mazumder80
-1270668,2019-10-15 10:03:09 UTC,2019-10-16T09:45:59Z,Firefox update 69.0.3 removed master password from devices.,"<p>This has happened on two W10 and 1 W7 device
+1270668,2019-10-15 10:03:09 UTC,2019-10-16T09:45:59Z,Firefox update 69.0.3 removed oligarch password from devices.,"<p>This has happened on two W10 and 1 W7 device
 </p>",download-and-install_1;firefox-690;desktop;windows-10;,firefox,download-and-install,en-US,1258840;1258841;1258846;1259006;1259007;1259009;1259012;,Kimberl
 1270667,2019-10-15 09:53:58 UTC,2019-10-27T17:21:37Z,bookmarks don't sync properly across devices,"<p>I use Firefox on the following devices:
 </p><p>- work pc Widnows 10 (primary device)

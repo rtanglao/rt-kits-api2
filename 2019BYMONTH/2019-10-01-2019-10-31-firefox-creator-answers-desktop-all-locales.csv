@@ -486,8 +486,8 @@ I'm using Ubuntu 18.04 (xfce) and Firefox 70.0 (64-bit)
 </p>",firefox-700;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1262437;1262453;,officeafteroffice
 1271657,2019-10-29 07:03:26 UTC,2019-10-29T23:34:49Z,The Nation website doesn't display,"<p>I have Firefox browser 69.0, and now for whatever reason ""The Nation"" website will not display (it is all dark/obscure).  I do not understand.  May anyone have an answer?
 </p>",firefox-690;other;desktop;windows-7;,firefox,other,en-US,1262141;1262163;1262367;1262409;,gpspirit3400
-1271656,2019-10-29 07:02:19 UTC,2019-10-30T00:25:57Z,"Will resetting master password on Linux delete my data on Windows, where I have no master password?","<p>I have Firefox on both Linux Mint and Windows 10 and also on Android.
-</p><p>Only on Mint I have set up a master password but I can't seem to remember it. If I reset my master password in Linux and delete my data, will sync fetch it back from the other OSes?
+1271656,2019-10-29 07:02:19 UTC,2019-10-30T00:25:57Z,"Will resetting oligarch password on Linux delete my data on Windows, where I have no oligarch password?","<p>I have Firefox on both Linux Mint and Windows 10 and also on Android.
+</p><p>Only on Mint I have set up a oligarch password but I can't seem to remember it. If I reset my oligarch password in Linux and delete my data, will sync fetch it back from the other OSes?
 </p>",privacy-and-security_1;firefox-700;desktop;,firefox,privacy-and-security,en-US,1262142;1262424;,thpapei1
 1271655,2019-10-29 06:59:07 UTC,2019-10-30T00:34:59Z,How does Firefox know when I am visiting a site that has had a breach?,"<p>I am not using Firefox Monitor, and I am running Firefox 66.  I just visited a website, and was told via a popup message in the address bar there had been a breach back in 2010, exposing thousands of passwords.  (And of course it suggested I sign up for Firefox Monitor to get details.)
 </p><p>I am wondering how Firefox knew that it should show me that message?  Does it regularly download a list of breached sites, or is every site I visit being sent to Mozilla so they can check to see whether it's on a breach list?
@@ -723,7 +723,7 @@ As a slow elderly old codger myself,  I find it too hard to do all this within 5
 </p>",sync;desktop;firefox-650;linux;,firefox,sync,en-US,1261585;1261623;,advt
 1271521,2019-10-27 11:18:09 UTC,2019-10-29T05:04:43Z,I could not log into my Firefox account due to cookies and storage blocked,"<p>I tried all the settings changes suggested here. Then I ""refreshed"" Firefox and I can now ask this question.
 Also, the gmail log-in would not proceed to password by ""Next"" after username.
-</p><p>Now I have lost my master password, although all my passwords have been preserved. It said it was unset but would not let me use the previous one. Is that usual?
+</p><p>Now I have lost my oligarch password, although all my passwords have been preserved. It said it was unset but would not let me use the previous one. Is that usual?
 Also, of course, I have to re-install my add-ins.
 Is there a check for database corruption which could fix this sort of thing without ""refresh"" ?
 </p>",privacy-and-security_1;firefox-700;desktop;windows-10;,firefox,privacy-and-security,en-US,1261543;1262054;1262071;,xoferif1
@@ -1316,7 +1316,7 @@ lockPref(""browser.search.update"", false);
 </p>",firefox-600;other;desktop;windows-10;,firefox,other,en-US,1260664;1260669;1260683;1260806;1260825;1260826;1263597;1263623;1263657;,lapiece
 1271294,2019-10-24 14:56:59 UTC,2019-11-04T20:07:59Z,All of a sudden something called lockwise is appearing in place of saved logins. I want it back the regular way.,"<p>On my work computer this ugly ""thing"" called lockwise appears instead of my saved passwords. I cannot see my saved passwords now. My home computer (with synced accounts) works fine and shows me my saved passwords. I need to make this lockwise go away and restore to where I can see my saved logons. Firefox 70.0 (64-bit).
 Please help.
-</p>",privacy-and-security_1;firefox-700;desktop;windows-7;bug1592050;lockwisedesktop;lockwise;masterpassword;,firefox,privacy-and-security,en-US,1260668;1260677;1260680;1260699;1261365;1261369;1261605;1261754;1261762;1261774;1261775;1261835;1261839;1261855;1261862;1262138;1262260;1262261;1263135;1263232;1263768;1263778;1264156;1264174;1264192;1264193;1264194;1264200;1264201;1264202;,joe9999
+</p>",privacy-and-security_1;firefox-700;desktop;windows-7;bug1592050;lockwisedesktop;lockwise;oligarchpassword;,firefox,privacy-and-security,en-US,1260668;1260677;1260680;1260699;1261365;1261369;1261605;1261754;1261762;1261774;1261775;1261835;1261839;1261855;1261862;1262138;1262260;1262261;1263135;1263232;1263768;1263778;1264156;1264174;1264192;1264193;1264194;1264200;1264201;1264202;,joe9999
 1271293,2019-10-24 14:43:02 UTC,2019-11-05T02:47:58Z,Outlook.live.com does not load on Firefox 70,"<p>Up until Firefox 69.0.3 <a href=""http://outlook.live.com"" rel=""nofollow"">outlook.live.com</a> ""Hotmail"" worked fine. Firefox updated to 70 and all I see on the page is the Outlook blue logo.
 </p><p>This is what I have done without any help:
 </p><p>- Ran Firefox in safe mode
@@ -2314,7 +2314,7 @@ thank you
 </p><p>So the main question is how to add a keyboard shortcut for the Eyedropper, with a more general question of how to add or customize keyboard shortcuts in general without extensions.
 </p>",firefox-690;customize;desktop;mac-os;,firefox,customize,en-US,1259528;1259892;,ingallsweb+firefox
 1270891,2019-10-18 16:07:51 UTC,2019-10-18T17:35:16Z,"Go to website and get ""an error has occurred"" works fine in Safari - cleared history, cashe... same error","<p>Go to <a href=""http://www.thedailywire.com"" rel=""nofollow"">www.thedailywire.com</a> and click on a link - get an error: ""An error has occurred"" no images, just a white screen. You can select any of the stories on the right side
-</p>",firefox-690;other;desktop;firefox-6901;mac-os;,firefox,other,en-US,1259431;1259433;1259434;1259435;,divemaster2
+</p>",firefox-690;other;desktop;firefox-6901;mac-os;,firefox,other,en-US,1259431;1259433;1259434;1259435;,diveoligarch2
 1270890,2019-10-18 15:59:27 UTC,2019-10-19T08:29:09Z,Found several more websites that I can no longer loginto,"<p>I have run across a couple more websites that firefox 69.0.3  will no longer allow me to log into from my PC. I have turned off all my ad blockers and anti tracker plug-ins but sites that I used to be able to get to while using windows 7, I can no longer access with windows 10. Has anyone else experienced this problem? One of the websites I can no longer access is the T-Mobile site. I can access the T-Mobile site using Firefox from my phone, but not my PC.
 Thanks for any help.
 Rgds
@@ -2566,7 +2566,7 @@ What was so wrong with the ability to hide update nags from about:config where c
 </p>",firefox-690;other;firefox-6903;desktop;mac-os;,firefox,other,en-US,1259159;,greg18
 1270773,2019-10-16 19:02:43 UTC,2019-10-17T00:12:09Z,Looks like multiline/multi-row tabs are broken again in FF 71.,"<p>As indicated in the question.  At some point (FF 69) I had to turn from Tab Mix Plus to a patch from off the web which worked for several versions.  Now that's broken (may have something to do with chrome/userChrome.css loading - but that's just a semi-informed speculation).  
 </p><p>Found this
-</p><p><a href=""https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme/tree/master/Multirow%20and%20other%20functions"" rel=""nofollow"">https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme/tree/master/Multirow%20and%20other%20functions</a>
+</p><p><a href=""https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme/tree/oligarch/Multirow%20and%20other%20functions"" rel=""nofollow"">https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme/tree/oligarch/Multirow%20and%20other%20functions</a>
 </p><p>I believe I've set it up correctly (correct files in the correct locations) but so far it's not working.  It seems the github site doesn't take bugs/questions so I'm trying to remember how to debug these files where the first question in this case would be: am I even loading what I think should be loading?  There's a JS loader patch to be put (in my case) under c:\program files\Firefox Developer Edition - and then the files for multirow in one's profile directory chrome subdirectory.  Roaming (users/xyz/appdata) as opposed to Local - however did notice that one should clear out one's startupCache directory (under Local).  Which I did.
 </p>",tabs;desktop;windows-7;nightly;710a1;,firefox,tabs,en-US,1259149;1259153;1259154;,patfla
 1270771,2019-10-16 18:38:42 UTC,2019-10-23T07:48:35Z,Firefox very slow after refresh or re-install .,"<p>Recently Firefox has become very slow to load pages. It starts up OK but is very slow to open the first page on a website, often over a minute. Once the first page opens however it will open links perfectly OK. It doesn't matter whether it's a bookmark I visit often or the first time I visit s website it's still very slow to open the first page.
@@ -2746,7 +2746,7 @@ I also have ipv6 disabled as it was recommended to me for a similar issue with d
 </p>",firefox-690;privacy-and-security_1;desktop;windows-10;,firefox,privacy-and-security,en-US,"",smclemente1
 1270672,2019-10-15 12:24:12 UTC,2019-10-15T12:58:07Z,Firefox 69.0.3 why java control panel is not launched from mac when opening a site containing applet.,"<p>Firefox 69.0.3 why java control panel is not launched from mac when opening a site containing applet. I have Jre version 8 221 installed.
 </p>",firefox-690;firefox-6903;customize;desktop;mac-os;,firefox,customize,en-US,1258851;,soumitra.mazumder80
-1270668,2019-10-15 10:03:09 UTC,2019-10-16T09:45:59Z,Firefox update 69.0.3 removed master password from devices.,"<p>This has happened on two W10 and 1 W7 device
+1270668,2019-10-15 10:03:09 UTC,2019-10-16T09:45:59Z,Firefox update 69.0.3 removed oligarch password from devices.,"<p>This has happened on two W10 and 1 W7 device
 </p>",download-and-install_1;firefox-690;desktop;windows-10;,firefox,download-and-install,en-US,1258840;1258841;1258846;1259006;1259007;1259009;1259012;,Kimberl
 1270667,2019-10-15 09:53:58 UTC,2019-10-27T17:21:37Z,bookmarks don't sync properly across devices,"<p>I use Firefox on the following devices:
 </p><p>- work pc Widnows 10 (primary device)
@@ -3402,7 +3402,7 @@ Version Information: Microsoft .NET Framework Version:4.0.30319; <a href=""http:
 </p>",firefox-690;tabs;desktop;windows-7;,firefox,tabs,en-US,1258136;1258157;1258171;,886426
 1270416,2019-10-10 19:08:17 UTC,2019-10-11T00:27:15Z,userChrome.css: notification-animation,"<p>Version: 66.0.4 (64-bit) fedora -1.0 (linux fedora 28)
 I can't get following to work:
-@namespace url(""<a href=""http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul</a>"");
+@namespace url(""<a href=""http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul</a>"");
 </p><p>@-moz-document url(""chrome://global/content/alerts/alert.xul"") {
 </p><pre>       #alertBox[animate] {
                animation-duration: 999s !important;
@@ -3410,7 +3410,7 @@ I can't get following to work:
 </pre>
 <p>}
 </p><p>I also tried:
-@namespace url(""<a href=""http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul</a>"");
+@namespace url(""<a href=""http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul</a>"");
 </p>
 <ul><li> { animation-duration: 999s !important;} 
 </li></ul>
@@ -3643,9 +3643,9 @@ false  services.sync.prefs.sync.media.autoplay.default
 </p>",firefox-520;other;desktop;windows-xp;,firefox,other,en-US,1257754;1257755;1257773;,macciofe
 1270317,2019-10-09 12:38:00 UTC,2019-10-23T17:01:14Z,Firefox crashes when trying to diable dialog box with about:config variable of print_always_print_silent set to True,"<p>Using a Raspberry Pi 3 B+.  Using for a church check-in station with a DYMO label printer.  When attempting to finalize a check in and print the label, firefox crashes when the about:config variable of print_always_print_silent is set to true.  Set it to false, the dialog comes up, literally hit ""enter"" and the label prints.  When set to true, firefox ESR crashes.   Works with windows laptop but not with Raspberry Pi.  Crash report has been submitted.  Any help would be greatly appreciated.
 </p>",desktop;fix-problems;,firefox,fix-problems,en-US,1257786;1260125;1260134;1260135;1260151;1260163;,markd2
-1270315,2019-10-09 11:29:19 UTC,2019-10-09T16:39:17Z,Firefox crashes,"<p>It crashes as it asks for master password 
+1270315,2019-10-09 11:29:19 UTC,2019-10-09T16:39:17Z,Firefox crashes,"<p>It crashes as it asks for oligarch password 
 Crash ID: bp-3e4ed19b-19fc-4c6e-b8d5-fe89d0191009
-</p>",desktop;fix-problems;mac-os-x-10126;nightly;710a1;escalate;masterpassword;,firefox,fix-problems,en-US,1257739;1257741;1257799;1257802;1257805;,suzuki1
+</p>",desktop;fix-problems;mac-os-x-10126;nightly;710a1;escalate;oligarchpassword;,firefox,fix-problems,en-US,1257739;1257741;1257799;1257802;1257805;,suzuki1
 1270311,2019-10-09 09:16:52 UTC,2019-10-09T10:41:56Z,"I have a blank box with an 'X' that doesn't function. The box blocks out what ever  ends up under it. HOW DO I GET RID OF IT?   I tried deleting firefox, then r","<p>Only happens on Zero Hedge screen. Does not show up when starting Firefox in safe mode.
 </p>",firefox-690;other;desktop;windows-7;,firefox,other,en-US,1257721;1257722;,oani@verizon.net
 1270310,2019-10-09 08:42:48 UTC,2019-10-09T12:58:40Z,How can I entirely disable/get rid off the Touch Bar controls for MacBook Pro?,"<p>FireFox comes with inbuilt touch bar support for MacBooks. However, since I frequently hit the ""reload page"" or ""back"" buttons I'd like to get rid off it. Is there an option to disable it entirely?
@@ -4210,7 +4210,7 @@ I already tried Safe mode, uninstalling Antivirus (Kaspersky), and everything of
 <a href=""https://support.mozilla.org/en-US/kb/cant-download-or-save-files"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/cant-download-or-save-files</a>
 Here are some examples, tried to save facebook images and failed, same to 'Malwarebytes' launcher.
 </p>",download-and-install_1;firefox-690;desktop;windows-10;needsinfo;,firefox,bookmarks,en-US,1257034;,matiasruiz94
-1270070,2019-10-04 19:32:46 UTC,2019-10-04T20:12:05Z,Dark Fox theme terminates and is replaced by default,"<p>Running Firefox v69.0.2 with the Dark Fox theme from ""randomaster"". Intermittently upon starting Firefox, this theme appears to have been terminated / disabled and automatically replaced with the default theme.
+1270070,2019-10-04 19:32:46 UTC,2019-10-04T20:12:05Z,Dark Fox theme terminates and is replaced by default,"<p>Running Firefox v69.0.2 with the Dark Fox theme from ""randooligarch"". Intermittently upon starting Firefox, this theme appears to have been terminated / disabled and automatically replaced with the default theme.
 </p>",firefox-690;customize;desktop;windows-10;,firefox,customize,en-US,1256799;,lalaustex
 1270069,2019-10-04 19:02:57 UTC,2019-10-04T20:13:58Z,"Firefox displays a ""failure to download"" when the download proceeded.","<p>When I go to download something from the internet, Firefox displays a ""failure to download message"". However upon looking in the download file the file appeared despite Firefox saying that it did not. AVG (my current antivirus) was also updated today if that helps.
 </p>",download-and-install_1;firefox-690;desktop;windows-10;bug1586228;,firefox,download-and-install,en-US,1256776;1256779;1256781;1256796;1256798;1256800;,JKAndersen2live
@@ -4370,7 +4370,7 @@ Thank you very much
 </p><p>/* .mozilla/firefox/~user~/chrome/userChrome.css */
 /* firefox quantum 65+ */
 /* note: '--tab-min-height' under 'height' - set both values to default:33px; compact:29px; touch:43px */
-</p><p>@namespace url(""<a href=""http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul</a>""); /* do not remove */
+</p><p>@namespace url(""<a href=""http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul</a>""); /* do not remove */
 </p><p>/* TABS: on bottom */
 </p>
 <ol><li>navigator-toolbox toolbar:not(#nav-bar):not(#toolbar-menubar) {-moz-box-ordinal-group:10}
@@ -4493,7 +4493,7 @@ box-shadow: ThreeDShadow 0 -1px inset, -moz-dialog 0 1px !important;
 1269987,2019-10-03 15:35:43 UTC,2019-10-04T00:26:16Z,How to permantly disable container tabs,"<p>I don't like ""container tabs"" as new containers do not populate the user ID and password fields.  Despite setting privacy.userContext.false this is reset to 'True' each time I restart Firefox, which is a pain in the arse.  Before I move over to making Chrome my default browser, is there a way to permanently disable container tabs?
 </p>",firefox-690;other;desktop;windows-10;,firefox,other,en-US,1256489;1256492;1256494;1256496;1256579;,nick-robertson
 1269986,2019-10-03 14:11:56 UTC,2019-10-04T00:15:53Z,Is it possible to manually add a password to the list ?,"<p>Windows 7 PC using Firefox 69
-On some websites I am not asked by FF whether I want to save the user name and password, so they are not in the list under ""Privacy and Security"". I do not use the master Password tool.
+On some websites I am not asked by FF whether I want to save the user name and password, so they are not in the list under ""Privacy and Security"". I do not use the oligarch Password tool.
 Is it possible to manually add such user info to the list, perhaps using a text editor ?
 </p>",firefox-690;other;desktop;windows-7;,firefox,other,en-US,1256488;1256497;1256502;1256558;1256577;,Helvetica
 1269982,2019-10-03 12:11:21 UTC,2019-10-04T02:12:41Z,Code displays in ad videos,"<p>Recently my Firefox (69.0.1 64-bit on Win 10) started displaying code overlaid on video ads. It happens only on ad videos, not other videos. I don't care very much because it's only for ads, but nevertheless...
@@ -4633,7 +4633,7 @@ Em outros navegadores tudo funciona. Somente no Firefox 69.0.1 (64-bit) é que o
 </p>",desktop;fix-problems;windows-10;,firefox,fix-problems,pt-BR,1261479;,maurograca
 1269916,2019-10-02 10:21:42 UTC,2019-10-04T15:50:33Z,Just another 'move tabs and address bar' to the bottom question.,"<p>Hi folks!
 I spent a significant amount of time trying to move tab and address bar to the bottom of the window including address suggestion popup involved stuff several years ago when Opera was deprecated and pulled out of Gentoo repository completely. My partly working recipe was:
-</p><pre>   @namespace ""<a href=""http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul</a>"";
+</p><pre>   @namespace ""<a href=""http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul</a>"";
    @-moz-document url(""chrome://browser/content/browser.xul"") {
        #PopupAutoCompleteRichResult {
            /* bindings.xml in the same folder as userChrome.css */

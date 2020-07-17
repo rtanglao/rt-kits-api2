@@ -77,7 +77,7 @@ I always must enter the twofactauth, amazon doen't remember my PC, I think becau
 I was having a problem with the snap version of firefox so I downloaded, and installed the non-snap version of firefox.  Now I want to delete the snap version and use the other.  My problem is that all my stuff is in the snap version.  My thought is to save the profile of the snap version and then use that profile for the non snap version, delete both versions and reinstall the version I want to use.  before I start, however, I thought I would ask whether that would work.
 </p><p>Thank you........
 </p>",firefox-6501;other;desktop;firefox-650;linux;snap;download-and-install;profiles;escalate;,firefox,other,en-US,1201959;,jwhitt12
-1251668,2019-02-28 16:44:27 UTC,2019-03-01T23:58:40Z,"When searching for tickets on Ticketmaster, Firefox hangs...","<p>NEVER can consummate a Ticketmaster purchase..  Always receive a ""transferring data from..."" error message.  Browser hangs up at ""Checkout""...  Must use ""Control-Alt-Delete"" to exit Browser through MS ""Task Manager""...
+1251668,2019-02-28 16:44:27 UTC,2019-03-01T23:58:40Z,"When searching for tickets on Ticketoligarch, Firefox hangs...","<p>NEVER can consummate a Ticketoligarch purchase..  Always receive a ""transferring data from..."" error message.  Browser hangs up at ""Checkout""...  Must use ""Control-Alt-Delete"" to exit Browser through MS ""Task Manager""...
 </p><p>Use Duck-Duck-Go as search engine.
 </p>",fix-problems;firefox-6501;desktop;firefox-650;windows-10;needsinfo;,firefox,fix-problems,en-US,1201025;1201273;1201301;1201492;1201494;1201505;,pwrobinson
 1251667,2019-02-28 16:12:54 UTC,2019-03-01T20:37:19Z,"reorder bookmarks in descending date order... most recent on top, NOT bottom like now","<p>I think it would be much more useful if the last added bookmarks in folders, has to be added on TOP of the list, not at the BOTTOM like Firefox behaviour now, because it is very uncomfortable to have to scroll down the list all the way to find the latest additions.
@@ -403,7 +403,7 @@ Geoffrey A Hardy
 </p><p>We found the crash reason as ""EXCEPTION_BREAKPOINT"" for most of the cases and for other it is ""NONE
 </p><p>Could you please help us on finding the root cause for these crashes for above two reasons?
 </p>",desktop;fix-problems;,firefox,fix-problems,en-US,1200568;,Ajaykoduru
-1251504,2019-02-27 11:06:19 UTC,2019-02-27T17:13:35Z,How can I prevent Firefox showing my user data even if the master password is not entered?,"<p>I am using Firefox at my company computer. I am also using a master password to acsess my data and passwords. The issue is that lots of my personal data is available whoever starts Firefox at my computer. Even before entering my master password, my identity is available. Is there a way to hide my identity at the Firefox menu if I don't enter my master password?  Thank you for your support.
+1251504,2019-02-27 11:06:19 UTC,2019-02-27T17:13:35Z,How can I prevent Firefox showing my user data even if the oligarch password is not entered?,"<p>I am using Firefox at my company computer. I am also using a oligarch password to acsess my data and passwords. The issue is that lots of my personal data is available whoever starts Firefox at my computer. Even before entering my oligarch password, my identity is available. Is there a way to hide my identity at the Firefox menu if I don't enter my oligarch password?  Thank you for your support.
 </p>",privacy-and-security_1;desktop;firefox-650;windows-10;,firefox,privacy-and-security,en-US,1200561;1200566;1200573;1200578;1200579;1200580;1200581;1200582;1200607;1200635;,Imyquomy
 1251503,2019-02-27 10:48:01 UTC,2019-03-01T20:28:11Z,"In Private browsing's new empty tab, Firefox attempts to connect to printfriendly.com and googletagmanager. Why?","<p>Why does firefox try to connect to these services while i'm in an empty tab page?
 </p>",privacy-and-security_1;firefox-6501;desktop;firefox-650;windows-10;,firefox,privacy-and-security,en-US,1201262;1201413;,MrConfusion
@@ -891,10 +891,10 @@ For a long-while now, I've been unable to add new tags to a (new or old) bookmar
 </p>",fix-problems;desktop;firefox-650;windows-10;,firefox,fix-problems,en-US,1199962;,SuzieDear
 1251255,2019-02-24 23:20:41 UTC,2019-02-25T03:45:00Z,Los videos que reprodroduzco en Fox Play tienen los subtitulos en la parte superior. ¿Cómo los coloco en la posición original(abajo)?,"<p>Me sucede con cualquier video. Empezó a surgir este problema la semana pasada.
 </p>",websites;desktop;firefox-650;windows-10;,firefox,websites,es,1199999;,edsonrojas
-1251254,2019-02-24 23:13:51 UTC,2019-02-25T19:02:45Z,"Can't remove master password or allow ""ask to save logins and passwords""","<p>First I couldn't allow ""Ask to save logins and passwords for websites"" at the Privacy &amp; Security settings. It's just a grey box I can't check. So I thought of trying to use a master password, set it up and gave it a try. It didn't work. Now, I have a couple of problems:
-When I open Firefox, it prompts me for the master password, and when I enter it, it prompts me again. And again. And it keeps going until I click on ""cancel"" instead of actually entering the password. 
-I can't change my master password. It starts the same loop as above.
-I can't disable the ""Use a master password"" box. When I click it, it asks for my master password, but I can't click on the ""Remove"" button - it's grey. 
+1251254,2019-02-24 23:13:51 UTC,2019-02-25T19:02:45Z,"Can't remove oligarch password or allow ""ask to save logins and passwords""","<p>First I couldn't allow ""Ask to save logins and passwords for websites"" at the Privacy &amp; Security settings. It's just a grey box I can't check. So I thought of trying to use a oligarch password, set it up and gave it a try. It didn't work. Now, I have a couple of problems:
+When I open Firefox, it prompts me for the oligarch password, and when I enter it, it prompts me again. And again. And it keeps going until I click on ""cancel"" instead of actually entering the password. 
+I can't change my oligarch password. It starts the same loop as above.
+I can't disable the ""Use a oligarch password"" box. When I click it, it asks for my oligarch password, but I can't click on the ""Remove"" button - it's grey. 
 Has anyone experienced this? Thanks!
 </p>",privacy-and-security_1;desktop;firefox-650;linux;,firefox,privacy-and-security,en-US,1199963;1199965;1200005;1200150;,haltsimog
 1251252,2019-02-24 23:09:25 UTC,2019-02-25T23:20:59Z,how do I use Linkificator?,"<p>I installed the add on and have a web location I want to change to a simple page name, ""DarkDays"" I'm reading and clicking on stuff, what gives?  
@@ -914,7 +914,7 @@ I am using Firefox quantum 65.0.1 on a Mac , 10.13.6
 </p><p>oh, and the jerks that wiped out all of my settings in the last update?...you can go [ahem] yourselves
 </p>",customize;desktop;firefox-640;windows-10;,firefox,customize,en-US,1199964;1228425;,plastic_jeezus
 1251245,2019-02-24 21:16:15 UTC,2019-04-06T13:08:12Z,Ever since ffx 65.* 2-4 firefox process hangs on termination and then crashreporter starts after minute,"<p>Same issue as question 1250811.
-</p><p>I can start firefox in safemode, and just let the front page load and then close. This will, 100% of times, close a few firefox processes, but the master process and a few child processes hang...with 12-25% load (according to sysinternals process explorer), for about a minute.
+</p><p>I can start firefox in safemode, and just let the front page load and then close. This will, 100% of times, close a few firefox processes, but the oligarch process and a few child processes hang...with 12-25% load (according to sysinternals process explorer), for about a minute.
 </p><p>Then the crash-reporter shows up to tell me it ffx crashed.
 </p>",fix-problems;firefox-6501;desktop;firefox-650;windows-7;bug1524200;escalate;,firefox,fix-problems,en-US,1199928;1200407;1200409;1204595;1204621;1204622;1204784;1204791;1204880;1204898;1205406;1205408;1211646;1211647;1211653;1211654;1211696;,theque42
 1251243,2019-02-24 20:57:54 UTC,2019-02-24T20:57:54Z,firefox has the wrong email listed for me and cant sign in.,"<p>That pretty much sums it up my email is jbukka2@gmail.com not bukka2@gmail.com
@@ -1305,7 +1305,7 @@ I don't want to be locked out of my profile including about:config
 I don't want my password-manager crippled.
 I don't want to be nannied, that I'm not allowed to install a password generator addon.
 </p><p>BTW: What is more harmful:
-- Collecting my personal password-manager files protected by a long master-password from my encrypted hard drive.
+- Collecting my personal password-manager files protected by a long oligarch-password from my encrypted hard drive.
 - Cracking the weak password I was driven into using or just phishing it from a single fake-site I happily typed it into, as I am so used to typing it everywhere multiple times per day.
 </p><p>PS: Don't take me wrong. I'm very pleased with Firefox even although I got shocked by loosing lots of addons during the transition to webextension (now I understand the necessity to go-on in development). This is not meant to offend. I'm frustrated, that I met a dead end with my IT-department ... and sad to find out Mozilla collaborates with them ...
 </p>",privacy-and-security_1;desktop;firefox-650;linux;,firefox,privacy-and-security,en-US,1199473;1199475;1199482;1199528;1199539;1199578;1199582;1199676;,private_lock
@@ -3623,8 +3623,8 @@ Thanks
 </p>",websites;desktop;firefox-650;windows-7;,firefox,websites,en-US,1197165;1197242;1197243;1242753;,pebz01
 1250027,2019-02-13 07:08:36 UTC,2019-02-24T06:19:11Z,The owner of support.microsoft.com has configured their website improperly.,"<p>I'm running into some problems with accessing Hotmail as for some reason it will insist on adding a OWA like so <a href=""https://outlook.live.com/owa/"" rel=""nofollow"">https://outlook.live.com/owa/</a> and I'm being blocked from accessing Microsoft support at as Firefox Claims that Microsoft support at <a href=""https://support.microsoft.com/"" rel=""nofollow"">https://support.microsoft.com/</a> hasn't configured their website correctly which I find hard to believe. Can this be switched off or bypassed as I need to know what's going on with the Hotmail account?
 </p>",websites;desktop;firefox-650;windows-7;certificates;probablynotafirefoxproblem;antivirus;av;possibleavproblem;rolandff65experiment;,firefox,websites,en-US,1196610;1196878;1196894;1197751;1197756;1199624;1199632;,Michael11
-1250021,2019-02-13 05:04:43 UTC,2019-02-13T06:14:40Z,master password,"<p>Hey guys I am new here and i was wondering How does a master password work? I look forward to hearing from you guys Thanks Gabe.
-</p>",other;desktop;firefox-650;windows-10;masterpassword;rolandff65experiment;howtousefirefox;notafirefoxproblem;,firefox,other,en-US,1196583;1196584;1196586;1196587;1196588;1196589;,GabeG23
+1250021,2019-02-13 05:04:43 UTC,2019-02-13T06:14:40Z,oligarch password,"<p>Hey guys I am new here and i was wondering How does a oligarch password work? I look forward to hearing from you guys Thanks Gabe.
+</p>",other;desktop;firefox-650;windows-10;oligarchpassword;rolandff65experiment;howtousefirefox;notafirefoxproblem;,firefox,other,en-US,1196583;1196584;1196586;1196587;1196588;1196589;,GabeG23
 1250017,2019-02-13 03:33:01 UTC,2019-02-13T03:33:01Z,"The 2-finger touchpad scrolling in Firefox won't work, works in every other app, including Chrome","<p>The 2-finger touch pad scrolling in Firefox won't work, works in every other app, including Chrome.  When i scroll there are whiteish clear boxes that appear on the screen.  I have already disabled hardware acceleration and it did not fix the issue.
 </p>",firefox-6501;other;desktop;firefox-650;windows-10;,firefox,other,en-US,"",andrewnheckman
 1250016,2019-02-13 03:27:36 UTC,2019-03-19T06:32:21Z,Unable to install FireFox .: Firefox can’t find the file at jar:file:///C:/Program Files/Mozilla Firefox/browser/omni.ja!/chrome/en-US/locale/branding,"<p>Unable to install Firefox due to the following error msg.:  Firefox can’t find the file at jar:file:///C:/Program Files/Mozilla Firefox/browser/omni.ja!/chrome/en-US/locale/branding/browser config.properties.
@@ -3984,7 +3984,7 @@ Reference2: <a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=1296239"" rel
 1249895,2019-02-12 03:36:29 UTC,2019-02-12T16:27:09Z,"Photos in Facebook won't go fullscreen because the sidebar also shows up in fullscreen view. How can I get photos to display fullscreen, corner to corner?","<p>I used to be able to view photos fullscreen without a problem. I don't know why it's not working now. I've tried deleting the cache and other browsing data but no luck. Any ideas?
 </p>",websites;desktop;firefox-650;windows-10;,firefox,websites,en-US,1196301;1196355;,seeker1
 1249894,2019-02-12 03:27:01 UTC,2019-04-07T04:36:03Z,2-step verification,"<p>My Firefox (version Quantum 65.0 32-bit) and Chrome both suddenly require 2-step verification, whereas Microsoft Edge does not.  So, what is happening and why?  I am using Windows 10 Home Version 1803 (OS Build 17134.523).
-</p>",privacy-and-security_1;desktop;firefox-650;windows-10;,firefox,privacy-and-security,en-US,1196260;1196373;1196375;1196377;1196378;1196382;1196384;1196385;1196386;1196389;1210689;1210690;1210695;1210697;1210700;1210701;1211784;1211790;1211800;1211813;1211816;1211854;,slaveboy
+</p>",privacy-and-security_1;desktop;firefox-650;windows-10;,firefox,privacy-and-security,en-US,1196260;1196373;1196375;1196377;1196378;1196382;1196384;1196385;1196386;1196389;1210689;1210690;1210695;1210697;1210700;1210701;1211784;1211790;1211800;1211813;1211816;1211854;,politicianboy
 1249893,2019-02-12 03:09:43 UTC,2019-02-12T03:35:54Z,"Solo dentro del navegador FireFox 60.5.0esr (64-bit) corriendo en Debian stretch, el teclado pasa a disposici'on en-US y no hay manera de arreglarlo","<p>Con la 'ultima actualizaci'on FireFox 60.5.0esr (64-bit) corriendo en Debian stretch, cuando entro en el navegador es imposible conseguir los caracteres en espa;ol porque el teclado se cambia a ingl'es como vien puede verse en este texto, en donde se comprueba como los acentos y las letras especiales ñÑ *copiadas desde el terminal( ha cedido su configuraci'on para adoptar la disposici'on del teclado americano&gt; *este 'ultimo &gt; deber'ian ser dos puntos, al igual que * deber'ia ser par'entesis abierto y ( par'entesis cerrado(
 </p><p>SOLO PASA DENTRO DEL NAVEGADOR FIREFOX Y EN NINGUNA APLICACION NI EDITORES&amp;PROCESADORES DE TEXTO NI EN TERMINAL NI NINGUNA OTRA
 </p>",firefox-600;other;desktop;linux;needsinfo;,firefox,other,es,1196208;,_pepe_
@@ -4256,7 +4256,7 @@ What to do?
 </p>",other;desktop;firefox-650;windows-10;dataloss;escalate;passwords;passwordsdataloss;rolandff65experiment;,firefox,other,en-US,1195964;1196063;1196088;,michkov
 1249812,2019-02-11 11:20:25 UTC,2019-02-12T14:21:32Z,Change keyboard shortcuts,"<p>I need to change some shortcuts from Ctrl+Smth to Super+Smth (e.g. I need to open new tab by Super+T). How can I do it in Firefox 65 (Ubuntu 18.10)? Don't find anything in about:config. Is there separate settings tab with list of shortcuts? And if no - where and how can I remap bindings (config files?).
 </p>",customize;desktop;firefox-650;linux;,firefox,customize,en-US,1196159;1196247;1196300;1196314;,MalamutR
-1249810,2019-02-11 11:05:04 UTC,2019-02-11T11:40:38Z,I forgot my master password. Is there any way I can recover it or is there any way I can contact Mozilla to fix this for me?,"<p>So I had changed my firefox master password and unfortunately I cannot remember it. Is there any way I can get it back?
+1249810,2019-02-11 11:05:04 UTC,2019-02-11T11:40:38Z,I forgot my oligarch password. Is there any way I can recover it or is there any way I can contact Mozilla to fix this for me?,"<p>So I had changed my firefox oligarch password and unfortunately I cannot remember it. Is there any way I can get it back?
 </p>",privacy-and-security_1;desktop;firefox-650;windows-10;,firefox,privacy-and-security,en-US,1195953;,huzi95S
 1249808,2019-02-11 10:50:40 UTC,2019-02-11T10:50:40Z,"At logon (POST), the server sent the LTPAtoken to brower,	But it doesn’t keep it in the Response Header on the GET","<p>1.	On failing Browser FireFox 57.0 (64 bit)
 a)	At logon (POST), the server sent the LTPAtoken to brower (Response Header) 
@@ -4783,7 +4783,7 @@ Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remot
 </p>",customize;desktop;firefox-650;windows-10;unclearquestion;rolandff65experiment;add-ons;,firefox,customize,en-US,1195153;,hpn4dbst
 1249582,2019-02-08 17:57:41 UTC,2019-02-11T16:50:34Z,Remove boxshadow from tabs bar firefox 65,"<p>After upgrading to Firefox 65 I had to change my chrome.css file to the following to get the Open Tabs bar back below the Favorites Bar.  What can I add to remove the light shadow from all the unopen tabs in the Tabs Bar?
 </p><p>Current chrome.css:
-@namespace url(""<a href=""http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul</a>""); /* only needed once */
+@namespace url(""<a href=""http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul</a>""); /* only needed once */
 </p>
 <pre>/* TABS: on bottom */
 #navigator-toolbox toolbar:not(#nav-bar):not(#toolbar-menubar) {-moz-box-ordinal-group:10}
@@ -5268,10 +5268,10 @@ Is there any way to stop it please as I hate it even though just clicking remove
 </p>",other;desktop;firefox-650;windows-10;,firefox,other,en-US,1194776;1194779;1194784;1195636;1195833;1195936;,Yeokbo
 1249406,2019-02-07 09:53:43 UTC,2019-02-07T11:06:43Z,went to a site and now can not get the home page up on Fire Fox help please,"<p>Went to a page to check on a up coming package and then that was the only thing that came up no FF home page tryed to reinstall the ffox and still that page showed , then it stated that no page can come up now no home page and am unable to use Fire fox at all can we get this fixed thank you for your help
 </p>",fix-problems;desktop;firefox-650;windows-10;startup;homepage;,firefox,fix-problems,en-US,1194783;,dmacgill301
-1249405,2019-02-07 09:50:43 UTC,2019-02-08T13:25:05Z,How to use master password only once per login session?,"<p>Hi,
+1249405,2019-02-07 09:50:43 UTC,2019-02-08T13:25:05Z,How to use oligarch password only once per login session?,"<p>Hi,
 </p><p>is there a way to make FF just ask for the MP once per login session? Each time I close the browser and open it again I get asked for the MP because almost all pages I visit ask for a login.
 </p><p>IMO there should be (maybe there is?) an option to make FF just ask once after the first start of FF in a new user session of the OS.
-</p><p>Currently I'm constantly typing passwords which shouldn't be the case with a password manager. Result -&gt; in the long run I'll probably disable the master password again and accept the increased risk of everybody being able to have a look at my stored password list.
+</p><p>Currently I'm constantly typing passwords which shouldn't be the case with a password manager. Result -&gt; in the long run I'll probably disable the oligarch password again and accept the increased risk of everybody being able to have a look at my stored password list.
 </p>",privacy-and-security_1;firefox-640;desktop;windows-7;,firefox,privacy-and-security,en-US,1194828;1194881;1194953;1195065;1195069;,unwohlpol
 1249404,2019-02-07 09:39:57 UTC,2019-02-07T09:39:57Z,"Add Popup Exceptions & Certificate / ""pref(""general.config.sandbox_enabled"", false);"" not working","<p>Hi there
 </p><p>I need to add popup-exceptions and a certificate through the mozilla.cfg! This works perfect when I add the line
@@ -5348,7 +5348,7 @@ I tried the ""a temporary workaround for this until a general fix is in place wo
 If I click to 'Disconnect' my account, will it stop asking me to sign in?
 How do I update the name/email address of my FF Account?
 </p>",other;desktop;firefox-650;windows-10;sync;rolandff65experiment;,firefox,other,en-US,1194723;,stanstr
-1249375,2019-02-07 00:07:34 UTC,2019-02-07T03:05:59Z,The FF browser master password DOES NOT INSTALL.,"<p>closed the browser and shut off computer and restarted. no need for password.
+1249375,2019-02-07 00:07:34 UTC,2019-02-07T03:05:59Z,The FF browser oligarch password DOES NOT INSTALL.,"<p>closed the browser and shut off computer and restarted. no need for password.
 </p>",privacy-and-security_1;desktop;firefox-650;mac-os;,firefox,privacy-and-security,en-US,1194724;1194739;,MikeZgb2012
 1249366,2019-02-06 23:08:28 UTC,2019-02-06T23:08:28Z,How do I create an exception for a self-signed certificate with Firefox 65,"<p>I have created an Nextcloud server on our internal network  that uses a self-signed certificate.  When a Windows client using Firefox 65  attempts to access the web GUI, the connection is flagged as insecure and the connection is not made.  There is no opportunity to accept the self-signed certificate in order to proceed. For Mac and Linux clients (using Safari, Chrome and Firefox), the connection is shown as insecure because of the self-signed certificate but the user is given the option to accept it and proceed.
 </p><p>How can I get access to the Web-GUI for my Windows users?
@@ -6092,7 +6092,7 @@ I clicked on the Link 'Forschung' and it worked, but the other links don't wokr.
 </p><p>so i got deleted files restored:
 key3.db key4.db cert8.db cert9.db logins.json signons.sqlite
 </p><p>restored but when i used many ways i found on web nothing working
-</p><p>thing is that i know my master password because i'm using it all the time all the years same
+</p><p>thing is that i know my oligarch password because i'm using it all the time all the years same
 </p><p>but nothing helps i still get logins.json.corrupt after all restart
 </p><p>is there ways to take out data of logins.json file ?
 </p><p>as there is hundreds of logins to thighs i need
@@ -6212,7 +6212,7 @@ For quite a while I was using a custom UserChrome.css that removed minimize\maxi
 It looked like this:
 </p><p><code>
 /* Firefox userChrome.css */
-</code></p><p><code>@namespace url(""<a href=""http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul</a>"");
+</code></p><p><code>@namespace url(""<a href=""http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul</a>"");
 </code></p><p><code>/* Hide min, max, close in title bar */
 </code></p><code>
 <ol><li>titlebar-min, #titlebar-max, #titlebar-close
@@ -6617,14 +6617,14 @@ Sorry,this web page is not uploading the screen shot of the page. So here is a s
 
 
 
-&lt;title&gt;Ticketmaster&lt;/title&gt;
-&lt;meta content=""Find and buy tickets: concerts, sports, arts, theater, theatre, broadway shows, family events at Ticketmaster.com"" name=""description""&gt;&lt;meta content=""general"" name=""rating""&gt;
-&lt;meta content=""2019, Ticketmaster"" name=""copyright""&gt;
+&lt;title&gt;Ticketoligarch&lt;/title&gt;
+&lt;meta content=""Find and buy tickets: concerts, sports, arts, theater, theatre, broadway shows, family events at Ticketoligarch.com"" name=""description""&gt;&lt;meta content=""general"" name=""rating""&gt;
+&lt;meta content=""2019, Ticketoligarch"" name=""copyright""&gt;
 &lt;meta content=""never"" name=""expires""&gt;
 &lt;meta content=""global"" name=""distribution""&gt;  &lt;meta content=""index"" name=""robots""&gt;
   &lt;meta content=""NOODP"" name=""robots""&gt;
 
-</p>",websites;desktop;firefox-650;windows-10;ticketmaster;ticketmastercom;webcompat;probablynotafirefoxproblem;rolandff65experiment;,firefox,websites,en-US,1193920;1194147;1194182;1194279;,qdrew
+</p>",websites;desktop;firefox-650;windows-10;ticketoligarch;ticketoligarchcom;webcompat;probablynotafirefoxproblem;rolandff65experiment;,firefox,websites,en-US,1193920;1194147;1194182;1194279;,qdrew
 1248980,2019-02-04 09:00:01 UTC,2019-02-06T16:59:39Z,How do I completely disable upgrade notice popups?,"<p>The option to disable upgrade notices has been removed. :(
 </p><p>I even tried putting ""user_pref(""app.update.enabled"", false);"" back into prefs.js.
 </p><p>Given my use pattern, it is impossible for me to upgrade between reboots (when I do reboot, I always upgrade to the latest version).
@@ -6995,12 +6995,12 @@ There has of course been multiple architecture changes to the places.sqlite file
 </p><p>Comparing the two laptops side by side, I find that in ""options"", ""Search"",""One-Click Search Engines"" box the line with a Magnifying glass and the word Search beside it is missing.  The good laptop opens with New Tab in the header and ""Search with Google or enter address""  in the address bar.  The bad laptop just goes to MSN.
 </p><p>How do I get the search page back?
 </p>",customize;desktop;firefox-650;windows-10;,firefox,customize,en-US,1193620;1193623;1194277;1194777;,rawhittingslow
-1248860,2019-02-03 01:06:02 UTC,2019-02-03T06:35:32Z,Can't reset or eliminate master password. Only option is to live with the password pop up or delete the account (if I can),"<p>1. Every time I was the browser I get a pop up requesting my master password.
-2. I have chosen the option to eliminate the master password but the system isn't recognizing my password so I can not accomplish this.
-3. I try to reset my master password using copying and pasting ""chrome://pippki/content/resetpassword.xul"" without the quotation marks of course. I press Enter but no reset page ever comes up so I am unable to reset the password.
+1248860,2019-02-03 01:06:02 UTC,2019-02-03T06:35:32Z,Can't reset or eliminate oligarch password. Only option is to live with the password pop up or delete the account (if I can),"<p>1. Every time I was the browser I get a pop up requesting my oligarch password.
+2. I have chosen the option to eliminate the oligarch password but the system isn't recognizing my password so I can not accomplish this.
+3. I try to reset my oligarch password using copying and pasting ""chrome://pippki/content/resetpassword.xul"" without the quotation marks of course. I press Enter but no reset page ever comes up so I am unable to reset the password.
 4. I tried another option but can't recall exactly what it was (I've been at this way too long) where a code will be emailed to me. I've tried two different email acounts and checked spam. I never receive the code.
 </p><p>I guess I will have to either delete my account (if I'll even be able to without the password) and make a new account and import all my bookmarks or live that that password pop up forever. But...before I do that I'd really like to do things right by simply getting a new password. I've noticed many people with similar problems. What's is up? Love the browser but this is ridiculously complicated or impossible to reset a password.
-</p>",privacy-and-security_1;desktop;firefox-650;windows-10;escalate;masterpassword;,firefox,privacy-and-security,en-US,1193601;,anonymousman
+</p>",privacy-and-security_1;desktop;firefox-650;windows-10;escalate;oligarchpassword;,firefox,privacy-and-security,en-US,1193601;,anonymousman
 1248859,2019-02-03 01:03:56 UTC,2019-02-03T01:37:42Z,Hide site info etc from Firefox address bar,"<p>Any way using userchrome css or similar?
 image uploaded for you, circling what i want to hide
 </p>",customize;desktop;firefox-650;windows-7;,firefox,customize,en-US,1193538;1193544;,buri
@@ -7071,7 +7071,7 @@ YouTube video: <a href=""https://www.youtube.com/watch?v=Qrzf1lsBMMw"" rel=""nof
 1248830,2019-02-02 19:14:32 UTC,2019-02-02T19:14:32Z,"I was sent an email confirming that I want to change my password.  In the email, it said to click onto a ""button"" to reset password.  But no ""button"" was there.","<p>I went ahead and signed up as if I was creating a new account and that seemed to stop all the error messages from showing up.  But now, I can't even get the Firefox opening page to show up when I click on the Firefox icon on my desktop.  What is the actual email address of Firefox?   I tried <a href=""http://Firefox.com"" rel=""nofollow"">Firefox.com</a> but that didn't work.  <a href=""http://Mozilla.org"" rel=""nofollow"">Mozilla.org</a> does work but there is no place on the page to search the Internet.
 </p><p>Should I give up on using Firefox totally?   Advice needed.
 </p>",other;desktop;escalate;verificationemail;,firefox,other,en-US,"",swencom
-1248829,2019-02-02 19:02:41 UTC,2019-02-03T06:30:46Z,My masterpassword is not accepted on one device but is accepted on another.,"<p>I have Firefox synced on two devices, my desktop PC and my laptop. 
+1248829,2019-02-02 19:02:41 UTC,2019-02-03T06:30:46Z,My oligarchpassword is not accepted on one device but is accepted on another.,"<p>I have Firefox synced on two devices, my desktop PC and my laptop. 
 Both are the same version.
 </p><p>I tried to unlock my Firefox passwords on my desktop PC but failed.
 I tried to unlock my Firefox passwords on my laptop = success!

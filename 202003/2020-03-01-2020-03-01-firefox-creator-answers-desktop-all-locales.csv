@@ -118,7 +118,7 @@ set ""permission.default.image"" to 2
 reload pages or restart FireFox
 but images loading is not disabled.
 </p>",firefox-730;firefox-7301;customize;desktop;mac-os;,firefox,customize,en-US,1294434;1294437;1294438;1294444;1294446;1294882;1294888;,jean.christophe.helary
-1281038,2020-02-29 17:51:44 -0800,2020-03-01T06:51:01Z,How I can lock FF with password like password master+,"<p>I want to lock Firefox (portable 73.1) but master password + is no more compatible .. How I can do it ? I tried the xiaoxiao github script but it seem working only with full version and I have portable ...
+1281038,2020-02-29 17:51:44 -0800,2020-03-01T06:51:01Z,How I can lock FF with password like password oligarch+,"<p>I want to lock Firefox (portable 73.1) but oligarch password + is no more compatible .. How I can do it ? I tried the xiaoxiao github script but it seem working only with full version and I have portable ...
 </p>",privacy-and-security_1;firefox-730;desktop;windows-10;,firefox,privacy-and-security,en-US,1294429;1294455;1294489;,sixgale
 1281035,2020-02-29 17:00:30 -0800,2020-03-01T02:48:21Z,Restoring history items in places.sqlite,"<p>I use Piriform CCleaner.
 </p><p>The most recent update ignored the settings to exclude Firefox and cleared my History.

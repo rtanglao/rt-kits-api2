@@ -260,7 +260,7 @@ The web page opened with this...""Verification Error: Loading chunk 23 failed. (
 1268203,2019-09-06 15:22:45 UTC,2019-10-21T14:52:02Z,How do I remove icons from the bookmark toolbar? FF 69.0 broke my previous solution,"<p>Prior to upgrading to FF 69.0 I had my chrome file configured to hide icons in my bookmark toolbar.  With the update to FF 69.0, the icons have reappeared.  How do I fix this again? Previously I had utilized this method:
 </p><p>""Yes, you can paste the full code posted above including the @namespace line. The :not([container]) selector means that you still have the folder icons with bookmarks folders. If you want to hide the icons for folders as well then leave out this selector.""
 </p>
-<pre>@namespace url(""<a href=""http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul</a>""); /* only needed once */
+<pre>@namespace url(""<a href=""http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul</a>""); /* only needed once */
 
 #personal-bookmarks .bookmark-item .toolbarbutton-icon {
  display:none!important;</pre>",firefox-690;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,1249813;1250103;1250104;1250107;1250114;1250115;1250139;1250153;1250163;1250164;1250165;1259885;1259897;,lgsasso

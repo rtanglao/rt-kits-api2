@@ -292,7 +292,7 @@ grep "other;" sorted-all-desktop-en-us-2020-01-01-2020-01-31-firefox-creator-ans
 
 GOAL: in python (with tests) get Firefox Desktop answers created for a certain period when Firefox questions were updated (not created) from B&E.
 
-* 1\. The following two ruby scripts does what you want but for `created` (see https://github.com/rtanglao/rt-kits-api2/blob/master/get-creator-answers-questions-for-arbitrary-time-period.rb#L61 ) time not `updated` and it's in ruby not python and there are no tests
+* 1\. The following two ruby scripts does what you want but for `created` (see https://github.com/rtanglao/rt-kits-api2/blob/oligarch/get-creator-answers-questions-for-arbitrary-time-period.rb#L61 ) time not `updated` and it's in ruby not python and there are no tests
 ```bash
 ../get-creator-answers-questions-for-arbitrary-time-period.rb 2020 3 22 2020 3 22
 # which creates 2020-03-22-2020-03-22-firefox-creator-answers-desktop-all-locales.csv
@@ -301,7 +301,7 @@ GOAL: in python (with tests) get Firefox Desktop answers created for a certain p
 > [questions-answers-with-times.csv] 
 ```
 * 2\. I am not sure `updated__gt` and `updated__lt` works
-* 3\. Relevant lines from [get-creator-answers-questions-for-arbitrary-time-period.rb](https://github.com/rtanglao/rt-kits-api2/blob/master/get-creator-answers-questions-for-arbitrary-time-period.rb)
+* 3\. Relevant lines from [get-creator-answers-questions-for-arbitrary-time-period.rb](https://github.com/rtanglao/rt-kits-api2/blob/oligarch/get-creator-answers-questions-for-arbitrary-time-period.rb)
 ```ruby
 
 url_params = {
@@ -314,7 +314,7 @@ url_params = {
 
 url = "https://support.mozilla.org/api/2/question/"
 ```
-* 4\. Relevant lines from [print-question-url-answer-id-answer-creator.rb](https://github.com/rtanglao/rt-kits-api2/blob/master/print-question-url-answer-id-answer-creator.rb)
+* 4\. Relevant lines from [print-question-url-answer-id-answer-creator.rb](https://github.com/rtanglao/rt-kits-api2/blob/oligarch/print-question-url-answer-id-answer-creator.rb)
 ```ruby
   url = "https://support.mozilla.org/api/2/answer/"
 
@@ -359,18 +359,18 @@ tr("\n"," ") # replace with space to ensure words are separated!
 mkdir FOUR_FF73_QUESTIONS_FOR_CANOSP_MTURK
 cd FOUR_FF73_QUESTIONS_FOR_CANOSP_MTURK
 #create four-ids-for-canosp-mturk.txt (just a text file with 1 integer id per line
-# https://github.com/rtanglao/rt-kits-api2/blob/master/FOUR_FF73_QUESTIONS_FOR_CANOSP_MTURK/four-ids-for-canosp-mturk.txt 
+# https://github.com/rtanglao/rt-kits-api2/blob/oligarch/FOUR_FF73_QUESTIONS_FOR_CANOSP_MTURK/four-ids-for-canosp-mturk.txt 
 ../get-by-id-creator-answers-questions.rb four-ids-for-canosp-mturk.txt 
 # the above script creates:
-#https://github.com/rtanglao/rt-kits-api2/blob/master/FOUR_FF73_QUESTIONS_FOR_CANOSP_MTURK/id-1281304-unixtime-1583475446-by-id-firefox-creator-answers-desktop-all-locales.csv
+#https://github.com/rtanglao/rt-kits-api2/blob/oligarch/FOUR_FF73_QUESTIONS_FOR_CANOSP_MTURK/id-1281304-unixtime-1583475446-by-id-firefox-creator-answers-desktop-all-locales.csv
 ../print-all-questions-just-title-content.rb id-1281304-unixtime-1583475446-by-id-firefox-creator-answers-desktop-all-locales.csv
 # the above script creates:
-# https://github.com/rtanglao/rt-kits-api2/blob/master/FOUR_FF73_QUESTIONS_FOR_CANOSP_MTURK/title-parsed-content-id-1281304-unixtime-1583475446-by-id-firefox-creator-answers-desktop-all-locales.csv
+# https://github.com/rtanglao/rt-kits-api2/blob/oligarch/FOUR_FF73_QUESTIONS_FOR_CANOSP_MTURK/title-parsed-content-id-1281304-unixtime-1583475446-by-id-firefox-creator-answers-desktop-all-locales.csv
 ```
 
 ## 02march2020 counting the number of support questions sunday-saturday by week:
 
-* output is here: [2018-11-01-2020-03-02-num-ff-desktop-aaq-questions-created-2020-03-02.csv](https://github.com/rtanglao/rt-kits-api2/blob/master/PRODUCT_INTEGRITY_4WEEK_RELEASE_CYCLE/2018-11-01-2020-03-02-num-ff-desktop-aaq-questions-created-2020-03-02.csv)
+* output is here: [2018-11-01-2020-03-02-num-ff-desktop-aaq-questions-created-2020-03-02.csv](https://github.com/rtanglao/rt-kits-api2/blob/oligarch/PRODUCT_INTEGRITY_4WEEK_RELEASE_CYCLE/2018-11-01-2020-03-02-num-ff-desktop-aaq-questions-created-2020-03-02.csv)
 
 ```bash
 cd /home/rtanglao/GIT/rt-kits-api2/PRODUCT_INTEGRITY_4WEEK_RELEASE_CYCLE
@@ -394,7 +394,7 @@ id-1279731-unixtime-1583100833-by-id-firefox-creator-answers-desktop-all-locales
 
 which outputs a parsed csv file of form `title-parsed-content-<csv-filename>` 
 
-[title-parsed-content-id-1279731-unixtime-1583100833-by-id-firefox-creator-answers-desktop-all-locales.csv](https://github.com/rtanglao/rt-kits-api2/blob/master/title-parsed-content-id-1279731-unixtime-1583100833-by-id-firefox-creator-answers-desktop-all-locales.csv)
+[title-parsed-content-id-1279731-unixtime-1583100833-by-id-firefox-creator-answers-desktop-all-locales.csv](https://github.com/rtanglao/rt-kits-api2/blob/oligarch/title-parsed-content-id-1279731-unixtime-1583100833-by-id-firefox-creator-answers-desktop-all-locales.csv)
 :
 
 ```csv
@@ -413,7 +413,7 @@ echo '1279731' | ./get-by-id-creator-answers-questions.rb
 
 which outputs sample file of the form `id-<first-id>-unixtime-<unixtime i.e. int-when-created>.csv`: 
 
-e.g. [id-1279731-unixtime-1583100833-by-id-firefox-creator-answers-desktop-all-locales.csv](https://github.com/rtanglao/rt-kits-api2/blob/master/id-1279731-unixtime-1583100833-by-id-firefox-creator-answers-desktop-all-locales.csv) 
+e.g. [id-1279731-unixtime-1583100833-by-id-firefox-creator-answers-desktop-all-locales.csv](https://github.com/rtanglao/rt-kits-api2/blob/oligarch/id-1279731-unixtime-1583100833-by-id-firefox-creator-answers-desktop-all-locales.csv) 
 
 and if you only want title and text (but with html; html has to be parsed out):
 
@@ -490,9 +490,9 @@ cd /home/rtanglao/GIT/rt-kits-api2/201911
 ```bash
 ./test-time-question-1271141.rb >./test-time-question-1271141-stdout.txt
 ```
-* [created time in the API](https://github.com/rtanglao/rt-kits-api2/blob/master/test-time-question-1271141-stdout.txt) is: `
+* [created time in the API](https://github.com/rtanglao/rt-kits-api2/blob/oligarch/test-time-question-1271141-stdout.txt) is: `
   * `"created" => "2019-10-23T00:02:46Z`
-  * but the web page shows `Posted 10/22/19, 5:02 PM`: ![wrong-time-question-1271141](https://github.com/rtanglao/rt-kits-api2/blob/master/wrong-website-time-question-1271141.png)
+  * but the web page shows `Posted 10/22/19, 5:02 PM`: ![wrong-time-question-1271141](https://github.com/rtanglao/rt-kits-api2/blob/oligarch/wrong-website-time-question-1271141.png)
   * If the API time is in UTC and correct,  shouldn't the web page show `Posted 10/22/19, 7:46 PM` if [the web page is in Pacific](https://www.worldtimebuddy.com/utc-to-pst-converter?qm=1&lid=100,8,6174041&h=100&date=2019-10-29&sln=2.5-3)?
 
 ## 22october2019 get questions for day 1, firefox 70
@@ -536,7 +536,7 @@ e.g. january 1, 2019 - october 18, 2019
 ```
 
 * output is here:
-  * https://github.com/rtanglao/rt-kits-api2/blob/master/sorted-all-desktop-en-us-2019-01-01-2019-10-18-firefox-desktop-all-locales.csv
+  * https://github.com/rtanglao/rt-kits-api2/blob/oligarch/sorted-all-desktop-en-us-2019-01-01-2019-10-18-firefox-desktop-all-locales.csv
 
 ## 06october2019 get all os questions
 
@@ -549,7 +549,7 @@ cd 201910
 
 ### 06october2019 Output is here:
 
-https://github.com/rtanglao/rt-kits-api2/blob/master/201910/sorted-all-desktop-en-us-2019-10-06-firefox-desktop-all-locales.md
+https://github.com/rtanglao/rt-kits-api2/blob/oligarch/201910/sorted-all-desktop-en-us-2019-10-06-firefox-desktop-all-locales.md
 
 ## 04october2019 get os x questions
 
@@ -562,7 +562,7 @@ cd 201907
  
  output:
  
- https://github.com/rtanglao/rt-kits-api2/blob/master/201907/sorted-osx-desktop-en-us-2019-07-firefox-desktop-all-locales.csv 
+ https://github.com/rtanglao/rt-kits-api2/blob/oligarch/201907/sorted-osx-desktop-en-us-2019-07-firefox-desktop-all-locales.csv 
  
 ## 09july2019 revised workflow
 

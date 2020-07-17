@@ -293,7 +293,7 @@ This is what I have done without any help:
 - Ran Firefox in safe mode
 - Deleted all cookies from Outlook and Microsoft
 - Deleted all certifica...",other;mobile;
-1271294,2019-10-24 07:56:59 -0800,https://support.mozilla.org/questions/1271294,All of a sudden something called lockwise is appearing in place of saved logins.,"On my work computer this ugly ""thing"" called lockwise appears instead of my saved passwords. I cannot see my saved passwords now. My home computer (with synced accounts) works fine and shows me my saved passwords. I need to make this lockwise go away and restore to where I can se...",privacy-and-security_1;firefox-700;desktop;windows-7;bug1592050;lockwisedesktop;lockwise;masterpassword;
+1271294,2019-10-24 07:56:59 -0800,https://support.mozilla.org/questions/1271294,All of a sudden something called lockwise is appearing in place of saved logins.,"On my work computer this ugly ""thing"" called lockwise appears instead of my saved passwords. I cannot see my saved passwords now. My home computer (with synced accounts) works fine and shows me my saved passwords. I need to make this lockwise go away and restore to where I can se...",privacy-and-security_1;firefox-700;desktop;windows-7;bug1592050;lockwisedesktop;lockwise;oligarchpassword;
 1271295,2019-10-24 07:58:12 -0800,https://support.mozilla.org/questions/1271295,Forced rediction from www.youtube.com to ww-youtube.com,"Since this morning, every attempt to reach www.youtube.com lead to redirection ""gositedeal"" and then I land on ""ww-youtube.com"". All other browsers show no issue with www.youtube.com. I've all browsing history, cookies, everything. Same issue.
 Help!
 ",firefox-600;other;desktop;windows-10;

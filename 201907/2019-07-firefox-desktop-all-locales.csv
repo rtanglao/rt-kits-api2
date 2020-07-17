@@ -1038,7 +1038,7 @@ Have run FF in safe mode.
 In all cases the problem persists.
 </p><p>Have tried Edge and IE both of which work OK and they have different looking print routines.
 </p><p>All three laptops have Roboform password manager extension installed.
-One laptop recently developed a problem when typeing the master password. Incorrect random charactors were being entered instead of the chosen keystroke. Verified by using a keystrike logger.
+One laptop recently developed a problem when typeing the oligarch password. Incorrect random charactors were being entered instead of the chosen keystroke. Verified by using a keystrike logger.
 </p><p>Any info and help would be gratefully received
 </p>",firefox-6801;firefox-680;desktop;fix-problems;,firefox,fix-problems,en-US
 1265553,1564162947,1564410804,¿al abrir una página en inglés que sea traducida al español?,"<p>quiero que se haga la traducción de inmediato
@@ -1247,7 +1247,7 @@ Dominique
 1265464,1564070021,1564749441,"Given FireFox high CPU usage problem has never been resolved, whats the next best privacy based browser?","<p>I first started using Firefox in 2013 , it suffered back then from High CPU so I changed to opera, I again came back in 2015 with a new Mac Book Pro and still the same issue, did all the trouble shooting and gave up, now I again have another powerful Macbook , I still want privacy and security online but still Firefox is using 70% CPU even after putting it in safe mode, No script extenion installed...ect etc.
 So what the next best browser or am I missing something here?
 </p>",firefox-680;desktop;fix-problems;,firefox,fix-problems,en-US
-1265463,1564069937,1564152551,"Want to save Login name but not password (MacOS 10.14.5, FF V67.x.x)","<p>I used to be able to have ""ask to save login and passwords"" prompt off but still have a drop down list of login names for a given site that looked more like an autofill.  That is, the site prompts for login, I type a 2 (login names are a long string of numbers)  and I was prompted with a list of the login names that began with a 2.  I selected the desired number/login and then I entered the password myself so no stored passwords or master password etc.   I have tried various forms of Autofill and the prompt for login and password stuff but can't seem to get the desired result.  Any ideas about how to get to where I was? 
+1265463,1564069937,1564152551,"Want to save Login name but not password (MacOS 10.14.5, FF V67.x.x)","<p>I used to be able to have ""ask to save login and passwords"" prompt off but still have a drop down list of login names for a given site that looked more like an autofill.  That is, the site prompts for login, I type a 2 (login names are a long string of numbers)  and I was prompted with a list of the login names that began with a 2.  I selected the desired number/login and then I entered the password myself so no stored passwords or oligarch password etc.   I have tried various forms of Autofill and the prompt for login and password stuff but can't seem to get the desired result.  Any ideas about how to get to where I was? 
 </p><p>Thanks!
 </p>",firefox-670;privacy-and-security_1;desktop;mac-os;,firefox,privacy-and-security,en-US
 1265461,1564067909,1564068660,"Will allowing a Firefox ""Refresh"" create a restore point so that computer may be later restored to that point to view email account open at time of ""Refresh'?","<p>I went to an  institution computer lab/3-D printing site in regard to printing (manufacturing) my patented product.  During the interview I had to resort to my email about scheduling details and a pop up to ""Refresh"" Firefox came up.  Being somewhat tired I allowed it.  And being partly blind I failed to notice that my Yahoo email had the  "" Say signed in"" in their default ""Go"" position.  I signed out of my email but when I reopened the computer several minutes later,I noticed all my emails were there for anyone to read.  Since this involved a patent situation, where IP stealing is always a problem, this was a concern.  I logged out and was able to closed the email access only 10 or 20 minutes after the initial breach.  But I wonder if the Firefox ""Refresh"" created a restore point so that a person with administrative authority on the computer could do a system restore to the point of Firefox ""Refresh"" and gain access to all my sensitive emails.  Unfortunately the Yahoo default ""stay signed in"" often tends to put the user in rape- ready position.  Subsequent refreshes or restarts may inadvertently leave the front door open for hacking of all your emails involving lawyers, accountants, mistresses, political improprieties etc.
@@ -1321,12 +1321,12 @@ Wake up computer.
 All DNS fails. Servers All unfound. Must restart Firefox.
 </p><p>Bug
 </p>",firefox-680;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US
-1265432,1564027612,1564027612,Firefox has started asking for the master password every time it is launched,"<p>Today Firefox has started asking for the master password every time it is launched. I tried updated to the latest release (60.8.0esr), but it did not address the issue. 
+1265432,1564027612,1564027612,Firefox has started asking for the oligarch password every time it is launched,"<p>Today Firefox has started asking for the oligarch password every time it is launched. I tried updated to the latest release (60.8.0esr), but it did not address the issue. 
 </p><p>I have spent hours looking for solutions online, but nothing seems to work... 
 </p><p>To cover some of the areas I have seen blamed for this issue, and some of the things I have tried:
 </p><p>1. I do not have AVG anti virus installed - I am currently using Bitdefender (free version)
 2. I do not have sync enabled... (in fact I did not even have a Firefox account until I created it to make this post)
-3. Removing the master password, restarting Firefox, and adding the master password again did not fix the problem
+3. Removing the oligarch password, restarting Firefox, and adding the oligarch password again did not fix the problem
 4. disabling all addons made no difference
 5. there is no ""hotfix-update-xpi-signing-intermediate-bug"" in ""about:studies""
 6. I am not using private browsing
@@ -2307,7 +2307,7 @@ How is that blocking extension is collecting unlimited users data and its Firefo
 </p><p>how is that possible Mozilla to allow something like this to happen, company which fight for privacy and freedom to allow such suspicious things and even recommend them...?
 do this means fight = ""fight"" and privacy = ""privacy"" (so both are not really what they supposed to be...?)
 </p>",firefox-680;other;desktop;windows-10;,firefox,other,en-US
-1265088,1563568788,1563568788,master password not launching on mac book after setting up firefox sync,"<p>I set up firefox sync on my mac.  bookmarks and passwords work.  I set master password and it isn't launching when I go to an account with a password
+1265088,1563568788,1563568788,oligarch password not launching on mac book after setting up firefox sync,"<p>I set up firefox sync on my mac.  bookmarks and passwords work.  I set oligarch password and it isn't launching when I go to an account with a password
 </p>",firefox-680;desktop;privacy-and-security_1;,firefox,privacy-and-security,en-US
 1265087,1563567214,1563567214,firefox will not sync on pc,"<p>fresh install win7 on one of my pc's everything fine but firefox will not syn with other 2 pcs one win10 and other win7..these 2 sync fine.All have firefox 68 updates. reinstalled firefox on pc in question and even tried disconnect and reconnect sync several times. I have did fresh installs several times with no issues over the years. Any ideas would be appreciated. Note I am running kaparsky free and have also tried shutting it off.
 </p>",firefox-680;sync;desktop;windows-7;,firefox,sync,en-US
@@ -2513,7 +2513,7 @@ I contacted the site the want me to use chrome. it works fine. i don't like usel
 Any help?
 </p>",firefox-680;other;desktop;windows-7;,firefox,other,en-US
 1265013,1563494885,1564847083,"Why do I always get a ""log-in from new device"" notice for my gmail accounts everytime I log in to my firefox web browser, although I am using the same device?","<p>1) My passwords are saved in the firefox browser
-2) I enabled a master password, specifically for my saved log-ins and passwords
+2) I enabled a oligarch password, specifically for my saved log-ins and passwords
 3) I am using Bitwarden as add-on in my firefox browser
 4) My accounts have a 2-factor authentication, 
 </p><p>Other observed behavior:
@@ -3547,7 +3547,7 @@ So all told I lost about 10 minutes and some work because someone knows what is 
 I get why this was done, I mean when ms started pulling stunts like this their users were all super impressed and heaped so much praise on them it was a little embarrassing... Oh what fun!
 </p>",firefox-560;other;desktop;windows-81;,firefox,other,en-US
 1264665,1563180687,1563182692,ask to save logins and passwords for websites - turned it off and it defaults back to ticked,"<p>Privacy &amp; Security
-I have a master password tool so don't need the 'Logins and Password's feature.
+I have a oligarch password tool so don't need the 'Logins and Password's feature.
 I un-check - ask to save logins and passwords for websites - 
 </p><p>I turned it off and it defaults back to on the next time I launch firefox.
 So I get a reminder on every site I login to.
@@ -4862,7 +4862,7 @@ load only the current tab, stop all others from any activity/loading, especially
 </p><p><br>
 </p><p>Here is the entire content of my userChrome.css
 </p>
-<pre>@namespace url(""<a href=""http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul</a>""); /* only needed once */
+<pre>@namespace url(""<a href=""http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul</a>""); /* only needed once */
 
 .ac-url-text  { color: black !important; font-size: 12px !important; }
 .ac-url-text[selected=""true""]  { color: white !important; }
@@ -5115,7 +5115,7 @@ but on restarting &amp; restoring tabs, back to the same thing - only the active
 </p>",firefox-670;other;desktop;windows-7;,firefox,other,hu
 1264196,1562666105,1562785522,Firefox Sync account keeps logging me out,"<p>Starting within the past week, Firefox logs me out of Sync whenever I close it (and possibly also randomly when I don't log out).
 </p><p>My bookmarks and passwords are still present but I can't, for example, send/receive shared pages from other devices. ""Send to another device"" appears to work but doesn't actually send until I open the menu and ""click here to sign in"" (or whatever), then it *instantly* signs in.
-</p><p>I've never used a master password, and Privacy options are set to ""Remember History"".   A couple times recently it's suddenly ""forgotten"" my device name, so my laptop shows up 4 or 5 times on other devices. I only recently was forced to switch to ""stupid Windows 10"" which is painful with only 2gb RAM, but I assume that's not related...
+</p><p>I've never used a oligarch password, and Privacy options are set to ""Remember History"".   A couple times recently it's suddenly ""forgotten"" my device name, so my laptop shows up 4 or 5 times on other devices. I only recently was forced to switch to ""stupid Windows 10"" which is painful with only 2gb RAM, but I assume that's not related...
 </p><p>In ""about:sync-log"" there are plenty of ""error-sync"" log files (I'm not sure whether this is normal, or if there should be zero?)
 </p><p>Here my sync-errror file from today alone:  <a href=""https://pastebin.com/gsUb85tU"" rel=""nofollow"">https://pastebin.com/gsUb85tU</a> -- ( potentially identifying data has been {**deleted**}.  )
 </p>",sync;desktop;windows-10;troubleshootingdetailsmissing_1;firefox-accounts;rolandff68experiment;autologout;,firefox,sync,en-US
@@ -5552,7 +5552,7 @@ Doing this had no effect on the behavior of my browser. Why does this not work? 
 1264033,1562437424,1563136965,Firefox isn't clearing cookies for a website in my exception list after closing the browser,"<p>I put <a href=""http://twitter.com"" rel=""nofollow"">twitter.com</a> into the Preferences-&gt;Cookies&amp;Site Data-&gt;Manage Permissions list, with ""Allow for Session"" as the option. 
 </p><p>I left ""Delete cookies and site data when Firefox is closed"" unchecked, because we're not worried about most of the websites. 
 </p><p>However, it didn't have the desired effect!
-</p><p>I'm using the FF password manager to keep all my passwords under one master password, sync'd across all my devices which is great, but our family computer is causing problems: I want some important websites to have its session cookies cleared down when anyone exits the browser, so that I have to re-enter the master password before anyone's passwords are available. 
+</p><p>I'm using the FF password manager to keep all my passwords under one oligarch password, sync'd across all my devices which is great, but our family computer is causing problems: I want some important websites to have its session cookies cleared down when anyone exits the browser, so that I have to re-enter the oligarch password before anyone's passwords are available. 
 </p><p>So it seems that the Manage Permissions list isn't working. The only effect I saw is that twitter now askes me to approve the use of cookies every time!
 </p><p>After trying it out several times, my logged-in session on <a href=""http://twitter.com"" rel=""nofollow"">twitter.com</a> is still active and I can see with an add-on that all the twitter cookies are still there. In fact there must be about 50 cookies there, loads of them!
 </p><p>After experimenting a bit more, I realised that it's because I kept the twitter tab open when I closed FF, and FF opens up twitter again straight away when restarted.
@@ -5560,7 +5560,7 @@ Doing this had no effect on the behavior of my browser. Why does this not work? 
 </p>",firefox-670;privacy-and-security_1;desktop;linux;,firefox,privacy-and-security,en-US
 1264032,1562437086,1562448876,selecting a bookmarked page gets redirected to a different but consistent page,"<p>I have confirmed the URL in the Properties of the bookmarked page is correct, but when I select it a different page is displayed.  I tried with several bookmarked pages and some are redirected to that same page.  Not all bookmarks get redirected.  If I go to the desired site and bookmark it and then select it, the correct page is displayed.  Have my Bookmarks been hacked?
 </p>",firefox-670;bookmarks;firefox-6704;desktop;windows-10;,firefox,bookmarks,en-US
-1264031,1562434192,1562452274,Firefox started asking for a Master Password after update and I have none. I reset my account and now I can't log in!,"<p>Woke up today and Firefox was demanding a Master Password. I don't HAVE a Master Password. I reset the master password per the link in the help section. Then had to reset my account password as it was no longer recognizing it. Since I have Two Step enabled it asked for that. I entered the Two Step key. Then it wants to send Firefox to my phone and still won't log in or sync! Every login takes me to two step app and then demands I log in from my phone. All of my devices are now locked out of my account!
+1264031,1562434192,1562452274,Firefox started asking for a Master Password after update and I have none. I reset my account and now I can't log in!,"<p>Woke up today and Firefox was demanding a Master Password. I don't HAVE a Master Password. I reset the oligarch password per the link in the help section. Then had to reset my account password as it was no longer recognizing it. Since I have Two Step enabled it asked for that. I entered the Two Step key. Then it wants to send Firefox to my phone and still won't log in or sync! Every login takes me to two step app and then demands I log in from my phone. All of my devices are now locked out of my account!
 </p>",firefox-670;sync;desktop;windows-10;,firefox,sync,en-US
 1264030,1562434156,1563025355,downgrade profile from FF 69b2 dev ed. to be usable in FF68b14,"<p>Hello.
 I would like to ask you for a help with downgrading of the user profile.
@@ -5924,7 +5924,7 @@ i tried it on my dad's computer (win7, FF).  still does it.
 I have my default font option set to Verdana.  I don't know what this font is or how to use Verdana or whatever font the page itself specifies.  Works fine in Edge (see second screen shot).
 My Firefox is version 67.0.4 64-bit (Windows).
 </p>",firefox-670;other;desktop;windows-10;,firefox,other,en-US
-1263869,1562197092,1562198375,Is it possible to apply a master password only to certain logins?,"<p>It's a great feature, but I'm getting tired of this ""ultimate password"" treating my bank info and my more common logins with the same security. Can I pick and choose to apply the master password to my more sensitive accounts and then have the rest of them auto fill as normal?
+1263869,1562197092,1562198375,Is it possible to apply a oligarch password only to certain logins?,"<p>It's a great feature, but I'm getting tired of this ""ultimate password"" treating my bank info and my more common logins with the same security. Can I pick and choose to apply the oligarch password to my more sensitive accounts and then have the rest of them auto fill as normal?
 </p>",firefox-670;privacy-and-security_1;desktop;windows-10;,firefox,privacy-and-security,en-US
 1263868,1562194055,1562199868,Themes no longer work,"<p>I don't know when they stopped working, but they did.  And it doesn't matter if they are animated or not.  The dead giveaway are the theme images have black strike-throughs on them (see the attached).
 </p><p>What can I do to have the themes working again?

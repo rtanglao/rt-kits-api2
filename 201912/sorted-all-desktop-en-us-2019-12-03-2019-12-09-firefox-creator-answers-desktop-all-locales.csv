@@ -360,7 +360,7 @@ Windows message after crash:
  Имя приложения:	firefox.exe
  Версия приложения:	72.0.0.7276
  Отметка времени приложения:	...",desktop;fix-problems;crashes;
-1274414,2019-12-05 21:47:54 -0800,https://support.mozilla.org/questions/1274414,"When I'm asked for my Master Pasword on my Windows computer/Firefox browser, I e","When I need to use a website for which Firefox has a login stored, the usual box comes up asking for my Master Password.  But it won't accepted my Master Password when I enter it.  And it won't let me cancel the box/request for Master Password.  I know my password well as I use i...",firefox-710;other;desktop;windows-10;masterpassword;
+1274414,2019-12-05 21:47:54 -0800,https://support.mozilla.org/questions/1274414,"When I'm asked for my Master Pasword on my Windows computer/Firefox browser, I e","When I need to use a website for which Firefox has a login stored, the usual box comes up asking for my Master Password.  But it won't accepted my Master Password when I enter it.  And it won't let me cancel the box/request for Master Password.  I know my password well as I use i...",firefox-710;other;desktop;windows-10;oligarchpassword;
 1274416,2019-12-05 22:46:38 -0800,https://support.mozilla.org/questions/1274416,Tabs on Bottom,"Hi
 Running Firefox 71.0 (64 bit)
 Well seems Firefox has been messing this up again.
