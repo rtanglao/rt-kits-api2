@@ -13,7 +13,7 @@ logger = Logger.new(STDERR)
 logger.level = Logger::DEBUG
 
 if ARGV.length < 2
-  puts "usage: #{$0} [sumoquestions.csv] csv|markdown"   
+  puts "usage: #{$0} [sumoquestions.csv] csv|markdown|markdown25"   
   exit
 end
 
@@ -21,12 +21,17 @@ FILENAME = ARGV[0]
 
 csv = false
 markdown = false
+markdown25 = false
+
 if ARGV[1] == "csv"
   csv = true
 elsif ARGV[1] == "markdown"
   markdown = true
+elsif ARGV[1] == "markdown25"
+  markdown = true
+  markdown25 = true
 else
-  puts "usage: #{$0} [sumoquestions.csv] csv|markdown"
+  puts "usage: #{$0} [sumoquestions.csv] csv|markdown|markdown25"
   exit
 end
 
@@ -63,16 +68,25 @@ CSV.foreach(FILENAME, :headers => true) do |row|
 end
 logger.debug 'num_questions:' + num_questions.to_s
 sorted_array =  id_time_url_title_content_tags_array.sort_by { |h| h[0] }
+if markdown25
+  sorted_array = sorted_array.shuffle
+  twenty_five_percent_index = (sorted_array.length * 0.25).round.to_i
+  sorted_array = sorted_array[0..twenty_five_percent_index]
+end
 headers = ['id', 'created', 'url', 'title', 'content', 'tags','product', 'locale']
 
 if csv
-  FILENAME = sprintf("sorted-all-desktop-en-us-%s", ARGV[0])
-  CSV.open(FILENAME, "w", write_headers: true, headers: headers) {|csv_object|
+  output_filename = sprintf("sorted-all-desktop-en-us-%s", ARGV[0])
+  CSV.open(output_filename, "w", write_headers: true, headers: headers) {|csv_object|
     sorted_array.each {|row_array| csv_object << row_array }}
   elsif markdown
-    FILENAME = sprintf("sorted-all-desktop-en-us-%s", ARGV[0]).gsub(".csv", ".md")
-    logger.debug 'markdown filename:' + FILENAME
-    open(FILENAME, 'w') do |f|
+    if markdown25
+      output_filename= sprintf("25-percent-random-all-desktop-en-us-%s", ARGV[0]).gsub(".csv", ".md")
+    else 
+      output_filename = sprintf("sorted-all-desktop-en-us-%s", ARGV[0]).gsub(".csv", ".md")
+    end
+    logger.debug 'markdown filename:' + output_filename
+    open(output_filename, 'w') do |f|
       f.puts "Number of questions:" + sorted_array.length.to_s + "\n\n"
       f.puts "| id:created | Title | Content | Tags | Notes | "
       f.puts "| --- | --- | --- | --- | --- |"
