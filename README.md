@@ -7,7 +7,9 @@ Roland's Kitsune API scripts version 2
 cd /home/roland/GIT/rt-kits-api2/202008
 ../get-creator-answers-questions-for-arbitrary-time-period.rb 2020 7 31 2020 8 3
 ../get-answers-from-questions-csv.rb 2020-07-31-2020-08-03-firefox-creator-answers-desktop-all-locales.csv
-grep -iE "(ccleaner|sqlite\-)" with-flattened-answers-2020-07-31-2020-08-03-firefox-creator-answers-desktop-all-locales.csv
+grep -iE "(ccleaner|sqlite\-)" with-flattened-answers-2020-07-31-2020-08-03-firefox-creator-answers-desktop-all-locales.csv |\
+> ccleaner-mentions-with-flattened-answers-2020-07-31-2020-08-03-firefox-creator-answers-desktop-all-locales.csv
+head -1 2020-07-31-2020-08-03-firefox-creator-answers-desktop-all-locales.csv > header.csv
 ```
 
 ## 13july2020 preparing week 2 report of firefox 78 July 7-13, 2020
