@@ -1,7 +1,7 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
-## 03august2020 looking for CCleaner reports
+## 03august2020 looking for CCleaner reports for july 31-august 3, 2020
 
 ```bash
 cd /home/roland/GIT/rt-kits-api2/202008
