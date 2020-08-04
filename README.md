@@ -21,7 +21,8 @@ ccleaner-mentions-with-flattened-answers-2020-07-31-2020-08-03-firefox-creator-a
 ```
 
 * 2\. upload ccleaner-mentions-with-flattened-answers-2020-07-31-2020-08-03-firefox-creator-answers-desktop-all-locales.csv to Google Drive
-and then change id from x to support.mozilla.org/questions/x and remove product column (since it's all desktop!)
+and then change id from x to support.mozilla.org/questions/x and remove product column (since it's all desktop!) and remove locale column
+    * spreadsheet is here: [ccleaner-mentions-with-flattened-answers-2020-07-31-2020-08-03-firefox-creator-answers-desktop-all-locales](https://docs.google.com/spreadsheets/d/1gCSmG5k7OjzbqvKrrNEwg9CM8PMC6IcfJ93ZPq5HOKM/edit#gid=102919476)
 
 
 ## 13july2020 preparing week 2 report of firefox 78 July 7-13, 2020
