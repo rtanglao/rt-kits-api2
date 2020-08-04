@@ -3,6 +3,8 @@ Roland's Kitsune API scripts version 2
 
 ## 03august2020 looking for CCleaner reports for july 31-august 3, 2020
 
+* 1\. create spreadsheet csv
+
 ```bash
 cd /home/roland/GIT/rt-kits-api2/202008
 ../get-creator-answers-questions-for-arbitrary-time-period.rb 2020 7 31 2020 8 3
@@ -17,6 +19,10 @@ id,created,updated,title,content,tags,product,topic,locale,answers,creator,synth
 sed -i '1s/^/id,created,updated,title,content,tags,product,topic,locale,answers,creator,synthetic_answers\n/' \
 ccleaner-mentions-with-flattened-answers-2020-07-31-2020-08-03-firefox-creator-answers-desktop-all-locales.csv
 ```
+
+* 2\. upload ccleaner-mentions-with-flattened-answers-2020-07-31-2020-08-03-firefox-creator-answers-desktop-all-locales.csv to Google Drive
+and then change id from x to support.mozilla.org/questions/x
+
 
 ## 13july2020 preparing week 2 report of firefox 78 July 7-13, 2020
 
