@@ -13,6 +13,9 @@ head -1 with-flattened-answers-2020-07-31-2020-08-03-firefox-creator-answers-des
 header.csv
 % cat header.csv
 id,created,updated,title,content,tags,product,topic,locale,answers,creator,synthetic_answers
+# add the header
+sed -i '1s/^/id,created,updated,title,content,tags,product,topic,locale,answers,creator,synthetic_answers\n/' \
+ccleaner-mentions-with-flattened-answers-2020-07-31-2020-08-03-firefox-creator-answers-desktop-all-locales.csv
 ```
 
 ## 13july2020 preparing week 2 report of firefox 78 July 7-13, 2020
