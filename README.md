@@ -1,6 +1,28 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 05august2020 preparing week 1 of Firefox 79 july 28-august 3 2020
+
+```bash
+../get-creator-answers-questions-for-arbitrary-time-period.rb 2020 7 28 2020 8 3
+../print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb \
+2020-07-28-2020-08-03-firefox-creator-answers-desktop-all-locales.csv markdown
+../print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb \
+2020-07-28-2020-08-03-firefox-creator-answers-desktop-all-locales.csv csv
+% ../get-aaq-topic-counts.sh sorted-all-desktop-en-us-2020-07-28-2020-08-03-firefox-creator-answers-desktop-all-locales.csv
+36
+38
+61
+102
+6
+25
+8
+15
+54
+15
+109
+```
+
 ## 03august2020 looking for CCleaner reports for july 31-august 3, 2020
 
 * 1\. create spreadsheet csv
