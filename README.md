@@ -28,7 +28,7 @@ and then change id from x to support.mozilla.org/questions/x and remove product 
 ## 13july2020 preparing week 2 report of firefox 78 July 7-13, 2020
 
 ```bash
-./get-creator-answers-questions-for-arbitrary-time-period.rb 2020 7 7 2020 7 13
+../get-creator-answers-questions-for-arbitrary-time-period.rb 2020 7 7 2020 7 13
 ../print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb \
 2020-07-07-2020-07-13-firefox-creator-answers-desktop-all-locales.csv markdown
 ../print-desktop-en-us-all-oses-increasing-ids-time-url-title-content.rb \
