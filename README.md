@@ -3,6 +3,13 @@ Roland's Kitsune API scripts version 2
 
 ## 05august2020 spreadsheet for week 1 of Firefox 79 july 28, 2020 - August 3, 2020
 
+```bash
+ grep "fix-problems;" \
+sorted-all-desktop-en-us-2020-07-28-2020-08-03-firefox-creator-answers-desktop-all-locales.csv\
+> ff79-week1-fix-problems-28july-03august2020.csv
+```
+* upload to Google drive and rename and remove product and locale columns and add Category and Subcategory columns
+
 * spreadsheet is [ff79-week1-fix-slowness-crashes-error-messages-other-problems-28july-03august2020](https://docs.google.com/spreadsheets/d/17NmI85ALFKifsLEzc74PbDTK765KkLOvNekn94kNXrs/edit#gid=1787970077)
 
 ## 05august2020 preparing week 1 of Firefox 79 july 28-august 3 2020
