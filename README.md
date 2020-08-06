@@ -8,6 +8,7 @@ Roland's Kitsune API scripts version 2
 sorted-all-desktop-en-us-2020-07-28-2020-08-03-firefox-creator-answers-desktop-all-locales.csv\
 > ff79-week1-fix-problems-28july-03august2020.csv
 ```
+* add header line to csv using vim
 * upload to Google drive and rename and remove product and locale columns and add Category and Subcategory columns
 
 * spreadsheet is [ff79-week1-fix-slowness-crashes-error-messages-other-problems-28july-03august2020](https://docs.google.com/spreadsheets/d/17NmI85ALFKifsLEzc74PbDTK765KkLOvNekn94kNXrs/edit#gid=1787970077)
