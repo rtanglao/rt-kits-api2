@@ -1,6 +1,10 @@
 # rt-kits-api2
 Roland's Kitsune API scripts version 2
 
+## 05august2020 spreadsheet
+
+* spreadsheet is [ff79-week1-fix-slowness-crashes-error-messages-other-problems-28july-03august2020](https://docs.google.com/spreadsheets/d/17NmI85ALFKifsLEzc74PbDTK765KkLOvNekn94kNXrs/edit#gid=1787970077)
+
 ## 05august2020 preparing week 1 of Firefox 79 july 28-august 3 2020
 
 ```bash
