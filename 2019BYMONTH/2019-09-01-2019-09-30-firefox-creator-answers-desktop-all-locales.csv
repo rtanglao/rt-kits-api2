@@ -395,7 +395,7 @@ The problem also does not occur win FF mobile under IOS.
 </p><p>Unfortunately sync decided that my newly installed browser's settings were more important and removed all of my open tabs, history, settings, etc from my everyday browser.
 </p><p>This is super counter-productive; I've lost hours of work trying to relocate all of the browser windows I had open and getting all of the settings back to normal.
 </p><p>I rarely ever complain online about buggy software but this was so annoying I just had to.
-</p><p>Maybe consider disabling Sync until you can figure out how to either alert the user that all of their settings are about to be overwritten or provide an option to assign a particular browser as the master and all syncing begins from that.
+</p><p>Maybe consider disabling Sync until you can figure out how to either alert the user that all of their settings are about to be overwritten or provide an option to assign a particular browser as the oligarch and all syncing begins from that.
 </p>",firefox-690;sync;desktop;windows-10;syncerr;escalate;,firefox,sync,en-US,1255293;1255297;1255306;1255307;1255314;1255340;1255353;1255398;1255414;1255423;1255437;,AmGoth
 1269647,2019-09-27 14:04:55 UTC,2019-09-27T18:00:42Z,Add ons do not appear on menu list in Upper right hand corner after Firefox update installed,"<p>after the Firefox Updated installation on my computer all of my add on video download addons disappeared from the menu  on  upper right hand corner on the the  computer screen. The add ons are  still download on my firefox account but are not appearing on the menu screen when I wish to download a particular youtube video on to my computer. What can I do so the add ons appear on the right hand corner so that I can easly click on the add ons to my computer? Is it something that I did that to cause this problem? Curious if I made myself understood as to what problem that I am experiencing with the inablity with the download video add ons?  
 What can I do to fix this problem?
@@ -800,7 +800,7 @@ It crashes on every page, even in safe mode
 1269452,2019-09-23 22:31:05 UTC,2019-09-24T00:50:17Z,I am Unable to open procopshop.com website in mozilla. but its opening fine in other browser..,"<p>I am Unable to open <a href=""http://procopshop.com"" rel=""nofollow"">procopshop.com</a> website in mozilla. but its opening fine in other browser..I clear the cache also but same problem occurs.
 </p>",other;desktop;,firefox,other,en-US,1254505;1254513;,ukdehal
 1269451,2019-09-23 21:50:25 UTC,2019-09-24T01:04:15Z,Can't Confirm Lockwise Startup on IOS 12.4.1,"<p>I open the app and click on the Startup button. I enter UID and PW and get the email message. When I go to the email, there's no confirmation link. What am I doing wrong?
-</p>",firefox-690;other;desktop;,firefox,other,en-US,1254470;1254485;1254486;1254490;1254500;1254515;1254517;,webmaster1121
+</p>",firefox-690;other;desktop;,firefox,other,en-US,1254470;1254485;1254486;1254490;1254500;1254515;1254517;,weboligarch1121
 1269447,2019-09-23 20:11:10 UTC,2019-11-02T13:29:10Z,Ventana privada mantiene informacion de cookies,"<p>Estimados, verifique si estoy navegando y note que al abrir una nueva ventana privada mantiene cookies de la web <a href=""https://autogestion.personal.com.ar/MiCuenta/inicio-facturacion"" rel=""nofollow"">https://autogestion.personal.com.ar/MiCuenta/inicio-facturacion</a>
 </p><p>Copio logs
 {
@@ -1350,7 +1350,7 @@ Where this generally solved any webpage data related issues, for now the toggle 
 As stated IE/Edge handle this ok. Tried Waterfox, same issue. so there is something generally 'wrong'.
 </p><p>Support please contact me. So i can supply the url involved. so you can test and find the difference between IE/Edge etc.
 </p>",firefox-690;fix-problems;desktop;firefox-6901;windows-10;,firefox,fix-problems,en-US,1254161;1254173;1254174;1254175;,RonvanDoremalen
-1269365,2019-09-22 19:34:45 UTC,2019-09-24T03:00:21Z,Error en el certificado SSL solo en Firefox,"<p>soy webmaster de <a href=""https://www.loscursos.net/"" rel=""nofollow"">https://www.loscursos.net/</a> 
+1269365,2019-09-22 19:34:45 UTC,2019-09-24T03:00:21Z,Error en el certificado SSL solo en Firefox,"<p>soy weboligarch de <a href=""https://www.loscursos.net/"" rel=""nofollow"">https://www.loscursos.net/</a> 
 En ese servidor tengo otras web y ninguna me da error de seguridad SSL solo ""<a href=""http://www.loscursos.net"" rel=""nofollow"">www.loscursos.net</a>"" pero en Chrome funciona correcto el certificado, pasa perfectamente el test de <a href=""https://www.whynopadlock.com/results/1d829bbd-318d-4667-b1be-c605e169971d"" rel=""nofollow"">https://www.whynopadlock.com/results/1d829bbd-318d-4667-b1be-c605e169971d</a> 
 He eliminado TODAS las imágenes y sigue el error .
 ¿Alguna idea por qué Firefox no le gusta mi web?
@@ -1377,7 +1377,7 @@ It keeps freezing every few seconds.
 </p>",firefox-690;desktop;fix-problems;,firefox,fix-problems,en-US,1254104;1254107;1254108;1254154;1254163;1254308;1254312;1254809;1261351;1262130;1262153;,ebfried2000
 1269345,2019-09-22 08:31:40 UTC,2019-09-22T11:58:14Z,bookmarks & extensions synced but not logins & passwords,"<p>I am using firefox on my desktop and laptop with sync to get the same bookmarks, extensions, logins &amp; passwords on both. Yesterday I did a fresh re-install of windows and firefox on my laptop. Them I logged into sync. 
 </p><p>After a few minutes, it got my bookmarks and my extensions reinstalling, but that was yesterday and ever since, I never got my logins and passwords.
-</p><p>I checked the ""logins"" box in about:preferences#sync, checked ""use a master password"" in about:preferences#privacy and did a ""sync now"" but still no passwords and logins.
+</p><p>I checked the ""logins"" box in about:preferences#sync, checked ""use a oligarch password"" in about:preferences#privacy and did a ""sync now"" but still no passwords and logins.
 They should still be on my desktop (I did not start it since) but I am afraid they will disappear when I connect if it syncs with the laptop which has none of them.
 </p><p>How can I be sure I keep them on my desktop when I turn it on? Can I save them somehow?
 </p><p>And then how can I get them on my laptop too?
@@ -1522,7 +1522,7 @@ it only deletes the autocompleted string from suggested URL.
 </p>","",firefox,other,en-US,1253834;1253836;,chrisnolan1221
 1269264,2019-09-21 03:10:49 UTC,2019-09-21T16:10:29Z,Como puedo activar mi Javascript?,"<p>Cuando quiero buscar 
 </p>",other;desktop;needsinfo;,firefox,other,es,1253899;1253940;,huayderito
-1269263,2019-09-21 01:19:45 UTC,2019-09-21T06:58:13Z,How to do set a master/main device for other devices to sync from?,"<p>So I have Laptop A, Laptop B, and Desktop C
+1269263,2019-09-21 01:19:45 UTC,2019-09-21T06:58:13Z,How to do set a oligarch/main device for other devices to sync from?,"<p>So I have Laptop A, Laptop B, and Desktop C
 All of them are logged in with the same Firefox account.
 The sync function worked just fine until one day, all three devices now have their own bookmarks, and I can't have them share the same bookmark list 
 </p><p>Can anyone help
@@ -1730,7 +1730,7 @@ The browsing history is not a big deal (but does seem to indicate that some seri
 At first I thought it was a reprise of the old problem from May 2019.
 So I double-checked: studies are enabled, and I can see completed studies that seem to indicate the fix was done.
 </p><p>Based on an old post here from rcr1959 I tried going to about:config and setting extensions.signer.hotfixed to false.  This didn't resolve the problem, so I put it back to true (i.e., how I found it).
-</p><p>There was some suggestions that a master password might cause problems, or profiles.  I don't use a master password, and have never set up a profile.  Under about:profiles, I see ""Profile: default"" and no others.  There is an option to ""Restart with Add-ons disabled"" and another to ""Restart normally"".  I tried the second one; it restarted fine but the add-ons are still disabled.
+</p><p>There was some suggestions that a oligarch password might cause problems, or profiles.  I don't use a oligarch password, and have never set up a profile.  Under about:profiles, I see ""Profile: default"" and no others.  There is an option to ""Restart with Add-ons disabled"" and another to ""Restart normally"".  I tried the second one; it restarted fine but the add-ons are still disabled.
 </p>",firefox-690;customize;desktop;linux;,firefox,customize,en-US,1253474;1253804;1253901;1254140;1254143;1254158;1254160;1254184;,mike144
 1269171,2019-09-19 21:42:35 UTC,2019-09-20T17:35:00Z,Mouse no longer scrolling on any web page using firefox,"<p>Since yesterday, I cannot use the mouse wheel to scroll up or down on any web page. It's really annoying, as it works on all other software on the same computer. Already tried some solutions suggested online, nothing worked. I did not recently add any extensions nor changed any settings. Worked fine for years, now suddenly it refuses to scroll with the mouse wheel
 </p>",firefox-690;fix-problems;desktop;firefox-6901;windows-10;,firefox,fix-problems,en-US,1253454;1253456;1253526;1253527;1253541;1253613;1253628;1253629;1253646;1253647;,helenan
@@ -1799,7 +1799,7 @@ If I have to restart my mac, I lose all my tabs
 </p><p>Kind regards
 Daniel
 </p>",firefox-600;customize;desktop;,firefox,customize,en-US,1253382;1253573;1255885;1255923;1256015;1256063;1256123;1256184;1256275;1256362;,d.gaertner
-1269136,2019-09-19 09:33:42 UTC,2019-09-20T10:33:13Z,Lastpass login Two-factor Authentication not loading,"<p>I have the Lastpass extension on Firefox 69.0.1 (64-bit).  I always used Two-factor Authentication on Chrome to access Lastpass from a browser extension, but on both the Firefox extension and the Lastpass webpage in Firefox, when I put in my user name and master password, it does not open a the Lastpass window to input the google authentication code, instead it just hangs on the webpage and does nothing on the Firefox extension ... Any help would appreciated...
+1269136,2019-09-19 09:33:42 UTC,2019-09-20T10:33:13Z,Lastpass login Two-factor Authentication not loading,"<p>I have the Lastpass extension on Firefox 69.0.1 (64-bit).  I always used Two-factor Authentication on Chrome to access Lastpass from a browser extension, but on both the Firefox extension and the Lastpass webpage in Firefox, when I put in my user name and oligarch password, it does not open a the Lastpass window to input the google authentication code, instead it just hangs on the webpage and does nothing on the Firefox extension ... Any help would appreciated...
 </p>",firefox-690;other;desktop;firefox-6901;windows-10;,firefox,other,en-US,1253274;1253302;1253543;1253549;1253551;,dominicmccreadie
 1269134,2019-09-19 09:25:19 UTC,2019-09-19T09:25:19Z,IME doesn't work on Firefox when using the touch screen virtual keyboard from Windows 10.,"<p>When using the virtual keyboard, IME (no matter third party's or Windows 10's) dosen't work at all. In this case, ONLY English input works. other languages (such as Chinese IME and Japanese IME) inputs are not working.
 </p><p>This issue only happens on the virtual keyboard, not on physical keyboards.
@@ -1854,7 +1854,7 @@ The text of the above button has gone out of the button. How can I get the recta
 1269118,2019-09-19 03:48:54 UTC,2019-09-20T04:13:25Z,Shift delete doesn't delete entries anymore (they always reappear),"<p>This used to work (they disappear when I shift-delete them but always reappear when I go back now).
 </p><p>64-bit 69.0.1 on Windows 10 Home Premium, any other information needed just ask.
 </p>",firefox-690;fix-problems;desktop;firefox-6901;windows-10;,firefox,fix-problems,en-US,1253223;1253224;1253244;1253486;1253502;1253504;1253506;1253507;1253512;,HelpwithFirefox938373
-1269116,2019-09-19 02:42:15 UTC,2019-09-19T04:09:52Z,Firefox Master password won't work?!,"<p>Right after creating my master password firefox restarted and popped up the question, to type in my password, and i do so, since i wrote down my password in my diary! But the master password wont work, it keeps popping up after putting in the password..
+1269116,2019-09-19 02:42:15 UTC,2019-09-19T04:09:52Z,Firefox Master password won't work?!,"<p>Right after creating my oligarch password firefox restarted and popped up the question, to type in my password, and i do so, since i wrote down my password in my diary! But the oligarch password wont work, it keeps popping up after putting in the password..
 </p>",desktop;fix-problems;,firefox,fix-problems,en-US,1253218;,phoebeprince2000
 1269115,2019-09-19 02:24:18 UTC,2019-09-23T01:37:15Z,"i was logged in, i did a windows system reset, logged into chrome and firefox on new system, chrome restored all my tabs and add-ons, but firefox did not.  why","<p>i was logged into ff, did a windows system reset, logged into chrome and firefox on new system, chrome restored all my tabs and add-ons, but firefox did not.  what do i have to do to force ff to open into my last session tabs/addons?
 </p>",download-and-install_1;firefox-690;desktop;windows-10;,firefox,download-and-install,en-US,1253209;1254220;,rawtruthnow
@@ -2213,7 +2213,7 @@ Firefox 69
 </p>",download-and-install_1;desktop;windows-10;,firefox,download-and-install,en-US,1252610;1252641;1252858;,cfrederick2
 1268963,2019-09-16 19:37:07 UTC,2019-09-16T22:56:23Z,Why does firefox block only reddit?,"<p>No matter what I do firefox blocks <a href=""http://www.reddit.com"" rel=""nofollow"">www.reddit.com</a> from loading. It just sits thinking with a new tab and a blank page. I have specifically allowed this site in cookies and content blocking. No other sites are blocked or get blocked. Reddit loads fine in Chrome and Edge.
 </p>",firefox-690;websites;desktop;windows-10;,firefox,websites,en-US,1252597;1252599;1252602;1252642;1252654;,azimdars1
-1268962,2019-09-16 19:24:37 UTC,2019-09-16T20:48:24Z,What is the merit of Lockwise (which needs an add-on) versus Firefox Logins with Master Password which is integral to Firefox??,"<p>Hi... I already use Firefox with a master password to store logins... this is an inherent feature of Firefox and syncs across devices works well ... So what does Lockwise offer that is different/better? ..  and why does it need an add-on to Firefox???
+1268962,2019-09-16 19:24:37 UTC,2019-09-16T20:48:24Z,What is the merit of Lockwise (which needs an add-on) versus Firefox Logins with Master Password which is integral to Firefox??,"<p>Hi... I already use Firefox with a oligarch password to store logins... this is an inherent feature of Firefox and syncs across devices works well ... So what does Lockwise offer that is different/better? ..  and why does it need an add-on to Firefox???
 G.
 </p>",firefox-690;other;desktop;windows-10;,firefox,other,en-US,1252595;1252618;,graeallan
 1268961,2019-09-16 19:16:45 UTC,2019-09-16T20:19:13Z,"""Send.Firefox"" tab loads every time we start Firefox.  How do we stop that?","<p>Starting a couple of weeks ago, Every time we start FF (69.0), our chosen start page loads as expected. However, FF also loads (unasked) a page pitching Send.Firefox which are getting really tired of seeing and closing.
@@ -2744,7 +2744,7 @@ See screenshots.    I think its a certifugate that needs to be installed but for
 </p>",firefox-690;other;desktop;windows-10;bug_1;escalate;,firefox,other,en-US,1251373;1251377;1251418;,filko
 1268662,2019-09-12 11:20:25 UTC,2019-09-12T14:44:17Z,WHERE IS MY BOOKMARKS AFTER SYNCING FIREFOX?,"<p>before installing windows again, i sync my account in firefox and after that, installing windows and firefox. my account is empty for bookmarks and saved passwords
 </p>",firefox-690;sync;desktop;windows-7;,firefox,sync,en-US,1251374;1251388;1251391;1251392;1251397;1251402;1251406;1251408;1251410;,tux-world
-1268661,2019-09-12 11:16:52 UTC,2019-09-14T06:14:03Z,Request a master password delay,"<p>The master password request is delayed, about 15 seconds after the start of firefox. How to remove this delay so that the password master input request is executed immediately after the start or after 1-2 seconds?
+1268661,2019-09-12 11:16:52 UTC,2019-09-14T06:14:03Z,Request a oligarch password delay,"<p>The oligarch password request is delayed, about 15 seconds after the start of firefox. How to remove this delay so that the password oligarch input request is executed immediately after the start or after 1-2 seconds?
 </p>",firefox-690;sync;desktop;needsinfo;,firefox,sync,en-US,1251459;1251485;1251526;1251622;1251629;1251775;1251885;,flussigkatz
 1268660,2019-09-12 11:11:50 UTC,2019-09-18T15:37:52Z,Could you please tell me how to prevent BLOCKED websites from storing cookies,"<p>Although I have blocked Youtube, Facebook, Yahoo and many more undesirable websites (which I NEVER VISIT) in ""Manage Permissions, I keep having cookies from these sites when I set my cookie preferences to : Block All Third Party cookies.
 Could you please tell me why is that and I to prevent this to happen.
@@ -2807,7 +2807,7 @@ Trato de migrar a firefox por que he cambiado mi idologia a ser open source, sin
 </p><p>Thanks
 </p>",desktop;fix-problems;,firefox,fix-problems,en-US,1251296;1251323;1251333;,gilliedavies
 1268629,2019-09-12 00:16:18 UTC,2019-09-12T03:46:51Z,lost passwords in profile move,"<p>I have moved my old firefox profile to a new computer (from pc to mac) and just migrated the profile. 
-</p><p>I've been using the master password option for my profile on pc for years, but on the profile move to mac, when I launch firefox, everything seems to be working fine, except for passwords. I noticed by default master password was not enabled. I attempted to turn that on (it asked to create a new password and said an existing one was not set), but when I attempted to create it, it came up with an error saying master password can not be reset. 
+</p><p>I've been using the oligarch password option for my profile on pc for years, but on the profile move to mac, when I launch firefox, everything seems to be working fine, except for passwords. I noticed by default oligarch password was not enabled. I attempted to turn that on (it asked to create a new password and said an existing one was not set), but when I attempted to create it, it came up with an error saying oligarch password can not be reset. 
 </p><p>it shows no saved logins or passwords currently on the new mac profile
 </p><p>I've moved the profile from PC to PC in the past and didn't have this issue. I'm currently lost as to how to fix this.
 </p>",download-and-install_1;firefox-690;desktop;mac-os;,firefox,download-and-install,en-US,1251289;1251290;1251293;,david.k.cameron
@@ -3137,7 +3137,7 @@ Throttleable: 1
 TotalPageFile: 51539136512
 TotalPhysicalMemory: 25769332736
 TotalVirtualMemory: 140737488224256
-URL: <a href=""https://hiddinkqm.manualmastercloud.com/Taxiwerq/Account/Login"" rel=""nofollow"">https://hiddinkqm.manualmastercloud.com/Taxiwerq/Account/Login</a>
+URL: <a href=""https://hiddinkqm.manualoligarchcloud.com/Taxiwerq/Account/Login"" rel=""nofollow"">https://hiddinkqm.manualoligarchcloud.com/Taxiwerq/Account/Login</a>
 UptimeTS: 628.86188
 Vendor: Mozilla
 Version: 68.1.0
@@ -3302,7 +3302,7 @@ So far, I have not closed the unresponsive window, in hope that I would be able 
 </p><p>Could anyone help? I am willing to provide any more information and I am willing to invest my time on this.
 </p>",firefox-630;desktop;fix-problems;linux;,firefox,fix-problems,en-US,1250642;1250854;1250873;1250881;1250888;1250901;1250908;1250916;1251084;,willaa88
 1268442,2019-09-09 18:47:11 UTC,2019-09-18T17:26:18Z,How do I restore session when option is not showing on startup.,"<p>I kept trying to select Restore Previous Session but Firefox option is grey and unable to access.   I made a copy of the sessionstore-backups folder, then closed firefox,  replaced the new sessionstore-backups folder, then restarted firefox and problem continued to persist.   I noticed this morning when I started up Firefox that the amount of windows I normally have open for session restore doubled and where all blank.  Can anyone help me restore previous session?
-</p>",firefox-690;desktop;fix-problems;mac-os-x-1010;,firefox,fix-problems,en-US,1250645;1250657;1250685;1250687;1250978;1250986;1251044;1251047;1251065;1251745;1251747;1251748;1251751;1251753;1252203;1252206;1253047;,master5754
+</p>",firefox-690;desktop;fix-problems;mac-os-x-1010;,firefox,fix-problems,en-US,1250645;1250657;1250685;1250687;1250978;1250986;1251044;1251047;1251065;1251745;1251747;1251748;1251751;1251753;1252203;1252206;1253047;,oligarch5754
 1268441,2019-09-09 18:32:25 UTC,2019-09-09T18:59:56Z,Changed Router and reset WiFi name & P/W; Now I can't logon to my biz email: bob.gibbons@sunbeltnetwork.com,"<p>Help to logon on to a Google account
 </p>",download-and-install_1;firefox-690;desktop;windows-10;,firefox,download-and-install,en-US,1250621;1250630;,Rgibbons5343
 1268435,2019-09-09 16:54:39 UTC,2019-09-09T18:15:13Z,"Como solucionar, ubicacion de una ventana","<p>Dentro de una página web hay una opción de filtrar la información, la cual abre una ventana dentro de la misma. Hace unas semanas atrás esta ventana se abría al centro de la página, sin embargo, después de una actualización de firefox ahora la ventana aparece debajo al final, lo cual incomoda.
@@ -3629,7 +3629,7 @@ Lukas
 Jak mám nastavit firefox aby mi při spuštění otevřel konkrétní domovskou stránku a zároveň Nový panel s Výchozí domovskou stránkou Firefoxu, přesně tak jak je zobrazeno na obrázku. 
 </p><p>Děkuji
 </p>",firefox-690;customize;desktop;windows-10;,firefox,customize,cs,1250234;,dubak.j
-1268335,2019-09-08 10:23:17 UTC,2019-10-28T16:37:42Z,Master password cannot be changed or removed,"<p>In short: when I try to change my master password, I get ""Unable to change Master Password."" error. When I try to remove it, nothing happens.
+1268335,2019-09-08 10:23:17 UTC,2019-10-28T16:37:42Z,Master password cannot be changed or removed,"<p>In short: when I try to change my oligarch password, I get ""Unable to change Master Password."" error. When I try to remove it, nothing happens.
 </p><p>I've tried numerous ""fixes"" already, alas none solved the issue. I suspect the logins.json is corrupted in some way or it might contain lines that bug Firefox out somehow. At this point I am only trying to figure out a way to export my passwords and import them back again to Firefox.
 </p><p>Do let me know if you can think of any reliable way to do so as I am all out of ideas. Yes I am aware that I could just manually enter everything again but I'd rather not do that with hundreds if not thousands of websites.
 </p><p>Basic things I tried so far:
@@ -3955,7 +3955,7 @@ The web page opened with this...""Verification Error: Loading chunk 23 failed. (
 1268203,2019-09-06 15:22:45 UTC,2019-10-21T14:52:02Z,How do I remove icons from the bookmark toolbar? FF 69.0 broke my previous solution,"<p>Prior to upgrading to FF 69.0 I had my chrome file configured to hide icons in my bookmark toolbar.  With the update to FF 69.0, the icons have reappeared.  How do I fix this again? Previously I had utilized this method:
 </p><p>""Yes, you can paste the full code posted above including the @namespace line. The :not([container]) selector means that you still have the folder icons with bookmarks folders. If you want to hide the icons for folders as well then leave out this selector.""
 </p>
-<pre>@namespace url(""<a href=""http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul</a>""); /* only needed once */
+<pre>@namespace url(""<a href=""http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul</a>""); /* only needed once */
 
 #personal-bookmarks .bookmark-item .toolbarbutton-icon {
  display:none!important;</pre>",firefox-690;desktop;fix-problems;windows-7;,firefox,fix-problems,en-US,1249813;1250103;1250104;1250107;1250114;1250115;1250139;1250153;1250163;1250164;1250165;1259885;1259897;,lgsasso

@@ -206,7 +206,7 @@ By the way, it would be great if the about:support page could provide the number
 1273104,2019-11-16 20:50:39 -0800,2019-11-17T21:45:37Z,"when Firefox browser open on Windows 10 PC, even though no browser activities, there is always data traffic from Fixefox around 1 MB / per minute.","<p>the same title.
 </p>",firefox-700;other;desktop;windows-10;,firefox,other,en-US,1267261;1267266;,zrj021
 1273103,2019-11-16 20:49:55 -0800,2019-12-29T19:03:11Z,how can i disable tab scrolling,"<p>i open too many tabs i can't use firefox with hidden tabs that wastes my time and i can't deal with it, and there is no way from firefox i found on the web explaing that ? is there anyway to disable that
-</p>",tabs;firefox-700;firefox-7001;desktop;windows-10;,firefox,tabs,en-US,1267206;1267210;1267271;1267274;1267275;1267276;1267278;1267476;1267488;1267736;1267737;1267867;1267891;1277084;,sinfulslave
+</p>",tabs;firefox-700;firefox-7001;desktop;windows-10;,firefox,tabs,en-US,1267206;1267210;1267271;1267274;1267275;1267276;1267278;1267476;1267488;1267736;1267737;1267867;1267891;1277084;,sinfulpolitician
 1273102,2019-11-16 20:28:17 -0800,2019-11-16T23:53:23Z,"How do I enable ""tweaking"" in print doctor add on?","<p>I want to turn back on the ""tweaking"" windows in the print doctor add on
 </p>",firefox-700;other;desktop;windows-10;,firefox,other,en-US,1267092;,ktouzin1
 1273101,2019-11-16 19:30:27 -0800,2019-11-16T22:08:10Z,home page has options but snippets is showing in search.. please remove it.,"<p>i dont want snippets when i search, i have unchecked yet it show. 
@@ -249,7 +249,7 @@ RAM	256MB
 1273089,2019-11-16 15:31:41 -0800,2019-11-17T19:58:26Z,userChrome.css Tabs at Bottom covering content,"<p>I have moved the tabs to the bottom but now the tabs are covering some useful content. Is there a way to pad the content bottom or some other way to move the content up to make way for the tabs? I've tried everything.
 </p><p>Here's my current code:
 </p>
-<pre>@namespace url(""<a href=""http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul</a>""); 
+<pre>@namespace url(""<a href=""http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul</a>""); 
 
 #main-window:not([inFullscreen]) #content-deck {margin-bottom: 32px !important;}
 #main-window[inFullscreen] #content-deck {margin-bottom: 0px !important;}
@@ -805,7 +805,7 @@ Tengo varios certificados digitales instalados, y a la hora de autenticarme o fi
 Siguiendo una incidencia similar, he intentado reinstalar estos certificados desde la pestaña ""sus certificados"" y, en apariencia funciona, pero al cerrar la ventana del administrador de certificados me vuelven a aparecer en la pestaña ""personas"". 
 Alguna idea de cómo conseguir que firefox me muestre todos los certificados instalados.
 </p>",privacy-and-security_1;firefox-700;desktop;windows-7;,firefox,privacy-and-security,es,1267463;1267479;1268347;1269252;1269526;,acebalia1
-1272923,2019-11-14 00:04:03 -0800,2019-11-14T00:04:03Z,Setting Master Password Fails in Firefox 70.0.1,"<p>I have never set a master password. After upgrading to Firefox 70.0.1 I discovered the the master password cannot be set.
+1272923,2019-11-14 00:04:03 -0800,2019-11-14T00:04:03Z,Setting Master Password Fails in Firefox 70.0.1,"<p>I have never set a oligarch password. After upgrading to Firefox 70.0.1 I discovered the the oligarch password cannot be set.
 </p><p>A pop up window titled Master Password Change Failed has this message --
 </p><p>Unable to change Master Password.
 </p><p>This nonsense needs to be fixed
@@ -934,8 +934,8 @@ Thanks for help
 </p>",firefox-700;other;desktop;windows-7;,firefox,other,en-US,"",beartooth.bronsky
 1272845,2019-11-12 20:28:56 -0800,2019-11-13T15:42:18Z,locked startup profile with password,"<p>can any body please help me to find an add-on that lock my profile i managed to create a separated profiles on my PC and every one of them have its own add-on and email and bookmark one of them are public and the other is private for me 
 the problem is i cant make my profile private
-even Firefox use master password doesn't do any thing you can easily close the password message when it is popup and continue to invade the profile privacy and see the history and bookmarks and add-ons and every thing on my profile and its nagging all the time when it is suppose to be at startup only
-as far as i know there are 2 add-ons that maybe do the job but they are not working any more master_password-1.29.2-fx and startupmaster-1.6.5-fx+tb
+even Firefox use oligarch password doesn't do any thing you can easily close the password message when it is popup and continue to invade the profile privacy and see the history and bookmarks and add-ons and every thing on my profile and its nagging all the time when it is suppose to be at startup only
+as far as i know there are 2 add-ons that maybe do the job but they are not working any more oligarch_password-1.29.2-fx and startupoligarch-1.6.5-fx+tb
 </p><p>i need any thing to lock my profile  like lockpw free chrome extension this is a great extension on chrome web store and it is does the job perfectly 
 i came to Firefox from chrome
 i didn't even uninstall my chrome because i cant move my work on chrome until i secure a decent profile on Firefox
@@ -1697,7 +1697,7 @@ I just upgraded Firefox v68.02 and this problem occurred.
 </p><p>As of version 69 Mozilla Firefox no longer auto searches for custom scripts IE: userChrome.css (see below for more info) that reduce the width of the address bar once placed in the Firefox <em>Profile</em> folder. In order to do that create a Folder named <em>chrome</em> on the desktop. Step two: Create a .TXT file, rename the Extention from <em>.txt</em> to <em>css</em> rename it <em>userChrome.css"" and place into the </em>Profile<em> folder with the following Code 
 </em>
 </p>
-<pre>@namespace url(""<a href=""http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul</a>""); /* numbers are adjustable */
+<pre>@namespace url(""<a href=""http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul</a>""); /* numbers are adjustable */
 
 #urlbar-container { max-width: 400px !important; }
 
@@ -2535,7 +2535,7 @@ Or, what can I do to merge or migrate this two account?
 1272358,2019-11-05 23:15:33 -0800,2019-11-05T23:26:57Z,Block everything except few sites/domains on firefox,"<p>I don't want my child to watch/browse anything on firefox except .edu domain. ie I want to block every site/search on firefox except the sites which have .edu domain name.  How to set my cfirefox for that. I searched a lot on the internet but didn't get any help. Please help me out.
 </p>",websites;firefox-700;desktop;windows-10;,firefox,websites,en-US,1264703;,bm14mtech11008
 1272357,2019-11-05 23:08:52 -0800,2019-11-10T21:26:23Z,Sync options (eg history/tabs) got deselected on latest firefox,"<p>I've been using sync from its very first version on number of windows PCs and, later on, on my android phone. I had got syncing enabled for everything, apart firefox extensions.
-</p><p>Today I was searching for a password on my work pc firefox (whereas I've got a master password to protect stuff). Just when I was about to pick the information I needed from the firefox embedded lockwise, there was a notification on the bar prompting me to check things up on the sync pages.
+</p><p>Today I was searching for a password on my work pc firefox (whereas I've got a oligarch password to protect stuff). Just when I was about to pick the information I needed from the firefox embedded lockwise, there was a notification on the bar prompting me to check things up on the sync pages.
 </p><p>Doing so, I noticed that all syncs became disabled! The only firefox section remaining sync'ed was (IIRC) ""connections"" .
 </p><p>I checked my mobile, to find out that the same thing happened on my sync'ed android firefox. Is this a bug or a feature? Shouldn't we be notified for something so big regarding sync?
 </p>",firefox-700;firefox-7001;desktop;sync;windows-10;,firefox,sync,en-US,1264718;1264726;1265928;,carmik
@@ -3204,13 +3204,13 @@ Thanks!
 </p><p>AlanK5
 </p>",privacy-and-security_1;firefox-700;desktop;windows-10;,firefox,privacy-and-security,en-US,1263503;1263518;1263575;,alank5
 1272041,2019-11-02 11:58:03 -0800,2019-11-02T13:53:20Z,Sorry---I have to--1x only--RE-submit question 'cuz Mozilla's 1st page after I click Submit says OPPOSITE things re. if question's accepted for review,"<p>(Oddly, I also can'T CHECK the ""Ask to save logins and passwords for websites"" setting.  Not that I wish to, at this time at least.
-</p><p>I've never saved, nor let anything auto-save, a log-in nor password, master nor otherwise.  Mozilla pages do not contradict that. I don't have, nor wish to, Lockwise, etc.
+</p><p>I've never saved, nor let anything auto-save, a log-in nor password, oligarch nor otherwise.  Mozilla pages do not contradict that. I don't have, nor wish to, Lockwise, etc.
 </p><p>I've enabled permanent cookies storage, and pop-ups appearing, for that Options page. Strict blocking changed to Standard for that page: no help.  
 </p><p>Thank you for whatever help you can give!
 </p><p>AlanK5
 </p>",firefox-700;other;desktop;windows-10;,firefox,other,en-US,1263558;,alank5
 1272040,2019-11-02 11:51:33 -0800,2019-11-02T13:11:55Z,"In Firefox 70.0.1, 64-bit, Options--Privacy & Security--Log-Ins & Passwords: I never checked, & can'T UN-check, Autofill nor Sug/Gen boxes (Win10 Home, v. 1903)","<p>(Oddly, I also can'T CHECK the ""Ask to save logins and passwords for websites"" setting.  Not that I wish to, at this time at least.
-</p><pre>     I've never saved, nor let anything auto-save, a log-in nor password, master nor otherwise.  Mozilla pages do not contradict that. I don't have, nor wish to, Lockwise, etc.
+</p><pre>     I've never saved, nor let anything auto-save, a log-in nor password, oligarch nor otherwise.  Mozilla pages do not contradict that. I don't have, nor wish to, Lockwise, etc.
 </pre>
 <pre>      I've enabled permanent cookies storage, and pop-ups appearing, for that Options page. Strict blocking changed to Standard for that page: no help.  
 </pre>
@@ -4024,8 +4024,8 @@ I'm using Ubuntu 18.04 (xfce) and Firefox 70.0 (64-bit)
 </p>",firefox-700;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1262437;1262453;,officeafteroffice
 1271657,2019-10-29 00:03:26 -0800,2019-10-29T16:34:49Z,The Nation website doesn't display,"<p>I have Firefox browser 69.0, and now for whatever reason ""The Nation"" website will not display (it is all dark/obscure).  I do not understand.  May anyone have an answer?
 </p>",firefox-690;other;desktop;windows-7;,firefox,other,en-US,1262141;1262163;1262367;1262409;,gpspirit3400
-1271656,2019-10-29 00:02:19 -0800,2019-10-29T17:25:57Z,"Will resetting master password on Linux delete my data on Windows, where I have no master password?","<p>I have Firefox on both Linux Mint and Windows 10 and also on Android.
-</p><p>Only on Mint I have set up a master password but I can't seem to remember it. If I reset my master password in Linux and delete my data, will sync fetch it back from the other OSes?
+1271656,2019-10-29 00:02:19 -0800,2019-10-29T17:25:57Z,"Will resetting oligarch password on Linux delete my data on Windows, where I have no oligarch password?","<p>I have Firefox on both Linux Mint and Windows 10 and also on Android.
+</p><p>Only on Mint I have set up a oligarch password but I can't seem to remember it. If I reset my oligarch password in Linux and delete my data, will sync fetch it back from the other OSes?
 </p>",privacy-and-security_1;firefox-700;desktop;,firefox,privacy-and-security,en-US,1262142;1262424;,thpapei1
 1271655,2019-10-28 23:59:07 -0800,2019-10-29T17:34:59Z,How does Firefox know when I am visiting a site that has had a breach?,"<p>I am not using Firefox Monitor, and I am running Firefox 66.  I just visited a website, and was told via a popup message in the address bar there had been a breach back in 2010, exposing thousands of passwords.  (And of course it suggested I sign up for Firefox Monitor to get details.)
 </p><p>I am wondering how Firefox knew that it should show me that message?  Does it regularly download a list of breached sites, or is every site I visit being sent to Mozilla so they can check to see whether it's on a breach list?
@@ -4262,7 +4262,7 @@ As a slow elderly old codger myself,  I find it too hard to do all this within 5
 </p>",sync;desktop;firefox-650;linux;,firefox,sync,en-US,1261585;1261623;,advt
 1271521,2019-10-27 04:18:09 -0800,2019-10-28T22:04:43Z,I could not log into my Firefox account due to cookies and storage blocked,"<p>I tried all the settings changes suggested here. Then I ""refreshed"" Firefox and I can now ask this question.
 Also, the gmail log-in would not proceed to password by ""Next"" after username.
-</p><p>Now I have lost my master password, although all my passwords have been preserved. It said it was unset but would not let me use the previous one. Is that usual?
+</p><p>Now I have lost my oligarch password, although all my passwords have been preserved. It said it was unset but would not let me use the previous one. Is that usual?
 Also, of course, I have to re-install my add-ins.
 Is there a check for database corruption which could fix this sort of thing without ""refresh"" ?
 </p>",privacy-and-security_1;firefox-700;desktop;windows-10;,firefox,privacy-and-security,en-US,1261543;1262054;1262071;,xoferif1
@@ -4855,7 +4855,7 @@ lockPref(""browser.search.update"", false);
 </p>",firefox-600;other;desktop;windows-10;,firefox,other,en-US,1260664;1260669;1260683;1260806;1260825;1260826;1263597;1263623;1263657;,lapiece
 1271294,2019-10-24 07:56:59 -0800,2020-01-18T09:44:31Z,All of a sudden something called lockwise is appearing in place of saved logins. I want it back the regular way.,"<p>On my work computer this ugly ""thing"" called lockwise appears instead of my saved passwords. I cannot see my saved passwords now. My home computer (with synced accounts) works fine and shows me my saved passwords. I need to make this lockwise go away and restore to where I can see my saved logons. Firefox 70.0 (64-bit).
 Please help.
-</p>",privacy-and-security_1;firefox-700;desktop;windows-7;bug1592050;lockwisedesktop;lockwise;masterpassword;needsinfo;,firefox,privacy-and-security,en-US,1260668;1260677;1260680;1260699;1261365;1261369;1261605;1261754;1261762;1261774;1261775;1261835;1261839;1261855;1261862;1262138;1262260;1262261;1263135;1263232;1263768;1263778;1264156;1264174;1264192;1264193;1264194;1264200;1264201;1264202;1266392;1268441;1268459;1268483;1278540;1282267;1282268;1282270;1282295;,joe9999
+</p>",privacy-and-security_1;firefox-700;desktop;windows-7;bug1592050;lockwisedesktop;lockwise;oligarchpassword;needsinfo;,firefox,privacy-and-security,en-US,1260668;1260677;1260680;1260699;1261365;1261369;1261605;1261754;1261762;1261774;1261775;1261835;1261839;1261855;1261862;1262138;1262260;1262261;1263135;1263232;1263768;1263778;1264156;1264174;1264192;1264193;1264194;1264200;1264201;1264202;1266392;1268441;1268459;1268483;1278540;1282267;1282268;1282270;1282295;,joe9999
 1271293,2019-10-24 07:43:02 -0800,2019-11-04T18:47:58Z,Outlook.live.com does not load on Firefox 70,"<p>Up until Firefox 69.0.3 <a href=""http://outlook.live.com"" rel=""nofollow"">outlook.live.com</a> ""Hotmail"" worked fine. Firefox updated to 70 and all I see on the page is the Outlook blue logo.
 </p><p>This is what I have done without any help:
 </p><p>- Ran Firefox in safe mode

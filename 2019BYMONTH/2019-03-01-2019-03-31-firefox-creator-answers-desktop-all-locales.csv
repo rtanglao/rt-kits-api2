@@ -17,7 +17,7 @@ actuan solo de manera global.
 </p><p>Para que luego el contenido se descargue al presionar un botón de tipo browser.browserAction.onClicked
 </p><p>El objetivo de esto es ahorrar memoria y evitar distracciones, me da igual si es un snapshot, texto plano o un <a href=""https://blank.org"" rel=""nofollow"">https://blank.org</a>  , con tal que no se carguen todos los chirimbolos que no se están usando.
 </p><p>Estuve buscando addons tratando de modificar alguno, pero no logro entenderlos, hasta el ejemplo mas simple es demasiado complicado y para colmo no hacen ninguna acción independiente del usuario.
-</p><p>Para empezar que la extensión apply-css <a href=""https://github.com/mdn/webextensions-examples/tree/master/apply-css"" rel=""nofollow"">https://github.com/mdn/webextensions-examples/tree/master/apply-css</a>
+</p><p>Para empezar que la extensión apply-css <a href=""https://github.com/mdn/webextensions-examples/tree/oligarch/apply-css"" rel=""nofollow"">https://github.com/mdn/webextensions-examples/tree/oligarch/apply-css</a>
 se inicie cargando el css de manera automática sería de gran ayuda.
 </p>",firefox-600;customize;desktop;linux;,firefox,customize,es,1210421;,lazyturtle
 1254913,2019-03-31 22:56:47 UTC,2019-03-31T23:47:31Z,Firefox displays checkered gray grid and won't show certain content from webpage,"<p>I need help determining what is causing Firefox to not display certain content in webpages and is putting a checkered grid in place of external content.
@@ -871,7 +871,7 @@ Why is it suddenly so damn important for the developers that I update to the lat
 Are they affected personally by my installation in some way?...
 </p><p>This is a rhetorical question to point out just how pathetic it is that the devs give in to the same spying program used through companies and services like Microsoft, Apple, Amazon, Akamai, Google, Intel, AMD, Samsung etc etc.
 </p><p>Firefox used to be a good, free browser made by creative and passionate designers! Now it's run by weak and scared individuals who'll gladly sell our freedom for their own self-preservation.
-When things go down, you'll feel really dumb that you sold our freedom which ultimately led to our enslavement! SHAME ON YOU!
+When things go down, you'll feel really dumb that you sold our freedom which ultimately led to our enpoliticianment! SHAME ON YOU!
 </p>",other;desktop;firefox-650;windows-10;,firefox,other,en-US,1209139;1209147;,FORFUCKSAKE
 1254597,2019-03-28 16:31:28 UTC,2019-03-28T16:51:29Z,Browserquest keeps loading,"<p>Browserquest (<a href=""http://browserquest.mozilla.org"" rel=""nofollow"">http://browserquest.mozilla.org</a>) doesn't work on Firefox, Chromium under Linux. It keeps showing a red loading symbol (as can be seen in the image).
 Why? How do I get it to load?
@@ -912,7 +912,7 @@ How do i fix this?
 1254582,2019-03-28 16:16:42 UTC,2019-03-28T16:16:42Z,How do I override the automated cache limit for video buffering?,"<p>I'm trying to pause videos to let them load ahead of time-- so I can watch them in one go-- but am limited to the automated, small-scale cache limit, meaning that my loading only permits about a minute or so ahead of time in higher-quality videos. How do I give more breathing room for 720p videos and higher?
 </p>",firefox-660;firefox-6602;customize;desktop;windows-10;,firefox,customize,en-US,"",IgKnight
 1254579,2019-03-28 14:25:01 UTC,2019-03-28T14:52:25Z,Multirow on Firefox Quantum,"<p>I am trying very hard to use Firefox Quantum and move on from Firefox 56, and the one thing that most drives me crazy is the single row for tabs.
-</p><p>I've tried implementing workarounds with the userChrome.css, such as the one found here: <a href=""https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme/tree/master/Multirow%20and%20other%20functions/Multirow%20tabs"" rel=""nofollow"">https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme/tree/master/Multirow%20and%20other%20functions/Multirow%20tabs</a> — but all my attempts have failed.
+</p><p>I've tried implementing workarounds with the userChrome.css, such as the one found here: <a href=""https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme/tree/oligarch/Multirow%20and%20other%20functions/Multirow%20tabs"" rel=""nofollow"">https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme/tree/oligarch/Multirow%20and%20other%20functions/Multirow%20tabs</a> — but all my attempts have failed.
 </p><p>Does anyone know of another solution?
 </p><p>It's been horrible using a browser with only one row for tabs. It's very hard to find the tabs I want and to manage my open tabs, even using the menu which shows all of them. I often have no idea of how many tabs I have open, and I often end up with multiple tabs for the same page because I am not aware that it is already open or because it would take too long to find it.
 </p><p>With Firefox 56 and Tab Mix Plus, I usually had around 40 to 50 tabs open most of the time, and when I'm researching stuff this number easily gets to the hundreds for a while. With Firefox Quantum I have been unable to manage my tabs properly: I end up with much more tabs than I really need and it's hard to keep then organized.
@@ -1277,7 +1277,7 @@ EE309A21-9616-424B-B652-B88B96C5F494 	3/21/19, 12:21 AM
 </p><p>Running Linux Mint 17.3 (due for a 19.1 DVD!).  IBM System X3200 Server 64bit.
 </p><p>Thank you.
 </p>",other;desktop;firefox-650;linux;rolandff66experiment;scrollbar;customization;themeing;,firefox,other,en-US,"",FirefoxinUbuntu
-1254434,2019-03-27 09:53:46 UTC,2019-03-28T21:29:08Z,Ebay signin page stopped working yesterday in Firefox but works in Chrome,"<p>Hi I've been a happy Firefox user for many years now.  For no obvious reason, the ebay signin page stopped working yesterday, 26 March 2019, when using Firefox.  It also doesn't work on Windows Explorer.  But I have just downloaded Chrome (on ebay customer service advice) and found that the ebay signin page works fine on Chrome.  I don't want to have to use Chrome - it is a product of the Evil Empire which works to enslave humanity.  Please, please would you harness the mighty power of the Mozilla Monster to stamp on whatever vile bug the Ebay/Google Evil Empire have just created?
+1254434,2019-03-27 09:53:46 UTC,2019-03-28T21:29:08Z,Ebay signin page stopped working yesterday in Firefox but works in Chrome,"<p>Hi I've been a happy Firefox user for many years now.  For no obvious reason, the ebay signin page stopped working yesterday, 26 March 2019, when using Firefox.  It also doesn't work on Windows Explorer.  But I have just downloaded Chrome (on ebay customer service advice) and found that the ebay signin page works fine on Chrome.  I don't want to have to use Chrome - it is a product of the Evil Empire which works to enpolitician humanity.  Please, please would you harness the mighty power of the Mozilla Monster to stamp on whatever vile bug the Ebay/Google Evil Empire have just created?
 Trusting in the Mighty Mozilla, and with many thanks,
 RWaddington
 </p>",firefox-660;websites;desktop;windows-7;ebay;troubleshootingdetailsmissing;rolandff66experiment;probablynotafirefoxproblem;,firefox,websites,en-US,1208722;1208723;1209208;,RWaddington
@@ -1322,7 +1322,7 @@ PC Windows 7
 </p>",firefox-660;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1208689;1209154;1209191;1209207;1209245;,RoyAnn
 1254408,2019-03-26 22:48:51 UTC,2019-03-26T23:44:21Z,cannot remove bookmarks,"<p>I cannot remove all the bookmarks or edit the bookmarks that look like a Globe, I attached a copy of 
 </p><p>i.e.
-</p><p>DJ Cavon ""The Grandmaster""..etc
+</p><p>DJ Cavon ""The Grandoligarch""..etc
 DJ Cavon Word Admin DashboardFree Online Poster and Flyer 
 DJ Record Pool. MP3 Record Pool
 Island Hopper
@@ -2694,10 +2694,10 @@ What should I do?
 </p><p>bp-f7771b7f-8ba8-42b8-ac86-f4cd20190322 	22/03/2019 16:47
 </p><p>PD: Sorry for my bad English, I'm Spanish
 </p>",desktop;fix-problems;windows-10;nightly;firefox-660;crashes;escalate;troubleshootingdetailsmissing;rolandff66experiment;,firefox,fix-problems,en-US,1207254;1207255;1207259;1207274;1208439;1208514;1208521;1208532;,DrPingas
-1253957,2019-03-22 15:15:33 UTC,2019-03-22T15:18:51Z,HOWTO: disable master password auto prompt dynamically,"<p>Hi,
-this is not question but an answer :) While I was trying to figure out how I could get rid of the master password prompt that pops up on every page that I once saved the password for (because I often don't want to login on these pages, just take a look), I found many people asking this. The solution was the MasterPasswordPlus addon for Firefox which stopped working with Quantum.
+1253957,2019-03-22 15:15:33 UTC,2019-03-22T15:18:51Z,HOWTO: disable oligarch password auto prompt dynamically,"<p>Hi,
+this is not question but an answer :) While I was trying to figure out how I could get rid of the oligarch password prompt that pops up on every page that I once saved the password for (because I often don't want to login on these pages, just take a look), I found many people asking this. The solution was the MasterPasswordPlus addon for Firefox which stopped working with Quantum.
 </p><p>So here's how to do it with webextensions. Please note that I did that just for myself and will not publish it because I'm to lazy to add all the error handling, do updates etc. I just provide this as is, and whoever wants to use it locally or maybe make an addon from it: please go ahead and use the code any way you want! I also post it here so that it can be found in Google for other people looking for this.
-</p><p>With these two files (get your own icons please) you will have a webextension that shows a little icon in the URL bar. When you click it, the ""Remember logins and passwords for websites"" options in the preferences will toggle on and off. When it's off, you won't be asked for the master password on sites that you stored before. When it's on, you get the popup asking for it. When it was off and you want your password filled in on a page, you have to switch it on and reload the page.
+</p><p>With these two files (get your own icons please) you will have a webextension that shows a little icon in the URL bar. When you click it, the ""Remember logins and passwords for websites"" options in the preferences will toggle on and off. When it's off, you won't be asked for the oligarch password on sites that you stored before. When it's on, you get the popup asking for it. When it was off and you want your password filled in on a page, you have to switch it on and reload the page.
 </p><p>Very basic functionality, but maybe someone has fun extending it.
 </p><p>cu,
 Frank
@@ -2705,7 +2705,7 @@ Frank
 </p>
 <hr>
 <pre>{
-  ""description"": ""Dis-/enable the master password popup"",
+  ""description"": ""Dis-/enable the oligarch password popup"",
   ""manifest_version"": 2,
   ""name"": ""NewMasterPasswordPlus"",
   ""version"": ""1.0"",
@@ -4052,7 +4052,7 @@ Will Firefox  66  be available for Mavericks on Mac 10.9?
 1253556,2019-03-19 10:29:28 UTC,2019-03-20T03:47:20Z,How to add a certificate for localhost to Servers certificate automatically using C# in windows?,"<p>I have an app run websocket on localhost  and I need to install the server certificate automatically.
 is there a way to install certificate into firefox using C#
 </p>",other;desktop;firefox-650;windows-7;,firefox,other,en-US,1206273;1206530;,ahmadalk
-1253553,2019-03-19 09:52:31 UTC,2019-03-19T10:43:26Z,always takes 2 goes to log in to enable password usage,"<p>I find that it always now takes at least 2 goes to login to Firefox with the master password (which enables the usage of stored passwords).  This did not used to be the case.  I have tried hitting return in the prompt popup and then entering the password but this does not help.  Neither does entering a dummy pwd before the real one.  I have reported this as a bug but see no updates taht this is either known or being addressed.  Does anyone else have this issue?  Using 64 bit firefox v65.0.2
+1253553,2019-03-19 09:52:31 UTC,2019-03-19T10:43:26Z,always takes 2 goes to log in to enable password usage,"<p>I find that it always now takes at least 2 goes to login to Firefox with the oligarch password (which enables the usage of stored passwords).  This did not used to be the case.  I have tried hitting return in the prompt popup and then entering the password but this does not help.  Neither does entering a dummy pwd before the real one.  I have reported this as a bug but see no updates taht this is either known or being addressed.  Does anyone else have this issue?  Using 64 bit firefox v65.0.2
 </p>",privacy-and-security_1;desktop;firefox-650;windows-10;,firefox,privacy-and-security,en-US,1206237;1206238;,Chrisjph
 1253550,2019-03-19 09:19:39 UTC,2019-03-19T15:17:59Z,TEXT IS TOO LIGHT.,"<p>THE TEXT COLOR OPTION IS NOT WORKING FOR ME. I SELECTED DARK BLACK BUT THE PAGE TEXT IS GREY. MY BEST FONT IS ARIAL BLACK BUT THAT IS NOT AN OPTION.
 </p>",other;desktop;firefox-650;windows-10;,firefox,other,en-US,1206245;1206297;1206299;,SCOTTBECKER
@@ -4586,7 +4586,7 @@ Win7 firewall and Avira anti-virus are both set to specifically allow Firefox ne
 </p>",tips;desktop;firefox-650;windows-10;,firefox,tips,en-US,1205469;,LAPIII
 1253267,2019-03-15 22:48:30 UTC,2019-03-15T22:48:30Z,disable drag and drop from opening when text (or anything) is dropped on existing page,"<p>If I accidentally drop text on the background of a web page it replaces the page I am on and opens whatever it interprets the text as.  I need to disable this action.
 </p>",customize;desktop;firefox-650;windows-10;,firefox,customize,en-US,"",egpor95
-1253265,2019-03-15 22:34:26 UTC,2019-03-17T16:39:57Z,The master password 'feature' is not working properly.  How to I get rid of it?,"<p>Entered the password several times, after each the password was erased and requested again.  Eventually it probably accepted it, because the proper site page showed up.
+1253265,2019-03-15 22:34:26 UTC,2019-03-17T16:39:57Z,The oligarch password 'feature' is not working properly.  How to I get rid of it?,"<p>Entered the password several times, after each the password was erased and requested again.  Eventually it probably accepted it, because the proper site page showed up.
 </p>",privacy-and-security_1;firefox-6501;desktop;firefox-650;linux;,firefox,privacy-and-security,en-US,1205470;1205571;1205576;1205580;1205793;1205806;1205826;,Bobbily
 1253264,2019-03-15 22:24:23 UTC,2019-03-15T23:58:11Z,How can I view many opened tabs and rearrange them in Firefox?,"<p>I have opened many tabs in Firefox. I want to have a good overview of them, like viewing files of a directory in a file manager, so that I can choose some to close, rearrange the order of some. Is there some addon for me to view them as if they were listed in a webpage, and rearrange them? Thanks.
 </p>",tabs;desktop;firefox-650;linux;,firefox,tabs,en-US,1205472;,Timmm
@@ -4759,7 +4759,7 @@ UBUNTU_CODENAME=bionic
 </p>",tabs;firefox-6502;desktop;firefox-650;windows-10;,firefox,tabs,en-US,1205298;1205306;,sarma101
 1253204,2019-03-15 12:10:01 UTC,2019-03-17T12:22:01Z,How can I adjust the time in Firefox,"<p>My browser seems to have the wrong time. It shows Greenwich time, although I'm in Munich, Germany. How can I adjust this?
 </p>",firefox-600;other;desktop;windows-7;,firefox,other,en-US,1205299;1205335;1205376;1205513;1205520;1205674;1205771;,MichaelTheHobbit
-1253202,2019-03-15 11:01:30 UTC,2019-03-15T17:37:08Z,What is this? Why has it changed?,"<p>What is .masterhost? Why has it replaced my Firefox homepage that tells me the news? How do I change it back?
+1253202,2019-03-15 11:01:30 UTC,2019-03-15T17:37:08Z,What is this? Why has it changed?,"<p>What is .oligarchhost? Why has it replaced my Firefox homepage that tells me the news? How do I change it back?
 </p>",tabs;desktop;firefox-650;windows-10;,firefox,tabs,en-US,1205302;1205384;,LightScaryRobo0123
 1253199,2019-03-15 10:37:35 UTC,2019-03-15T10:37:35Z,Pleas Help !,"<p>You can tell me, I have such a problem.
 I need to open the Firefox browser and so that it immediately opens the developer panel with a separate window, without calling the developer panel, how to do this?
@@ -4951,8 +4951,8 @@ http://app1569.badhometime2.live/3123088060/?u=1gnpae3&amp;o=0lpkqzc&amp;t=mwe&a
 <a href=""https://support.mozilla.org/en-US/kb/back-and-restore-information-firefox-profiles"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/back-and-restore-information-firefox-profiles</a>
 </p><p>The old computer was a Win8 with a current FF version.
 </p><p>The new computer is openSUSE Leap 15 with a current FF version.
-</p><p>The restore seems to have worked in general, but my saved logins are missing, which is the most important part. I used a master password on the old computer, there is no master password after restoring the profile on the new computer. I have tried to set it to be the same it was before, but I get an error message when trying to create the master password. 
-</p><p>I assume there is some detail related to moving from Win8 to Linux and/or the master password- I have not been able to find any info to this effect.
+</p><p>The restore seems to have worked in general, but my saved logins are missing, which is the most important part. I used a oligarch password on the old computer, there is no oligarch password after restoring the profile on the new computer. I have tried to set it to be the same it was before, but I get an error message when trying to create the oligarch password. 
+</p><p>I assume there is some detail related to moving from Win8 to Linux and/or the oligarch password- I have not been able to find any info to this effect.
 </p><p>Thanks for your help.
 </p>",download-and-install_1;desktop;linux;,firefox,download-and-install,en-US,1205216;1205293;1205370;1205382;1205409;1205591;,bosborn
 1253158,2019-03-15 18:43:13 UTC,2019-03-16T18:40:04Z,Cannot access news feeds in Yahoo,"<p>When I use Firefox to access The Yahoo site, I can open the site but if I try to open any of the news stories, nothing happens.  The URL bar is shown but nothing else.  If I use Safari, I don’t have this problem
@@ -5654,7 +5654,7 @@ už několik let používám prohlížeč Firefox a jsem s ním velice spokojen.
 Projevuje se to tak, že spustím prohlížeč, začnu psát nějaké slovo a dojde k zaseknutí, cca 10s a poté se zbytek textu dopíše, pak už vše funguje normáně. Děje se tak vždy po prvním spuštění prohlížeče, pokud prohlížeč zavřu a znovu otevřu chyba se už neobjeví, pouze po startu PC. 
 </p><p>Děkuji za odpověď .
 </p>",fix-problems;desktop;firefox-650;windows-7;,firefox,fix-problems,cs,1204458;1204466;,Petrfast
-1252854,2019-03-12 06:59:57 UTC,2019-03-12T07:05:59Z,After refresh firefox unable to change master password,"<p>you tube is crashing every time so I did refresh Firefox. But after refresh I am unable to set/open master password. 
+1252854,2019-03-12 06:59:57 UTC,2019-03-12T07:05:59Z,After refresh firefox unable to change oligarch password,"<p>you tube is crashing every time so I did refresh Firefox. But after refresh I am unable to set/open oligarch password. 
 Even I am unable to save new password.
 </p>",privacy-and-security_1;firefox-6502;desktop;firefox-650;windows-10;,firefox,privacy-and-security,en-US,1204442;,nb804
 1252853,2019-03-12 06:48:24 UTC,2019-03-13T09:50:36Z,"Как сделать, чтобы вкладки сами прогружались, не открывая их?","<p>Добрый день.
@@ -6058,7 +6058,7 @@ How do I get rid of it?
 </p>",customize;desktop;firefox-650;windows-7;,firefox,customize,en-US,1204085;1204178;1204183;1204189;1204387;1204428;1204531;1204582;1204591;1244367;1244369;1244406;1244410;1244414;1244416;1244422;1244426;1244427;1244429;1244437;1244810;1244844;1244851;1244915;1244917;,RHB10
 1252731,2019-03-10 22:40:24 UTC,2019-03-11T14:22:51Z,"Even though I have the spell-checker enabled, it doesn't seem to work.","<p>Not much more I can say. ""Languages"" does not appear in the right-click menu in the text area when I try it, but I put ""languages"" into the Options page and it did come up, and my spell-checker was ticked. So what can be wrong?!
 </p>",other;desktop;firefox-650;windows-10;,firefox,other,en-US,1204059;1204143;1204157;1204193;,sarah333
-1252728,2019-03-10 21:53:03 UTC,2019-03-13T00:56:27Z,Passwords on usb stick,"<p>I would like to make my firefox passwords a little more secure. The master password alone is not enough. I have looked at various managers and I would virtually need an IT doctorate for most of them. 
+1252728,2019-03-10 21:53:03 UTC,2019-03-13T00:56:27Z,Passwords on usb stick,"<p>I would like to make my firefox passwords a little more secure. The oligarch password alone is not enough. I have looked at various managers and I would virtually need an IT doctorate for most of them. 
 All I want is to have my logins/key files on a USB stick for occasional use, instead of in the profile folder. I do not need the whole firefox profile on USB.
 You would think that would be easy, perhaps with a path in about:config, but apparently not.
 </p>",privacy-and-security_1;desktop;firefox-650;windows-10;,firefox,privacy-and-security,en-US,1204036;1204142;1204152;1204154;1204162;1204354;,becktrev
@@ -6314,7 +6314,7 @@ Thanks
 In general ive been using firefox for quite some time , and i notice that as time goes , its getting worse , starting by the abandon of plugins like flashplayer etc , that worked perfectly as add-on but cause problems  now. 
 good day , sigy
 </p>",desktop;firefox-650;windows-81;,firefox,other,en-US,1203682;1203760;1203784;1203791;,sigy7
-1252594,2019-03-09 06:40:05 UTC,2019-03-11T11:37:43Z,FF saves all my passwords and logons via master password except for one web site,"<p>FF saves all my passwords and logons via master password except for one web site, even after a restart in safe mode and refresh. No matter what I do, FF does not show the prompt for typing in the master password when I access this site. This started after I once cleared all cookies and data. I checked the list of exceptions for the affect site, <a href=""http://www.pond5.com"" rel=""nofollow"">www.pond5.com</a>, but it is not listed. I have spoken the the webmaster at pond5, and they claim not to have any non-standard code that would prohibit the prompting of any master password. They suggested I use a different password saving system, but the FF system has served me well, no need to change it. I have restarted in safe mode, tried a refresh of the browser, but this one web site stubbornly refuses to be listed in my master password list. Plug-ins installed: OpnH264 video codec, Widevine Content Decryption Module, Shockwave Flash.
+1252594,2019-03-09 06:40:05 UTC,2019-03-11T11:37:43Z,FF saves all my passwords and logons via oligarch password except for one web site,"<p>FF saves all my passwords and logons via oligarch password except for one web site, even after a restart in safe mode and refresh. No matter what I do, FF does not show the prompt for typing in the oligarch password when I access this site. This started after I once cleared all cookies and data. I checked the list of exceptions for the affect site, <a href=""http://www.pond5.com"" rel=""nofollow"">www.pond5.com</a>, but it is not listed. I have spoken the the weboligarch at pond5, and they claim not to have any non-standard code that would prohibit the prompting of any oligarch password. They suggested I use a different password saving system, but the FF system has served me well, no need to change it. I have restarted in safe mode, tried a refresh of the browser, but this one web site stubbornly refuses to be listed in my oligarch password list. Plug-ins installed: OpnH264 video codec, Widevine Content Decryption Module, Shockwave Flash.
 </p>",cookies;firefox-6501;desktop;firefox-650;mac-os;,firefox,cookies,en-US,1203692;1203735;1203761;1203885;1203893;1203905;1203907;1203950;1203956;1204106;1204150;1204151;,jacow
 1252593,2019-03-09 05:46:29 UTC,2019-03-11T18:13:02Z,Why is Firefox saving webpages as .htm files instead of Firefox .html files?,"<p>Firefox isn't saving webpages as Firefox HTML documents any more.
 </p><p>I have a bunch of webpages saved as Firefox HTML documents. In the folders they appear as one file with the Firefox logo and an accompanying folder with the same name. The names of the files used to pop up automatically with a description of the web page, and an html extension. Now when I try to save web pages, the file name always has an .htm extension, no folder with the pictures accompanies the download (which fails have the time), so opening the file gives a raw text mess instead of a webpage.
@@ -7475,8 +7475,8 @@ Thanks
 1252083,2019-03-04 16:10:00 UTC,2019-03-04T16:58:35Z,firefox security,"<p>when is Firefox gone make there own build-in security &amp; globe net protection towards
 Male-ware and other bad stuff.?
 </p>",other;desktop;firefox-650;windows-7;,firefox,other,en-US,1202249;,lisomi
-1252082,2019-03-04 15:55:35 UTC,2019-03-04T15:55:35Z,Your last update changed my master password. How do I get it back?,"<p>I don't know what you want.  After your last update my master password doesn't work and I am locked out.
-</p>",privacy-and-security_1;desktop;firefox-650;windows-10;escalate;masterpassword;,firefox,privacy-and-security,en-US,"",lefty.sam
+1252082,2019-03-04 15:55:35 UTC,2019-03-04T15:55:35Z,Your last update changed my oligarch password. How do I get it back?,"<p>I don't know what you want.  After your last update my oligarch password doesn't work and I am locked out.
+</p>",privacy-and-security_1;desktop;firefox-650;windows-10;escalate;oligarchpassword;,firefox,privacy-and-security,en-US,"",lefty.sam
 1252081,2019-03-04 15:37:38 UTC,2019-03-04T22:22:20Z,Last Pass Passwork manager is not working with last update,"<p>I tried to remove and add last pass extension.  I tried rebooting.  The extension is there but seems greyed out.
 </p>",firefox-6502;customize;desktop;firefox-650;windows-7;,firefox,customize,en-US,1202301;1202345;1202348;1202357;,katberg
 1252080,2019-03-04 15:29:23 UTC,2019-03-06T13:31:56Z,twitch presonalized settings reset everytime I revisit twitch,"<p>So I started using firefox for more security from the evil google overlords recently and 1 thing that has annoyed me is how I use to be able to click into twtich and all my settings were SET and didn't need to edit them over over and over again.
@@ -7489,12 +7489,12 @@ ticked cookies [ Third-party trackers ]
 </p><p>I really hope that this will be fixed or there is a fix for this int he future.
 Thanks and have a nice day.
 </p>",websites;desktop;firefox-650;windows-10;,firefox,websites,en-US,1202337;1202782;1202816;,Thrideye
-1252079,2019-03-04 15:12:18 UTC,2019-03-04T21:46:01Z,firefox adding letters to master password,"<p>i have set up a master password, which get prompted when I start Firefox, but when I type in the password Firefox adds 4 characters before my typed characters. These 4 characters do not show up in the password box. If you enter a blank box - four dots appear.
+1252079,2019-03-04 15:12:18 UTC,2019-03-04T21:46:01Z,firefox adding letters to oligarch password,"<p>i have set up a oligarch password, which get prompted when I start Firefox, but when I type in the password Firefox adds 4 characters before my typed characters. These 4 characters do not show up in the password box. If you enter a blank box - four dots appear.
 So I spend ages trying to get my password logged correctly. By this time Firefox brings up a no connection error message!
 I have tried changing the password but this has no effect. 
 I seem to recall Firefox doing this a while back but it was sorted by next update.
 Any advise would be gratefully recieved as it driving me nuts now!
-</p>",privacy-and-security_1;desktop;firefox-650;windows-10;masterpassword;escalate;,firefox,privacy-and-security,en-US,1202338;,jizzer
+</p>",privacy-and-security_1;desktop;firefox-650;windows-10;oligarchpassword;escalate;,firefox,privacy-and-security,en-US,1202338;,jizzer
 1252078,2019-03-04 15:00:29 UTC,2019-03-04T16:14:09Z,"How do I block this, keeps coming up, http://www.fakemailgenerator.com/","<p>This started shwoing uhttp://<a href=""http://www.fakemailgenerator.com/"" rel=""nofollow"">www.fakemailgenerator.com/</a> after any Firefox secession, how do I block it?
 </p>",other;desktop;firefox-650;windows-10;,firefox,other,en-US,1202236;1202237;1202238;,hmmmm
 1252077,2019-03-04 14:54:01 UTC,2019-03-06T20:31:40Z,Cursor vanishes while typing emails,"<p>While typing emails in AOL, the cursor vanishes after a few sentences, and keystrokes no longer register as text in the message.   There is no apparent pattern to the occurrence except that it starts after a couple of short paragraphs.  What do I do to fix this?
@@ -7978,7 +7978,7 @@ Or you can copy the file contents to userChrome.css  (Aris says some @import cal
 </p>",fix-problems;desktop;firefox-650;windows-10;,firefox,fix-problems,en-US,"",gmnevton
 1251924,2019-03-02 21:52:09 UTC,2019-03-03T00:45:13Z,"When I browse Buzzfeed in a Private Window, Tweets shared in their articles don't appear, but they work fine in regular browsing.","<p>I recently switched to Firefox within the last month from Chrome, and I tend to browse <a href=""http://Buzzfeed.com"" rel=""nofollow"">Buzzfeed.com</a> in private browsing. When I try reading Buzzfeed articles that contain tweets (for example, the hard-hitting journalism in ""15 Very Goob Dog Posts From This Week That You'll Wanna Show Your Own Dog Immediately"") in Private Browsing, the tweets don't display properly. The only way I can find out what the very goob puppers did is to go to Buzzfeed in a regular window, because it will load then. Do I have to change settings of some kind or is this some kind of a cookie issue...? Any insight would be appreciated. Thank you.
 </p>",other;desktop;firefox-650;windows-10;,firefox,other,en-US,1201797;1201800;,Sara_Lee
-1251922,2019-03-02 21:23:51 UTC,2019-03-03T21:16:12Z,"I have enabled the master password, but when I start Firefox two boxes for entering the password appear.","<p>When I start Firefox the prompt for the master password appears immediately, but the a few seconds later a second box appears directly over the first.  I have learned to wait for the second prompt to appear and then cancel it and type the password in the first box, but either box will work.  It is just annoying because the second box generally appears while I am in the process of typing the password in the first box which is why I now wait on the second box to appear before entering the password.  This is on an HP Elitebook running Windows 7 Professional 64 bit.
+1251922,2019-03-02 21:23:51 UTC,2019-03-03T21:16:12Z,"I have enabled the oligarch password, but when I start Firefox two boxes for entering the password appear.","<p>When I start Firefox the prompt for the oligarch password appears immediately, but the a few seconds later a second box appears directly over the first.  I have learned to wait for the second prompt to appear and then cancel it and type the password in the first box, but either box will work.  It is just annoying because the second box generally appears while I am in the process of typing the password in the first box which is why I now wait on the second box to appear before entering the password.  This is on an HP Elitebook running Windows 7 Professional 64 bit.
 </p>",other;firefox-6502;desktop;firefox-650;windows-7;,firefox,other,en-US,1201803;1201829;1201832;1202030;,Daryl_W
 1251919,2019-03-02 21:14:19 UTC,2019-03-02T21:33:45Z,"Firefox Keeps Warning Me About Extension ""Slowing Down Page Loading.""  It's Firefox.","<p>OK, so I have an undiagnosed hardware issue with my main PC, so while I'm troubleshooting the hardware, I swapped the HDD to another PC.  Of course there were a few growing pains, being a completely different PC and everything, but Windows got it figured out.
 </p><p>HOWEVER; Firefox didn't take it so well.  It's struggling to keep up; I had an earlier version of Quantum on this same PC, but for whatever reason, it isn't responding well to the swap.  Firefox's response?  Blame it on DarkReader.  I obviously disabled it the first time Firefox asked, but to no avail.  Firefox seems to act like it's crippled, which is fine, I guess, but just loading YouTube, it CONSTANTLY pops up with a little yellow reminder blaming it's inadequacy on DarkReader, which is disabled.  Is there any way to to turn this off?
@@ -8002,15 +8002,15 @@ Windows 7 computer, Firefox Quantum
 I'm trying to import my data from Chrome on Ubuntu 18, but Firefox could not detect my Chrome browser.
 </p><p>Need help.
 </p>",bookmarks;desktop;firefox-650;linux;,firefox,bookmarks,en-US,1201717;1201719;,agusforreal
-1251904,2019-03-02 18:44:57 UTC,2019-03-03T08:55:06Z,Cannot remove master password,"<p>I can't remove my master password from my Firefox profile. The pop-up shows up asking for my password, but the remove button does nothing.
-I can't change my master password from it's current setting. A pop up comes up saying ""Cannot change master password"".
+1251904,2019-03-02 18:44:57 UTC,2019-03-03T08:55:06Z,Cannot remove oligarch password,"<p>I can't remove my oligarch password from my Firefox profile. The pop-up shows up asking for my password, but the remove button does nothing.
+I can't change my oligarch password from it's current setting. A pop up comes up saying ""Cannot change oligarch password"".
 </p><p>I've tried refreshing Firefox.
 I've tried copying login.json key4.db to a new profile.
 I've tried upgrading Firefox.
 I've tried both Nightly and regular release Firefox.
 I've read every article on the Mozilla support website based on a search for this problem.
 </p><p>Please help. How do I recover all my passwords to a fresh profile?
-</p>",privacy-and-security_1;desktop;linux;masterpasswordreset;,firefox,privacy-and-security,en-US,1201718;1201725;1201847;1201867;1201872;,oconnore
+</p>",privacy-and-security_1;desktop;linux;oligarchpasswordreset;,firefox,privacy-and-security,en-US,1201718;1201725;1201847;1201867;1201872;,oconnore
 1251902,2019-03-02 18:39:06 UTC,2019-03-03T15:16:11Z,pages/tabs that open on start up,"<p>I have checked open pages from last session but yet Firefox opens with my home page.  How do I fix this to open pages/tabs of last session when closed?
 </p>",firefox-6502;customize;desktop;firefox-650;windows-10;,firefox,customize,en-US,1201700;1201710;1201714;1201723;1201775;1201812;1201940;,wilwood
 1251901,2019-03-02 18:23:22 UTC,2019-03-02T19:39:21Z,I need a  backup of Firefox and Thunderbird (both if posssible,"<p>profiels and all
@@ -8075,7 +8075,7 @@ What is stopping it from resuming itself when it freezes like that? The video ca
 </p>",other;desktop;firefox-650;windows-7;,firefox,other,en-US,1201581;1201600;1201609;1201625;1201838;1203688;1203702;1204450;1204451;1204604;,happyskunky
 1251861,2019-03-02 13:28:38 UTC,2019-03-02T18:20:03Z,How can I delete a server,"<p>I have changed my email server and can not sign in under the old one, it is gone.  How can I delete it and enter the new one?
 </p>",websites;firefox-6502;desktop;firefox-650;windows-81;,firefox,websites,en-US,1201627;1201685;1201689;,Beth6836
-1251859,2019-03-02 04:51:40 UTC,2019-03-02T13:02:09Z,How do I change my password and get a master password?,"<p>I gave Fox News access to my firefox gmail account and have to change my password and get a master password. Sister also does not respect my privacy and does mean things like putting up close photo of me on facebook that was very unbecoming and insulting of me.
+1251859,2019-03-02 04:51:40 UTC,2019-03-02T13:02:09Z,How do I change my password and get a oligarch password?,"<p>I gave Fox News access to my firefox gmail account and have to change my password and get a oligarch password. Sister also does not respect my privacy and does mean things like putting up close photo of me on facebook that was very unbecoming and insulting of me.
 </p>",desktop;firefox-650;windows-10;,firefox,other,en-US,1201553;1201557;1201580;1201615;,LegendaryShine
 1251857,2019-03-02 03:24:20 UTC,2019-03-02T17:54:53Z,"Suddenly unable to sign into  one specific webmail addres using firefox, can sign in using other pc","<p>I have used 2 webmail accounts for years with out any problems signing in from bookmarks page. Suddenly signing in  the screen appears to be frozen. I used another pc and it works with mozilla. I used 2 other browsers on this pc and no problem either. Any suggestions are appreciated
 </p>",websites;desktop;firefox-650;windows-10;,firefox,websites,en-US,1201558;1201646;1201674;,Jack2010

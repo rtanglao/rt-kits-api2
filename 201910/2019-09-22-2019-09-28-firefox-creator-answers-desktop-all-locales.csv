@@ -131,7 +131,7 @@ The problem also does not occur win FF mobile under IOS.
 </p><p>Unfortunately sync decided that my newly installed browser's settings were more important and removed all of my open tabs, history, settings, etc from my everyday browser.
 </p><p>This is super counter-productive; I've lost hours of work trying to relocate all of the browser windows I had open and getting all of the settings back to normal.
 </p><p>I rarely ever complain online about buggy software but this was so annoying I just had to.
-</p><p>Maybe consider disabling Sync until you can figure out how to either alert the user that all of their settings are about to be overwritten or provide an option to assign a particular browser as the master and all syncing begins from that.
+</p><p>Maybe consider disabling Sync until you can figure out how to either alert the user that all of their settings are about to be overwritten or provide an option to assign a particular browser as the oligarch and all syncing begins from that.
 </p>",firefox-690;sync;desktop;windows-10;syncerr;escalate;,firefox,sync,en-US,1255293;1255297;1255306;1255307;1255314;1255340;1255353;1255398;1255414;1255423;1255437;,AmGoth
 1269647,2019-09-27 14:04:55 UTC,2019-09-27T18:00:42Z,Add ons do not appear on menu list in Upper right hand corner after Firefox update installed,"<p>after the Firefox Updated installation on my computer all of my add on video download addons disappeared from the menu  on  upper right hand corner on the the  computer screen. The add ons are  still download on my firefox account but are not appearing on the menu screen when I wish to download a particular youtube video on to my computer. What can I do so the add ons appear on the right hand corner so that I can easly click on the add ons to my computer? Is it something that I did that to cause this problem? Curious if I made myself understood as to what problem that I am experiencing with the inablity with the download video add ons?  
 What can I do to fix this problem?
@@ -536,7 +536,7 @@ It crashes on every page, even in safe mode
 1269452,2019-09-23 22:31:05 UTC,2019-09-24T00:50:17Z,I am Unable to open procopshop.com website in mozilla. but its opening fine in other browser..,"<p>I am Unable to open <a href=""http://procopshop.com"" rel=""nofollow"">procopshop.com</a> website in mozilla. but its opening fine in other browser..I clear the cache also but same problem occurs.
 </p>",other;desktop;,firefox,other,en-US,1254505;1254513;,ukdehal
 1269451,2019-09-23 21:50:25 UTC,2019-09-24T01:04:15Z,Can't Confirm Lockwise Startup on IOS 12.4.1,"<p>I open the app and click on the Startup button. I enter UID and PW and get the email message. When I go to the email, there's no confirmation link. What am I doing wrong?
-</p>",firefox-690;other;desktop;,firefox,other,en-US,1254470;1254485;1254486;1254490;1254500;1254515;1254517;,webmaster1121
+</p>",firefox-690;other;desktop;,firefox,other,en-US,1254470;1254485;1254486;1254490;1254500;1254515;1254517;,weboligarch1121
 1269447,2019-09-23 20:11:10 UTC,2019-10-29T12:14:03Z,Ventana privada mantiene informacion de cookies,"<p>Estimados, verifique si estoy navegando y note que al abrir una nueva ventana privada mantiene cookies de la web <a href=""https://autogestion.personal.com.ar/MiCuenta/inicio-facturacion"" rel=""nofollow"">https://autogestion.personal.com.ar/MiCuenta/inicio-facturacion</a>
 </p><p>Copio logs
 {
@@ -1086,7 +1086,7 @@ Where this generally solved any webpage data related issues, for now the toggle 
 As stated IE/Edge handle this ok. Tried Waterfox, same issue. so there is something generally 'wrong'.
 </p><p>Support please contact me. So i can supply the url involved. so you can test and find the difference between IE/Edge etc.
 </p>",firefox-690;fix-problems;desktop;firefox-6901;windows-10;,firefox,fix-problems,en-US,1254161;1254173;1254174;1254175;,RonvanDoremalen
-1269365,2019-09-22 19:34:45 UTC,2019-09-24T03:00:21Z,Error en el certificado SSL solo en Firefox,"<p>soy webmaster de <a href=""https://www.loscursos.net/"" rel=""nofollow"">https://www.loscursos.net/</a> 
+1269365,2019-09-22 19:34:45 UTC,2019-09-24T03:00:21Z,Error en el certificado SSL solo en Firefox,"<p>soy weboligarch de <a href=""https://www.loscursos.net/"" rel=""nofollow"">https://www.loscursos.net/</a> 
 En ese servidor tengo otras web y ninguna me da error de seguridad SSL solo ""<a href=""http://www.loscursos.net"" rel=""nofollow"">www.loscursos.net</a>"" pero en Chrome funciona correcto el certificado, pasa perfectamente el test de <a href=""https://www.whynopadlock.com/results/1d829bbd-318d-4667-b1be-c605e169971d"" rel=""nofollow"">https://www.whynopadlock.com/results/1d829bbd-318d-4667-b1be-c605e169971d</a> 
 He eliminado TODAS las imágenes y sigue el error .
 ¿Alguna idea por qué Firefox no le gusta mi web?
@@ -1113,7 +1113,7 @@ It keeps freezing every few seconds.
 </p>",firefox-690;desktop;fix-problems;,firefox,fix-problems,en-US,1254104;1254107;1254108;1254154;1254163;1254308;1254312;1254809;1261351;1262130;1262153;,ebfried2000
 1269345,2019-09-22 08:31:40 UTC,2019-09-22T11:58:14Z,bookmarks & extensions synced but not logins & passwords,"<p>I am using firefox on my desktop and laptop with sync to get the same bookmarks, extensions, logins &amp; passwords on both. Yesterday I did a fresh re-install of windows and firefox on my laptop. Them I logged into sync. 
 </p><p>After a few minutes, it got my bookmarks and my extensions reinstalling, but that was yesterday and ever since, I never got my logins and passwords.
-</p><p>I checked the ""logins"" box in about:preferences#sync, checked ""use a master password"" in about:preferences#privacy and did a ""sync now"" but still no passwords and logins.
+</p><p>I checked the ""logins"" box in about:preferences#sync, checked ""use a oligarch password"" in about:preferences#privacy and did a ""sync now"" but still no passwords and logins.
 They should still be on my desktop (I did not start it since) but I am afraid they will disappear when I connect if it syncs with the laptop which has none of them.
 </p><p>How can I be sure I keep them on my desktop when I turn it on? Can I save them somehow?
 </p><p>And then how can I get them on my laptop too?

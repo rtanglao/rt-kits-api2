@@ -177,7 +177,7 @@ I checked the document and it said that the last modification was recently.
 1248549,2019-01-31 16:40:55 UTC,2019-02-17T03:40:02Z,Unable to get tabs below bookmarks in Firefox 65 even with new userChrome.css file in profiles folder as well as in defaul profile folder.,"<p>After updating to Firefox 65 the tabs went back to the top.  I want tabs below the bookmarks. I have tried placing several new userChrome.css files in both the chrome folder located in Profiles and also a chrome folder located in my default profile.  Neither seems to do the job.
 </p><p>What am I missing?
 </p><p>The last userChrome.css file is as follows:
-@namespace url(""<a href=""http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul</a>""); /* only needed once */
+@namespace url(""<a href=""http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul</a>""); /* only needed once */
 </p><p>/* TABS: on bottom */
 </p>
 <ol><li>navigator-toolbox toolbar:not(#nav-bar):not(#toolbar-menubar) {-moz-box-ordinal-group:10}
@@ -273,7 +273,7 @@ I want to keep using firefox but if I can't stop this I will have to stop using 
 </p><p>When closing firefox I get spurratic BSOD. The minidump says it is firefox related. This does not happen on my 3 other pc's/laptops running the same version(just different OS's). I have tried a refresh of firefox, a memtest of my pc, disabling as many add-ons as I deem necessary.
 </p><p>I cannot reproduce the issue at will as it is random. Nothing in the event viewer during that time of crash. NO firefox crash logs are created.
 </p>",firefox-6402;firefox-640;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1192851;1192867;1192896;1192898;1192967;1192996;,jsbsmd
-1248534,2019-01-31 14:36:18 UTC,2019-01-31T14:36:18Z,Master password does not work as intended,"<p>Firefox comes with a built-in master password function. So I eagerly chose a password, just to find out that I can click the 'x' when it is asked for upon starting firefox I can continue, open a bookmark like facebook and it still auto-fills the password, etc. If I am not mistaken, not passing the master password test should keep all other passwords and form data locked, shouldn't it? I know there are plenty of master password addons but I would like to know why the built-in function does not work for me. Any ideas?
+1248534,2019-01-31 14:36:18 UTC,2019-01-31T14:36:18Z,Master password does not work as intended,"<p>Firefox comes with a built-in oligarch password function. So I eagerly chose a password, just to find out that I can click the 'x' when it is asked for upon starting firefox I can continue, open a bookmark like facebook and it still auto-fills the password, etc. If I am not mistaken, not passing the oligarch password test should keep all other passwords and form data locked, shouldn't it? I know there are plenty of oligarch password addons but I would like to know why the built-in function does not work for me. Any ideas?
 </p><p>Best regards
 Vince
 </p>",privacy-and-security_1;firefox-640;desktop;windows-10;,firefox,privacy-and-security,en-US,"",mylifemysound
@@ -1053,7 +1053,7 @@ Davez
 </p>",other;desktop;firefox-650;windows-10;,firefox,other,es,1192474;,fealvarez
 1248289,2019-01-30 06:36:18 UTC,2019-02-04T03:39:16Z,Run Hide One Tab & Tabs On Bottom in Firefox 65?,"<p>These two codes work separately:
 </p><p><a href=""https://www.reddit.com/r/FirefoxCSS/comments/7dqtuf/hide_tab_bar_if_only_one_tab_is_open/"" rel=""nofollow"">https://www.reddit.com/r/FirefoxCSS/comments/7dqtuf/hide_tab_bar_if_only_one_tab_is_open/</a>
-</p><p><a href=""https://github.com/Aris-t2/CustomCSSforFx/blob/master/classic/css/tabs/tabs_below_navigation_toolbar.css"" rel=""nofollow"">https://github.com/Aris-t2/CustomCSSforFx/blob/master/classic/css/tabs/tabs_below_navigation_toolbar.css</a> &amp; <a href=""https://github.com/Aris-t2/CustomCSSforFx/blob/master/classic/css/tabs/tabs_below_navigation_toolbar_fx65.css"" rel=""nofollow"">https://github.com/Aris-t2/CustomCSSforFx/blob/master/classic/css/tabs/tabs_below_navigation_toolbar_fx65.css</a>
+</p><p><a href=""https://github.com/Aris-t2/CustomCSSforFx/blob/oligarch/classic/css/tabs/tabs_below_navigation_toolbar.css"" rel=""nofollow"">https://github.com/Aris-t2/CustomCSSforFx/blob/oligarch/classic/css/tabs/tabs_below_navigation_toolbar.css</a> &amp; <a href=""https://github.com/Aris-t2/CustomCSSforFx/blob/oligarch/classic/css/tabs/tabs_below_navigation_toolbar_fx65.css"" rel=""nofollow"">https://github.com/Aris-t2/CustomCSSforFx/blob/oligarch/classic/css/tabs/tabs_below_navigation_toolbar_fx65.css</a>
 </p><p>But when combined, this is the result:
 </p><p><a href=""https://prod-cdn.sumo.mozilla.net/uploads/images/2019-01-29-22-34-45-94d43e.png"" rel=""nofollow"">https://prod-cdn.sumo.mozilla.net/uploads/images/2019-01-29-22-34-45-94d43e.png</a>
 </p><p>When two or more tabs are open, it works fine.  Any ideas on how to get these to work properly together?
@@ -2242,7 +2242,7 @@ Today - Jan 25th - right click - bring  up menu - select screen shot - outline t
 </p><pre>    Because I use a MacPro, I contacted Apple and the BombBomb account people. Both said nothing had changed and everything should be working fine. The Apple representative said I should try using Safari instead of Firefox. When I changed over and used Safari, I could get on the BombBomb site, and everything (Dashboard, Videos, Emails, Contacts, Forms, &amp; Automations) worked fine. So I'm glad to be able to get to my items, but I now have a different problem.
    Right now, in order to keep my business going, I have to keep both systems (Firefox &amp; Safari) ready to load. In reality, I don't know what happened this past weekend, but something changed for me, in how Firefox was accessing my BombBomb account.
 </pre>",firefox-6402;firefox-640;desktop;fix-problems;mac-os-x-1010;,firefox,fix-problems,en-US,1191201;1191213;1191222;,BjonesKyTx
-1247821,2019-01-25 16:44:40 UTC,2019-01-25T22:02:49Z,firefox update  64.2 lost all bookmarks and passwords how can I get them back. I tried copying k3 and jason login but new system uses k4.Help!,"<p>I Yesterday everything was fine.Today I get online and no master password or any passwords left. Bookmarks are gone as well. Found and old firefox backup copied key3 and logins.json to the new profile that firefox created today.Still no passwords or bookmarks. How can I fix this I do see the new profile has a key4 file instead and not a key3. I even tried to rename key3 to key4 still nothing restored. How can I fix this?Thanks
+1247821,2019-01-25 16:44:40 UTC,2019-01-25T22:02:49Z,firefox update  64.2 lost all bookmarks and passwords how can I get them back. I tried copying k3 and jason login but new system uses k4.Help!,"<p>I Yesterday everything was fine.Today I get online and no oligarch password or any passwords left. Bookmarks are gone as well. Found and old firefox backup copied key3 and logins.json to the new profile that firefox created today.Still no passwords or bookmarks. How can I fix this I do see the new profile has a key4 file instead and not a key3. I even tried to rename key3 to key4 still nothing restored. How can I fix this?Thanks
 </p>",privacy-and-security_1;firefox-640;desktop;windows-10;,firefox,privacy-and-security,en-US,1191258;1191259;,Drod
 1247819,2019-01-25 14:37:03 UTC,2019-01-25T22:06:06Z,I use clinxvault to contact my doctor but I get this error SEC_ERROR_REVOKED_CERTIFICATE how do I fix it?,"<p>Would like to continue to use Firefox. Now to get to clinxvault to talk to our doctor we I have to use Explorer. Help is appreciated.
 </p><p>Thank you,
@@ -2457,7 +2457,7 @@ I have never needed these hotkeys and I hit them all the time by accident.  I ha
 </p><p>How do I disable ALL hotkeys in FireFox.  I do not use hotkeys in browsers, the back key gets me in all kinds of trouble when it isn't in an editing area, and I do a LOT of editing online.
 </p><p>I am so tired of this, PLEASE TELL ME THERE IS A SOLUTION or I will have to start hunting for something else because this is just too damn disheartening.
 </p><p>Thank you.  I do appreciate your taking the time to respond.  -DP
-</p>",customize;desktop;firefox-640;windows-10;,firefox,customize,en-US,1190969;,DomainHostmaster
+</p>",customize;desktop;firefox-640;windows-10;,firefox,customize,en-US,1190969;,DomainHostoligarch
 1247705,2019-01-24 20:54:12 UTC,2019-01-25T02:19:59Z,theme,"<p>After installing NF, I downloaded about 20-30 themes for the browser header. 
 Have is Foxy a function of automatic replacement theme. For example, every 30 minutes from the list of my themes, the randomly enters  one thene and changing by itself?
 I think many will appreciate this, the main thing at the time of changing the ist heme  to make it as autonomous as possible.
@@ -2624,7 +2624,7 @@ Thanks. if anyone can offer a suggestion?
 </p><center>
 <div id=""appcontainer""></div><div id=""lzsplash"" style=""""><p></p></div>&lt;script defer="""" type=""text/javascript""&gt;
                   lz.embed.resizeWindow('178', '125');
-                  lz.embed.dhtml({url: 'nist_time.lzx.js', lfcurl: 'lps/includes/lfc/LFCdhtml.js', serverroot: 'lps/resources/', bgcolor: '#ffffff', width: '178', height: '125', id: 'lzapp', accessible: 'false', cancelmousewheel: false, cancelkeyboardcontrol: false, skipchromeinstall: false, usemastersprite: false, approot: '', appenddivid: 'appcontainer'});
+                  lz.embed.dhtml({url: 'nist_time.lzx.js', lfcurl: 'lps/includes/lfc/LFCdhtml.js', serverroot: 'lps/resources/', bgcolor: '#ffffff', width: '178', height: '125', id: 'lzapp', accessible: 'false', cancelmousewheel: false, cancelkeyboardcontrol: false, skipchromeinstall: false, useoligarchsprite: false, approot: '', appenddivid: 'appcontainer'});
                   lz.embed.applications.lzapp.onload = function loaded() {
                     // called when this application is done loading
                     var el = document.getElementById('lzsplash');
@@ -3888,7 +3888,7 @@ Thanks in advance for your help!
 errno	109
 error	""Bad Request""
 message	""Invalid request parameter""
-info	""<a href=""https://github.com/mozilla/fxa-oauth-server/blob/master/docs/api.md#errors"" rel=""nofollow"">https://github.com/mozilla/fxa-oauth-server/blob/master/docs/api.md#errors</a>""
+info	""<a href=""https://github.com/mozilla/fxa-oauth-server/blob/oligarch/docs/api.md#errors"" rel=""nofollow"">https://github.com/mozilla/fxa-oauth-server/blob/oligarch/docs/api.md#errors</a>""
 validation	""keys_jwk""
 </p><p>I can sync fine on my other PC and on my android phone. On this one, Sync also works fine for Bookmarks etc, just not for Notes.
 </p><p>Thanks a lot for any pointers!
@@ -4573,7 +4573,7 @@ Karel Kolář
 1246829,2019-01-15 17:02:33 UTC,2019-01-16T00:12:32Z,como apago contas de email de acesso que não existem mais?,"<p>Quando acesso o mozilla, abre uma caixa para eu digitar o e-mail que quero acessar. Tenho diversos e-mail desativados ou escritos errados que quero apagar, e não sei como. Gostaria de ter habilitado, somente os e-mail ainda válidos e não todos que eu tenho.
 Tem como apagar estas contas de acesso que não uso mais?
 </p>",firefox-640;desktop;fix-problems;windows-10;,firefox,fix-problems,pt-BR,1188919;,GinaBorralho
-1246826,2019-01-15 16:42:37 UTC,2019-01-15T16:42:37Z,"i created a master password, double checked that it was correct, wrote it down, and now firefox does not recognize it. this has never happened!","<p>I decided to create a master password, so others using my pc could not have access to sites that I use. I created the password, wrote it down, double checked that i had it correct, and now it will not recognize it. I am at a loss to understand this!
+1246826,2019-01-15 16:42:37 UTC,2019-01-15T16:42:37Z,"i created a oligarch password, double checked that it was correct, wrote it down, and now firefox does not recognize it. this has never happened!","<p>I decided to create a oligarch password, so others using my pc could not have access to sites that I use. I created the password, wrote it down, double checked that i had it correct, and now it will not recognize it. I am at a loss to understand this!
 </p>",firefox-6402;other;firefox-640;desktop;windows-10;,firefox,other,en-US,"",roosterboy
 1246825,2019-01-15 16:41:00 UTC,2019-01-16T05:59:15Z,This is a test .....,"<p>Only posting this because a moderator needs to see a screenshot of how a thread looks to non-moderators.
 </p>",websites;firefox-640;desktop;windows-10;,firefox,websites,en-US,1188801;1188814;1188816;1188818;1188821;1188826;1188827;1188835;1188926;1188981;,McCoy-thereal
@@ -7175,7 +7175,7 @@ All search engines are removed apart from DuckDuckGo.
 </p><p>I installed FF for privacy and I don't know what firefox.exe is trying to send to Google.
 </p><p>Thank you.
 </p>",privacy-and-security_1;firefox-640;desktop;windows-10;,firefox,privacy-and-security,en-US,1186501;1186630;,Snehtropy
-1245826,2019-01-05 18:28:12 UTC,2019-03-11T23:43:23Z,Move tab bar below address bar,"<p>I know this question has been posed more than once in the past. The answer has always been: go back to school, learn computer programming, get master classes and practice with coding until you make it.
+1245826,2019-01-05 18:28:12 UTC,2019-03-11T23:43:23Z,Move tab bar below address bar,"<p>I know this question has been posed more than once in the past. The answer has always been: go back to school, learn computer programming, get oligarch classes and practice with coding until you make it.
 I am using Watefox since when Firefox tab bar was moved close to the sky. I just decided to try Firefox again: I have installed it and the first thing I tried to do is moving the tab bar below the address bar. It seems that there's no easy way. How can it be?, I wondered. With Waterfox I use the Tabs on Bottom add-on and that's it.
 You may believe my need is frivolous, but for me that makes the difference between keeping or uninstalling Firefox.
 Bottom line: is still forbiddend to wish to get the tab bar where I believe it should be?

@@ -14,13 +14,13 @@ Thanks!
 </p><p>AlanK5
 </p>",privacy-and-security_1;firefox-700;desktop;windows-10;,firefox,privacy-and-security,en-US,1263503;1263518;1263575;,alank5
 1272041,2019-11-02 11:58:03 -0800,2019-11-02T13:53:20Z,Sorry---I have to--1x only--RE-submit question 'cuz Mozilla's 1st page after I click Submit says OPPOSITE things re. if question's accepted for review,"<p>(Oddly, I also can'T CHECK the ""Ask to save logins and passwords for websites"" setting.  Not that I wish to, at this time at least.
-</p><p>I've never saved, nor let anything auto-save, a log-in nor password, master nor otherwise.  Mozilla pages do not contradict that. I don't have, nor wish to, Lockwise, etc.
+</p><p>I've never saved, nor let anything auto-save, a log-in nor password, oligarch nor otherwise.  Mozilla pages do not contradict that. I don't have, nor wish to, Lockwise, etc.
 </p><p>I've enabled permanent cookies storage, and pop-ups appearing, for that Options page. Strict blocking changed to Standard for that page: no help.  
 </p><p>Thank you for whatever help you can give!
 </p><p>AlanK5
 </p>",firefox-700;other;desktop;windows-10;,firefox,other,en-US,1263558;,alank5
 1272040,2019-11-02 11:51:33 -0800,2019-11-02T13:11:55Z,"In Firefox 70.0.1, 64-bit, Options--Privacy & Security--Log-Ins & Passwords: I never checked, & can'T UN-check, Autofill nor Sug/Gen boxes (Win10 Home, v. 1903)","<p>(Oddly, I also can'T CHECK the ""Ask to save logins and passwords for websites"" setting.  Not that I wish to, at this time at least.
-</p><pre>     I've never saved, nor let anything auto-save, a log-in nor password, master nor otherwise.  Mozilla pages do not contradict that. I don't have, nor wish to, Lockwise, etc.
+</p><pre>     I've never saved, nor let anything auto-save, a log-in nor password, oligarch nor otherwise.  Mozilla pages do not contradict that. I don't have, nor wish to, Lockwise, etc.
 </pre>
 <pre>      I've enabled permanent cookies storage, and pop-ups appearing, for that Options page. Strict blocking changed to Standard for that page: no help.  
 </pre>
@@ -836,8 +836,8 @@ I'm using Ubuntu 18.04 (xfce) and Firefox 70.0 (64-bit)
 </p>",firefox-700;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1262437;1262453;,officeafteroffice
 1271657,2019-10-29 00:03:26 -0800,2019-10-29T16:34:49Z,The Nation website doesn't display,"<p>I have Firefox browser 69.0, and now for whatever reason ""The Nation"" website will not display (it is all dark/obscure).  I do not understand.  May anyone have an answer?
 </p>",firefox-690;other;desktop;windows-7;,firefox,other,en-US,1262141;1262163;1262367;1262409;,gpspirit3400
-1271656,2019-10-29 00:02:19 -0800,2019-10-29T17:25:57Z,"Will resetting master password on Linux delete my data on Windows, where I have no master password?","<p>I have Firefox on both Linux Mint and Windows 10 and also on Android.
-</p><p>Only on Mint I have set up a master password but I can't seem to remember it. If I reset my master password in Linux and delete my data, will sync fetch it back from the other OSes?
+1271656,2019-10-29 00:02:19 -0800,2019-10-29T17:25:57Z,"Will resetting oligarch password on Linux delete my data on Windows, where I have no oligarch password?","<p>I have Firefox on both Linux Mint and Windows 10 and also on Android.
+</p><p>Only on Mint I have set up a oligarch password but I can't seem to remember it. If I reset my oligarch password in Linux and delete my data, will sync fetch it back from the other OSes?
 </p>",privacy-and-security_1;firefox-700;desktop;,firefox,privacy-and-security,en-US,1262142;1262424;,thpapei1
 1271655,2019-10-28 23:59:07 -0800,2019-10-29T17:34:59Z,How does Firefox know when I am visiting a site that has had a breach?,"<p>I am not using Firefox Monitor, and I am running Firefox 66.  I just visited a website, and was told via a popup message in the address bar there had been a breach back in 2010, exposing thousands of passwords.  (And of course it suggested I sign up for Firefox Monitor to get details.)
 </p><p>I am wondering how Firefox knew that it should show me that message?  Does it regularly download a list of breached sites, or is every site I visit being sent to Mozilla so they can check to see whether it's on a breach list?
@@ -1073,7 +1073,7 @@ As a slow elderly old codger myself,  I find it too hard to do all this within 5
 </p>",sync;desktop;firefox-650;linux;,firefox,sync,en-US,1261585;1261623;,advt
 1271521,2019-10-27 04:18:09 -0800,2019-10-28T22:04:43Z,I could not log into my Firefox account due to cookies and storage blocked,"<p>I tried all the settings changes suggested here. Then I ""refreshed"" Firefox and I can now ask this question.
 Also, the gmail log-in would not proceed to password by ""Next"" after username.
-</p><p>Now I have lost my master password, although all my passwords have been preserved. It said it was unset but would not let me use the previous one. Is that usual?
+</p><p>Now I have lost my oligarch password, although all my passwords have been preserved. It said it was unset but would not let me use the previous one. Is that usual?
 Also, of course, I have to re-install my add-ins.
 Is there a check for database corruption which could fix this sort of thing without ""refresh"" ?
 </p>",privacy-and-security_1;firefox-700;desktop;windows-10;,firefox,privacy-and-security,en-US,1261543;1262054;1262071;,xoferif1

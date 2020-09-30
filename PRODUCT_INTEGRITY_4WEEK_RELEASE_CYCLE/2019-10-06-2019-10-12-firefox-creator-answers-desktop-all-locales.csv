@@ -330,7 +330,7 @@ Version Information: Microsoft .NET Framework Version:4.0.30319; <a href=""http:
 </p>",firefox-690;tabs;desktop;windows-7;,firefox,tabs,en-US,1258136;1258157;1258171;,886426
 1270416,2019-10-10 12:08:17 -0800,2019-10-10T17:27:15Z,userChrome.css: notification-animation,"<p>Version: 66.0.4 (64-bit) fedora -1.0 (linux fedora 28)
 I can't get following to work:
-@namespace url(""<a href=""http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul</a>"");
+@namespace url(""<a href=""http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul</a>"");
 </p><p>@-moz-document url(""chrome://global/content/alerts/alert.xul"") {
 </p><pre>       #alertBox[animate] {
                animation-duration: 999s !important;
@@ -338,7 +338,7 @@ I can't get following to work:
 </pre>
 <p>}
 </p><p>I also tried:
-@namespace url(""<a href=""http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul</a>"");
+@namespace url(""<a href=""http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul"" rel=""nofollow"">http://www.mozilla.org/keyoligarch/gatekeeper/there.is.only.xul</a>"");
 </p>
 <ul><li> { animation-duration: 999s !important;} 
 </li></ul>
@@ -571,9 +571,9 @@ false  services.sync.prefs.sync.media.autoplay.default
 </p>",firefox-520;other;desktop;windows-xp;,firefox,other,en-US,1257754;1257755;1257773;,macciofe
 1270317,2019-10-09 05:38:00 -0800,2019-10-23T10:01:14Z,Firefox crashes when trying to diable dialog box with about:config variable of print_always_print_silent set to True,"<p>Using a Raspberry Pi 3 B+.  Using for a church check-in station with a DYMO label printer.  When attempting to finalize a check in and print the label, firefox crashes when the about:config variable of print_always_print_silent is set to true.  Set it to false, the dialog comes up, literally hit ""enter"" and the label prints.  When set to true, firefox ESR crashes.   Works with windows laptop but not with Raspberry Pi.  Crash report has been submitted.  Any help would be greatly appreciated.
 </p>",desktop;fix-problems;,firefox,fix-problems,en-US,1257786;1260125;1260134;1260135;1260151;1260163;,markd2
-1270315,2019-10-09 04:29:19 -0800,2019-10-09T09:39:17Z,Firefox crashes,"<p>It crashes as it asks for master password 
+1270315,2019-10-09 04:29:19 -0800,2019-10-09T09:39:17Z,Firefox crashes,"<p>It crashes as it asks for oligarch password 
 Crash ID: bp-3e4ed19b-19fc-4c6e-b8d5-fe89d0191009
-</p>",desktop;fix-problems;mac-os-x-10126;nightly;710a1;escalate;masterpassword;,firefox,fix-problems,en-US,1257739;1257741;1257799;1257802;1257805;,suzuki1
+</p>",desktop;fix-problems;mac-os-x-10126;nightly;710a1;escalate;oligarchpassword;,firefox,fix-problems,en-US,1257739;1257741;1257799;1257802;1257805;,suzuki1
 1270311,2019-10-09 02:16:52 -0800,2019-10-09T03:41:56Z,"I have a blank box with an 'X' that doesn't function. The box blocks out what ever  ends up under it. HOW DO I GET RID OF IT?   I tried deleting firefox, then r","<p>Only happens on Zero Hedge screen. Does not show up when starting Firefox in safe mode.
 </p>",firefox-690;other;desktop;windows-7;,firefox,other,en-US,1257721;1257722;,oani@verizon.net
 1270310,2019-10-09 01:42:48 -0800,2019-10-09T05:58:40Z,How can I entirely disable/get rid off the Touch Bar controls for MacBook Pro?,"<p>FireFox comes with inbuilt touch bar support for MacBooks. However, since I frequently hit the ""reload page"" or ""back"" buttons I'd like to get rid off it. Is there an option to disable it entirely?

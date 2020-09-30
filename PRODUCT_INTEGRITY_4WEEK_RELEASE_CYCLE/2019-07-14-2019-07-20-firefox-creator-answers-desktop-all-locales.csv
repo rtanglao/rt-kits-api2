@@ -227,7 +227,7 @@ How is that blocking extension is collecting unlimited users data and its Firefo
 </p><p>how is that possible Mozilla to allow something like this to happen, company which fight for privacy and freedom to allow such suspicious things and even recommend them...?
 do this means fight = ""fight"" and privacy = ""privacy"" (so both are not really what they supposed to be...?)
 </p>",firefox-680;other;desktop;windows-10;,firefox,other,en-US,1238870;1238873;,kizmo1
-1265088,2019-07-19 13:39:48 -0800,2019-07-19T13:39:48Z,master password not launching on mac book after setting up firefox sync,"<p>I set up firefox sync on my mac.  bookmarks and passwords work.  I set master password and it isn't launching when I go to an account with a password
+1265088,2019-07-19 13:39:48 -0800,2019-07-19T13:39:48Z,oligarch password not launching on mac book after setting up firefox sync,"<p>I set up firefox sync on my mac.  bookmarks and passwords work.  I set oligarch password and it isn't launching when I go to an account with a password
 </p>",firefox-680;desktop;privacy-and-security_1;,firefox,privacy-and-security,en-US,"",gbachrach18
 1265087,2019-07-19 13:13:34 -0800,2019-07-19T13:13:34Z,firefox will not sync on pc,"<p>fresh install win7 on one of my pc's everything fine but firefox will not syn with other 2 pcs one win10 and other win7..these 2 sync fine.All have firefox 68 updates. reinstalled firefox on pc in question and even tried disconnect and reconnect sync several times. I have did fresh installs several times with no issues over the years. Any ideas would be appreciated. Note I am running kaparsky free and have also tried shutting it off.
 </p>",firefox-680;sync;desktop;windows-7;,firefox,sync,en-US,"",marcusolivastri
@@ -433,7 +433,7 @@ I contacted the site the want me to use chrome. it works fine. i don't like usel
 Any help?
 </p>",firefox-680;other;desktop;windows-7;,firefox,other,en-US,1238663;,Diablo_to_kill
 1265013,2019-07-18 17:08:05 -0800,2019-08-03T08:44:43Z,"Why do I always get a ""log-in from new device"" notice for my gmail accounts everytime I log in to my firefox web browser, although I am using the same device?","<p>1) My passwords are saved in the firefox browser
-2) I enabled a master password, specifically for my saved log-ins and passwords
+2) I enabled a oligarch password, specifically for my saved log-ins and passwords
 3) I am using Bitwarden as add-on in my firefox browser
 4) My accounts have a 2-factor authentication, 
 </p><p>Other observed behavior:
@@ -1467,7 +1467,7 @@ So all told I lost about 10 minutes and some work because someone knows what is 
 I get why this was done, I mean when ms started pulling stunts like this their users were all super impressed and heaped so much praise on them it was a little embarrassing... Oh what fun!
 </p>",firefox-560;other;desktop;windows-81;,firefox,other,en-US,1237501;1237781;1237783;,bobsone
 1264665,2019-07-15 01:51:27 -0800,2019-07-15T02:24:52Z,ask to save logins and passwords for websites - turned it off and it defaults back to ticked,"<p>Privacy &amp; Security
-I have a master password tool so don't need the 'Logins and Password's feature.
+I have a oligarch password tool so don't need the 'Logins and Password's feature.
 I un-check - ask to save logins and passwords for websites - 
 </p><p>I turned it off and it defaults back to on the next time I launch firefox.
 So I get a reminder on every site I login to.

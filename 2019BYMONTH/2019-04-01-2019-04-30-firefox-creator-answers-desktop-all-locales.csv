@@ -485,11 +485,11 @@ Muito obrigado por qualquer ajuda.
 </p><p>Version 66.0.3 64 bit.
 </p><p>Thanks
 </p>",firefox-660;bookmarks;desktop;windows-7;bug_1;escalate;importfromhrome;,firefox,bookmarks,en-US,1216418;1216601;1216812;1216815;1217061;,das3d
-1257424,2019-04-27 10:58:39 UTC,2019-04-27T11:56:14Z,"""Please enter your master password."" message keeps appearing for no reason. Can you help","<p>I am using Monzilla Firefox Quantum 66.0.3 64 bit, running on Windows 10 Desktop.
-</p><p>For the past few weeks I have noticed that ""Please enter your master password."" message box appears soon as I use this web browser.
-</p><p>I am not using any web pages which require my password so theres no need for this message box. And when I run web pages which require my password, then as normal ""Please enter your master password."" message box appears, so at this point there is two of these messages !
+1257424,2019-04-27 10:58:39 UTC,2019-04-27T11:56:14Z,"""Please enter your oligarch password."" message keeps appearing for no reason. Can you help","<p>I am using Monzilla Firefox Quantum 66.0.3 64 bit, running on Windows 10 Desktop.
+</p><p>For the past few weeks I have noticed that ""Please enter your oligarch password."" message box appears soon as I use this web browser.
+</p><p>I am not using any web pages which require my password so theres no need for this message box. And when I run web pages which require my password, then as normal ""Please enter your oligarch password."" message box appears, so at this point there is two of these messages !
 </p><p>I have tried uninstalling Firefox and then reinstalling from your website but the ""fault"" is still there.
-</p><p>The only option which works is to uncheck the box in Tools, Options, ""Use master password""
+</p><p>The only option which works is to uncheck the box in Tools, Options, ""Use oligarch password""
 </p>",firefox-660;privacy-and-security_1;desktop;windows-10;,firefox,privacy-and-security,en-US,1216411;1216419;,KEYSOFT3000
 1257423,2019-04-27 10:47:50 UTC,2019-04-28T01:11:54Z,The firefox dropdown menu is not closing.,"<p>What is going on with the firefox today?
 </p><p><a href=""https://drive.google.com/open?id=1tUE18pkxIMw0v2Fup8L-WVaNpxap_Ep-"" rel=""nofollow"">https://drive.google.com/open?id=1tUE18pkxIMw0v2Fup8L-WVaNpxap_Ep-</a>
@@ -879,7 +879,7 @@ Si le das a detenerlo carga la pagina, vas a otra noticia y vuelve a repetirse e
 1257237,2019-04-25 09:19:10 UTC,2019-04-26T01:09:49Z,command + click does not open links in new tabs,"<p>The typical expected behavior is that when I use Command key plus clicking on a link it should open in a new tab. 
 </p><p>I am on OSX, I do not have a quick way to see if this problem happens for Ctrl+click on Windows.. 
 </p><p>But in reality, this only usually works. I am working with phpmyadmin and the phpmyadmin demo does replicate the problem. 
-</p><p><a href=""https://demo.phpmyadmin.net/master-config/"" rel=""nofollow"">https://demo.phpmyadmin.net/master-config/</a>
+</p><p><a href=""https://demo.phpmyadmin.net/oligarch-config/"" rel=""nofollow"">https://demo.phpmyadmin.net/oligarch-config/</a>
 </p><p>clicking the links on the left side of the screen (databases and tables) with Command+click loads the new link in the same window, just as click by itself does. 
 </p><p>The expected behavior is that this would always work. Strangely, I have tested this in both Safari and Chrome. Chrome gets the expected behavior correct. But Safari also does not work, just on the phpmyadmin website and not on any other. 
 </p><p>Does anyone have any idea why this would be happening?
@@ -1146,7 +1146,7 @@ Gee
 </p>",desktop;fix-problems;,firefox,fix-problems,en-US,1215692;1215703;1215899;1217001;,Irefutabil
 1257111,2019-04-24 07:19:36 UTC,2019-04-24T07:52:05Z,How can I ensure that my children don't just disable whitelist addon?,"<p>I have whitelisted the websites that I want my students to view during my exam.  However, some of the smarter students just go Extensions and disable my whitelist addon.  Is there a way that I can stop them from disabling the whitelist manager?
 </p>",customize;desktop;,firefox,customize,en-US,1215646;,JonathonDavid
-1257110,2019-04-24 07:09:49 UTC,2019-04-30T01:11:57Z,cant logon to gmail press next button nothing happens. In some sites the videos dont play. Everything is working in Private window,"<p><a href=""https://www.star.gr/tv/shows/masterchef/"" rel=""nofollow"">https://www.star.gr/tv/shows/masterchef/</a> in normal mode i can see the thumbnail of the videos but there is no play button and when clicking on it nothing happens.
+1257110,2019-04-24 07:09:49 UTC,2019-04-30T01:11:57Z,cant logon to gmail press next button nothing happens. In some sites the videos dont play. Everything is working in Private window,"<p><a href=""https://www.star.gr/tv/shows/oligarchchef/"" rel=""nofollow"">https://www.star.gr/tv/shows/oligarchchef/</a> in normal mode i can see the thumbnail of the videos but there is no play button and when clicking on it nothing happens.
 At gmail logon page i can enter my mail but when i click on next the button shows its been clicked but it doesnt redirect me to enter my password.
 I deleted all history cookies etc disabled hardware acceleration but nothing changed.
 What is making me go crazy is that in Private mode everything works fine. So i changed the configurations with content blocking in the options, no change, same thing.
@@ -1471,7 +1471,7 @@ Pages/Tabs:7600+
 2019/4/21
 Try   firefox version 52 ， 57， 62,64 respectively  to restore session ， all failed. 
 Try
-mozlz4-edit-master
+mozlz4-edit-oligarch
 <a href=""https://www.jeffersonscher.com/ffu/scrounger.html"" rel=""nofollow"">https://www.jeffersonscher.com/ffu/scrounger.html</a>
 </p><p>Scrounger  have no response,
 Mozlz4  failed with error:
@@ -1934,7 +1934,7 @@ Thanks.
 </p><p>th2k00
 </p>",desktop;fix-problems;mac-os-x-1010;,firefox,fix-problems,en-US,1214987;1215165;1215167;,th2k00
 1256750,2019-04-19 13:58:06 UTC,2019-04-19T14:50:56Z,Video playback for Facebook not working after fresh install,"<p>Fresh install of windows, fresh install of firefox, fresh install of codecs, realplayer, quicktime alternative. Windows 7 Ultimate SP1 using Firefox 66.....youtube works, facebook doesn't. Can't get the videos to play past the first frame at all, they just sit there. The controls popup fine, click play, and it acts like its playing but doesn't move, no audio, and its stuck at the first frame of the video. Anyone have any ideas?
-</p>",other;desktop;windows-7;,firefox,other,en-US,1214836;1214845;,n2kmaster
+</p>",other;desktop;windows-7;,firefox,other,en-US,1214836;1214845;,n2koligarch
 1256748,2019-04-19 13:40:33 UTC,2019-10-08T10:27:31Z,I can't log in Firefox Sync account on my PC,"<p>I can't log in Firefox Sync account on my PC, it shows ""unexpected error"". 
 But my iOS device can log in.
 </p><p>All my firefox browser and Windows OS are latest version.
@@ -2358,7 +2358,7 @@ Opomněl jsem něco?
 </p><p>p. PETR
 </p><p>W7, FF aktuál.verze
 </p>",firefox-660;customize;desktop;windows-7;,firefox,customize,cs,1214508;1214667;1214668;,nENym
-1256597,2019-04-17 21:50:09 UTC,2019-05-04T20:15:28Z,Why can't I create an account after installing the Last Pass Browser Extension?,"<p>I just installed that extension.  In order for it to ""work"", an account has to be created.  The extension hangs up when creating the account.  I tried to create account using the <a href=""http://Lastpass.com"" rel=""nofollow"">Lastpass.com</a> website, and it's telling me after I try to create the account that I need to use the wizard in the Firefox Browser extension (Last Pass).  I tried that &amp; like I said, it hangs up.  I see where it tries to create the account, but I waited about 5-minutes &amp; nothing happens.  During that time, there is a message that tells me I need to remember the master password with a spinning wheel icon below that.
+1256597,2019-04-17 21:50:09 UTC,2019-05-04T20:15:28Z,Why can't I create an account after installing the Last Pass Browser Extension?,"<p>I just installed that extension.  In order for it to ""work"", an account has to be created.  The extension hangs up when creating the account.  I tried to create account using the <a href=""http://Lastpass.com"" rel=""nofollow"">Lastpass.com</a> website, and it's telling me after I try to create the account that I need to use the wizard in the Firefox Browser extension (Last Pass).  I tried that &amp; like I said, it hangs up.  I see where it tries to create the account, but I waited about 5-minutes &amp; nothing happens.  During that time, there is a message that tells me I need to remember the oligarch password with a spinning wheel icon below that.
 </p>",customize;desktop;windows-7;,firefox,customize,en-US,1215102;1215234;1215249;1218117;1218121;1218184;1218421;1218763;,hgw53t
 1256596,2019-04-17 21:28:02 UTC,2019-04-17T23:08:37Z,How do I block one person?,"<p>I've done this before, but don't remember how?
 </p>",firefox-660;privacy-and-security_1;desktop;mac-os;,firefox,privacy-and-security,en-US,1214417;,farrellig3
@@ -3569,7 +3569,7 @@ This is getting too annoying, even for me.
 other websites work normally
 Edge can also display normally
 </p>",firefox-660;websites;desktop;windows-10;,firefox,websites,en-US,1213351;1213377;1213585;1213586;1213660;1213662;1214014;1214150;,Kynxc
-1256111,2019-04-12 10:26:53 UTC,2019-04-12T17:04:12Z,"Adon like startup master & Master Password+ are unavailable, any alternative?","<p>I done want others to access my browser so want to add password to it at the startup. I have visited following sites for assistance: <a href=""https://technet2u.com/set-startup-password-in-mozilla-firefox/"" rel=""nofollow"">https://technet2u.com/set-startup-password-in-mozilla-firefox/</a>
+1256111,2019-04-12 10:26:53 UTC,2019-04-12T17:04:12Z,"Adon like startup oligarch & Master Password+ are unavailable, any alternative?","<p>I done want others to access my browser so want to add password to it at the startup. I have visited following sites for assistance: <a href=""https://technet2u.com/set-startup-password-in-mozilla-firefox/"" rel=""nofollow"">https://technet2u.com/set-startup-password-in-mozilla-firefox/</a>
 but it seems like there is no adons available. 
 Any solutions , thanks in advance :)
 </p>",firefox-660;tips;desktop;windows-10;,firefox,tips,en-US,1213248;1213254;,Rishav
@@ -3734,7 +3734,7 @@ I have tried deleting history multiple times with no success.
 1256014,2019-04-11 14:16:18 UTC,2019-04-14T15:34:36Z,How to move  bookmarks to toolbar,"<p>Trying to move back to Firefox after a few years with Chrome, and sure, Firefox is trying hard to piss off any new users and trying to make them consider to just give up on Firefox from the first minute. First it was the stupid phone sync setup, now  it appears that after all these years they still didn't make the most fundamental part of setup easy: migrating the bookmarks. They just don't get it, do they? 
 </p><p>If I'm moving from Chrome to Firefox, I expect a one/two click transfer of my bookmarks into a bookmark bar. I expect to find a menu option that allows to import bookmarks from another browser into Firefox. And, expecting that Firefox is developed by people with IQ of at least 80, I expect them to understand that the next LOGICAL thing would be Firefox asking ""would you like to add all your imported bookmarks to your bookmark bar"" and having it done automatically so I can start using Firefox as my primary browser. 
 </p><p>But I guess IQ of 80 is not something Firefox devs can brag about. There's still no intuitive, logical process of importing the bookmarks. I did import bookmarks. And they to clik to bookmarks icon, and then click again on Bookmarks to see the menu. I do have a bookmarks bar. I don't know how to just have them all moved together. I went into a bookmarks manager but imported bookmarks are not even there. 
-</p><p>Ok, in my eyes now Firefox Idiocy Level just went to ""Grandmaster"". 
+</p><p>Ok, in my eyes now Firefox Idiocy Level just went to ""Grandoligarch"". 
 </p><p>I'm back to Chrome. Please advise. I want to use Firefox, but I'm not dragging 100 bookmarks one by one, you can't pay me enough to do it.  Please help.
 </p><p>Jesus Christ... What the hell is wrong with you Mozilla people? Can't imagine how many users they lose with their browser setup stupidity.
 </p>",firefox-660;bookmarks;desktop;windows-7;,firefox,bookmarks,en-US,1213112;1213617;1213637;,Nuieve
@@ -4618,7 +4618,7 @@ at app.js[74:0]: NS_ERROR_FILE_NOT_FOUND:  ""
 2.   I don't remember there being a Private Browsing button on the left top of the page: I want it gone:  prefer to use the lower task bar option in bottom left corner of entire Windows screen when RIGHT-clicking Firefox icon in Windows taskbar
 </p><p>see attachment &gt;
 </p>",firefox-660;firefox-6602;other;desktop;windows-10;,firefox,other,en-US,1212192;1212205;1212209;,airider
-1255654,2019-04-08 10:09:48 UTC,2019-04-09T12:03:42Z,"Sign in to Firefox password manager is showing mulitipul sign in boxes were by only one of the boxes seems to work, what is this?","<p>When opening firefox several sign in dialog boxes for the built in password manager open were by only one shows its self at a time. When i try to enter my master password the next boxs opens until the last boxs which so activates my password manager. Has any one been across this problem befour and if so what should I do?
+1255654,2019-04-08 10:09:48 UTC,2019-04-09T12:03:42Z,"Sign in to Firefox password manager is showing mulitipul sign in boxes were by only one of the boxes seems to work, what is this?","<p>When opening firefox several sign in dialog boxes for the built in password manager open were by only one shows its self at a time. When i try to enter my oligarch password the next boxs opens until the last boxs which so activates my password manager. Has any one been across this problem befour and if so what should I do?
 </p>",firefox-660;other;desktop;windows-10;,firefox,other,en-US,1212138;1212151;1212228;1212229;1212231;1212241;1212272;1212428;1212429;1212431;1212436;,KonradAndree
 1255653,2019-04-08 09:52:14 UTC,2019-04-08T09:52:14Z,Address bar pops up unexpectedly after exiting Windows tablet mode,"<p>I use Firefox on a Windows x64 tablet (Teclast F5). The tablet has a 360 hinge with a touchscreen display. When I rotate the hinge so the keyboard is behind the display, Windows enters Tablet mode and shows a popup saying autorotate is enabled. If I then rotate the display back, Windows returns to normal. However, the address bar dropdown pops up in Firefox for some reason. I did not click/press the bar or interact with Firefox in any way. If I have multiple Firefox windows open, multiple windows open up the address bar. To close the bar, I need to press the address field, press the down arrow button and then the escape button.
 </p><p>I recorded a screencapture: <a href=""https://streamable.com/m2lr7"" rel=""nofollow"">https://streamable.com/m2lr7</a>
@@ -5641,7 +5641,7 @@ Would appreciate your guidance
 </p>",download-and-install_1;firefox-660;desktop;windows-10;,firefox,download-and-install,pt-BR,"",Ridley
 1255332,2019-04-04 16:31:27 UTC,2019-04-04T23:18:03Z,"In TripAdvisor Reviews, down arrow READ MORE does not expand in V66. OK in V65 & IExplorer","<p>With upgrade to Quantum 66 - when on TripAdvisor hotel reviews (any one),  clicking on the down arrow  (a toggle for READ MORE / READ LESS)  no longer working.  Works fine in Quantu 65 (downgraded) and in Internet Explorer browser.
 </p>",websites;firefox-6502;desktop;firefox-650;windows-81;,firefox,websites,en-US,1211143;1211218;1211219;1211225;1211233;,DEMONTESI
-1255331,2019-04-04 16:11:45 UTC,2019-04-05T00:03:16Z,Master password doesn't work and can't delete it,"<p>I tried to reset (delete) my master password but prompts keep asking for it. I wrote it down and haven't forgotten it but system doesn't recognize it. I even tried deleting Firefox and reinstalling but that didn't work. I followed all instructions but to no avail.
+1255331,2019-04-04 16:11:45 UTC,2019-04-05T00:03:16Z,Master password doesn't work and can't delete it,"<p>I tried to reset (delete) my oligarch password but prompts keep asking for it. I wrote it down and haven't forgotten it but system doesn't recognize it. I even tried deleting Firefox and reinstalling but that didn't work. I followed all instructions but to no avail.
 </p>",firefox-660;privacy-and-security_1;desktop;windows-10;,firefox,privacy-and-security,en-US,1211246;,suberirobert
 1255327,2019-04-04 23:19:08 UTC,2019-04-05T14:17:52Z,"How do I completely remove ""express directions"" from my computer.","<p>I follow their directions for removal but it gives a caveat that states if I remove cookies, it will automatically come back.
 </p>",firefox-660;other;desktop;windows-7;,firefox,other,en-US,1211239;1211324;1211416;,Chucklutt
@@ -6504,10 +6504,10 @@ Alguien me puede ayudar por favor?
 </p>",firefox-640;desktop;fix-problems;windows-10;,firefox,fix-problems,en-US,1210174;1210219;,mithraeppa
 1254939,2019-04-01 06:36:30 UTC,2019-04-11T14:49:31Z,If there are two tabs and the second tab opens on clicking a button in first tab.The second tab if already open does't get focus.,"<p>On clicking a button open a new tab and if the tab is already open then on clicking the button again the opened tab should get focus but it doesn't get focus.
 </p>",tabs;desktop;webdev;rolandff66experiment;,firefox,tabs,en-US,1210225;1211356;1211436;1212387;1212448;1212965;1213042;,ankitkrchy
-1254938,2019-04-01 06:33:58 UTC,2019-04-01T13:43:29Z,I did a dumb thing...I reset master password,"<p>Hi,
-</p><p>I reset the master password for Firefox and I didn't process that all the saved passwords would erase (I was tired and did not fully read the warning before I pressed ""ok"").  Is there any way to go back to the list of the saved passwords (like ""go back to a previously restored version"")?
+1254938,2019-04-01 06:33:58 UTC,2019-04-01T13:43:29Z,I did a dumb thing...I reset oligarch password,"<p>Hi,
+</p><p>I reset the oligarch password for Firefox and I didn't process that all the saved passwords would erase (I was tired and did not fully read the warning before I pressed ""ok"").  Is there any way to go back to the list of the saved passwords (like ""go back to a previously restored version"")?
 </p><p>Thank you for any help you can provide.
-</p>",firefox-660;privacy-and-security_1;desktop;mac-os;masterpassword;masterpasswordreset;rolandff66experiment;notafirefoxproblem;,firefox,privacy-and-security,en-US,1210175;1210176;1210190;1210194;1210196;,paris_engle
+</p>",firefox-660;privacy-and-security_1;desktop;mac-os;oligarchpassword;oligarchpasswordreset;rolandff66experiment;notafirefoxproblem;,firefox,privacy-and-security,en-US,1210175;1210176;1210190;1210194;1210196;,paris_engle
 1254935,2019-04-01 04:36:50 UTC,2019-04-06T13:11:34Z,Firefox crashes,"<p>Hi. The crash is always reproduced when we are trying to start video capture using getUserMedia() and requesting the camera access. It crashed with our code and with all of official webrtc samples as well
 </p><p>There are two links to similar issues marked as resolved in our crash report mentioned at Bugzilla tab. Could you please let me know which version of Firefox will come with the fix for the issue
 </p><p>Crash id is:
@@ -6536,8 +6536,8 @@ Alguien me puede ayudar por favor?
 </p>",firefox-660;websites;desktop;windows-7;rolandff66experiment;certificates;notafirefoxproblem;,firefox,websites,en-US,1210115;1210119;1210121;1210362;1210371;1210374;1210487;1210648;1210650;1210668;1210685;1210926;1210928;1210929;1210934;1210952;1210959;1251181;1251186;1251200;,palettemuse
 1254923,2019-04-01 01:30:59 UTC,2019-04-01T02:14:26Z,How do I stop Firefox Quantum from using Yahoo search when I type something in the address bar?,"<p>I am using Firefox Quantum and when I type something in the address bar Yahoo searches pop up. There are obviously many other people with the same problem as I have seen this same issue brought up multiple times when I have researched this problem. I have looked at the answers provided in the various forums etc. and none have provided an answer that works for me. I have done the ""about:config"",   ""about:preferences#search"", gone in and deleted or inactivated all add ons, etc. and either the expected response such as looking for the ""keyword.url"" is not there or does not work. If this can't be fixed I am going to stop using Firefox all together as this Yahoo search thing is SO annoying. I would think that with this being a common problem the help sites for Mozilla/Firefox would have the answer readily available. Furthermore, just my two cents worth, but I think it stinks that either Yahoo or some other associated program hijacks the address bar and changes the search from Google, which is what I had set up, to Yahoo without a warning or even without asking if I would like this. The results that Yahoo search produces are very inadequate.
 </p>",firefox-660;firefox-6602;other;desktop;mac-os;searchenginehijack;yahoo;rolandff66experiment;,firefox,other,en-US,1210111;1210112;1210116;,scubadoc
-1254922,2019-04-01 01:18:46 UTC,2019-04-08T01:26:37Z,cannot get rid of master password window log in,"<p>Hi, I signed for a master password in Firefox. When the window appears to ask me to insert it, I do but it doesn't work. Then I try to reset it with this link: chrome://pippki/content/resetpassword.xul into  but it doesn't  work either as nothing appears after hitting enter. I want to get rid of this annoying pop up window as I'm sure I'm entering the right password but it's always denied. Thank you very much!
-</p>",firefox-660;privacy-and-security_1;desktop;windows-10;rolandff66experiment;masterpassword;masterpasswordreset;,firefox,privacy-and-security,en-US,1210110;1210113;1210213;1210393;1210564;1210878;1211243;1211272;1211275;1211278;1211313;1211429;1211598;1211632;1211690;1211716;1211717;1211719;1211722;1211744;1211929;1212028;1212055;,pacanes
+1254922,2019-04-01 01:18:46 UTC,2019-04-08T01:26:37Z,cannot get rid of oligarch password window log in,"<p>Hi, I signed for a oligarch password in Firefox. When the window appears to ask me to insert it, I do but it doesn't work. Then I try to reset it with this link: chrome://pippki/content/resetpassword.xul into  but it doesn't  work either as nothing appears after hitting enter. I want to get rid of this annoying pop up window as I'm sure I'm entering the right password but it's always denied. Thank you very much!
+</p>",firefox-660;privacy-and-security_1;desktop;windows-10;rolandff66experiment;oligarchpassword;oligarchpasswordreset;,firefox,privacy-and-security,en-US,1210110;1210113;1210213;1210393;1210564;1210878;1211243;1211272;1211275;1211278;1211313;1211429;1211598;1211632;1211690;1211716;1211717;1211719;1211722;1211744;1211929;1212028;1212055;,pacanes
 1254921,2019-04-01 00:48:35 UTC,2019-04-01T01:10:22Z,can't log on,"<p>I have tried a lot of different password user ID combo with absolutely no success to log on all afternoon try
 </p>",firefox-660;other;desktop;windows-10;needsinfo;,firefox,other,en-US,1210107;,Glenn21st
 1254920,2019-04-01 00:16:06 UTC,2019-06-21T14:28:21Z,"Fonts blurry with hardware acceleration on (until you click on the blurry text), YouTube videos horizontal lines with hardware acceleration off","<p>This is really noticeable on some forums. The edge of text font turns slightly blurry (so the text camouflages a bit into the background), and when you click on the text, it disappears magically?

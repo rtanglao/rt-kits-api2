@@ -337,7 +337,7 @@ See screenshots.    I think its a certifugate that needs to be installed but for
 </p>",firefox-690;other;desktop;windows-10;bug_1;escalate;,firefox,other,en-US,1251373;1251377;1251418;,filko
 1268662,2019-09-12 11:20:25 UTC,2019-09-12T14:44:17Z,WHERE IS MY BOOKMARKS AFTER SYNCING FIREFOX?,"<p>before installing windows again, i sync my account in firefox and after that, installing windows and firefox. my account is empty for bookmarks and saved passwords
 </p>",firefox-690;sync;desktop;windows-7;,firefox,sync,en-US,1251374;1251388;1251391;1251392;1251397;1251402;1251406;1251408;1251410;,tux-world
-1268661,2019-09-12 11:16:52 UTC,2019-09-14T06:14:03Z,Request a master password delay,"<p>The master password request is delayed, about 15 seconds after the start of firefox. How to remove this delay so that the password master input request is executed immediately after the start or after 1-2 seconds?
+1268661,2019-09-12 11:16:52 UTC,2019-09-14T06:14:03Z,Request a oligarch password delay,"<p>The oligarch password request is delayed, about 15 seconds after the start of firefox. How to remove this delay so that the password oligarch input request is executed immediately after the start or after 1-2 seconds?
 </p>",firefox-690;sync;desktop;needsinfo;,firefox,sync,en-US,1251459;1251485;1251526;1251622;1251629;1251775;1251885;,flussigkatz
 1268660,2019-09-12 11:11:50 UTC,2019-09-18T15:37:52Z,Could you please tell me how to prevent BLOCKED websites from storing cookies,"<p>Although I have blocked Youtube, Facebook, Yahoo and many more undesirable websites (which I NEVER VISIT) in ""Manage Permissions, I keep having cookies from these sites when I set my cookie preferences to : Block All Third Party cookies.
 Could you please tell me why is that and I to prevent this to happen.
@@ -400,7 +400,7 @@ Trato de migrar a firefox por que he cambiado mi idologia a ser open source, sin
 </p><p>Thanks
 </p>",desktop;fix-problems;,firefox,fix-problems,en-US,1251296;1251323;1251333;,gilliedavies
 1268629,2019-09-12 00:16:18 UTC,2019-09-12T03:46:51Z,lost passwords in profile move,"<p>I have moved my old firefox profile to a new computer (from pc to mac) and just migrated the profile. 
-</p><p>I've been using the master password option for my profile on pc for years, but on the profile move to mac, when I launch firefox, everything seems to be working fine, except for passwords. I noticed by default master password was not enabled. I attempted to turn that on (it asked to create a new password and said an existing one was not set), but when I attempted to create it, it came up with an error saying master password can not be reset. 
+</p><p>I've been using the oligarch password option for my profile on pc for years, but on the profile move to mac, when I launch firefox, everything seems to be working fine, except for passwords. I noticed by default oligarch password was not enabled. I attempted to turn that on (it asked to create a new password and said an existing one was not set), but when I attempted to create it, it came up with an error saying oligarch password can not be reset. 
 </p><p>it shows no saved logins or passwords currently on the new mac profile
 </p><p>I've moved the profile from PC to PC in the past and didn't have this issue. I'm currently lost as to how to fix this.
 </p>",download-and-install_1;firefox-690;desktop;mac-os;,firefox,download-and-install,en-US,1251289;1251290;1251293;,david.k.cameron
@@ -730,7 +730,7 @@ Throttleable: 1
 TotalPageFile: 51539136512
 TotalPhysicalMemory: 25769332736
 TotalVirtualMemory: 140737488224256
-URL: <a href=""https://hiddinkqm.manualmastercloud.com/Taxiwerq/Account/Login"" rel=""nofollow"">https://hiddinkqm.manualmastercloud.com/Taxiwerq/Account/Login</a>
+URL: <a href=""https://hiddinkqm.manualoligarchcloud.com/Taxiwerq/Account/Login"" rel=""nofollow"">https://hiddinkqm.manualoligarchcloud.com/Taxiwerq/Account/Login</a>
 UptimeTS: 628.86188
 Vendor: Mozilla
 Version: 68.1.0
@@ -895,7 +895,7 @@ So far, I have not closed the unresponsive window, in hope that I would be able 
 </p><p>Could anyone help? I am willing to provide any more information and I am willing to invest my time on this.
 </p>",firefox-630;desktop;fix-problems;linux;,firefox,fix-problems,en-US,1250642;1250854;1250873;1250881;1250888;1250901;1250908;1250916;1251084;,willaa88
 1268442,2019-09-09 18:47:11 UTC,2019-09-18T17:26:18Z,How do I restore session when option is not showing on startup.,"<p>I kept trying to select Restore Previous Session but Firefox option is grey and unable to access.   I made a copy of the sessionstore-backups folder, then closed firefox,  replaced the new sessionstore-backups folder, then restarted firefox and problem continued to persist.   I noticed this morning when I started up Firefox that the amount of windows I normally have open for session restore doubled and where all blank.  Can anyone help me restore previous session?
-</p>",firefox-690;desktop;fix-problems;mac-os-x-1010;,firefox,fix-problems,en-US,1250645;1250657;1250685;1250687;1250978;1250986;1251044;1251047;1251065;1251745;1251747;1251748;1251751;1251753;1252203;1252206;1253047;,master5754
+</p>",firefox-690;desktop;fix-problems;mac-os-x-1010;,firefox,fix-problems,en-US,1250645;1250657;1250685;1250687;1250978;1250986;1251044;1251047;1251065;1251745;1251747;1251748;1251751;1251753;1252203;1252206;1253047;,oligarch5754
 1268441,2019-09-09 18:32:25 UTC,2019-09-09T18:59:56Z,Changed Router and reset WiFi name & P/W; Now I can't logon to my biz email: bob.gibbons@sunbeltnetwork.com,"<p>Help to logon on to a Google account
 </p>",download-and-install_1;firefox-690;desktop;windows-10;,firefox,download-and-install,en-US,1250621;1250630;,Rgibbons5343
 1268435,2019-09-09 16:54:39 UTC,2019-09-09T18:15:13Z,"Como solucionar, ubicacion de una ventana","<p>Dentro de una página web hay una opción de filtrar la información, la cual abre una ventana dentro de la misma. Hace unas semanas atrás esta ventana se abría al centro de la página, sin embargo, después de una actualización de firefox ahora la ventana aparece debajo al final, lo cual incomoda.
@@ -1222,7 +1222,7 @@ Lukas
 Jak mám nastavit firefox aby mi při spuštění otevřel konkrétní domovskou stránku a zároveň Nový panel s Výchozí domovskou stránkou Firefoxu, přesně tak jak je zobrazeno na obrázku. 
 </p><p>Děkuji
 </p>",firefox-690;customize;desktop;windows-10;,firefox,customize,cs,1250234;,dubak.j
-1268335,2019-09-08 10:23:17 UTC,2019-10-28T16:37:42Z,Master password cannot be changed or removed,"<p>In short: when I try to change my master password, I get ""Unable to change Master Password."" error. When I try to remove it, nothing happens.
+1268335,2019-09-08 10:23:17 UTC,2019-10-28T16:37:42Z,Master password cannot be changed or removed,"<p>In short: when I try to change my oligarch password, I get ""Unable to change Master Password."" error. When I try to remove it, nothing happens.
 </p><p>I've tried numerous ""fixes"" already, alas none solved the issue. I suspect the logins.json is corrupted in some way or it might contain lines that bug Firefox out somehow. At this point I am only trying to figure out a way to export my passwords and import them back again to Firefox.
 </p><p>Do let me know if you can think of any reliable way to do so as I am all out of ideas. Yes I am aware that I could just manually enter everything again but I'd rather not do that with hundreds if not thousands of websites.
 </p><p>Basic things I tried so far:

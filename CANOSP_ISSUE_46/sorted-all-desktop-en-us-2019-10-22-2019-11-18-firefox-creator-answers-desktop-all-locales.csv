@@ -293,7 +293,7 @@ This is what I have done without any help:
 - Ran Firefox in safe mode
 - Deleted all cookies from Outlook and Microsoft
 - Deleted all certifica...",other;mobile;
-1271294,2019-10-24 07:56:59 -0800,https://support.mozilla.org/questions/1271294,All of a sudden something called lockwise is appearing in place of saved logins.,"On my work computer this ugly ""thing"" called lockwise appears instead of my saved passwords. I cannot see my saved passwords now. My home computer (with synced accounts) works fine and shows me my saved passwords. I need to make this lockwise go away and restore to where I can se...",privacy-and-security_1;firefox-700;desktop;windows-7;bug1592050;lockwisedesktop;lockwise;masterpassword;needsinfo;
+1271294,2019-10-24 07:56:59 -0800,https://support.mozilla.org/questions/1271294,All of a sudden something called lockwise is appearing in place of saved logins.,"On my work computer this ugly ""thing"" called lockwise appears instead of my saved passwords. I cannot see my saved passwords now. My home computer (with synced accounts) works fine and shows me my saved passwords. I need to make this lockwise go away and restore to where I can se...",privacy-and-security_1;firefox-700;desktop;windows-7;bug1592050;lockwisedesktop;lockwise;oligarchpassword;needsinfo;
 1271295,2019-10-24 07:58:12 -0800,https://support.mozilla.org/questions/1271295,Forced rediction from www.youtube.com to ww-youtube.com,"Since this morning, every attempt to reach www.youtube.com lead to redirection ""gositedeal"" and then I land on ""ww-youtube.com"". All other browsers show no issue with www.youtube.com. I've all browsing history, cookies, everything. Same issue.
 Help!
 ",firefox-600;other;desktop;windows-10;
@@ -586,7 +586,7 @@ When I try something like http://myserver.myhome.xx:myPort , FF esr responds wit
 ",other;desktop;
 1271521,2019-10-27 04:18:09 -0800,https://support.mozilla.org/questions/1271521,I could not log into my Firefox account due to cookies and storage blocked,"I tried all the settings changes suggested here. Then I ""refreshed"" Firefox and I can now ask this question.
 Also, the gmail log-in would not proceed to password by ""Next"" after username.
-Now I have lost my master password, although all my passwords have been preserved. It said i...",privacy-and-security_1;firefox-700;desktop;windows-10;
+Now I have lost my oligarch password, although all my passwords have been preserved. It said i...",privacy-and-security_1;firefox-700;desktop;windows-10;
 1271522,2019-10-27 04:30:18 -0800,https://support.mozilla.org/questions/1271522,How can the 5 minute timeout on sync verification code be increased to 10 minute,"Due to problems with upgrading my Ubuntu to 18.04,  I've been forced to use a LIVE DVD for the last 8 months instead of a properly installed Ubuntu.  This LIVE DVD crashes or drops out from time to time so each time this happens I have to re-sync the Firefox it brings up.  This r...",sync;desktop;firefox-650;linux;
 1271523,2019-10-27 05:03:47 -0800,https://support.mozilla.org/questions/1271523,"Wie bekomme ich, in Firefox 71, die Tabs wieder unter die Lesezeichen Symbolleis","Ja, Firefox Updates ärgern mich.
 Ich benutze seit vielen Jahren Firefox. Angefangen habe ich mit Version 4 oder 5, damals wurde noch mit Anpassbarkeit geworben. Anfangs war es noch möglich, durch einen Mausklick zu bestimmen, ob die Tabs oben oder unten sind, dann kam eine neue F...",tabs;firefox-710;beta;desktop;windows-10;
@@ -721,8 +721,8 @@ Really thinking about going to another browser....
 1271654,2019-10-28 22:05:17 -0800,https://support.mozilla.org/questions/1271654,Right-click website on URL bar to delete no longer work.,"Can no longer right-click and highlight website on URL bar to delete. I use this feature a lot since it is the quickest way to unclutter sites from my url bar. Changed value from true to false on 'browser.urlbar.quantumbar' via about:config does not work.
 ",firefox-700;customize;desktop;windows-7;
 1271655,2019-10-28 23:59:07 -0800,https://support.mozilla.org/questions/1271655,How does Firefox know when I am visiting a site that has had a breach?,"I am not using Firefox Monitor, and I am running Firefox 66.  I just visited a website, and was told via a popup message in the address bar there had been a breach back in 2010, exposing thousands of passwords.  (And of course it suggested I sign up for Firefox Monitor to get det...",firefox-660;privacy-and-security_1;desktop;linux;
-1271656,2019-10-29 00:02:19 -0800,https://support.mozilla.org/questions/1271656,"Will resetting master password on Linux delete my data on Windows, where I have ","I have Firefox on both Linux Mint and Windows 10 and also on Android.
-Only on Mint I have set up a master password but I can't seem to remember it. If I reset my master password in Linux and delete my data, will sync fetch it back from the other OSes?
+1271656,2019-10-29 00:02:19 -0800,https://support.mozilla.org/questions/1271656,"Will resetting oligarch password on Linux delete my data on Windows, where I have ","I have Firefox on both Linux Mint and Windows 10 and also on Android.
+Only on Mint I have set up a oligarch password but I can't seem to remember it. If I reset my oligarch password in Linux and delete my data, will sync fetch it back from the other OSes?
 ",privacy-and-security_1;firefox-700;desktop;
 1271657,2019-10-29 00:03:26 -0800,https://support.mozilla.org/questions/1271657,The Nation website doesn't display,"I have Firefox browser 69.0, and now for whatever reason ""The Nation"" website will not display (it is all dark/obscure).  I do not understand.  May anyone have an answer?
 ",firefox-690;other;desktop;windows-7;
@@ -1090,9 +1090,9 @@ excuse typos my hand...",other;firefox-700;firefox-7001;desktop;windows-7;needsi
 1272034,2019-11-02 10:50:09 -0800,https://support.mozilla.org/questions/1272034,need to restore site icon so i can add sites to  bookmarks toolbar,"there is no site icon to use to add sites to the bookmarks tool bar. the enhanced tracking protection has taken its place
 ",bookmarks;firefox-700;firefox-7001;desktop;windows-10;
 1272040,2019-11-02 11:51:33 -0800,https://support.mozilla.org/questions/1272040,"In Firefox 70.0.1, 64-bit, Options--Privacy & Security--Log-Ins & Passwords: I n","(Oddly, I also can'T CHECK the ""Ask to save logins and passwords for websites"" setting.  Not that I wish to, at this time at least.
-     I've never saved, nor let anything auto-save, a log-in nor password, master nor otherwise.  Mozilla pages do not contradict that. I don't have,...",privacy-and-security_1;firefox-700;desktop;windows-10;
+     I've never saved, nor let anything auto-save, a log-in nor password, oligarch nor otherwise.  Mozilla pages do not contradict that. I don't have,...",privacy-and-security_1;firefox-700;desktop;windows-10;
 1272041,2019-11-02 11:58:03 -0800,https://support.mozilla.org/questions/1272041,Sorry---I have to--1x only--RE-submit question 'cuz Mozilla's 1st page after I c,"(Oddly, I also can'T CHECK the ""Ask to save logins and passwords for websites"" setting.  Not that I wish to, at this time at least.
-I've never saved, nor let anything auto-save, a log-in nor password, master nor otherwise.  Mozilla pages do not contradict that. I don't have, nor ...",firefox-700;other;desktop;windows-10;
+I've never saved, nor let anything auto-save, a log-in nor password, oligarch nor otherwise.  Mozilla pages do not contradict that. I don't have, nor ...",firefox-700;other;desktop;windows-10;
 1272042,2019-11-02 12:07:46 -0800,https://support.mozilla.org/questions/1272042,Big contradiction by Mozilla,"Please explain.
 Thanks!
 AlanK5
@@ -1427,7 +1427,7 @@ Not submitting form beca...",firefox-700;other;desktop;windows-10;bug_1;escalate
 1272355,2019-11-05 21:50:07 -0800,https://support.mozilla.org/questions/1272355,Possible to swap actions of cmd+k and cmd+l?,"I'm using Firefox version 70.0.1 on Mac. Is it possible to swap the actions of cmd+k and cmd+l? I would like to be able to use cmd+k to focus the url bar and to use cmd+l (ie, cmd + lowercase L) to focus the search bar.
 ",firefox-700;customize;desktop;mac-os;
 1272357,2019-11-05 23:08:52 -0800,https://support.mozilla.org/questions/1272357,Sync options (eg history/tabs) got deselected on latest firefox,"I've been using sync from its very first version on number of windows PCs and, later on, on my android phone. I had got syncing enabled for everything, apart firefox extensions.
-Today I was searching for a password on my work pc firefox (whereas I've got a master password to prot...",firefox-700;firefox-7001;desktop;sync;windows-10;
+Today I was searching for a password on my work pc firefox (whereas I've got a oligarch password to prot...",firefox-700;firefox-7001;desktop;sync;windows-10;
 1272358,2019-11-05 23:15:33 -0800,https://support.mozilla.org/questions/1272358,Block everything except few sites/domains on firefox,I don't want my child to watch/browse anything on firefox except .edu domain. ie I want to block every site/search on firefox except the sites which have .edu domain name.  How to set my cfirefox for that. I searched a lot on the internet but didn't get any help. Please help me o...,websites;firefox-700;desktop;windows-10;
 1272359,2019-11-05 23:47:21 -0800,https://support.mozilla.org/questions/1272359,Why Firefox can't download files and extensions after reinstall unless I give it,"I restored my AppData folder. After that Firefox stopped downloading any files. I tried to reinstall it, but I got an error about unabling to create temporary archive from 7z. Then I tried to run installation as Administrator and Firefox was installed. Apparently sync wasn't work...",download-and-install_1;firefox-700;firefox-7001;desktop;windows-10;
 1272361,2019-11-05 23:51:14 -0800,https://support.mozilla.org/questions/1272361,add self-signed certificate to trusted certificates,"There is a site which uses self-signed certificate which i have to visit everyday but since the certificate it uses is untrusted i am unable to connect to it without experiencing some difficulties. How can i get rid of the untrusted certificate error
@@ -2120,7 +2120,7 @@ However, when I try to skip ahead in a video (YouTube, e.g.), I can hear a very 
 Just a question,
 Is there a ""project/expectation"" to receive a ""File downloaded"" feedback after the file I have sent has been downloaded by the addressee (I mean, something similar like the ""WeTransfer"" feedback)?
 ",firefox-700;other;desktop;windows-10;
-1272923,2019-11-14 00:04:03 -0800,https://support.mozilla.org/questions/1272923,Setting Master Password Fails in Firefox 70.0.1,"I have never set a master password. After upgrading to Firefox 70.0.1 I discovered the the master password cannot be set.
+1272923,2019-11-14 00:04:03 -0800,https://support.mozilla.org/questions/1272923,Setting Master Password Fails in Firefox 70.0.1,"I have never set a oligarch password. After upgrading to Firefox 70.0.1 I discovered the the oligarch password cannot be set.
 A pop up window titled Master Password Change Failed has this message --
 Unable to change Master Password.
 This nonsense needs to be fixed

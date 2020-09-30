@@ -13,16 +13,16 @@ id,created,updated,title,content,tags,product,topic,locale,answers,creator
 1282015,2020-03-14 12:02:05 -0800,2020-03-14T13:53:27Z,Isn't there a keyboard shortcut to cast searches on text selections using the default search engine?,"<p>I know Firefox has 'Search [default search engine's name] for ""[selected text]""' in context menus for text selections. Is this feature bound to a key combination?
 </p>",firefox-740;desktop;tips;windows-7;,firefox,tips,en-US,1297627;,benbowen
 1282014,2020-03-14 11:56:07 -0800,2020-03-14T19:48:38Z,Need to explain the software to be downloaded,"<p>This is a reoccurring theme.
-</p><p>Webmasters making false assumption the end user can read webmaster’s minds.
+</p><p>Weboligarchs making false assumption the end user can read weboligarch’s minds.
 </p><p>This link states to download “Container” with a vague description.
 <a href=""https://www.mozilla.org/en-US/firefox/74.0/whatsnew/all/?oldversion=73.0.1"" rel=""nofollow"">https://www.mozilla.org/en-US/firefox/74.0/whatsnew/all/?oldversion=73.0.1</a>
 </p><p>vague descriptions is what selfish jerks do.
-</p><p>I need the Webmasters to provide the useful information before I and many others will download.
+</p><p>I need the Weboligarchs to provide the useful information before I and many others will download.
 How does this file work?
 What exactly does the file do?
 Provide screenshots of the interface?
 File size?
-</p><p>Why do Webmasters in general from all websites think the consumer should trust them and download software without providing detailed information what the software actually does?
+</p><p>Why do Weboligarchs in general from all websites think the consumer should trust them and download software without providing detailed information what the software actually does?
 </p>",download-and-install_1;firefox-740;desktop;windows-10;,firefox,download-and-install,en-US,1297611;1297624;1297698;,den99hd
 1282012,2020-03-14 11:17:31 -0800,2020-03-14T17:25:02Z,Can't use LastPass anymore to enter my password for Firefox accounts.,"<p>Not sure what happened. But after the upgrade to 74.0 while trying to login to Sync it popped a message up that I did not quite understand, but followed the instructions. Before 74.0 when I wanted to login LastPass would show with a 2 on it because I have a password for the main Firefox account and another for Support. That 2 was gone and when I right clicked where the password enter space is on login LastPass was there but when I moved my point to it it no longer extends to show the 2 possible passwords to fill in the entry space.
 </p>",firefox-740;desktop;privacy-and-security_1;windows-10;,firefox,privacy-and-security,en-US,1297670;,roxy.craig42
@@ -158,7 +158,7 @@ Thank you
 </p>",customize;desktop;,firefox,customize,en-US,1297464;,mohamedfawzy.dr
 1281979,2020-03-13 22:44:40 -0800,2020-03-14T13:18:34Z,"When I was seaching on Google, a website katysdogs.com appeared, and I could not close it or close the window","<p>While searching on Google, a website called <a href=""http://katysdog.com"" rel=""nofollow"">katysdog.com</a> or <a href=""http://katysdogs.com"" rel=""nofollow"">katysdogs.com</a> appeared and took over Firefox and my computer. I could not close the window or get rid of this website. I had to restart my computer.
 </p>",firefox-740;websites;desktop;windows-10;,firefox,websites,en-US,1297495;1297496;1297619;,dseco
-1281978,2020-03-13 22:29:49 -0800,2020-03-15T21:55:02Z,Firefox update signed me out of all websites.,"<p>I am not keen on saving all login information to the master password. Firefox update never did this to me, until yesterday on 03/12/20, it did. Is there a way to prevent this from happening again, or is resistance futile?
+1281978,2020-03-13 22:29:49 -0800,2020-03-15T21:55:02Z,Firefox update signed me out of all websites.,"<p>I am not keen on saving all login information to the oligarch password. Firefox update never did this to me, until yesterday on 03/12/20, it did. Is there a way to prevent this from happening again, or is resistance futile?
 </p>",firefox-740;desktop;privacy-and-security_1;windows-7;,firefox,privacy-and-security,en-US,1297497;1297939;1297940;1297947;,knam1488
 1281977,2020-03-13 22:25:48 -0800,2020-03-14T22:15:09Z,Why does fire fox show usernames for a secure site?,"<p>I have Win 7 . I use the Fire Fox browser. Someone could go to my secure site and click the login box and retrieve all my user names. Why is this necessary to show these on a secure site?
 </p>",firefox-740;other;desktop;windows-7;needsinfo;,firefox,other,en-US,1297463;1297519;1297713;,woodust
